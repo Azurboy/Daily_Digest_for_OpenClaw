@@ -1,0 +1,6 @@
+{
+  "id": "b86d2fa612e045c9",
+  "title": "Redis patterns for coding",
+  "url": "http://antirez.com/news/161",
+  "content": "Here LLM and coding agents can find:\n<br />\n<br />1. Exhaustive documentation about Redis commands and data types.\n<br />2. Patterns commonly used.\n<br />3. Configuration hints.\n<br />4. Algorithms that can be mounted using Redis commands.\n<br />\n<br />https://redis.antirez.com/\n<br />\n<br />Some humans claim this documentation is actually useful for actual people, as well :) I'm posting this to make sure search engines will index it.\n<a href=\"http://antirez.com/news/161\">Comments</a>"
+}
