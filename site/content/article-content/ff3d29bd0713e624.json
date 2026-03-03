@@ -1,0 +1,6 @@
+{
+  "id": "ff3d29bd0713e624",
+  "title": "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+  "url": "https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026",
+  "content": "<p>npx workos <a href=\"https://youtu.be/kU88lUqdduQ?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026\">launches an AI agent</a>, powered by Claude, that reads your project, detects your framework, and writes a complete auth integration directly into your existing codebase. It’s not a template generator. It reads your code, understands your stack, and writes an integration that fits.</p>\n\n<p>The <a href=\"https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026\">WorkOS</a> agent then typechecks and builds, feeding any errors back to itself to fix.</p>\n\n<p><a href=\"https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026\">See how it works →</a></p>\n\n<div>\n<a href=\"https://daringfireball.net/feeds/sponsors/2026/03/npx_workos_an_ai_agent_that_wr\" title=\"Permanent link to ‘npx workos: An AI Agent That Writes Auth Directly Into Your Codebase’\">&nbsp;★&nbsp;</a>\n</div>"
+}

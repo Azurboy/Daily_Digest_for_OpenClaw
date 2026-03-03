@@ -1,0 +1,6 @@
+{
+  "id": "d02c8ced6b119779",
+  "title": "I built a pint-sized Macintosh",
+  "url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+  "content": "<p>To kick off <a href=\"https://marchintosh.com\">MARCHintosh</a>, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:</p>\n<figure class=\"insert-image\"><img alt=\"Pico Micro Mac running System 5.3\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/pico-micro-mac-screen-system-folder.jpg\" width=\"700\" />\n</figure>\n\n<p>This is not my own doing—I just assembled the parts to run Matt Evans' <a href=\"https://github.com/evansm7/pico-mac\">Pico Micro Mac</a> firmware on a Raspberry Pi Pico (with an RP2040).</p>\n<p>The version I built outputs to a 640x480 VGA display at 60 Hz, and allows you to plug in a USB keyboard and mouse.</p>\n<p>Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB of RAM with this setup—which is 63% more RAM than you got on the original '128K' Macintosh!</p>"
+}
