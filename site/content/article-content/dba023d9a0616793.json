@@ -1,0 +1,6 @@
+{
+  "id": "dba023d9a0616793",
+  "title": "How to Host your Own Email Server",
+  "url": "https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server",
+  "content": "<p>I recently started a <a href=\"https://learn.miguelgrinberg.com\">new platform</a> where I sell my books and courses, and in this website I needed to send account related emails to my users for things such as email address verification and password reset requests. The reasonable option that is often suggested is to use a paid email service such as Mailgun or SendGrid. Sending emails on your own is, according to the Internet, too difficult.</p>\n<p>Because the prospect of adding yet another dependency on Big Tech is depressing, I decided to go against the general advice and roll my own email server. And sure, it wasn't trivial, but it wasn't all that hard either!</p>\n<p>Are you interested in hosting your own email server, like me? In this article I'll tell you how to go from nothing to being able to send emails that are accepted by all the big email players. My main concern is sending, but I will also cover the simple solution that I'm using to receive emails and replies.</p>"
+}
