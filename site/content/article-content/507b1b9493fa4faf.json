@@ -1,0 +1,6 @@
+{
+  "id": "507b1b9493fa4faf",
+  "title": "Donald Knuth on Claude Opus Solving a Computer Science Problem",
+  "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+  "content": "<p>Donald Knuth, who, adorably, effectively blogs by posting TeX-typeset PDFs:</p>\n\n<blockquote>\n  <p>Shock! Shock! I learned yesterday that an open problem I’d been\nworking on for several weeks had just been solved by Claude Opus\n4.6 — Anthropic’s hybrid reasoning model that had been released\nthree weeks earlier! It seems that I’ll have to revise my opinions\nabout “generative AI” one of these days. What a joy it is to learn\nnot only that my conjecture has a nice solution but also to\ncelebrate this dramatic advance in automatic deduction and\ncreative problem solving. I’ll try to tell the story briefly in\nthis note.</p>\n</blockquote>\n\n<p>(<a href=\"https://simonwillison.net/2026/Mar/3/donald-knuth/\">Via Simon Willison</a>.)</p>\n\n<div>\n<a href=\"https://daringfireball.net/linked/2026/03/08/knuth-claude\" title=\"Permanent link to ‘Donald Knuth on Claude Opus Solving a Computer Science Problem’\">&nbsp;★&nbsp;</a>\n</div>"
+}

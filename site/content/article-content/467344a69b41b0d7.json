@@ -1,0 +1,6 @@
+{
+  "id": "467344a69b41b0d7",
+  "title": "Introducing llm-eliza",
+  "url": "https://evanhahn.com/llm-eliza/",
+  "content": "<p><a href=\"https://llm.datasette.io/\">LLM</a> is a popular CLI tool for talking with language models. I built <a href=\"https://codeberg.org/EvanHahn/llm-eliza\">llm-eliza</a>, a plugin to chat with the <a href=\"https://en.wikipedia.org/wiki/ELIZA\">ELIZA</a> language model.</p>\n<p>Usage:</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-sh\"><span style=\"display: flex;\"><span>llm install llm-eliza\n</span></span><span style=\"display: flex;\"><span>llm -m eliza <span style=\"color: #87ceeb;\">\"I'm worried about computers.\"</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #0f0;\"># =&gt; What do you think machines have to do with your problem?</span>\n</span></span></code></pre></div><p>ELIZA, released in 1966, is a state-of-the-art language model. It offers zero-GPU inference with sub-millisecond semantic throughput, and scores highly on EQ measurements (emotional intelligence).</p>\n<p><a href=\"https://codeberg.org/EvanHahn/llm-eliza\">Source code here.</a></p>"
+}
