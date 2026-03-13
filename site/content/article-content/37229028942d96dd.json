@@ -1,0 +1,6 @@
+{
+  "id": "37229028942d96dd",
+  "title": "Introduction to SQLAlchemy 2 In Practice",
+  "url": "https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice",
+  "content": "<p>In 2023 I wrote \"<a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 In Practice</a>\", a book in which I offer an in-depth look at <a href=\"https://sqlalchemy.org\">SQLAlchemy version 2</a>, still the current version today. SQLAlchemy is, for those who don't know, the most popular database library and Object-Request Mapper (ORM) for Python.</p>\n<p>I have a tradition of publishing my books on this blog to read for free, but this is one that I never managed to bring here, and starting today I'm going to work on correcting that. This article includes the Preface of the book. If you are interested, keep an eye out on this blog over the next few weeks, as I will be publishing the eight chapters of the book in order. If you can't wait for the installments, you can <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">buy the book</a> in electronic or paper format today, and I will be eternally thankful, as you will be directly supporting my work.</p>"
+}
