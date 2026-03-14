@@ -1,0 +1,6 @@
+{
+  "id": "b44975ba0c8f6cc6",
+  "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+  "url": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
+  "content": "<p><strong><a href=\"https://claude.com/blog/1m-context-ga\">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></strong></p>\nHere's what surprised me:</p>\n<blockquote>\n<p>Standard pricing now applies across the full 1M window for both models, with no long-context premium.</p>\n</blockquote>\n<p>OpenAI and Gemini both <a href=\"https://www.llm-prices.com/#sel=gemini-3-1-pro-preview-200k%2Cgpt-5.4-272k%2Cgemini-3-1-pro-preview%2Cgpt-5.4\">charge more</a> for prompts where the token count goes above a certain point - 200,000 for Gemini 3.1 Pro and 272,000 for GPT-5.4.\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/llm-pricing\">llm-pricing</a>, <a href=\"https://simonwillison.net/tags/long-context\">long-context</a></p>"
+}
