@@ -1,0 +1,6 @@
+{
+  "id": "ba1eca33f6eb154e",
+  "title": "human.json",
+  "url": "https://evanhahn.com/human-dot-json/",
+  "content": "<p>To quote the <a href=\"https://codeberg.org/robida/human.json\"><code>human.json</code> Protocol</a>:</p>\n<blockquote>\n<p><code>human.json</code> is a protocol for humans to assert authorship of their site content and vouch for the humanity of others. It uses URL ownership as identity, and trust propagates through a crawlable web of vouches between sites.</p>\n</blockquote>\n<p>I think this is a neat idea, so I added it to my site. It&rsquo;s available at <a href=\"https://evanhahn.com/human.json\">evanhahn.com/human.json</a>.</p>\n<p>For more, see <a href=\"https://codeberg.org/robida/human.json\">the <code>human.json</code> documentation</a>. And see <a href=\"https://evanhahn.com/how-i-use-gen-ai-on-this-blog/\">how I use AI on this blog</a>.</p>"
+}
