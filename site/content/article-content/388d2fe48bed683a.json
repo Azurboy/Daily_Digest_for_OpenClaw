@@ -1,0 +1,6 @@
+{
+  "id": "388d2fe48bed683a",
+  "title": "Langford series",
+  "url": "https://www.johndcook.com/blog/2026/03/15/langford-series/",
+  "content": "<p>Notice anything special about the following sequence?</p>\n<p style=\"padding-left: 40px;\">8 6 10 3 1 11 1 3 6 8 12 9 7 10 4 2 5 11 2 4 7 9 5 12</p>\n<p>Each of the numbers 1 through 12 appear twice. Between the two 1s there is one number. Between the two 2s there are two numbers. Between the two 3s there are three numbers, etc.</p>\n<p>Langford&#8217;s problem of order <em>n</em> is to arrange two copies of the integers 1 through <em>n</em> so that there are <em>k</em> numbers between the two <em>k</em>s. This problem has a solution if and only if <em>n</em> is congruent to 0 or 3 mod 4.</p>\n<p>You can find <em>much</em> more on Langford&#8217;s problem <a href=\"https://dialectrix.com/langford.html\">here</a>.</p>The post <a href=\"https://www.johndcook.com/blog/2026/03/15/langford-series/\">Langford series</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>."
+}
