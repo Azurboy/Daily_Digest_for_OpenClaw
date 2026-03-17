@@ -1,0 +1,6 @@
+{
+  "id": "5b5eed2fde795e17",
+  "title": "Quoting Guilherme Rambo",
+  "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+  "content": "<blockquote cite=\"https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator\"><p>Tidbit: the software-based camera indicator light in the MacBook Neo runs in the secure exclave¹ part of the chip, so it is almost as secure as the hardware indicator light. What that means in practice is that even a kernel-level exploit would not be able to turn on the camera without the light appearing on screen. It runs in a privileged environment separate from the kernel and blits the light directly onto the screen hardware.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator\">Guilherme Rambo</a>, in a text message to John Gruber</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/hardware\">hardware</a>, <a href=\"https://simonwillison.net/tags/apple\">apple</a>, <a href=\"https://simonwillison.net/tags/privacy\">privacy</a>, <a href=\"https://simonwillison.net/tags/john-gruber\">john-gruber</a></p>"
+}
