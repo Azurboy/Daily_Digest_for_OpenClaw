@@ -1,0 +1,6 @@
+{
+  "id": "dcecdfa28e76dd7f",
+  "title": "Quoting Ken Jin",
+  "url": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+  "content": "<blockquote cite=\"https://fidget-spinner.github.io/posts/jit-on-track.html\"><p>Great news—we’ve hit our (very modest) performance goals for the CPython JIT over a year early for macOS AArch64, and a few months early for x86_64 Linux. The 3.15 alpha JIT is about <strong>11-12%</strong> faster on macOS AArch64 than the tail calling interpreter, and <strong>5-6%</strong>faster than the standard interpreter on x86_64 Linux.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://fidget-spinner.github.io/posts/jit-on-track.html\">Ken Jin</a>, Python 3.15’s JIT is now back on track</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/python\">python</a></p>"
+}
