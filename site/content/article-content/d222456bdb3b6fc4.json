@@ -1,0 +1,6 @@
+{
+  "id": "d222456bdb3b6fc4",
+  "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup",
+  "content": "<p>Welcome! This is the start of a journey which I hope will provide you with many new tricks to improve how you work with relational databases in your Python applications. Given that this is a hands-on book, this first chapter is dedicated to help you set up your system with a database, so that you can run all the examples and exercises.</p>\n<p>This is the first chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>"
+}
