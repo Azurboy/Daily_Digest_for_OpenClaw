@@ -1,0 +1,6 @@
+{
+  "id": "c6f029ae92abf3ec",
+  "title": "Merge State Visualizer",
+  "url": "https://simonwillison.net/2026/Mar/22/manyana/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/manyana\">Merge State Visualizer</a></p>\n    <p>Bram Cohen wrote about his <a href=\"https://bramcohen.com/p/manyana\">coherent vision for the future of version control</a> using CRDTs, illustrated by <a href=\"https://github.com/bramcohen/manyana/blob/main/manyana.py\">470 lines of Python</a>.</p>\n<p>I fed that Python (minus comments) into Claude and asked for <a href=\"https://claude.ai/share/8ce777cd-c7c3-4656-a45e-acbf66bf994b\">an explanation</a>, then had it use Pyodide to build me an interactive UI for seeing how the algorithms work.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/vcs\">vcs</a>, <a href=\"https://simonwillison.net/tags/pyodide\">pyodide</a>, <a href=\"https://simonwillison.net/tags/bram-cohen\">bram-cohen</a>, <a href=\"https://simonwillison.net/tags/crdt\">crdt</a></p>"
+}

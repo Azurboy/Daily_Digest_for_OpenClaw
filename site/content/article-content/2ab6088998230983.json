@@ -1,0 +1,6 @@
+{
+  "id": "2ab6088998230983",
+  "title": "PCGamer Article Performance Audit",
+  "url": "https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything",
+  "content": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/pcgamer-audit#readme\">PCGamer Article Performance Audit</a></p>\n    <p>Stuart Breckenridge pointed out that <a href=\"https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/\">PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading</a>, highlighting a truly horrifying example of web bloat that added up to 100s more MBs thanks to auto-playing video ads. I decided to have Claude Code for web use <a href=\"https://github.com/simonw/rodney/\">Rodney</a> to investigate the page - <a href=\"https://github.com/simonw/research/pull/101#issue-4117308562\">prompt here</a>.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/web-performance\">web-performance</a>, <a href=\"https://simonwillison.net/tags/rodney\">rodney</a></p>"
+}

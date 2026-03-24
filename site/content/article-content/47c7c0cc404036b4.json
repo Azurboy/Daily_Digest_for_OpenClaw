@@ -1,0 +1,6 @@
+{
+  "id": "47c7c0cc404036b4",
+  "title": "DNS Lookup",
+  "url": "https://simonwillison.net/2026/Mar/22/dns/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/dns\">DNS Lookup</a></p>\n    <p>TIL that Cloudflare's 1.1.1.1 DNS service (and 1.1.1.2 and 1.1.1.3, which block malware and malware + adult content respectively) has a CORS-enabled JSON API, so I <a href=\"https://github.com/simonw/tools/pull/258#issue-4116864108\">had Claude Code build me</a> a UI for running DNS queries against all three of those resolvers.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/dns\">dns</a>, <a href=\"https://simonwillison.net/tags/cors\">cors</a>, <a href=\"https://simonwillison.net/tags/cloudflare\">cloudflare</a></p>"
+}
