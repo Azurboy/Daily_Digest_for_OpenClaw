@@ -1,0 +1,6 @@
+{
+  "id": "0daaa5ad57ae0abb",
+  "title": "Using FireWire on a Raspberry Pi",
+  "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+  "content": "<p>After learning Apple <a href=\"https://512pixels.net/2025/07/tahoe-no-firewire/\">killed off FireWire (IEEE 1394) support in macOS 26 Tahoe</a>, I started looking at alternatives for old FireWire equipment like hard drives, DV cameras, and A/V gear.</p>\n<figure class=\"insert-image\"><img alt=\"Power Mac G4 MDD with Canon GL1 DV Camera importing footage into Final Cut Express\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/g4-canon-gl1-firewire.jpg\" width=\"700\" />\n</figure>\n\n<p>I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old Mac (like the dual G4 MDD above) with FireWire—or even a modern Mac running macOS &lt; 26, <a href=\"https://youtu.be/nqCO4Z_VP3c?t=1281\">with some dongles</a>—and transfer digital video footage between the camera and an application like Final Cut Pro.</p>"
+}
