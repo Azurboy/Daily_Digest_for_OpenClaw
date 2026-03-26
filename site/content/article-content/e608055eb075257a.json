@@ -1,0 +1,6 @@
+{
+  "id": "e608055eb075257a",
+  "title": "datasette-files-s3 0.1a1",
+  "url": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-files-s3/releases/tag/0.1a1\">datasette-files-s3 0.1a1</a></p>\n    <p>A backend for <a href=\"https://github.com/datasette/datasette-files\">datasette-files</a> that adds the ability to store and retrieve files using an S3 bucket. This release added <a href=\"https://github.com/datasette/datasette-files-s3/blob/main/README.md#credentials-broker-response\">a mechanism</a> for fetching S3 configuration periodically from a URL, which means we can use time limited IAM credentials that are restricted to a prefix within a bucket.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/s3\">s3</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

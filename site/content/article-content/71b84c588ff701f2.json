@@ -1,0 +1,6 @@
+{
+  "id": "71b84c588ff701f2",
+  "title": "Which Design Doc Did a Human Write?",
+  "url": "https://refactoringenglish.com/blog/ai-vs-human-design-doc/",
+  "content": "<p>I created three design docs for the same open-source web app:</p>\n<ul>\n<li>I spent 16 hours writing one of the design docs completely by hand.</li>\n<li>I generated one using Claude Opus 4.6 (medium effort).</li>\n<li>I generated one using GPT-5.4 (high effort).</li>\n</ul>\n<p>I generated the AI versions in a few minutes. I fed the agents a prompt that included the design docs chapter of my book and a skeleton design doc structure. The agents who wrote the AI-generated docs did not see the version I wrote.</p>"
+}
