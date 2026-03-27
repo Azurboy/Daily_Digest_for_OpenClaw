@@ -1,0 +1,6 @@
+{
+  "id": "ee0566afd2d15b02",
+  "title": "SQLAlchemy 2 In Practice - Chapter 2 - Database Tables",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables",
+  "content": "<p>This is the second chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>This chapter provides an overview of the most basic usage of the <a href=\"https://www.sqlalchemy.org/\">SQLAlchemy</a> library to create, update and query database tables.</p>"
+}

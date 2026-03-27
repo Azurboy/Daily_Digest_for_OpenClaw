@@ -1,0 +1,6 @@
+{
+  "id": "4206065df63e9041",
+  "title": "You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4",
+  "url": "https://daringfireball.net/linked/2026/03/24/ios-264",
+  "content": "<p>I mentioned the other day that I was mildly irked by a change in iOS 26.4 that moved the list of available updates in the App Store app one additional screen further into its hierarchy. Good news (<a href=\"https://wandering.shop/@NateBarham/116291388824558654\">via Nate Barham on Mastodon</a>): you can long-press on the App Store app on your Home Screen and jump right to the Updates screen from the contextual menu. Nice!</p>\n\n<p>Alternatively, you can create a Shortcuts shortcut that jumps you to the Updates screen. Just one action: open the URL <a href=\"\"><code>itms-apps://apps.apple.com/updates</code></a>. Save it as an “app” on your Home Screen or an action in Control Center. Me, I’m just going to use the tap-and-hold contextual menu item on the App Store app.</p>\n\n<div>\n<a href=\"https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store\" title=\"Permanent link to ‘You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4’\">&nbsp;★&nbsp;</a>\n</div>"
+}
