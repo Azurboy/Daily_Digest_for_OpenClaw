@@ -1,0 +1,6 @@
+{
+  "id": "719f5f1444adc722",
+  "title": "Bring back MiniDV with this Raspberry Pi FireWire HAT",
+  "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+  "content": "<p>In my last post, I showed you to use <a href=\"https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\">FireWire on a Raspberry Pi</a> with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm using a new <a href=\"https://equip-1.c-e.group\">FireWire HAT</a> and a <a href=\"https://amzn.to/4dKtuyg\">PiSugar3 Plus</a> battery to make a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV cameras.</p>\n<figure class=\"insert-image\"><img alt=\"Firehat on Raspberry Pi recording video from Canon GL1 over FireWire\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-raspberry-pi-recording-from-firewire.jpeg\" width=\"700\" />\n</figure>\n\n<p>The alternative is an old used MRU like <a href=\"https://pro.sony/s3/cms-static-content/operation-manual/3290149121.pdf\">Sony's HVR-MRC1</a>, which runs around $300 on eBay<sup id=\"fnref:1\"><a class=\"footnote-ref\" href=\"#fn:1\">1</a></sup>.</p>"
+}

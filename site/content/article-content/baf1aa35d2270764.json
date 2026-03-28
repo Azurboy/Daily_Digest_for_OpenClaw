@@ -1,0 +1,6 @@
+{
+  "id": "baf1aa35d2270764",
+  "title": "datasette-showboat 0.1a2",
+  "url": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-showboat/releases/tag/0.1a2\">datasette-showboat 0.1a2</a></p>\n    <p>I added an option to export a Markdown file from my app that lets Showboat <a href=\"https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#showboat-remote-publishing\">incrementally publish updates</a> to a remote server.</p>"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "5245d129739cda45",
+  "title": "Quoting Richard Fontana",
+  "url": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
+  "content": "<blockquote cite=\"https://github.com/chardet/chardet/issues/334#issuecomment-4098524555\"><p>FWIW, IANDBL, TINLA, etc., I don’t currently see any basis for concluding that chardet 7.0.0 is required to be released under the LGPL. AFAIK no one including Mark Pilgrim has identified persistence of copyrightable expressive material from earlier versions in 7.0.0 nor has anyone articulated some viable alternate theory of license violation. [...]</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://github.com/chardet/chardet/issues/334#issuecomment-4098524555\">Richard Fontana</a>, LGPLv3 co-author, weighing in on the <a href=\"https://simonwillison.net/2026/Mar/5/chardet/\">chardet relicensing situation</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/open-source\">open-source</a>, <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a></p>"
+}
