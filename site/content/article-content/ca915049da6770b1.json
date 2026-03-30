@@ -1,0 +1,6 @@
+{
+  "id": "ca915049da6770b1",
+  "title": "Python Vulnerability Lookup",
+  "url": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/python-vulnerability-lookup\">Python Vulnerability Lookup</a></p>\n    <p>I learned that the <a href=\"https://osv.dev/\">OSV.dev</a> open source vulnerability database has an open CORS <a href=\"https://google.github.io/osv.dev/api/\">JSON API</a>, so I had Claude Code build this <a href=\"https://simonwillison.net/2025/Dec/10/html-tools/\">HTML tool</a> for pasting in a <code>pyproject.toml</code> or <code>requirements.txt</code> file (or name of a GitHub repo containing those) and seeing a list of all reported vulnerabilities from that API.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/supply-chain\">supply-chain</a>, <a href=\"https://simonwillison.net/tags/vibe-coding\">vibe-coding</a>, <a href=\"https://simonwillison.net/tags/security\">security</a></p>"
+}
