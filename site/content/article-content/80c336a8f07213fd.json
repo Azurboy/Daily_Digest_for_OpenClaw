@@ -1,0 +1,6 @@
+{
+  "id": "80c336a8f07213fd",
+  "title": "Small note about AI 'GPUs'",
+  "url": "https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/",
+  "content": "<p>I've been seeing talk around about wanting to capitalize on the AI bubble popping and picking up server GPUs for pennies on the dollar so they can play games in higher fidelity due to server GPUs having more video ram. I hate to be the bearer of bad news here, but most of those enterprise GPUs don't have the ability to process graphics.</p>\n        <p>Yeah, that's right, in order to pack in as much compute as possible per chip, they removed video output and graphics processing from devices we are calling <strong>graphics processing units</strong>. The only thing those cards will be good for is CUDA operations for AI inference, AI training, or other things that do not involve gaming.</p>\n        <hr />\n        <p>On a separate note, I'm reaching the point in recovery where I am getting very bored and am so completely ready to just head home. At least the diet restrictions end this week, so that's something to look forward to. God I want a burrito.</p>"
+}

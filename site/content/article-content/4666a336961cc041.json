@@ -1,0 +1,6 @@
+{
+  "id": "4666a336961cc041",
+  "title": "datasette-llm 0.1a3",
+  "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a3\">datasette-llm 0.1a3</a></p>\n    <p>Adds the ability to configure <a href=\"https://github.com/datasette/datasette-llm/tree/0.1a3#purpose-specific-configuration\">which LLMs are available for which purpose</a>, which means you can restrict the list of models that can be used with a specific plugin. <a href=\"https://github.com/datasette/datasette-llm/issues/3\">#3</a></p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
