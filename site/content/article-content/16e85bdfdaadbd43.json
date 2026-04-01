@@ -1,0 +1,6 @@
+{
+  "id": "16e85bdfdaadbd43",
+  "title": "llm-echo 0.3",
+  "url": "https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.3\">llm-echo 0.3</a></p>\n    <blockquote>\n<ul>\n<li>Mechanisms for <a href=\"https://github.com/simonw/llm-echo/blob/0.3/README.md#tool-calling\">testing tool calls</a>. #3</li>\n<li>Mechanism for <a href=\"https://github.com/simonw/llm-echo/blob/0.3/README.md#raw-responses\">testing raw responses</a>. #4</li>\n<li>New <code>echo-needs-key</code> model for <a href=\"https://github.com/simonw/llm-echo/blob/0.3/README.md#echo-needs-key-model\">testing model key logic</a>. #7</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}

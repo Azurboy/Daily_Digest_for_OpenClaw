@@ -1,0 +1,6 @@
+{
+  "id": "e958810bbae0a494",
+  "title": "llm-echo 0.4",
+  "url": "https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.4\">llm-echo 0.4</a></p>\n    <blockquote>\n<ul>\n<li>Prompts now have the <code>input_tokens</code> and <code>output_tokens</code> fields populated on the response.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}

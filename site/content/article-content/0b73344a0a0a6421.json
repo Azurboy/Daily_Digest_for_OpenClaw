@@ -1,0 +1,6 @@
+{
+  "id": "0b73344a0a0a6421",
+  "title": "datasette-llm 0.1a4",
+  "url": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a4\">datasette-llm 0.1a4</a></p>\n    <blockquote>\n<ul>\n<li>Ability to <a href=\"https://github.com/datasette/datasette-llm/blob/0.1a4/README.md#model-references-with-custom-api-keys\">configure different API keys for models based on their purpose</a> - for example, set it up so enrichments always use <code>gpt-5.4-mini</code> with an API key dedicated to that purpose. <a href=\"https://github.com/datasette/datasette-llm/pull/4\">#4</a></li>\n</ul>\n</blockquote>\n<p>I released <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.3\">llm-echo 0.3</a> to provide an API key testing utility I needed for the tests for this new feature.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

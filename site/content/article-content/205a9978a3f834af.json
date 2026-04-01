@@ -1,0 +1,6 @@
+{
+  "id": "205a9978a3f834af",
+  "title": "llm 0.30",
+  "url": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.30\">llm 0.30</a></p>\n    <blockquote>\n<ul>\n<li>The <a href=\"http://llm.datasette.io/en/stable/plugins/plugin-hooks.html#plugin-hooks-register-models\">register_models() plugin hook</a> now takes an optional <code>model_aliases</code> parameter listing all of the models, async models and aliases that have been registered so far by other plugins. A plugin with <code>@hookimpl(trylast=True)</code> can use this to take previously registered models into account. <a href=\"https://github.com/simonw/llm/issues/1389\">#1389</a></li>\n<li>Added docstrings to public classes and methods and included those directly in the documentation.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}
