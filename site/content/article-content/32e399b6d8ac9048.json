@@ -1,0 +1,6 @@
+{
+  "id": "32e399b6d8ac9048",
+  "title": "datasette-llm 0.1a5",
+  "url": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a5\">datasette-llm 0.1a5</a></p>\n    <blockquote>\n<ul>\n<li>The <code>llm_prompt_context()</code> plugin hook wrapper mechanism now tracks prompts executed within a chain as well as one-off prompts, which means it can be used to track tool call loops. <a href=\"https://github.com/datasette/datasette-llm\">#5</a></li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

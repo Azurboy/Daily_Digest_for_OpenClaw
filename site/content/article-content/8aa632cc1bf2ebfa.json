@@ -1,0 +1,6 @@
+{
+  "id": "8aa632cc1bf2ebfa",
+  "title": "datasette-llm-usage 0.2a0",
+  "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0\">datasette-llm-usage 0.2a0</a></p>\n    <blockquote>\n<ul>\n<li>Removed features relating to allowances and estimated pricing. These are now the domain of <a href=\"https://github.com/datasette/datasette-llm-accountant\">datasette-llm-accountant</a>.</li>\n<li>Now depends on <a href=\"https://github.com/datasette/datasette-llm\">datasette-llm</a> for model configuration. <a href=\"https://github.com/datasette/datasette-llm-usage/pull/3\">#3</a></li>\n<li>Full prompts and responses and tool calls can now be logged to the <code>llm_usage_prompt_log</code> table in the internal database if you set the new <code>datasette-llm-usage.log_prompts</code> plugin configuration setting.</li>\n<li>Redesigned the <code>/-/llm-usage-simple-prompt</code> page, which now requires the <code>llm-usage-simple-prompt</code> permission.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

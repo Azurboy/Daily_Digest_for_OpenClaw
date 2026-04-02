@@ -1,0 +1,6 @@
+{
+  "id": "e653b958d61f7797",
+  "title": "datasette-enrichments-llm 0.2a0",
+  "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0\">datasette-enrichments-llm 0.2a0</a></p>\n    <blockquote>\n<ul>\n<li>This plugin now uses <a href=\"https://github.com/datasette/datasette-llm\">datasette-llm</a> to configure and manage models. This means it's possible to <a href=\"https://github.com/datasette/datasette-enrichments-llm/blob/0.2a0/README.md#configuration\">specify which models</a> should be made available for enrichments, using the new <code>enrichments</code> purpose.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

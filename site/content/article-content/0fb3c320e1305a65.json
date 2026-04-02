@@ -1,0 +1,6 @@
+{
+  "id": "0fb3c320e1305a65",
+  "title": "datasette-llm 0.1a6",
+  "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a6\">datasette-llm 0.1a6</a></p>\n    <blockquote>\n<ul>\n<li>The same model ID no longer needs to be repeated in both the default model and allowed models lists - setting it as a default model automatically adds it to the allowed models list. <a href=\"https://github.com/datasette/datasette-llm/issues/6\">#6</a></li>\n<li>Improved documentation for <a href=\"https://github.com/datasette/datasette-llm/blob/0.1a6/README.md#usage\">Python API usage</a>.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

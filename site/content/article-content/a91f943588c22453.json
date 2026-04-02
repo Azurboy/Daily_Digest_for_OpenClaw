@@ -1,0 +1,6 @@
+{
+  "id": "a91f943588c22453",
+  "title": "datasette-enrichments-llm 0.2a1",
+  "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1\">datasette-enrichments-llm 0.2a1</a></p>\n    <blockquote>\n<ul>\n<li>The <code>actor</code> who triggers an enrichment is now passed to the <code>llm.mode(... actor=actor)</code> method. <a href=\"https://github.com/datasette/datasette-enrichments-llm/issues/3\">#3</a></li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/enrichments\">enrichments</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
