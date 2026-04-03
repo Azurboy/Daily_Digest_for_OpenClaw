@@ -1,0 +1,6 @@
+{
+  "id": "e6718c45fc637350",
+  "title": "Automating starting Lambda Labs instances",
+  "url": "https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances",
+  "content": "<p>I've been trying to get an 8x A100 instance on Lambda Labs to do a training run for my\n<a href=\"/llm-from-scratch\">LLM from scratch series</a>, but they're really busy at the moment,\nand it's rare to see anything.</p>\n\n<p>Thanks to the wonders of agentic coding, I spent an hour today getting something up\nand running to help, which I've called <a href=\"https://github.com/gpjt/lambda-manager\">lambda-manager</a>.\nIt has three commands:</p>\n\n<ol>\n<li><code>list-instance-types</code>, which prints which kinds of instances are available.</li>\n<li><code>list-instance-type-descriptions</code>, which prints out all of the possible instance types (available or not)\nwith both their \"friendly\" names -- what you'd see on the website -- and the\ninstance type names that the API uses.</li>\n<li><code>launch-when-available</code>, which polls the API until it sees a specified type of\ninstance, at which point it starts one and sends a Telegram message.</li>\n</ol>\n\n<p>Let's see if that helps -- though it's been running for six hours now, with no luck...</p>"
+}

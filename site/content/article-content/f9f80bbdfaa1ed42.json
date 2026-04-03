@@ -1,0 +1,6 @@
+{
+  "id": "f9f80bbdfaa1ed42",
+  "title": "llm-gemini 0.30",
+  "url": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.30\">llm-gemini 0.30</a></p>\n    <p>New models <code>gemini-3.1-flash-lite-preview</code>, <code>gemma-4-26b-a4b-it</code> and <code>gemma-4-31b-it</code>. See <a href=\"https://simonwillison.net/2026/Apr/2/gemma-4/\">my notes on Gemma 4</a>.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/gemma\">gemma</a></p>"
+}
