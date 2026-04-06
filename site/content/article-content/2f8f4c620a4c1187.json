@@ -1,0 +1,6 @@
+{
+  "id": "2f8f4c620a4c1187",
+  "title": "scan-for-secrets 0.2",
+  "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.2\">scan-for-secrets 0.2</a></p>\n    <ul>\n<li>CLI tool now streams results as they are found rather than waiting until the end, which is better for large directories.</li>\n<li><code>-d/--directory</code> option can now be used multiple times to scan multiple directories.</li>\n<li>New <code>-f/--file</code> option for specifying one or more individual files to scan.</li>\n<li>New <code>scan_directory_iter()</code>, <code>scan_file()</code> and <code>scan_file_iter()</code> Python API functions.</li>\n<li>New <code>-v/--verbose</code> option which shows each directory that is being scanned.</li>\n</ul>"
+}

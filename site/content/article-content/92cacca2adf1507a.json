@@ -1,0 +1,6 @@
+{
+  "id": "92cacca2adf1507a",
+  "title": "scan-for-secrets 0.1.1",
+  "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.1.1\">scan-for-secrets 0.1.1</a></p>\n    <blockquote>\n<ul>\n<li>Added documentation of the escaping schemes that are also scanned.</li>\n<li>Removed unnecessary <code>repr</code> escaping scheme, which was already covered by <code>json</code>.</li>\n</ul>\n</blockquote>"
+}
