@@ -1,0 +1,6 @@
+{
+  "id": "c7bd3f49af3c0273",
+  "title": "scan-for-secrets 0.3",
+  "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.3\">scan-for-secrets 0.3</a></p>\n    <blockquote>\n<ul>\n<li>New <code>-r/--redact</code> option which shows the list of matches, asks for confirmation and then replaces every match with <code>REDACTED</code>, taking escaping rules into account.</li>\n<li>New Python function <code>redact_file(file_path: str | Path, secrets: list[str], replacement: str = \"REDACTED\") -&gt; int</code>.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/projects\">projects</a></p>"
+}

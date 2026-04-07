@@ -1,0 +1,6 @@
+{
+  "id": "be6937f11e403998",
+  "title": "datasette-ports 0.2",
+  "url": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.2\">datasette-ports 0.2</a></p>\n    <blockquote>\n<ul>\n<li>No longer requires Datasette - running <code>uvx datasette-ports</code> now works as well.</li>\n<li>Installing it as a Datasette plugin continues to provide the <code>datasette ports</code> command.</li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
