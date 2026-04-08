@@ -1,0 +1,6 @@
+{
+  "id": "651a729295435f0a",
+  "title": "SQLite WAL Mode Across Docker Containers Sharing a Volume",
+  "url": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+  "content": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-wal-docker-containers#readme\">SQLite WAL Mode Across Docker Containers Sharing a Volume</a></p>\n    <p>Inspired by <a href=\"https://news.ycombinator.com/item?id=47637353\">this conversation</a> on Hacker News about whether two SQLite processes in separate Docker containers that share the same volume might run into problems due to WAL shared memory. The answer is that everything works fine - Docker containers on the same host and filesystem share the same shared memory in a way that allows WAL to collaborate as it should.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/docker\">docker</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a></p>"
+}
