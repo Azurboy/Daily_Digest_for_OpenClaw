@@ -1,0 +1,6 @@
+{
+  "id": "5fcb589fe3a540be",
+  "title": "Root prime gap",
+  "url": "https://www.johndcook.com/blog/2026/04/08/andrica/",
+  "content": "<p>I recently found out about Andrica&#8217;s conjecture: the square roots of consecutive primes are less than 1 apart.</p>\n<p>In symbols, Andrica&#8217;s conjecture says that if <em>p</em><sub><em>n</em></sub> and <em>p</em><sub><em>n</em>+1</sub> are consecutive prime numbers, then</p>\n<p style=\"padding-left: 40px;\">√<em>p</em><sub><em>n</em>+1</sub> − √<em>p</em><sub><em>n</em></sub> &lt; 1.</p>\n<p>This has been empirically verified for primes up to 2 × 10<sup>19</sup>.</p>\n<p>If the conjecture is true, it puts an upper bound on how long you&#8217;d have to search to find the next prime:</p>\n<p style=\"padding-left: 40px;\"><em>p</em><sub><em>n</em>+1</sub> &lt; 1 + 2√<em>p</em><sub><em>n</em></sub>  + <em>p</em><sub><em>n</em></sub>,</p>\n<p>which would be an improvement on the Bertrand-Chebyshev theorem that says</p>\n<p style=\"padding-left: 40px;\"><em>p</em><sub><em>n</em>+1</sub> &lt; 2<em>p</em><sub><em>n</em></sub>.</p>\n<p>&nbsp;</p>The post <a href=\"https://www.johndcook.com/blog/2026/04/08/andrica/\">Root prime gap</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>."
+}
