@@ -1,0 +1,6 @@
+{
+  "id": "9c2788e6ec779a30",
+  "title": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships",
+  "content": "<p>This is the fourth chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>Continuing with the topic of relationships, this chapter is dedicated to the <em>many-to-many</em> type, which as its name implies, is used when it is not possible to identify any of the sides as a \"one\" side.</p>"
+}
