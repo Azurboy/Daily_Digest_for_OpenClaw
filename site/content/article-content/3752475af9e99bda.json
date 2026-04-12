@@ -1,0 +1,6 @@
+{
+  "id": "3752475af9e99bda",
+  "title": "SQLite Query Result Formatter Demo",
+  "url": "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/sqlite-qrf\">SQLite Query Result Formatter Demo</a></p>\n    <p>See my notes <a href=\"https://simonwillison.net/2026/Apr/11/sqlite/\">on SQLite 3.53.0</a>. This playground provides a UI for trying out the various rendering options for SQL result tables from the new Query Result Formatter library, compiled to WebAssembly.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a></p>"
+}
