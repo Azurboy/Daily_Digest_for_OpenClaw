@@ -1,0 +1,6 @@
+{
+  "id": "2e509809966abd96",
+  "title": "An Arm Mainboard for the Framework Laptop",
+  "url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+  "content": "<p>Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/90\">Ryzen AI 5 340 Mainboard</a>), the fastest RISC-V option (<a href=\"https://github.com/geerlingguy/sbc-reviews/issues/82\">DC-ROMA II</a>), and today I'm publishing results from the only Arm Mainboard, the <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/103\">MetaComputing AI PC</a>, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.</p>\n<figure class=\"insert-image\"><img alt=\"MetaComputing AI PC Mainboard next to Framework 13 laptop\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-arm-framework-hero.jpg\" width=\"700\" />\n</figure>\n\n<p>My Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'.</p>"
+}

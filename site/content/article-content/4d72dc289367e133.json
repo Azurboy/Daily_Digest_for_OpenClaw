@@ -1,0 +1,6 @@
+{
+  "id": "4d72dc289367e133",
+  "title": "datasette-ports 0.3",
+  "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.3\">datasette-ports 0.3</a></p>\n    <p>A small update for my tool for helping me figure out what all of the Datasette instances on my laptop are up to.</p>\n<blockquote>\n<ul>\n<li>Show working directory derived from each PID</li>\n<li>Show the full path to each database file</li>\n</ul>\n</blockquote>\n<p>Output now looks like this:</p>\n<pre><code>http://127.0.0.1:8007/ - v1.0a26\n  Directory: /Users/simon/dev/blog\n  Databases:\n    simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db\n  Plugins:\n    datasette-llm\n    datasette-secrets\nhttp://127.0.0.1:8001/ - v1.0a26\n  Directory: /Users/simon/dev/creatures\n  Databases:\n    creatures: /tmp/creatures.db\n</code></pre>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
