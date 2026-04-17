@@ -1,0 +1,6 @@
+{
+  "id": "b06dc189f4e0745b",
+  "title": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships",
+  "content": "<p>This is the fifth chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>You have now learned the design blocks used in relational databases. Sometimes, however, these building blocks have to be \"tweaked\" a bit to achieve a desired goal. This chapter is dedicated to exploring a very useful variation on the many-to-many relationship.</p>"
+}
