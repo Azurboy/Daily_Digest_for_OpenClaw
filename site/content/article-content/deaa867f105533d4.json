@@ -1,0 +1,6 @@
+{
+  "id": "deaa867f105533d4",
+  "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution",
+  "content": "<p>This is the sixth chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>The goal of this chapter is to use the concepts you have learned to build a web traffic analytics solution. This will serve as reinforcement of the techniques demonstrated in previous chapters as well as an example of a more complex and realistic database design.</p>"
+}
