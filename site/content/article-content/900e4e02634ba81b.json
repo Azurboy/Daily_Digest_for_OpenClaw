@@ -1,0 +1,6 @@
+{
+  "id": "900e4e02634ba81b",
+  "title": "Millisecond Converter",
+  "url": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/milliseconds\">Millisecond Converter</a></p>\n    <p><a href=\"https://llm.datasette.io/\">LLM</a> reports prompt durations in milliseconds and I got fed up of having to think about how to convert those to seconds and minutes.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/tools\">tools</a></p>"
+}
