@@ -1,0 +1,6 @@
+{
+  "id": "693766bae970157c",
+  "title": "Raspberry Pi Connect may control Windows soon",
+  "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/",
+  "content": "<p>Support for <a href=\"https://forums.raspberrypi.com/viewtopic.php?p=2373678\">remote controlling Windows PCs</a> may be added to <a href=\"https://www.raspberrypi.com/software/connect/\">Raspberry Pi Connect</a>, Raspberry Pi's free remote access service.</p>\n<figure class=\"insert-image\"><img alt=\"Raspberry Pi Connect controlling a Windows 11 PC\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/pi-connect-windows-11.jpg\" width=\"700\" />\n</figure>\n\n<p>When they <a href=\"https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game/\">announced Pi Connect in 2024</a>, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.</p>\n<p>The service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.</p>"
+}

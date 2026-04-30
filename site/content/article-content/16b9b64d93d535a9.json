@@ -1,0 +1,6 @@
+{
+  "id": "16b9b64d93d535a9",
+  "title": "llm 0.32a1",
+  "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32a1\">llm 0.32a1</a></p>\n    <blockquote>\n<ul>\n<li>Fixed a bug in 0.32a0 where tool-calling conversations were not correctly reinflated from SQLite. <a href=\"https://github.com/simonw/llm/issues/1426\">#1426</a></li>\n</ul>\n</blockquote>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}
