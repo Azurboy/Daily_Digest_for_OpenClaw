@@ -1,0 +1,6 @@
+{
+  "id": "60063bfe0b2c0125",
+  "title": "callgraph analysis",
+  "url": "https://jyn.dev/callgraph-analysis/",
+  "content": "<p>I recently wrote a post for work titled \"Callgraph Analysis\", about how to write a custom lint with access to the full call graph of a program.\nYou can read it on <a href=\"https://ferrous-systems.com/blog/callgraph-analysis/\">my work's blog</a>.</p>"
+}
