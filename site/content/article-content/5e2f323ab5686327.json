@@ -1,0 +1,6 @@
+{
+  "id": "5e2f323ab5686327",
+  "title": "png-cmp: like cmp for PNGs",
+  "url": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/",
+  "content": "<p><a href=\"https://codeberg.org/EvanHahn/png-cmp\"><code>png-cmp</code></a> is a program I built that checks if two PNGs are visually equivalent. It&rsquo;s inspired by the <a href=\"https://pubs.opengroup.org/onlinepubs/9799919799/utilities/cmp.html\"><code>cmp</code> command</a>. Here&rsquo;s how you use it:</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-sh\"><span style=\"display: flex;\"><span>png-cmp a.png b.png\n</span></span></code></pre></div><p>Like <code>cmp</code>, it silently exits if the images are identical, and gives an error if they&rsquo;re different.</p>\n<p>Unlike <code>cmp</code>, it checks pixel data, not binary data. PNGs can <em>look</em> the same but be stored differently. For example, <code>png-cmp</code> ignores text metadata.</p>\n<p>I was recently doing an experiment where I wanted to check if two PNGs were visually identical, so I built a tool for it!</p>\n<p><a href=\"https://codeberg.org/EvanHahn/png-cmp\">Grab the source code here.</a></p>"
+}
