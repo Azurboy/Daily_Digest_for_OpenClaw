@@ -1,0 +1,6 @@
+{
+  "id": "ec564620ee7592a9",
+  "title": "Fizz Buzz Through Monoids",
+  "url": "https://entropicthoughts.com/fizzbuzz-through-monoids",
+  "content": "<div class=\"figure\" id=\"org94c0d51\">\n<p>\n</p>\n</div>\n\n\n<p>\nSome decade ago I read a good implementation of fizzbuzz. What set it apart was\nits excellent modularity. The original article is no longer on the\nweb, but this is my\nreconstruction:\n</p>\n\n\n\n<pre><code>module Main where\n\nimport Control.Monad (guard)\nimport Data.Foldable (for_)\nimport Data.Maybe (fromMaybe)\n\nfizzbuzz i =\n  fromMaybe (show i) . mconcat $\n    [ \"fizz\" &lt;$ guard (rem i 3 == 0)\n    , \"buzz\" &lt;$ guard (rem i 5 == 0)\n    ]\n\nmain =\n  for_ [1..100] $\n    putStrLn . fizzbuzz\n</code></pre>\n\n\n<p>\nThe great thing about this implementation is that when we get the natural\nchange in requirements – that we are supposed to print &ldquo;zork&rdquo; for multiples of\nseven – we can accommodate that change <i>by simply adding the line that does so</i>:\n</p>"
+}

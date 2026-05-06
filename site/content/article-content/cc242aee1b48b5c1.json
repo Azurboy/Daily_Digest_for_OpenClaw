@@ -1,0 +1,6 @@
+{
+  "id": "cc242aee1b48b5c1",
+  "title": "llm-echo 0.5a0",
+  "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5a0\">llm-echo 0.5a0</a></p>\n        <blockquote>\n<ul>\n<li>New <code>-o thinking 1</code> option to help test against <a href=\"https://llm.datasette.io/en/latest/changelog.html#a0-2026-04-28\">LLM 0.32a0</a> and higher.</li>\n</ul>\n</blockquote>\n<p>This plugin provides a fake model called \"echo\" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this:</p>\n<pre><code>uvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m echo hi -o thinking 1\n</code></pre>\n<p>This will fake a reasoning block to standard error before returning JSON echoing the prompt.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}
