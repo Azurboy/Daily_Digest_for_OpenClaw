@@ -1,0 +1,6 @@
+{
+  "id": "ff3991334b393933",
+  "title": "Article previews in RSS",
+  "url": "https://entropicthoughts.com/article-previews-in-rss",
+  "content": "<div class=\"figure\" id=\"orga2ece7d\">\n<p>\n</p>\n</div>\n\n\n<p>\nSince about three years past time immemorial, the RSS feed for this site has\nbeen very anaemic. It had article titles and dates, and that was it. Many\nreaders have requested that I include the full article in the feed, or at least\na preview, but I&rsquo;ve always put it off because it has sounded difficult to\naccomplish technically.\n</p>\n\n\n\n<p>\nThe way the RSS feed for this site is generated is in two steps:\n</p>\n\n\n\n<ol class=\"org-ol\">\n<li>First a little loop in Emacs Lisp runs through the first few items of a\nsorted and filtered list of files belonging to this project. This loop\nconstructs an org-element syntax tree for the RSS feed, and renders it out\nto a temporary file as an Org mode file.</li>\n<li>Then the regular Org exporting framework takes over and exports that file as\nan RSS file using the ox-rss backend.</li>\n</ol>\n\n\n\n<p>\n(Continue reading the full article on the web.)</p>"
+}

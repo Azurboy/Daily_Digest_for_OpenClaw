@@ -1,0 +1,6 @@
+{
+  "id": "5290c504d1f50709",
+  "title": "Maybe you shouldn't install new software for a bit",
+  "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+  "content": "<p>In the wake of <a href=\"https://copy.fail/\">copy.fail</a>, there are more vulnerabilities that have been announced:</p>\n        <ul>\n        <li><a href=\"https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo\">Copy Fail 2: Electric Boogaloo</a></li>\n        <li><a href=\"https://github.com/V4bel/dirtyfrag\">Dirty Frag</a></li>\n        </ul>\n        <p>Right now would be one of the best times for a supply chain attack via NPM to hit hard.</p>\n        <p>Outside of Linux kernel patches from your distro, I think it's probably a good idea to put a moratorium on installing new software for a week or so.</p>"
+}
