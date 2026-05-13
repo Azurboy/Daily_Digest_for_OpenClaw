@@ -1,0 +1,6 @@
+{
+  "id": "d7ad8983c0c7b693",
+  "title": "Bambu Lab is abusing the open source social contract",
+  "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+  "content": "<p>Last year <a href=\"https://www.youtube.com/watch?v=91kfolYkRNM\">I said I'd probably never recommend another Bambu Lab printer again</a>.</p>\n<p>I still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default:</p>\n<ul>\n<li>I blocked the printer from the Internet via my OPNsense Firewall</li>\n<li>I stopped updating the firmware</li>\n<li>I locked the printer into Developer mode</li>\n<li>I deleted Bambu Studio and started using <a href=\"https://www.orcaslicer.com\">OrcaSlicer</a></li>\n</ul>\n<p>I had to do that to keep it under <em>my</em> control, instead of Bambu's.</p>"
+}
