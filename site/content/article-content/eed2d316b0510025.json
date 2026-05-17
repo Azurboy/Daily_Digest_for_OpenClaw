@@ -1,0 +1,6 @@
+{
+  "id": "eed2d316b0510025",
+  "title": "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
+  "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web",
+  "content": "<p>This is the eighth and final chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>Whether you are building a traditional web application, or a web API that works alongside a web front end or smartphone app, SQLAlchemy is one of the best choices to add database support to a Python web server. In this chapter two example integrations with <a href=\"https://palletsprojects.com/p/flask/\">Flask</a> and <a href=\"https://fastapi.tiangolo.com/\">FastAPI</a> will be demonstrated. These are two of the most popular Python web frameworks and should serve as examples even if you use another web framework.</p>"
+}
