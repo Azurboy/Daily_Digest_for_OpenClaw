@@ -1,0 +1,6 @@
+{
+  "id": "331d3de834946d05",
+  "title": "datasette-llm 0.1a8",
+  "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a8\">datasette-llm 0.1a8</a></p>\n        <blockquote>\n<ul>\n<li>Fix for bug where <code>llm_prompt_context()</code> hook did not fully collect chains of responses. #7</li>\n</ul>\n</blockquote>"
+}

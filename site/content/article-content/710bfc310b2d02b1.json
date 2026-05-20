@@ -1,0 +1,6 @@
+{
+  "id": "710bfc310b2d02b1",
+  "title": "llm-gemini 0.32",
+  "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.32\">llm-gemini 0.32</a></p>\n        <blockquote>\n<ul>\n<li>New model <code>gemini-3.5-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Flash</a>.</li>\n</ul>\n</blockquote>\n<p>See also my <a href=\"https://simonwillison.net/2026/May/19/gemini-35-flash/\">notes on Gemini 3.5 Flash</a>, and <a href=\"https://simonwillison.net/2026/May/19/gemini-35-flash/#a-pelican-on-a-bicycle\">the pelican</a> I drew using this upgrade to the plugin.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}

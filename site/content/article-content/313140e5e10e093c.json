@@ -1,0 +1,6 @@
+{
+  "id": "313140e5e10e093c",
+  "title": "datasette-llm-accountant 0.1a4",
+  "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4\">datasette-llm-accountant 0.1a4</a></p>\n        <blockquote>\n<ul>\n<li>Fixed bug tracking chains of responses. Refs <a href=\"https://github.com/datasette/datasette-llm/issues/7\">datasette-llm#7</a></li>\n</ul>\n</blockquote>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

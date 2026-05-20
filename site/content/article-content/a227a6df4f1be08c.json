@@ -1,0 +1,6 @@
+{
+  "id": "a227a6df4f1be08c",
+  "title": "Pythagorean Addition",
+  "url": "https://entropicthoughts.com/pythagorean-addition",
+  "content": "<div class=\"figure\" id=\"org158e3e5\">\n<p>\n</p>\n</div>\n\n\n<p>\nTL;DR: Instead of labouriously computing \\(c = \\sqrt{a^2 + b^2}\\), we can\nmentally calculate using the <i>alpha-max plus beta-min</i> algorithm, by estimating\n</p>\n\n\n\n<p>\n\\[\\hat{c} = \\mathrm{max}\\left(a,  0.9a + 0.5b \\right)\\]\n</p>\n\n\n\n<p>\nand this will be very close to the actual \\(c\\). This is useful for adding up\nsources of variance, or figuring out radiuses, or other such things.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/pythagorean-addition\">(Continue reading the full article on the web.)</a></p>"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "95a0d7e89bbfd052",
+  "title": "llm-gemini 0.32a0",
+  "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.32a0\">llm-gemini 0.32a0</a></p>\n        <blockquote>\n<ul>\n<li>Compatible with <code>llm&gt;=0.32a0</code> alpha - adds the ability to stream reasoning tokens.</li>\n</ul>\n</blockquote>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}
