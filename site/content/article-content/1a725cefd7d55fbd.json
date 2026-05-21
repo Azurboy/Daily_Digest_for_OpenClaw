@@ -1,0 +1,6 @@
+{
+  "id": "1a725cefd7d55fbd",
+  "title": "How fast is 10 tokens per second really?",
+  "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+  "content": "<p><strong><a href=\"https://mikeveerman.github.io/tokenspeed/\">How fast is 10 tokens per second really?</a></strong></p>\nNeat little HTML app by Mike Veerman (<a href=\"https://github.com/MikeVeerman/tokenspeed/blob/master/index.html\">source code here</a>) which simulates LLM token output speeds from 5/second to 800/second.</p>\n<p>Useful if you see a model advertised as \"30 tokens/second\" and want to get a feel for what that actually looks like.\n\n    <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=48174920\">Hacker News</a></small></p>\n\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>"
+}
