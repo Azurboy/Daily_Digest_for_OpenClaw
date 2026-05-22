@@ -1,0 +1,6 @@
+{
+  "id": "7ea449e12be43061",
+  "title": "datasette-agent-sprites 0.1a0",
+  "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0\">datasette-agent-sprites 0.1a0</a></p>\n        <p>A Datasette Agent plugin for running commands in a <a href=\"https://sprites.dev\">Fly Sprites</a> sandbox.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sandboxing\">sandboxing</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/fly\">fly</a>, <a href=\"https://simonwillison.net/tags/datasette-agent\">datasette-agent</a></p>"
+}
