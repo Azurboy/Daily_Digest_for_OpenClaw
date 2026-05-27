@@ -1,0 +1,6 @@
+{
+  "id": "758b985ad312e86e",
+  "title": "90 % of the t distribution",
+  "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
+  "content": "<div class=\"figure\" id=\"orgceec4fa\">\n<p>\n</p>\n</div>\n\n\n<p>\nWilliam Sealy Gosset was great. He improved beer at Guinness by using the\nstatistics that existed at the time. Not happy with that, he invented new\nstatistics to brew even better beer. The things he invented are used all over\nthe place now, but Guinness wanted to keep him a secret weapon, so they made him\npublish his results under the fake name <i>Student</i>.\n</p>\n\n\n\n<p>\nOne thing Gosset realised is that it is wrong to compute 90 % confidence\nintervals for the mean by taking the standard deviation of the sample, and\n<i>assume a normal distribution</i>, like-a-so:\n</p>\n\n\n\n<p>\n\\[\\hat{\\mu} \\pm 1.645 \\hat{\\sigma}\\]\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/ninety-percent-of-the-t-distribution\">(Continue reading the full article on the web.)</a></p>"
+}
