@@ -1,0 +1,6 @@
+{
+  "id": "93da7554933827fb",
+  "title": "llm-anthropic 0.25.1",
+  "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.25.1\">llm-anthropic 0.25.1</a></p>\n        <blockquote>\n<ul>\n<li>New model: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> (<code>claude-opus-4.8</code>).</li>\n<li>New <code>-o fast 1</code> option for <a href=\"https://platform.claude.com/docs/en/build-with-claude/fast-mode\">fast mode</a>, for organizations with that feature enabled on their account.</li>\n<li>Default max_tokens for each model now defaults to that model's maximum output rather than 8,192. <a href=\"https://github.com/simonw/llm-anthropic/issues/72\">#72</a></li>\n</ul>\n</blockquote>\n<p>See also my <a href=\"https://simonwillison.net/2026/May/28/claude-opus-4-8/\">notes on Opus 4.8</a> - I used this new release of <code>llm-anthropic</code> to generate the pelicans.</p>"
+}
