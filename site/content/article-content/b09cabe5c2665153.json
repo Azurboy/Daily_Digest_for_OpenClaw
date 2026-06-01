@@ -1,6 +1,6 @@
 {
   "id": "b09cabe5c2665153",
-  "title": "[Sponsor] exe.dev",
+  "title": "exe.dev",
   "url": "https://exe.dev/?df",
-  "content": "<p>A cloud for the agent era. Use <a href=\"https://exe.dev/?df\">exe.dev</a> to get a pool of VMs with SSH, root, and web auth by default. Secrets injected at the network edge stay out of the LLM’s hands. Persistent servers, internal tools, vibe coding, disposable devboxes, whatever. It’s just a computer.</p>\n\n<div>\n<a href=\"https://daringfireball.net/feeds/sponsors/2026/05/exedev\" title=\"Permanent link to ‘exe.dev’\">&nbsp;★&nbsp;</a>\n</div>"
+  "content": "<p>My thanks to exe.dev for sponsoring last week at DF (with a very <a href=\"https://daringfireball.net/misc/2026/05/exe-dev-cool.png\">cool graphic ad</a> — just love the way it looks). <a href=\"https://exe.dev/?df\">exe.dev</a> is a cloud for the agent era — it gives you a pool of VMs with SSH, root, and web auth by default. Secrets injected at the network edge stay out of the LLM’s hands. Persistent servers, internal tools, vibe coding, disposable devboxes, whatever. You can share your web server as easily as you can share a Google Doc, and your VMs share CPU/RAM — you pay for underlying resources, not per VM.</p>\n\n<p>It’s just a computer.</p>\n\n<div>\n<a href=\"https://daringfireball.net/linked/2026/05/31/exe-dev\" title=\"Permanent link to ‘exe.dev’\">&nbsp;★&nbsp;</a>\n</div>"
 }
