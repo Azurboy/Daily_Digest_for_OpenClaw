@@ -1,0 +1,6 @@
+{
+  "id": "45855882c4c28111",
+  "title": "Pasted File Editor",
+  "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/pasted-file-editor\">Pasted File Editor</a></p>\n        <p>I really like how you can paste a large volume of text into <a href=\"https://claude.ail\">claude.ai</a> (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead.</p>\n<p>I decided to have Codex desktop <a href=\"https://gist.github.com/simonw/74c79119b487a5acce18b4dcc26b9f79\">build me a version of that</a> as a prototype.</p>\n<p>You can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/javascript\">javascript</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/codex\">codex</a></p>"
+}

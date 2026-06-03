@@ -1,0 +1,6 @@
+{
+  "id": "668142b9072e92db",
+  "title": "micropython-wasm 0.1a0",
+  "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/micropython-wasm/releases/tag/0.1a0\">micropython-wasm 0.1a0</a></p>\n        <p>My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of <a href=\"https://micropython.org/\">MicroPython</a> with a wrapper to execute code in it via <a href=\"https://wasmtime.dev/\">wasmtime</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/sandboxing\">sandboxing</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a></p>"
+}
