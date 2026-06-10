@@ -1,0 +1,6 @@
+{
+  "id": "2f2be9d48272c235",
+  "title": "LLMs and almost good code",
+  "url": "https://entropicthoughts.com/llms-and-almost-good-code",
+  "content": "<div class=\"figure\" id=\"orgd8b962b\">\n<p>\n</p>\n</div>\n\n\n<p>\nTL;DR: My new prior is that top-of-the-line LLMs working on <i>easy</i> tasks\ngenerate code that is maybe 10 % more complicated than necessary. I also think\nwe accept this complexity too easily, because it comes from code that is <i>right\nhere</i>, <i>right now</i>, solving an immediate problem. This may have consequences\nfor maintenance in the long term.\n</p>\n\n\n\n<p>\nThe background to this discovery was that I needed to do some CRUD plumbing in\na work project. It was a simple change that mostly mirrored existing\nfunctionality. This is a perfect fit for LLMs, in my experience, so I used a\nfrontier model to generate the code for it. The change ended up being a total of\njust over 200 lines, mostly additions.\n</p>\n\n\n\n<p>\nThe part of the generated code we&rsquo;ll talk about is a 24-line function that\nconverts an arbitrary (user-supplied) string to a safe HTTP header\nvalue.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/llms-and-almost-good-code\">(Continue reading the full article on the web.)</a></p>"
+}
