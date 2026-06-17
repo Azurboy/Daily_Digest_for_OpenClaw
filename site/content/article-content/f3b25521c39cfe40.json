@@ -1,0 +1,6 @@
+{
+  "id": "f3b25521c39cfe40",
+  "title": "Lean, not backpressure",
+  "url": "https://entropicthoughts.com/lean-not-backpressure",
+  "content": "<div class=\"figure\" id=\"org2f2bddc\">\n<p>\n</p>\n</div>\n\n\n<p>\nLucas Costa has written a good article on how to build systems that can handle\ncode-generating robots. Unfortunately, when calling it <i>backpressure</i>, he used\nthe wrong metaphor.\n</p>\n\n\n\n<p>\nBackpressure is about signaling to upstream processes that they are running too\nfast and need to slow down. The suggestions presented by Costa are mostly about\nsignaling to the upstream process that it needs to do things <i>differently</i>,\nrather than just slow down. This has more to do with ensuring sufficient\n<i>quality</i> is sent downstream, rather than <i>quantity</i>.\n</p>\n\n\n\n<p>\nThis irked me. As I was reading, I was searching for the right analogy. I kept\ncoming back to <i>lean manufacturing</i>. The more famous half of the lean philosophy\nis waste reduction. The other half is about managing the unstable input of\npeople. That&rsquo;s what we&rsquo;re interested in here.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/lean-not-backpressure\">(Continue reading the full article on the web.)</a></p>"
+}
