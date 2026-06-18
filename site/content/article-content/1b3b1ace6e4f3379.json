@@ -1,0 +1,6 @@
+{
+  "id": "1b3b1ace6e4f3379",
+  "title": "<click-to-play> — a still that plays",
+  "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+  "content": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/click-to-play-component\">&lt;click-to-play&gt; — a still that plays</a></p>\n        <p>A progressive enchantment Web Component that turns this markup:</p>\n<pre><code>&lt;click-to-play&gt;\n  &lt;a href=\"URL to GIF\"&gt;\n    &lt;img src=\"URL to first frame\" alt=\"...\"&gt;\n  &lt;/a&gt;\n&lt;/click-to-play&gt;\n</code></pre>\n<p>Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them.</p>\n<p>Here's <a href=\"https://simonwillison.net/2026/Jun/16/datasette/\">an example</a> that demonstrates the new row editing tools in Datasette - in fact I built this Web Component for that post.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/gif\">gif</a>, <a href=\"https://simonwillison.net/tags/javascript\">javascript</a>, <a href=\"https://simonwillison.net/tags/progressive-enhancement\">progressive-enhancement</a>, <a href=\"https://simonwillison.net/tags/web-components\">web-components</a></p>"
+}
