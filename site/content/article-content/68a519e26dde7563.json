@@ -1,0 +1,6 @@
+{
+  "id": "68a519e26dde7563",
+  "title": "datasette-acl 0.6a0",
+  "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-acl/releases/tag/0.6a0\">datasette-acl 0.6a0</a></p>\n        <blockquote>\n<p>This release expands <code>datasette-acl</code> from table-only permissions toward a general resource-sharing system.</p>\n</blockquote>\n<p>Alex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/alex-garcia\">alex-garcia</a></p>"
+}

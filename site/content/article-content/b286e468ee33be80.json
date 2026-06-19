@@ -1,0 +1,6 @@
+{
+  "id": "b286e468ee33be80",
+  "title": "GLM 5.2 playing text adventures",
+  "url": "https://entropicthoughts.com/glm-5-2-playing-text-adventures",
+  "content": "<div class=\"figure\" id=\"org801261f\">\n<p>\n</p>\n</div>\n\n\n<p>\nI&rsquo;ve heard some buzz around the new GLM 5.2 open-weights model. They say it&rsquo;s\nvery capable! I won&rsquo;t run a full comparison benchmark, but I have some credits\nsloshing around on OpenRouter so I figured I might compare GLM 5.2 to the\nsimilarly-priced Gemini 3 Flash, and see where things land.\n</p>\n\n\n\n<p>\nThis uses the same setup as the previous benchmark: each LLM gets a few\nattempts at playing the game, with each attempt being limited to a fixed budget\nof around $0.15. The LLM doesn&rsquo;t know it, but the harness tracks achievements\nfor each game, and counts how many the LLM earns in each attempt.\n</p>\n\n\n\n<p>\nHere are the number of attempts for each game in this run.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/glm-5-2-playing-text-adventures\">(Continue reading the full article on the web.)</a></p>"
+}
