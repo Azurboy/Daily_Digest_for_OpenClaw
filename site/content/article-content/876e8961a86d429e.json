@@ -1,0 +1,6 @@
+{
+  "id": "876e8961a86d429e",
+  "title": "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
+  "url": "http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+  "content": "<p>When an AI agent tries to complete a task that requires a new account, it hits a wall: the sign-up form. There’s no standard for how an agent registers a user with an app on their behalf.</p>\n\n<p>auth.md is a file you host at your domain that tells agents how to register your users, which flows you support, what scopes you expose, and how credentials get issued. Think robots.txt, but for agent registration. It composes existing OAuth standards. </p>\n\n<p>Cloudflare, Firecrawl, and Resend have already adopted it.</p>\n\n<p>An open protocol authored by WorkOS. <a href=\"http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026\">Read the spec</a>.</p>\n\n<div>\n<a href=\"https://daringfireball.net/feeds/sponsors/2026/06/workos_agents_need_auth_theres\" title=\"Permanent link to ‘WorkOS: Agents Need Auth. There’s Now a Spec for It.’\">&nbsp;★&nbsp;</a>\n</div>"
+}
