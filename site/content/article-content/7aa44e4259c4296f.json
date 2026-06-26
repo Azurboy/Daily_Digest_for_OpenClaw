@@ -1,0 +1,6 @@
+{
+  "id": "7aa44e4259c4296f",
+  "title": "Hart’s theorem",
+  "url": "https://www.johndcook.com/blog/2026/06/25/harts-theorem/",
+  "content": "<p>Hart&#8217;s theorem says</p>\n<blockquote><p>If a triangle be formed by the arcs of three circles, the inscribed and the three escribed circles are all tangent to a new circle or line.</p></blockquote>\n<p>Here &#8220;triangle&#8221; means a three-sided figure whose sides are portions of a circle. The inscribed circle is the largest circle that can fit inside the three-sided figure.</p>\n<p>The &#8220;escribed&#8221; circles are analogous to the excircles in the <a href=\"https://www.johndcook.com/blog/2026/06/25/incircle-excircle/\">previous post</a>: you extend two sides and find a circle that is tangent to the triangle side and the extended side. The difference here being that the side extensions are now circles.</p>\n<p><img class=\"aligncenter size-medium\" height=\"466\" src=\"https://www.johndcook.com/hart_circles.png\" width=\"400\" /></p>The post <a href=\"https://www.johndcook.com/blog/2026/06/25/harts-theorem/\">Hart’s theorem</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>."
+}

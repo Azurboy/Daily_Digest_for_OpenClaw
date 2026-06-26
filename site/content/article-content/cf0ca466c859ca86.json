@@ -1,0 +1,6 @@
+{
+  "id": "cf0ca466c859ca86",
+  "title": "datasette-export-database 0.3a2",
+  "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-export-database/releases/tag/0.3a2\">datasette-export-database 0.3a2</a></p>\n        <p>An embarrassingly tiny release. The <code>pyproject.toml</code> had pinned to <code>datasette==1.0a27</code>, inadvertently making this plugin incompatible with all other Datasette versions. It's now <code>datasette&gt;=1.0a27</code> instead.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
