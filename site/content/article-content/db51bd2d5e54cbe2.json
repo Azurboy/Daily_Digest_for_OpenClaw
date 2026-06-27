@@ -1,0 +1,6 @@
+{
+  "id": "db51bd2d5e54cbe2",
+  "title": "Quickly apply LUTs (color grading) with ffmpeg",
+  "url": "https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/",
+  "content": "<p>This is a quick post, mostly for my own reference.</p>\n<p>I've avoided LUTs and 'Log' video footage for years<sup id=\"fnref:1\"><a class=\"footnote-ref\" href=\"#fn:1\">1</a></sup>, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage retains the video sensor's full dynamic range, so you can pull more color and luminance information out of the footage later.</p>\n<p>But unlike photography, where RAW has been a thing for decades, and many workflows 'just work' without me having to 'grade' every individual photo, in video precious few consumer apps handle Log footage gracefully. You generally end up with a muddy grey mess.</p>"
+}
