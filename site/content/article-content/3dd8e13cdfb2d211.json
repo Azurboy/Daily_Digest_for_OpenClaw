@@ -1,0 +1,6 @@
+{
+  "id": "3dd8e13cdfb2d211",
+  "title": "Derivative equals inverse",
+  "url": "https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/",
+  "content": "<p>Here&#8217;s kind of a strange problem with an interesting solution: find a function <em>f</em> such that the derivative of <em>f</em> equals the inverse of <em>f</em> for all positive <em>x</em>.</p>\n<p style=\"padding-left: 40px;\"><em>f</em> ′(<em>x</em>) = <em>f</em><sup>−1</sup>(<em>x</em>)</p>\n<p>This is a differential equation, but a very unusual one, one that cannot be solved using any of the techniques taught in a class on differential equations.</p>\n<p>The unique solution is</p>\n<p style=\"padding-left: 40px;\"><em>f</em>(<em>x</em>) = φ(<em>x</em> / φ)<sup>φ</sup></p>\n<p>where φ is the golden ratio. What an unexpected appearance of the golden ratio!</p>\n<p>The problem was proposed by H. L. Nelson and solved by A. C. Hindmarsh. See The American Mathematical Monthly, Vol. 76, No. 6 p. 696.</p>The post <a href=\"https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/\">Derivative equals inverse</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>."
+}
