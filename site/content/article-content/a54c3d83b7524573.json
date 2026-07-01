@@ -1,0 +1,6 @@
+{
+  "id": "a54c3d83b7524573",
+  "title": "shot-scraper 1.10",
+  "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a></p>\n        <p>The big new feature is <code>shot-scraper video storyboard.yml</code>, described in detail in <a href=\"https://simonwillison.net/2026/Jun/30/shot-scraper-video/\">Have your agent record video demos of its work with shot-scraper video</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/shot-scraper\">shot-scraper</a></p>"
+}
