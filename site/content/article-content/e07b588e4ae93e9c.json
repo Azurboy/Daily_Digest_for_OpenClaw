@@ -1,0 +1,6 @@
+{
+  "id": "e07b588e4ae93e9c",
+  "title": "e approximation",
+  "url": "https://www.johndcook.com/blog/2026/07/06/e-approximation/",
+  "content": "<p>I ran across the approximation</p>\n<p style=\"padding-left: 40px;\"><em>e</em> ≈ 2721/1001</p>\n<p>recently. What makes this remarkable is its accuracy relative to the size of the denominator.</p>\n<p>You can create a trivial approximation just by truncating a decimal expansion</p>\n<p style=\"padding-left: 40px;\"><em>e</em> ≈ 2718/1000</p>\n<p>but this is only good to four significant figures, but 2721/1001 is good to seven, almost eight, significant figures.</p>\n<pre>e         = 2.71828182… \n2721/1001 = 2.71828171…\n</pre>\n<p>The comparison is more impressive in binary.</p>\n<pre>$ bc -l\n&gt;&gt;&gt; obase=2\n&gt;&gt;&gt; 2721/1001\n10.10110111111000010100…\n&gt;&gt;&gt; e(1)\n10.10110111111000010101…\n</pre>\n<p>The denominator is a 10-bit number but the approximation is accurate to 21 bits.</p>The post <a href=\"https://www.johndcook.com/blog/2026/07/06/e-approximation/\">e approximation</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>."
+}

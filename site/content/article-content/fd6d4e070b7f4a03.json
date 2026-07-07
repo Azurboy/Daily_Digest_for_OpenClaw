@@ -1,0 +1,6 @@
+{
+  "id": "fd6d4e070b7f4a03",
+  "title": "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+  "url": "https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown",
+  "content": "<p>The third developer betas of Apple’s 27 OSes dropped today, and this new page in Apple’s developer documentation drew my attention — a built-in Uniform Type Identifier for Markdown data:</p>\n\n<blockquote>\n  <p><strong>UTI:</strong> <code>net.daringfireball.markdown</code></p>\n\n<p><strong>Conforms to:</strong> <code>public.utf8-plain-text</code></p>\n</blockquote>\n\n<p>I had previously recommended conforming to <code>public.plain-text</code> but stated that the text encoding should be UTF-8. I’ve updated <a href=\"https://daringfireball.net/linked/2011/08/05/markdown-uti\">my own recommendation</a> to <code>public.utf8-plain-text</code> to enshrine the UTF-8 encoding. (Back in 2004 UTF-8 support was far from universal. Today it is.)</p>\n\n<div>\n<a href=\"https://daringfireball.net/linked/2026/07/06/markdown-uti-os-27\" title=\"Permanent link to ‘Markdown Now Has a UTI in Apple’s Version 27 OSes’\">&nbsp;★&nbsp;</a>\n</div>"
+}
