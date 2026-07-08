@@ -1,0 +1,6 @@
+{
+  "id": "7fd48dfe7dd45d85",
+  "title": "sqlite-utils 4.0rc4",
+  "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4\">sqlite-utils 4.0rc4</a></p>\n        <p>The last RC before the 4.0 stable release. Mainly <a href=\"https://github.com/simonw/sqlite-utils/issues/769#issuecomment-4900034150\">implements feedback</a> from a detailed review by Claude Fable 5.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sqlite-utils\">sqlite-utils</a>, <a href=\"https://simonwillison.net/tags/claude-mythos-fable\">claude-mythos-fable</a></p>"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "bc0c94d89463b64f",
+  "title": "sqlite-migrate 0.2",
+  "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-migrate/releases/tag/0.2\">sqlite-migrate 0.2</a></p>\n        <p>The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sqlite-utils\">sqlite-utils</a></p>"
+}
