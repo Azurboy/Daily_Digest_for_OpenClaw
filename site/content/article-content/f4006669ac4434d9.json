@@ -1,0 +1,6 @@
+{
+  "id": "f4006669ac4434d9",
+  "title": "Quoting Kenton Varda",
+  "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+  "content": "<blockquote cite=\"https://twitter.com/kentonvarda/status/2074924213983740233\"><p>I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.</p>\n<p>AI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/kentonvarda/status/2074924213983740233\">Kenton Varda</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/kenton-varda\">kenton-varda</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>"
+}
