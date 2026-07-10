@@ -1,0 +1,6 @@
+{
+  "id": "d175f5f47bd85631",
+  "title": "Quoting OpenAI",
+  "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+  "content": "<blockquote cite=\"https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\"><p>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\">OpenAI</a>, trying (unsuccessfully) to clarify ChatGPT Work</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/chatgpt\">chatgpt</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a></p>"
+}

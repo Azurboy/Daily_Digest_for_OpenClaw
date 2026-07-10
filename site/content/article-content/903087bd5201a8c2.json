@@ -1,0 +1,6 @@
+{
+  "id": "903087bd5201a8c2",
+  "title": "llm 0.31.1",
+  "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31.1\">llm 0.31.1</a></p>\n        <blockquote>\n<ul>\n<li>Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. <a href=\"https://github.com/simonw/llm/issues/1521\">#1521</a></li>\n</ul>\n</blockquote>\n<p>This bug came up when I was testing <a href=\"https://github.com/simonw/llm-meta-ai\">llm-meta-ai</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}

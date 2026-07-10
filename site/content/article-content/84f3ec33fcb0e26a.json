@@ -1,0 +1,6 @@
+{
+  "id": "84f3ec33fcb0e26a",
+  "title": "llm-meta-ai 0.1",
+  "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p>\n        <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">muse-spark-1.1</a> model.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/meta\">meta</a></p>"
+}
