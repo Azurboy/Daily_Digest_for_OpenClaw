@@ -1,0 +1,6 @@
+{
+  "id": "39404e835ddcd75d",
+  "title": "QuadRF can spot drones and see WiFi through my wall",
+  "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+  "content": "<figure class=\"insert-image\"><img alt=\"QuadRF antenna array from front\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/quadrf-antennna-array.jpeg\" width=\"700\" />\n</figure>\n\n<p>The <a href=\"https://scalerf.com\">QuadRF</a> (pictured above) a phased-array radio built around a Raspberry Pi 5 and an FPGA board with picosecond-level timing. It does advanced signal processing and beamforming.</p>\n<p>It can see WiFi through walls and track drones in flight.</p>\n<p>If the open source community can come up with something like this, just imagine what governments are capable of.</p>\n<p>When you plug a computer into a network, tools like <a href=\"https://www.wireshark.org\">Wireshark</a> can show all the hidden traffic you might not even know is there. <em>WiFi</em> packets are the same, but those travel through the air, allowing snooping without physical access.</p>"
+}
