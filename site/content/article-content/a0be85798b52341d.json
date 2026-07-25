@@ -1,0 +1,6 @@
+{
+  "id": "a0be85798b52341d",
+  "title": "Adding a backup Internet WAN on my OPNsense Router",
+  "url": "https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/",
+  "content": "<p><em>AKA &quot;Spectrum has gone down two weeks in a row and I'm sick of it&quot;.</em></p>\n<p>I've been borrowing a portable 5G gateway from my Dad for a few weeks, for testing... and two weeks in a row, I've used it as a backup Internet option, since my Spectrum Business cable Internet has gone down.</p>\n<figure class=\"insert-image\"><img alt=\"Spectrum Business Cable Modem offline\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/spectrum-cable-modem-online-offline.jpg\" width=\"700\" />\n</figure>\n\n<p>And yes, I'd get AT&amp;T Fiber if I had the option, sadly they don't yet provide service at my studio. So I'm stuck with only one high speed wired provider. I may add on my own 5G backup Internet connection in the future, but we're getting off track.</p>"
+}
