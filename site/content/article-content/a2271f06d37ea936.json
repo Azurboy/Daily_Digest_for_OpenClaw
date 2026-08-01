@@ -1,0 +1,6 @@
+{
+  "id": "a2271f06d37ea936",
+  "title": "datasette-agent 0.4a0",
+  "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.4a0\">datasette-agent 0.4a0</a></p>\n        <blockquote>\n<ul>\n<li>New <code>await context.browser_task()</code> mechanism allowing agent tools to run code directly in the user's browser. <a href=\"https://github.com/datasette/datasette-agent/pull/33\">#33</a></li>\n</ul>\n</blockquote>\n<p>This is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript <em>in the user's browser</em>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/llm-tool-use\">llm-tool-use</a>, <a href=\"https://simonwillison.net/tags/datasette-agent\">datasette-agent</a></p>"
+}
