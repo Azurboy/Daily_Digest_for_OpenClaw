@@ -1,0 +1,6 @@
+{
+  "id": "e5dbbd144bcd236f",
+  "title": "Proxmox officially supports Arm, with some caveats",
+  "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
+  "content": "<p>Proxmox today announced their <a href=\"https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/\">Proxmox Virtual Environment is now available for 64-bit ARM</a>.</p>\n<p>I tested it on my <a href=\"https://www.jeffgeerling.com/blog/2023/testing-96-core-ampere-altra-developer-platform/\">Ampere Altra Dev Platform</a>—the same machine on which I've <a href=\"https://www.jeffgeerling.com/blog/2023/ampere-altra-max-windows-gpus-and-gaming/\">booted Windows on Arm</a> the first time, messed with multiple GPUs, and most recently <a href=\"https://www.youtube.com/watch?v=QdU7WszFTAA\">tested Houdini's native arm64 support</a>.</p>\n<figure class=\"insert-image\"><img alt=\"Proxmox VE running on Ampere Altra Max workstation\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/proxmox-ve-on-arm-vm.jpg\" width=\"700\" />\n</figure>\n\n<p>Install was easy, as the Ampere Altra uses UEFI / ACPI for its hardware, meaning Proxmox didn't have to tailor its ISO to specific platforms, like you have to do with Raspberry Pis and most SBCs using a Device Tree setup.</p>"
+}
