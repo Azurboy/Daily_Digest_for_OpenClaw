@@ -1,0 +1,6 @@
+{
+  "id": "20cd5b07f3d8cf62",
+  "title": "A noob learns FFT",
+  "url": "https://entropicthoughts.com/fft",
+  "content": "<div class=\"figure\" id=\"orgcb6dfe2\">\n<p>\n</p>\n</div>\n\n\n<p>\nI have never done any time–frequency transformations. I understand the general\nidea, but I have never worked with the details. Today I had a reason to use it,\nbut that means learning the basics first.\n</p>\n\n\n\n<p>\nThe following is three seconds of a single 5 Hz sine wave, recorded at a sample\nrate of 100 Hz.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/fft\">(Continue reading the full article on the web.)</a></p>"
+}
