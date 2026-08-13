@@ -1,0 +1,6 @@
+{
+  "id": "49818a8a52de3bb3",
+  "title": "datasette-upload-dbs 0.5a0",
+  "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0\">datasette-upload-dbs 0.5a0</a></p>\n        <p>This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance.</p>\n<p>It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so <code>/name</code> starts serving the new one.</p>\n<p>The new release adds a formalized API, so you can replace an existing database (or add a new one) like this:</p>\n<pre><code>curl -X POST \\\n  -H \"Authorization: Bearer $API_TOKEN\" \\\n  -H \"Accept: application/json\" \\\n  -F \"db=@content.db\" \\\n  -F \"db_name=content\" \\\n  https://your-instance.example.com/-/upload-dbs\n</code></pre>\n<p>This means you can build fresh databases in an environment such as GitHub Actions and swap them in production as soon as that build has completed.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
