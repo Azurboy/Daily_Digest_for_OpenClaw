@@ -1,0 +1,6 @@
+{
+  "id": "d533dcdb090fc9d9",
+  "title": "alchemy-utils 0.1a1",
+  "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/alchemy-utils/releases/tag/0.1a1\">alchemy-utils 0.1a1</a></p>\n        <p>Performance boost for DuckDB exports and CSV imports, <a href=\"https://simonwillison.net/2026/Aug/12/alchemy-utils/\">see here</a>.</p>"
+}
