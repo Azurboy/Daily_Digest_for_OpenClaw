@@ -1,0 +1,6 @@
+{
+  "id": "40e5150f2b2926c0",
+  "title": "Printing Lists",
+  "url": "https://matklad.github.io/2026/08/14/printing-lists.html",
+  "content": "<header>\n  <h1>Printing Lists</h1>\n  <time class=\"meta\" datetime=\"2026-08-14\">Aug 14, 2026</time>\n</header>\n<p>To print a comma-separated list, a concise idiom is to optionally print the comma first, before the element:</p>\n\n<figure class=\"code-block\">\n\n\n<pre><code><span class=\"line\"><span class=\"hl-keyword\">for</span> (items, <span class=\"hl-numbers\">0</span>..) <span class=\"hl-operator\">|</span>item, item_index<span class=\"hl-operator\">|</span> {</span>\n<span class=\"line\">    <span class=\"hl-keyword\">if</span> (item_index &gt; <span class=\"hl-numbers\">0</span>) std.debug.print(<span class=\"hl-string\">&quot;, &quot;</span>);</span>\n<span class=\"line\">    std.debug.print(<span class=\"hl-string\">&quot;{}&quot;</span>, .{item});</span>\n<span class=\"line\">}</span></code></pre>\n\n</figure>"
+}
