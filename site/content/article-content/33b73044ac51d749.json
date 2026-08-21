@@ -1,0 +1,6 @@
+{
+  "id": "33b73044ac51d749",
+  "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+  "url": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/",
+  "content": "<p>The <a href=\"https://www.aliexpress.us/item/3256806531632512.html?gatewayAdapt=glo2usa4itemAdapt\">BOE TV070WXM-TV0 LCD</a> used in the original Steam Deck can be had for around $30. It's a serviceable 7&quot; touchscreen with 400 nits of brightness and a resolution of 1280x800 (for a sharp 216 ppi).</p>\n<figure class=\"insert-image\"><img alt=\"Steam Deck LCD working on a Raspberry Pi 5\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/steam-deck-lcd-pi-front-touch.jpeg\" width=\"700\" />\n</figure>\n\n<p>The specs are a lot nicer than the <a href=\"https://www.raspberrypi.com/products/raspberry-pi-touch-display/\">Pi 7&quot; Touch Display</a>, which costs twice as much, with giant bezels and half the resolution!</p>\n<p>Until today, the Steam Deck LCD didn't work with a Raspberry Pi. But the folks at <a href=\"https://www.scandent.com\">Scandent</a> were trying to standardize on a mass-market touchscreen for one of their own devices, and built a <a href=\"https://github.com/ScandentLLC/tv070wxm-hat/blob/master/linux-rpi-6.12.y-panel-boe-tv070wxm.patch\">Linux kernel driver</a> for it which they intend to upstream.</p>"
+}
