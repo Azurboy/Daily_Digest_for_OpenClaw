@@ -1,0 +1,6 @@
+{
+  "id": "ca34ed9a0d66324c",
+  "title": "Forgejo hack #2: Integration with Read The Docs",
+  "url": "https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs",
+  "content": "<p>In this second Forgejo Hack installment I'll tell you how to connect a git repository that lives in your self-hosted Forgejo instance to <a href=\"https://readthedocs.org\">Read the Docs</a>, so that commits to the repository automatically trigger documentation builds, exactly like it works with GitHub.</p>"
+}
