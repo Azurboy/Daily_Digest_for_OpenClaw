@@ -1,0 +1,6 @@
+{
+  "id": "e951e8178189f4b6",
+  "title": "[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token",
+  "url": "https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+  "content": "<p>Give an agent an access token and it spreads: into the context window, into tool call logs, into notes it keeps between steps. Each copy works from anywhere, long after the fact.</p>\n\n<p><a href=\"https://workos.com/docs/pipes/relay?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=docs\">Relay</a> keeps the credential at WorkOS. Your agent names the user, WorkOS attaches that token, refreshes it, and releases it only to allowlisted hosts. A hijacked agent session is a live process you can kill.</p>\n\n<p><a href=\"https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026\">Learn how it works →</a></p>\n\n<div>\n<a href=\"https://daringfireball.net/feeds/sponsors/2026/09/workos_how_to_give_an_agent_a\" title=\"Permanent link to ‘WorkOS: How to Give an Agent a Task Instead of a Token’\">&nbsp;★&nbsp;</a>\n</div>"
+}
