@@ -1,0 +1,6 @@
+{
+  "id": "06c1aea3d44b4ef2",
+  "title": "datasette-mcp 0.2",
+  "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p>\n        <blockquote>\n<ul>\n<li><code>\"rows\"</code> from <code>execute_sql</code> is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. <a href=\"https://github.com/datasette/datasette-mcp/issues/1\">#1</a></li>\n<li>Now depends on <code>mcp&gt;=2.1.1</code>.</li>\n</ul>\n</blockquote>\n<p>This is the first non-alpha release of the plugin. I'm confident it's ready as I've been using it quite a bit myself.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/model-context-protocol\">model-context-protocol</a></p>"
+}
