@@ -1,0 +1,6 @@
+{
+  "id": "9cdc531f1d9ac797",
+  "title": "You Should be Using Rootless Containers",
+  "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+  "content": "<p>The other day a serious vulnerability was disclosed in one of the newer Linux distributions (the one led by the racist, so it isn't getting a mention here). The issue was interesting because it was caused by a non-standard Docker configuration that their installer applied by default, without alerting users that this configuration was creating a security risk. The end result was that any process running on these systems had the ability to elevate itself to root, without password, <code>sudo</code> or any prompts to the user.</p>\n<p>While this incident did not affect me, it served as a reminder that it is difficult to set up Docker in a way that is secure. If you are interested in understanding what the issues with Docker are and what can be done to address them, then you are in the right place.</p>"
+}
