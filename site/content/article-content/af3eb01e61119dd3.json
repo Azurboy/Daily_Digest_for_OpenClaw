@@ -1,0 +1,6 @@
+{
+  "id": "af3eb01e61119dd3",
+  "title": "llm 0.35",
+  "url": "https://simonwillison.net/2026/Sep/7/llm/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.35\">llm 0.35</a></p>\n        <blockquote>\n<ul>\n<li>New OpenAI model: <code>gpt-6-astra</code> for <a href=\"https://openai.com/index/gpt-6-astra/\">GPT-6 Astra</a>.</li>\n</ul>\n</blockquote>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/gpt-6-astra\">gpt-6-astra</a></p>"
+}
