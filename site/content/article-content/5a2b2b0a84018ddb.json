@@ -1,0 +1,6 @@
+{
+  "id": "5a2b2b0a84018ddb",
+  "title": "Better AI code comment detector",
+  "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "content": "<div class=\"figure\" id=\"orgf4dd710\">\n<p>\n</p>\n</div>\n\n\n<p>\nWhen I trained the previous AI comment classifier, I used partially personal\nprivate data to do it, and built it on a somewhat shaky foundation, so I\ncouldn&rsquo;t share the code or data. I rebuilt it on public data and a better\nfoundation!\n</p>\n\n\n\n<p>\nFirst off, you might want to try it out. Nothing you paste into that web page\nleaves your browser, so you can safely try it with whatever you like. I have\ninvited some testers to try out an earlier version of it, and they had mainly\npositive feedback to give.\n</p>\n\n\n\n<p>\nWe won&rsquo;t break down robot-isms the way we broke down Claude-isms in the previous\narticle, because in the UI of the new classifier you can just click any part\nof the text being classified to see which features activate on that portion of\nthe text, and how they contribute to the overall judgment. Here&rsquo;s an example of\nthe expanded feature activation view.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/better-ai-comment-classifier\">(Continue reading the full article on the web.)</a></p>"
+}
