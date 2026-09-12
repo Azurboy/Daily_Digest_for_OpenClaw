@@ -1,0 +1,6 @@
+{
+  "id": "e0c6726e7c17d3b1",
+  "title": "github-to-sqlite 2.9.1",
+  "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1\">github-to-sqlite 2.9.1</a></p>\n        <blockquote>\n<ul>\n<li>Fix for compatibility with <a href=\"https://sqlite-utils.datasette.io/en/stable/changelog.html#v4-2\">sqlite-utils 4.x</a>. <a href=\"https://github.com/dogsheep/github-to-sqlite/issues/85\">#85</a></li>\n</ul>\n</blockquote>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/github\">github</a>, <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a></p>"
+}
