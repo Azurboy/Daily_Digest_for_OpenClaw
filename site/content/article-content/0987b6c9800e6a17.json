@@ -1,0 +1,6 @@
+{
+  "id": "0987b6c9800e6a17",
+  "title": "NTP, an atomic clock, and having a great time at the world's largest VCF",
+  "url": "https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/",
+  "content": "<p>I'm back from <a href=\"https://vcfmw.org\">VCF Midwest 21</a>, arguably the largest vintage computer festival on the planet.</p>\n<figure class=\"insert-image\"><img alt=\"Jeff Geerling's NTP Time booth at VCF Midwest 21\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/ntp-time-booth-vcf-midwest.jpg\" width=\"700\" />\n</figure>\n\n<p>After being <a href=\"https://www.jeffgeerling.com/blog/2025/vcf-midwest-was-even-better-i-expected/\">blown away</a> last year, I decided to get a table of my own this year, to demonstrate NTP Time on a bunch of old Macs, representing every era up to the pinnacle of the PowerPC, an Xserve G5 (serving duty as a Stratum 2 <code>ntpd</code> server).</p>\n<p>Attending as an exhibitor is a <em>lot</em> different. In some ways better (I got to interact face-to-face with at least 200 people—after that I ran out of my 'time tokens'), and in some ways worse (I only got to see about 10% of the exhibits—if that).</p>"
+}
