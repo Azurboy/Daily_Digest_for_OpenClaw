@@ -1,0 +1,6 @@
+{
+  "id": "33879f77e1536c69",
+  "title": "datasette-explain 0.2.2",
+  "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p>\n        <blockquote>\n<ul>\n<li>Explain plans now work on read-only stored-query pages.</li>\n</ul>\n</blockquote>\n<p>I upgraded <a href=\"https://datasette.simonwillison.net\">datasette.simonwillison.net</a> to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sqlite\">sqlite</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}
