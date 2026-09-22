@@ -1,0 +1,6 @@
+{
+  "id": "a7b9e879dda5ccb2",
+  "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+  "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+  "content": "<p>Raspberry Pi added a feature in their firmware that <a href=\"https://github.com/raspberrypi/rpi-eeprom/issues/761\">restricts users from swapping RAM chips</a>, sometimes even RAM chips of the same capacity from other Raspberry Pi boards.</p>\n<figure class=\"insert-image\"><img alt=\"Raspberry Pi 5 LPDDR4x memory being grabbed with tweezers\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/raspberry-pi-5-lpddr4x-ram-swap-tweezers.jpg\" width=\"700\" />\n</figure>\n\n<p>Apparently there were people buying cheap 1 or 2 gig Pi 5s, soldering in some cheap and sometimes unreliable 8 gig RAM chips, and <a href=\"https://forums.raspberrypi.com/viewtopic.php?t=399212\">selling them as new 8 gig Pi 5s</a>.</p>\n<p>Now I totally understand where Raspberry Pi's coming from. They don't wanna support Pis being sold like this, because flaky RAM and dodgy resellers are a huge problem. Especially with how profitable can be in the current AI bubble.</p>"
+}
