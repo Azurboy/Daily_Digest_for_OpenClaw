@@ -1,0 +1,6 @@
+{
+  "id": "8f820c2b26f6994a",
+  "title": "llm-anthropic 0.29",
+  "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.29\">llm-anthropic 0.29</a></p>\n        <p>Adds support for <a href=\"https://www.anthropic.com/claude-opus-5-5\">Claude Opus 5.5</a>:</p>\n<pre><code>llm -m claude-opus-5.5 \"prompt goes here\"\n</code></pre>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a></p>"
+}
