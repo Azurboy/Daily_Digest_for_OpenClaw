@@ -1,0 +1,6 @@
+{
+  "id": "97397d7fa75c5084",
+  "title": "S3 Is the Future, S3 Is the Past",
+  "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+  "content": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in <em>a full decade</em>:</p>\n<pre><code>2006-03-14  $0.150/GB-month\n2010-11-01  $0.140/GB-month\n2012-02-01  $0.125/GB-month\n2012-12-01  $0.095/GB-month\n2014-02-01  $0.085/GB-month\n2014-04-01  $0.030/GB-month\n2016-12-01  $0.023/GB-month\n</code></pre>\n<p>Today it's still $0.023/GB-month.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/amazon-web-services\">amazon-web-services</a>, <a href=\"https://simonwillison.net/tags/s3\">s3</a></p>"
+}
