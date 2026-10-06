@@ -1,0 +1,6 @@
+{
+  "id": "afdecd136fba8911",
+  "title": "How fast is Python 3.15?",
+  "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+  "content": "<p>It's October once again, and that means it is time to take the new release of Python for a spin (technically, it is the 3.15.0rc3 release that I'm using, the official 3.15 release is still a few days out). As I did with my <a href=\"https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it\">Python 3.14 performance</a> article of a year ago, today I'm sharing a new run of my informal Python benchmark, comparing Python 3.15 against previous interpreters all the way back to 3.10.</p>\n<p>If you are not interested in the charts and the tables and just want to read my analysis, feel free to jump to the <a href=\"/post/how-fast-is-python-3-15#conclusions\">conclusions</a> section at the end.</p>"
+}
