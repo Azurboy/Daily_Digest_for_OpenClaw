@@ -1,0 +1,6 @@
+{
+  "id": "82f5a22b6e45ec58",
+  "title": "iFlac: Sync your FLAC files to your iPhone from Linux",
+  "url": "https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html",
+  "content": "<blockquote>\n  <p><strong>COGNITOHAZARD WARNING:</strong> This README is written by a real life meat computer\nbut the rest of the project is 100% vibecoded</p>\n</blockquote>\n\n<p>https://github.com/jaydens-tasty-slop/iFlac</p>\n\n<p>I have a growing FLAC collection that I’d like on my phone, but I don’t want to\nhave to boot Windows to use the Apple Music app or (shudders) iTunes.</p>\n\n<p>Had a friendly robot write this project to sync your FLAC files to your iPhone.</p>\n\n<p>Based off of:</p>\n\n<ul>\n  <li><a href=\"https://libimobiledevice.org/\">libimobiledevice</a> and the approach</li>\n  <li><a href=\"https://github.com/EduAlexxis/ByeTunes\">ByeTunes</a></li>\n</ul>\n\n<p>It works by pairing your PC then injecting rows into Apple Music’s sqlite database (!!).\nSeems to work fine from my testing on an iPhone 12.</p>\n\n<p>TIP: Don’t use Bluetooth or this whole exercise was pointless - Bluetooth will compress your delicious lossless audio.</p>"
+}
