@@ -1,0 +1,6 @@
+{
+  "id": "f571e976d0165880",
+  "title": "Radxa's Q8B has 2x the performance and expansion of the Pi 5",
+  "url": "https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/",
+  "content": "<figure class=\"insert-image\"><img alt=\"Radxa Dragon Q8B with Raspberry Pi 5\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/radxa-dragon-q8b-with-raspberry-pi-5.jpg\" width=\"700\" />\n</figure>\n\n<p>There was a time I'd look at a board like the <a href=\"https://radxa.com/products/dragon/q8b/\">Radxa Dragon Q8B</a> (at left, above) and be like, &quot;there's no way I'd spend $209 on an SBC with 8 gigs of RAM&quot;. But we're in 2026, and seeing the 8 gig Raspberry Pi 5 going for almost the same amount, I figured I'd give it a shot.</p>\n<p>On <em>paper</em>, the Q8B beats the Pi 5 in pretty much every way. A lot of that is thanks to this Snapdragon 8cx Gen 3 chip, which is the same chip <a href=\"https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023/\">I tested on Microsoft's Windows Dev Kit 2023</a>.</p>"
+}
