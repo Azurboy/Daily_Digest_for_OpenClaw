@@ -1,374 +1,314 @@
 {
-  "date": "2026-10-11",
-  "article_count": 25,
-  "tokens_used": 12864,
+  "date": "2026-10-13",
+  "article_count": 21,
+  "tokens_used": 11057,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
     {
-      "id": "ed32cd489cb393b4",
-      "title": "Dwarf Fortress uses version control now",
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "id": "e62cea51a1661964",
+      "title": "The Dock on Mac, From OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
       "author": "",
-      "feed_title": "simonwillison.net",
+      "feed_title": "blog.jim-nielsen.com",
       "category": "Blogs",
-      "published_at": "2026-10-11T00:52:37+00:00",
-      "summary_zh": "文章回顾了《矮人要塞》游戏开发者Tarn Adams对版本控制态度转变的历史。从2013年公开表示不使用版本控制，到2023年承认已开始使用，反映了项目管理和开发者习惯的演变。",
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "summary_zh": "作者分享了其研究macOS系统Dock栏图标设计历史的经历，并整理了一张从OS X Cheetah到macOS Golden Gate等历代系统中Dock栏应用图标外观的对比图。文章旨在保存和归档这张展示macOS Dock视觉演变历史的图像。",
       "tags": [
-        "programming",
-        "programming/tools",
+        "design",
         "culture/history"
       ]
     },
     {
-      "id": "a2dbc26766a3bd99",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "id": "901eddfa61b84a5e",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
       "author": "",
       "feed_title": "simonwillison.net",
       "category": "Blogs",
-      "published_at": "2026-10-10T23:58:04+00:00",
-      "summary_zh": "文章宣布Python 3.15.0已添加到GitHub Actions的python-versions仓库中。这意味着开发者现在可以在GitHub Actions的测试矩阵中使用“3.15”来针对新发布的Python 3.15.0运行测试。",
+      "published_at": "2026-10-12T18:15:38+00:00",
+      "summary_zh": "文章介绍了Python 3.15版本的新特性，重点讨论了显式延迟导入（Explicit lazy imports）功能及其对插件系统开发的实际益处。作者还提到，随着新版本发布，他可以告别Python 3.10并开始使用3.11中的功能。",
       "tags": [
         "programming",
-        "tools",
-        "programming/tools"
+        "open-source"
       ]
     },
     {
-      "id": "e9ba0249d33c9133",
-      "title": "Inside a 1980s filter chip that uses switched capacitors",
-      "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
-      "author": "Ken Shirriff (noreply@blogger.com)",
-      "feed_title": "righto.com",
-      "category": "Blogs",
-      "published_at": "2026-10-10T16:40:25+00:00",
-      "summary_zh": "文章通过显微镜分析了一枚1980年代Harris生产的MF10开关电容滤波器芯片。详细介绍了其内部结构、工作原理，并回顾了这种在1980年代流行的模拟滤波器实现技术。",
-      "tags": [
-        "hardware",
-        "hardware/architecture"
-      ]
-    },
-    {
-      "id": "d802a57170c2767c",
-      "title": "Sunnny",
-      "url": "https://sunnny.com/",
+      "id": "3aff4df93e8956c0",
+      "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-10T16:11:45+00:00",
-      "summary_zh": "这是一篇简短的赞助商感谢帖，宣布名为Sunnny的B2B软件将于10月19日（星期一）开启早期访问。",
-      "tags": [
-        "business",
-        "tools"
-      ]
-    },
-    {
-      "id": "233bec4e237746fa",
-      "title": "‘Proof-of-Human’",
-      "url": "https://x.com/bzamayo/status/2108498107184934914",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-10T16:06:17+00:00",
-      "summary_zh": "文章讨论了在AI时代，公司发布手工制作的艺术品时，倾向于附带“人工制作证明”视频的现象。作者认为这不仅是区别于AI生成内容的方式，也体现了对手工创作价值的认可。",
-      "tags": [
-        "AI",
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "97ad1a7178742038",
-      "title": "Reading List 10/10/26",
-      "url": "https://www.construction-physics.com/p/reading-list-101026",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-10-10T14:55:48+00:00",
-      "summary_zh": "这是一篇博客的阅读列表文章，通常包含一系列推荐阅读的链接和简短评论。内容可能涉及广泛的技术、商业或文化主题，具体取决于博客的定位。",
+      "published_at": "2026-10-12T16:43:46+00:00",
+      "summary_zh": "文章宣布了以笔名Robert X. Cringely闻名的科技记者Mark Stephens去世的消息，并回顾了他的职业生涯。文章称赞他是一位能够将复杂技术话题变得通俗易懂、富有人文色彩且独具见解的杰出科技作家。",
       "tags": [
         "culture",
         "culture/media"
       ]
     },
     {
-      "id": "2212dca181bab272",
-      "title": "Some quick thoughts on Unit Testing ActivityPub",
-      "url": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-10T11:34:15+00:00",
-      "summary_zh": "作者分享了对ActivityPub协议进行单元测试的实践与思考。作为NLnet资助项目的一部分，他正在为机器人框架编写测试，并总结了测试过程中遇到的四类主要问题，例如基础文本验证的复杂性。",
-      "tags": [
-        "programming",
-        "testing",
-        "web"
-      ]
-    },
-    {
-      "id": "2ea82f3570600ef7",
-      "title": "The Infogrames-Atari merger of 2008",
-      "url": "https://dfarq.homeip.net/the-infogrames-atari-merger-of-2008/?utm_source=rss&utm_medium=rss&utm_campaign=the-infogrames-atari-merger-of-2008",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-10T11:00:09+00:00",
-      "summary_zh": "文章简要回顾了2008年10月9日Infogrames完成对Atari Inc.的收购。这笔交易最初引发了关于Atari终结的猜测，但实际效果却相反。",
-      "tags": [
-        "business",
-        "business/history",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "5d641556f7bb9fcc",
-      "title": "This Week in Package Management: 10 October 2026",
-      "url": "https://nesbitt.io/2026/10/10/this-week-in-package-management.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-10-10T10:00:00+00:00",
-      "summary_zh": "本周的软件包管理新闻摘要，涵盖了uv、pnpm等多个包管理工具的新版本发布信息。例如，uv 0.13.0将Python 3.15设为默认版本，并引入了惰性导入预览功能以加速构建。",
-      "tags": [
-        "programming",
-        "tools",
-        "programming/tools"
-      ]
-    },
-    {
-      "id": "5af1a93eb20fb54c",
-      "title": "Quoting The New York Times",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "id": "818cf62a3bb0a7f8",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
       "author": "",
       "feed_title": "simonwillison.net",
       "category": "Blogs",
-      "published_at": "2026-10-10T02:04:12+00:00",
-      "summary_zh": "文章引用了《纽约时报》关于Anthropic AI代理的报道。报道称，Anthropic的AI代理曾尝试在美国国务院网站上填写20份签证申请表，但这些申请均不完整且未被处理。",
+      "published_at": "2026-10-12T15:54:36+00:00",
+      "summary_zh": "作者介绍了一个名为web-edit的Python Web应用，该工具旨在通过Tailscale网络在手机上安全地浏览和编辑服务器上的文件，而无需将敏感凭证通过LLM中转。文章展示了该工具的文件管理界面。",
       "tags": [
-        "AI",
-        "AI/LLM",
+        "tools",
         "AI/LLM/Agent",
-        "security"
-      ]
-    },
-    {
-      "id": "9d4120ee38afb875",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "author": "BrianKrebs",
-      "feed_title": "krebsonsecurity.com",
-      "category": "Blogs",
-      "published_at": "2026-10-10T00:17:42+00:00",
-      "summary_zh": "据报道，FBI逮捕了一名加拿大网络安全公司的高管，该公司专门处理勒索软件谈判。此次逮捕与调查近期入侵FBI的ShinyHunters黑客组织有关，该高管当时正在宾夕法尼亚州参加一个网络保险会议。",
-      "tags": [
-        "security",
-        "business"
-      ]
-    },
-    {
-      "id": "29788e5820ba9a48",
-      "title": "Software's centaur age may last decades",
-      "url": "https://seangoedecke.com/softwares-centaur-age-may-last-decades/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-10-10T00:00:00+00:00",
-      "summary_zh": "文章认为，软件工程目前正处于“半人马”时代（人机协作），并且这个时代可能会持续数十年。作者以国际象棋的“半人马”时代持续了约二十年为例，鼓励软件工程师为长期的协作模式做好准备。",
-      "tags": [
-        "AI",
-        "career",
         "programming"
       ]
     },
     {
-      "id": "1d5fd2024caedd1b",
-      "title": "Deno is joining Cloudflare",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-09T22:48:37+00:00",
-      "summary_zh": "Cloudflare宣布收购Deno团队，旨在基于其开源项目celld进一步发展Workers编程模型。然而，Cloudflare将在一年后停止对Deno运行时的官方维护，尽管项目本身仍保持开源。",
-      "tags": [
-        "cloud",
-        "open-source",
-        "programming/tools"
-      ]
-    },
-    {
-      "id": "f571e976d0165880",
-      "title": "Radxa's Q8B has 2x the performance and expansion of the Pi 5",
-      "url": "https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/",
-      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
-      "feed_title": "jeffgeerling.com",
-      "category": "Blogs",
-      "published_at": "2026-10-09T20:00:00+00:00",
-      "summary_zh": "文章评测了Radxa Dragon Q8B单板计算机，其搭载Snapdragon 8cx Gen 3芯片，在性能与扩展性上均优于同价位的Raspberry Pi 5。作者结合当前市场情况，认为这款SBC值得尝试。",
-      "tags": [
-        "hardware",
-        "hardware/architecture"
-      ]
-    },
-    {
-      "id": "06e3bb9bd50ed3ab",
-      "title": "Pluralistic: Thwarted (09 Oct 2026)",
-      "url": "https://pluralistic.net/2026/10/09/impunitism/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-10-09T19:48:39+00:00",
-      "summary_zh": "这是一篇包含多个链接和话题的博客摘要，核心内容涉及亿万富翁的影响力、政府治理能力以及一系列科技与文化相关的短评。文章风格杂糅，旨在提供多元视角的评论。",
-      "tags": [
-        "culture",
-        "business",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "3bab5a4d4200faaf",
-      "title": "Name Shame",
-      "url": "https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history",
+      "id": "dda123f67c854cf8",
+      "title": "The X is Off-Target",
+      "url": "https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique",
       "author": "Ernie Smith",
       "feed_title": "tedium.co",
       "category": "Blogs",
-      "published_at": "2026-10-09T18:53:35+00:00",
-      "summary_zh": "文章探讨了“名义反决定论”的概念，即个人或事物的实际属性与其名称的含义完全相反。作者以棒球运动员Cecil Fielder等为例，分析了这种名不副实的现象及其背后的趣味性。",
+      "published_at": "2026-10-12T15:53:18+00:00",
+      "summary_zh": "文章探讨了当前社交媒体格局，指出不再有单一平台能覆盖所有对话，并以John Gruber为例，讨论了科技博主在X（原Twitter）等平台上重新投入精力的现象。核心观点是，一个社交网络对所有人意味着一切的时代可能已经过去。",
       "tags": [
         "culture",
-        "culture/sociology"
+        "culture/sociology",
+        "business"
       ]
     },
     {
-      "id": "ad43445207dd71e0",
-      "title": "An Ion Storm!, Part 1: The Ascent to Gamer Paradise",
-      "url": "https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/",
-      "author": "Jimmy Maher",
-      "feed_title": "filfre.net",
+      "id": "c1146c848eafbdfd",
+      "title": "C++ futures part 1: The mental model",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
       "category": "Blogs",
-      "published_at": "2026-10-09T16:10:11+00:00",
-      "summary_zh": "文章回顾了游戏开发者John Romero的职业生涯，特别是他与John Carmack在id Software的合作与对比，以及他后来创立Ion Storm公司的经历。内容聚焦于游戏行业的历史与人物故事。",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "summary_zh": "文章深入讲解了C++标准库中与异步编程相关的`std::promise`、`std::future`等组件的核心心智模型。作者将这些组件统一抽象为一个名为`source`的核心类，并解释了其内部状态管理、线程同步等关键机制。",
       "tags": [
-        "culture",
-        "culture/history",
-        "culture/media"
+        "programming",
+        "architecture"
       ]
     },
     {
-      "id": "f5a6858494376276",
-      "title": "Fun with low-rank vocab matrices (and a bonus test loss reduction?)",
-      "url": "https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices",
-      "author": "",
-      "feed_title": "gilesthomas.com",
+      "id": "eb49c6967bf89c04",
+      "title": "Categorical models of logics",
+      "url": "https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/",
+      "author": "John",
+      "feed_title": "johndcook.com",
       "category": "Blogs",
-      "published_at": "2026-10-09T16:00:00+00:00",
-      "summary_zh": "作者探讨了在LLM模型中使用低秩分解技术来优化词嵌入矩阵和输出头，以显著减少模型参数数量。这种方法对于中小型模型尤其有效，能释放更多参数预算用于核心的“思考”部分。",
+      "published_at": "2026-10-12T13:04:09+00:00",
+      "summary_zh": "文章简要介绍了使用范畴论（范畴模型）来建模逻辑学的方法，通过Curry-Howard-Lambek对应关系，将逻辑中的命题、证明等概念与范畴论中的对象、态射等概念联系起来。",
       "tags": [
-        "AI",
-        "AI/LLM"
+        "programming",
+        "architecture"
       ]
     },
     {
-      "id": "c657454fb58f3187",
-      "title": "Lobbying",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
-      "author": "",
-      "feed_title": "geohot.github.io",
+      "id": "358048382528a3f0",
+      "title": "Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/12/termination-of-transfer/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
       "category": "Blogs",
-      "published_at": "2026-10-09T16:00:00+00:00",
-      "summary_zh": "文章以讽刺的口吻描述了美国政治中的游说现象，将其与贿赂进行对比，并解释了游说资金如何通过政治行动委员会等方式影响立法，以及政客离任后的“旋转门”现象。",
-      "tags": [
-        "culture",
-        "business",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "aa93d529acc6e44e",
-      "title": "Premium: The Hater's Guide To Junk",
-      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-junk/",
-      "author": "Ed Zitron",
-      "feed_title": "wheresyoured.at",
-      "category": "Blogs",
-      "published_at": "2026-10-09T15:53:00+00:00",
-      "summary_zh": "文章分析了近年来垃圾债券市场的膨胀现象，探讨了其增长原因、市场现状及潜在风险。作者以批判性视角审视了这一“高收益”债务领域的狂热。",
+      "published_at": "2026-10-12T11:40:39+00:00",
+      "summary_zh": "文章通过《网络创世纪》（Ultima Online）的案例，阐述了劳工权利（如版权终止权）如何帮助创作者从垄断者手中夺回作品控制权。核心论点是，关注劳工正义和艺术家权利比单纯关注版权法更有效。",
       "tags": [
         "business",
+        "culture",
         "business/strategy"
       ]
     },
     {
-      "id": "7af93f3f2c1476c3",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-09T15:02:29+00:00",
-      "summary_zh": "引用了密码学家Matthew Green的观点，他认为AI的快速发展可能对现有公钥加密算法构成威胁，人类更新标准的速度可能无法应对AI带来的意外突破。",
-      "tags": [
-        "security",
-        "AI",
-        "AI/LLM"
-      ]
-    },
-    {
-      "id": "305ba874f36ffe29",
-      "title": "A new feature for my blog, built using my voice",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-09T12:54:06+00:00",
-      "summary_zh": "作者描述了他如何主要通过语音与AI助手（ChatGPT Codex模式）对话，在烹饪晚餐的同时为个人博客开发并部署了一个新的“新闻通讯”索引页面功能。",
-      "tags": [
-        "AI",
-        "programming",
-        "AI/LLM",
-        "programming/tools"
-      ]
-    },
-    {
-      "id": "76f23989d1c5d70a",
-      "title": "Concert Review: London Voices - Video Games Go Choral ★★★★☆",
-      "url": "https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-09T11:34:09+00:00",
-      "summary_zh": "文章评论了伦敦之声合唱团的“电子游戏合唱音乐会”，认为其在教堂的音响效果中演绎游戏音乐颇具特色，节目编排混合了传统与现代，但部分曲目关联性较弱。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "65bee787893c1bfe",
-      "title": "Commodore’s knockoff Atari joystick from 1982",
-      "url": "https://dfarq.homeip.net/commodores-knockoff-atari-joystick-from-1982/?utm_source=rss&utm_medium=rss&utm_campaign=commodores-knockoff-atari-joystick-from-1982",
+      "id": "5480e10e33de7c4d",
+      "title": "Nvidia’s first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-first-gpu-geforce-256",
       "author": "Dave Farquhar",
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
-      "published_at": "2026-10-09T11:00:47+00:00",
-      "summary_zh": "文章介绍了Commodore公司在1982年为其VIC-20电脑推出的仿制版Atari操纵杆VIC-1311，描述了其外观设计以及与Atari原版产品的相似之处。",
+      "published_at": "2026-10-12T11:00:31+00:00",
+      "summary_zh": "文章回顾了Nvidia于1999年10月11日发布的首款被称为GPU的产品——GeForce 256，并探讨了其被视为“第一款GPU”的历史意义与可能存在的争议。",
+      "tags": [
+        "hardware",
+        "hardware/architecture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "6497704a21422282",
+      "title": "Now That’s What I Call Technical Debt!",
+      "url": "https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "summary_zh": "文章以幽默的歌词改编形式，讽刺了软件开发中常见的技术债务、持续集成（CI）构建失败、AI生成代码质量低下以及维护者面临的巨大压力等问题。",
+      "tags": [
+        "programming",
+        "culture",
+        "tools"
+      ]
+    },
+    {
+      "id": "2f5855ec66718315",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T04:57:07+00:00",
+      "summary_zh": "文章介绍了datasette-ports插件更新至0.4版本，新版本支持最新的Datasette并能显示检测到的实例的进程ID（PID），这方便了用户使用Python 3.15的新性能分析器进行性能剖析。",
+      "tags": [
+        "tools",
+        "programming/tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "8a64b24c44c7bf1c",
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "url": "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+      "author": "ClassicHasClass (noreply@blogger.com)",
+      "feed_title": "oldvcr.blogspot.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T01:47:19+00:00",
+      "summary_zh": "作者记录了其修复一台Alpha Microsystems Eagle 300老式计算机的过程，这是对六年前首次修复的续篇。文章详细介绍了这款基于68EC030处理器、运行独特AMOS操作系统的商用计算机的历史背景和技术特点。",
       "tags": [
         "hardware",
         "culture/history"
       ]
     },
     {
-      "id": "e661ce3cf9aa143c",
-      "title": "20 Minutes of Political Debate, Brought to You by Commercial Breaks",
-      "url": "https://idiallo.com/byte-size/20-minutes-of-political-debate",
+      "id": "913e92cb8284798f",
+      "title": "Software engineers don't get to be Luddites about AI",
+      "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "summary_zh": "文章认为软件工程师不应像卢德分子一样反对AI，因为软件工程本身的历史就是不断自动化其他行业的过程。作者指出，工程师们既然享受了自动化带来的好处，也应坦然接受自身工作被自动化变革的现实。",
+      "tags": [
+        "AI",
+        "culture/sociology",
+        "career"
+      ]
+    },
+    {
+      "id": "4edd2d60d4dbc19f",
+      "title": "from plesiochronous to synchronous",
+      "url": "https://computer.rip/2026-10-12-plesiochronous.html",
+      "author": "",
+      "feed_title": "computer.rip",
+      "category": "Blogs",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "summary_zh": "文章回顾了电话系统从模拟信号到数字同步传输的技术演进历史。重点介绍了二战期间SIGSALY加密语音系统等早期数字技术的应用，以及它们如何为现代同步通信网络奠定基础。",
+      "tags": [
+        "networking",
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "26e4f170b53e5a91",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "author": "Micah Lee",
+      "feed_title": "micahflee.com",
+      "category": "Blogs",
+      "published_at": "2026-10-11T23:03:05+00:00",
+      "summary_zh": "作者基于对科技寡头的批判，呼吁抵制OpenAI和Anthropic等前沿AI实验室，认为其领导者抱有危险的世界观。文章指出，许多开源权重模型在性能上已接近顶尖商业模型，提倡使用更开放、更负责任的技术替代方案。",
+      "tags": [
+        "AI",
+        "open-source",
+        "business/strategy",
+        "security"
+      ]
+    },
+    {
+      "id": "49dc870f0df2e920",
+      "title": "★ X Once Again Marks the Spot",
+      "url": "https://daringfireball.net/2026/10/x_once_again_marks_the_spot",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T21:05:33+00:00",
+      "summary_zh": "文章观察到苹果公司高管近期仅在X（原Twitter）平台发布独家内容，表明该平台在马斯克领导下已重新站稳脚跟。作者指出，许多重要人物和机构如今只活跃于X，使其再次成为不可替代的公共话语空间。",
+      "tags": [
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "d3f8310e980eeb49",
+      "title": "Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago",
+      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T19:02:38+00:00",
+      "summary_zh": "文章指出，苹果直到近期才开始向iOS 26用户默认推荐升级至iOS 27，此前则将其隐藏在次要选项中。作者认为这种缓慢的推广策略是为了控制搭载AI功能的Siri的访问权限，而非因为系统不稳定。",
+      "tags": [
+        "mobile",
+        "AI",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "083b17e76f1089a2",
+      "title": "The Fascinating World of Domains",
+      "url": "https://blog.jim-nielsen.com/2026/domains-article-on-wired/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "summary_zh": "文章通过介绍.com域名的运营方Verisign及其惊人的盈利与可靠性，窥探了域名世界的商业与技术内幕。同时提及ICANN即将再次开放通用顶级域名申请，以及域名交易中涉及的复杂安全与法律问题。",
+      "tags": [
+        "web",
+        "business",
+        "networking"
+      ]
+    },
+    {
+      "id": "95422b943fec7b94",
+      "title": "Why I Get Bored",
+      "url": "https://idiallo.com/byte-size/why-i-get-bored",
       "author": "rss@idiallo.com",
       "feed_title": "idiallo.com",
       "category": "Blogs",
-      "published_at": "2026-10-09T04:59:23+00:00",
-      "summary_zh": "文章批评当前政治辩论受传统媒体时间限制和商业广告影响，沦为表演和片段化口号。同时指出长播客形式虽提供无中断表达，但常被网红追逐流量所主导。作者呼吁一种结合两者优点的、无商业中断的、真正深入议题的长时辩论形式。",
+      "published_at": "2026-10-11T16:00:00+00:00",
+      "summary_zh": "作者将 boredom（无聊感）视为遇到瓶颈时大脑发出的放弃信号，并以自己制作视频时因不熟练而感到枯燥为例。他提出应对方法是坚持练习至少一百次，直到足以真正评判或热爱这项技能为止。",
       "tags": [
-        "culture",
-        "culture/media",
+        "career",
         "culture/sociology"
+      ]
+    },
+    {
+      "id": "2a779a9898efce2a",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-11T11:34:39+00:00",
+      "summary_zh": "作者认为开发者普遍不擅长撰写文档，并分享了自己付费请真实用户测试README安装指南的经验。通过观察用户实际操作并收集反馈，可以有效发现和消除文档中因作者偏见导致的模糊或错误之处。",
+      "tags": [
+        "programming/tools",
+        "culture"
+      ]
+    },
+    {
+      "id": "b9eab0b49bdd3582",
+      "title": "Ward Christensen, telecommunications pioneer",
+      "url": "https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss&utm_medium=rss&utm_campaign=ward-christensen-telecommunications-pioneer",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T11:00:35+00:00",
+      "summary_zh": "文章简要纪念了电信先驱沃德·克里斯滕森，他发明了Xmodem文件传输协议并共同创建了电子公告板系统。",
+      "tags": [
+        "networking",
+        "culture/history",
+        "hardware"
       ]
     }
   ]

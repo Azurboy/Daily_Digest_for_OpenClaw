@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-13",
+  "article_count": 21,
+  "tokens_used": 11057,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "e62cea51a1661964",
+      "title": "The Dock on Mac, From OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "summary_zh": "作者分享了其研究macOS系统Dock栏图标设计历史的经历，并整理了一张从OS X Cheetah到macOS Golden Gate等历代系统中Dock栏应用图标外观的对比图。文章旨在保存和归档这张展示macOS Dock视觉演变历史的图像。",
+      "tags": [
+        "design",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "901eddfa61b84a5e",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T18:15:38+00:00",
+      "summary_zh": "文章介绍了Python 3.15版本的新特性，重点讨论了显式延迟导入（Explicit lazy imports）功能及其对插件系统开发的实际益处。作者还提到，随着新版本发布，他可以告别Python 3.10并开始使用3.11中的功能。",
+      "tags": [
+        "programming",
+        "open-source"
+      ]
+    },
+    {
+      "id": "3aff4df93e8956c0",
+      "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T16:43:46+00:00",
+      "summary_zh": "文章宣布了以笔名Robert X. Cringely闻名的科技记者Mark Stephens去世的消息，并回顾了他的职业生涯。文章称赞他是一位能够将复杂技术话题变得通俗易懂、富有人文色彩且独具见解的杰出科技作家。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "818cf62a3bb0a7f8",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T15:54:36+00:00",
+      "summary_zh": "作者介绍了一个名为web-edit的Python Web应用，该工具旨在通过Tailscale网络在手机上安全地浏览和编辑服务器上的文件，而无需将敏感凭证通过LLM中转。文章展示了该工具的文件管理界面。",
+      "tags": [
+        "tools",
+        "AI/LLM/Agent",
+        "programming"
+      ]
+    },
+    {
+      "id": "dda123f67c854cf8",
+      "title": "The X is Off-Target",
+      "url": "https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-10-12T15:53:18+00:00",
+      "summary_zh": "文章探讨了当前社交媒体格局，指出不再有单一平台能覆盖所有对话，并以John Gruber为例，讨论了科技博主在X（原Twitter）等平台上重新投入精力的现象。核心观点是，一个社交网络对所有人意味着一切的时代可能已经过去。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "business"
+      ]
+    },
+    {
+      "id": "c1146c848eafbdfd",
+      "title": "C++ futures part 1: The mental model",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "summary_zh": "文章深入讲解了C++标准库中与异步编程相关的`std::promise`、`std::future`等组件的核心心智模型。作者将这些组件统一抽象为一个名为`source`的核心类，并解释了其内部状态管理、线程同步等关键机制。",
+      "tags": [
+        "programming",
+        "architecture"
+      ]
+    },
+    {
+      "id": "eb49c6967bf89c04",
+      "title": "Categorical models of logics",
+      "url": "https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T13:04:09+00:00",
+      "summary_zh": "文章简要介绍了使用范畴论（范畴模型）来建模逻辑学的方法，通过Curry-Howard-Lambek对应关系，将逻辑中的命题、证明等概念与范畴论中的对象、态射等概念联系起来。",
+      "tags": [
+        "programming",
+        "architecture"
+      ]
+    },
+    {
+      "id": "358048382528a3f0",
+      "title": "Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/12/termination-of-transfer/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T11:40:39+00:00",
+      "summary_zh": "文章通过《网络创世纪》（Ultima Online）的案例，阐述了劳工权利（如版权终止权）如何帮助创作者从垄断者手中夺回作品控制权。核心论点是，关注劳工正义和艺术家权利比单纯关注版权法更有效。",
+      "tags": [
+        "business",
+        "culture",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "5480e10e33de7c4d",
+      "title": "Nvidia’s first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-first-gpu-geforce-256",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T11:00:31+00:00",
+      "summary_zh": "文章回顾了Nvidia于1999年10月11日发布的首款被称为GPU的产品——GeForce 256，并探讨了其被视为“第一款GPU”的历史意义与可能存在的争议。",
+      "tags": [
+        "hardware",
+        "hardware/architecture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "6497704a21422282",
+      "title": "Now That’s What I Call Technical Debt!",
+      "url": "https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "summary_zh": "文章以幽默的歌词改编形式，讽刺了软件开发中常见的技术债务、持续集成（CI）构建失败、AI生成代码质量低下以及维护者面临的巨大压力等问题。",
+      "tags": [
+        "programming",
+        "culture",
+        "tools"
+      ]
+    },
+    {
+      "id": "2f5855ec66718315",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T04:57:07+00:00",
+      "summary_zh": "文章介绍了datasette-ports插件更新至0.4版本，新版本支持最新的Datasette并能显示检测到的实例的进程ID（PID），这方便了用户使用Python 3.15的新性能分析器进行性能剖析。",
+      "tags": [
+        "tools",
+        "programming/tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "8a64b24c44c7bf1c",
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "url": "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+      "author": "ClassicHasClass (noreply@blogger.com)",
+      "feed_title": "oldvcr.blogspot.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T01:47:19+00:00",
+      "summary_zh": "作者记录了其修复一台Alpha Microsystems Eagle 300老式计算机的过程，这是对六年前首次修复的续篇。文章详细介绍了这款基于68EC030处理器、运行独特AMOS操作系统的商用计算机的历史背景和技术特点。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "913e92cb8284798f",
+      "title": "Software engineers don't get to be Luddites about AI",
+      "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "summary_zh": "文章认为软件工程师不应像卢德分子一样反对AI，因为软件工程本身的历史就是不断自动化其他行业的过程。作者指出，工程师们既然享受了自动化带来的好处，也应坦然接受自身工作被自动化变革的现实。",
+      "tags": [
+        "AI",
+        "culture/sociology",
+        "career"
+      ]
+    },
+    {
+      "id": "4edd2d60d4dbc19f",
+      "title": "from plesiochronous to synchronous",
+      "url": "https://computer.rip/2026-10-12-plesiochronous.html",
+      "author": "",
+      "feed_title": "computer.rip",
+      "category": "Blogs",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "summary_zh": "文章回顾了电话系统从模拟信号到数字同步传输的技术演进历史。重点介绍了二战期间SIGSALY加密语音系统等早期数字技术的应用，以及它们如何为现代同步通信网络奠定基础。",
+      "tags": [
+        "networking",
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "26e4f170b53e5a91",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "author": "Micah Lee",
+      "feed_title": "micahflee.com",
+      "category": "Blogs",
+      "published_at": "2026-10-11T23:03:05+00:00",
+      "summary_zh": "作者基于对科技寡头的批判，呼吁抵制OpenAI和Anthropic等前沿AI实验室，认为其领导者抱有危险的世界观。文章指出，许多开源权重模型在性能上已接近顶尖商业模型，提倡使用更开放、更负责任的技术替代方案。",
+      "tags": [
+        "AI",
+        "open-source",
+        "business/strategy",
+        "security"
+      ]
+    },
+    {
+      "id": "49dc870f0df2e920",
+      "title": "★ X Once Again Marks the Spot",
+      "url": "https://daringfireball.net/2026/10/x_once_again_marks_the_spot",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T21:05:33+00:00",
+      "summary_zh": "文章观察到苹果公司高管近期仅在X（原Twitter）平台发布独家内容，表明该平台在马斯克领导下已重新站稳脚跟。作者指出，许多重要人物和机构如今只活跃于X，使其再次成为不可替代的公共话语空间。",
+      "tags": [
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "d3f8310e980eeb49",
+      "title": "Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago",
+      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T19:02:38+00:00",
+      "summary_zh": "文章指出，苹果直到近期才开始向iOS 26用户默认推荐升级至iOS 27，此前则将其隐藏在次要选项中。作者认为这种缓慢的推广策略是为了控制搭载AI功能的Siri的访问权限，而非因为系统不稳定。",
+      "tags": [
+        "mobile",
+        "AI",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "083b17e76f1089a2",
+      "title": "The Fascinating World of Domains",
+      "url": "https://blog.jim-nielsen.com/2026/domains-article-on-wired/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "summary_zh": "文章通过介绍.com域名的运营方Verisign及其惊人的盈利与可靠性，窥探了域名世界的商业与技术内幕。同时提及ICANN即将再次开放通用顶级域名申请，以及域名交易中涉及的复杂安全与法律问题。",
+      "tags": [
+        "web",
+        "business",
+        "networking"
+      ]
+    },
+    {
+      "id": "95422b943fec7b94",
+      "title": "Why I Get Bored",
+      "url": "https://idiallo.com/byte-size/why-i-get-bored",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-11T16:00:00+00:00",
+      "summary_zh": "作者将 boredom（无聊感）视为遇到瓶颈时大脑发出的放弃信号，并以自己制作视频时因不熟练而感到枯燥为例。他提出应对方法是坚持练习至少一百次，直到足以真正评判或热爱这项技能为止。",
+      "tags": [
+        "career",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "2a779a9898efce2a",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-11T11:34:39+00:00",
+      "summary_zh": "作者认为开发者普遍不擅长撰写文档，并分享了自己付费请真实用户测试README安装指南的经验。通过观察用户实际操作并收集反馈，可以有效发现和消除文档中因作者偏见导致的模糊或错误之处。",
+      "tags": [
+        "programming/tools",
+        "culture"
+      ]
+    },
+    {
+      "id": "b9eab0b49bdd3582",
+      "title": "Ward Christensen, telecommunications pioneer",
+      "url": "https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss&utm_medium=rss&utm_campaign=ward-christensen-telecommunications-pioneer",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-11T11:00:35+00:00",
+      "summary_zh": "文章简要纪念了电信先驱沃德·克里斯滕森，他发明了Xmodem文件传输协议并共同创建了电子公告板系统。",
+      "tags": [
+        "networking",
+        "culture/history",
+        "hardware"
+      ]
+    }
+  ]
+}
