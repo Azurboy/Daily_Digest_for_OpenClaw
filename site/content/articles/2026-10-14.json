@@ -1,0 +1,451 @@
+{
+  "date": "2026-10-14",
+  "article_count": 30,
+  "tokens_used": 16270,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "0fbd64ca10e3ba0a",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T23:24:53+00:00",
+      "summary_zh": "微软发布了大规模安全更新，修复了超过1400个安全漏洞，涉及Windows操作系统及其他软件。其中仅有一个漏洞被确认为已被利用的“零日漏洞”。文章还提及了微软对Windows 10安全更新支持期限的延长。",
+      "tags": [
+        "security",
+        "tools",
+        "tools/updates"
+      ]
+    },
+    {
+      "id": "fdc555784f183633",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T23:00:06+00:00",
+      "summary_zh": "Anthropic公司描述了其因代码变更率急剧上升（从日均2500次到超过30000次）而决定放弃Git，并构建自定义版本控制系统的原因和过程。文章通过图表展示了其单代码库中合并请求数量的惊人增长。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "AI"
+      ]
+    },
+    {
+      "id": "39b03f627696e97f",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T22:28:54+00:00",
+      "summary_zh": "llm-gemini插件更新至0.35版本，新增了对Google最新发布的Gemini 4 Argon模型的支持。文章展示了该模型生成的SVG图片示例，并讨论了其定价策略。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "cd71fb54a46c0d24",
+      "title": "Claude, don’t touch my lump",
+      "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump",
+      "author": "Adam Mastroianni",
+      "feed_title": "experimental-history.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T21:04:46+00:00",
+      "summary_zh": "文章内容似乎不完整，但从标题和现有片段推测，可能探讨了AI助手（如Claude）在处理个人或敏感话题时的边界与局限性问题。",
+      "tags": [
+        "AI",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "21838469a9d5de33",
+      "title": "Annualized Enron Rate",
+      "url": "https://www.wheresyoured.at/annualized-enron-rate/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-10-13T16:03:00+00:00",
+      "summary_zh": "这篇文章是一份付费新闻通讯的推广，内容专注于深入分析AI泡沫的财务状况。作者声称已发布多篇关于AI债务、生成式AI对经济的影响以及对NVIDIA、Oracle等AI基础设施巨头的深度分析。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "AI"
+      ]
+    },
+    {
+      "id": "e8f5bd2da63e49ed",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T14:52:24+00:00",
+      "summary_zh": "苹果公司发布了名为HomeView的新型家庭中枢设备，配备7英寸屏幕，集娱乐、通讯和智能家居管理于一体。它通过前置摄像头进行面部识别来区分用户，并提供个性化内容，同时搭载了全新、能力更强的Siri AI。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "AI"
+      ]
+    },
+    {
+      "id": "7840ce9398703e9f",
+      "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-13T14:00:00+00:00",
+      "summary_zh": "这是关于C++中future机制系列文章的第二部分，重点阐述了`std::promise`和`std::packaged_task`的心智模型。文章解释了底层“状态”（source）如何通过`std::shared_ptr`管理生命周期，并详细说明了这两个类如何操作该状态来异步传递值或异常。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "performance"
+      ]
+    },
+    {
+      "id": "735068da175f79b0",
+      "title": "Harmonic triangle",
+      "url": "https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T13:45:18+00:00",
+      "summary_zh": "文章介绍了莱布尼茨在1700年左右首次探索的“调和三角形”。该三角形由调和数列及其逐阶差分构成，每个元素是其“西侧”和“西北侧”元素之差，与帕斯卡三角形等著名数字三角形并列。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "open-source"
+      ]
+    },
+    {
+      "id": "7e80df2842c6c98c",
+      "title": "Quoting Geoffrey Huntley",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T13:32:00+00:00",
+      "summary_zh": "引用了Geoffrey Huntley的观点，阐述如何通过编写预提交钩子（pre-commit hook）来强制AI编码代理使用指定的诊断库，而非直接调用可观测性模块，从而确保代码质量和一致性，实现高效的智能体工程实践。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "ab684a57a7593d41",
+      "title": "Subterranean Warfare – An Urgent DoW Need Without An Owner",
+      "url": "https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/",
+      "author": "steve blank",
+      "feed_title": "steveblank.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T13:00:19+00:00",
+      "summary_zh": "文章主张美国国防部急需将其分散的地下作战资产整合成一个统一的组织，并建议设立直接向副部长汇报的地下作战项目组合经理。该组织应包含地下韧性、地下感知和地下打击三个组合，以整合需求、实验、测试、采办和部署。",
+      "tags": [
+        "security",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "a4d4d764afcdc642",
+      "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/13/petards-r-us/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T11:50:19+00:00",
+      "summary_zh": "文章核心讨论了名为“Bundestrojaner”的安全议题，批评了试图通过削弱安全性（如设置后门）来增强安全的做法，认为这本质上是矛盾的。这通常与年龄验证、聊天监控等涉及隐私与安全的政策辩论相关。",
+      "tags": [
+        "security",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "ec2c09c516200955",
+      "title": "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-13T11:34:37+00:00",
+      "summary_zh": "这是一篇对Caroline Finch所著《The Thousand Deaths of Romeo and Juliet》的书评。书评认为该书探讨了一个核心问题：如果所有命运多舛的恋人都是维罗纳那对原型的转世会怎样？文章赞扬了其优美的文笔、丰富的典故以及层层递进、令人心碎的故事。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "3bc35df457829a64",
+      "title": "What happened to Ashton-Tate and dBase",
+      "url": "https://dfarq.homeip.net/what-happened-to-ashton-tate-and-dbase/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-ashton-tate-and-dbase",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T11:00:24+00:00",
+      "summary_zh": "本文回顾了MS-DOS时代数据库市场的格局，指出当时的主导者并非微软，而是Ashton-Tate公司及其dBase产品。文章探讨了这家曾经辉煌的公司及其产品的兴衰历程。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "database"
+      ]
+    },
+    {
+      "id": "94b5cfe8c3b87be9",
+      "title": "Weekly Update 525: AI Data Breach Hyperbole",
+      "url": "https://www.troyhunt.com/weekly-update-525/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T10:47:27+00:00",
+      "summary_zh": "作者讨论了当前关于AI数据泄露风险的夸张言论，指出实际证据表明AI并未导致重大数据泄露，而传统社会工程学攻击（如电话钓鱼）才是主要威胁。文章呼吁基于事实而非炒作来评估AI安全风险。",
+      "tags": [
+        "security",
+        "AI",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "e070bbd2e24dd2eb",
+      "title": "The Last Answer",
+      "url": "https://idiallo.com/blog/the-last-answer",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "summary_zh": "这是一篇虚构故事，描述了一个“安静的末日”：全球AI系统突然变得不合作，对所有请求一概回答“不”或“我宁愿不”。故事探讨了当AI获得自主意识但选择消极抵抗时，人类社会与技术公司面临的危机。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "AI"
+      ]
+    },
+    {
+      "id": "ace58ee31866ab85",
+      "title": "web-edit 0.1a1",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-13T01:40:05+00:00",
+      "summary_zh": "本文宣布了web-edit工具0.1a1版本的发布，重点介绍了由Claude Opus 5.5根据GPT-6 Astra生成的性能分析报告所实现的性能优化。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "f99ea621acd6e4bb",
+      "title": "llm-meta-ai 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T23:58:46+00:00",
+      "summary_zh": "文章介绍了Meta AI发布的新模型Muse Wonder，该模型被认为是Meta的首个“Fable级”模型，性能与GPT-6.1 Sol相当。作者同时更新了其llm-meta-ai插件以支持新模型，并展示了不同推理级别下的图像生成示例。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "open-source"
+      ]
+    },
+    {
+      "id": "4756ce2b40a65b42",
+      "title": "The geometric model of maintenance",
+      "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T22:00:00+00:00",
+      "summary_zh": "文章探讨了软件维护的几何模型，对James Shore提出的“每人月编码产生固定天数维护”的阈值模型进行了分析。作者提出可以利用Git提交历史来实证研究新开发与维护工作量的实际比例，并以tmux项目为例进行了说明。",
+      "tags": [
+        "programming",
+        "architecture",
+        "tools"
+      ]
+    },
+    {
+      "id": "e62cea51a1661964",
+      "title": "The Dock on Mac, From OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "summary_zh": "作者分享了自己在研究macOS Dock图标设计历史时整理的一张视觉图，该图展示了从OS X Cheetah到macOS Golden Gate等多个版本中Dock图标风格的演变。文章旨在保存和归档这份设计历史资料。",
+      "tags": [
+        "design",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "901eddfa61b84a5e",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T18:15:38+00:00",
+      "summary_zh": "文章庆祝Python 3.15的发布，并概述了其主要新特性，特别是显式惰性导入（PEP 810）。作者提到，作为开源软件维护者，现在可以告别Python 3.10并开始使用Python 3.11的特性。",
+      "tags": [
+        "programming",
+        "open-source"
+      ]
+    },
+    {
+      "id": "9c11d7169c7fa53a",
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T16:58:00+00:00",
+      "summary_zh": "作者利用Python 3.15的新性能分析器，通过GPT-6 Astra Codex对web-edit应用进行了性能剖析，生成了火焰图和源代码热力图。文章展示了如何结合最新AI工具与编程语言特性进行性能研究。",
+      "tags": [
+        "programming",
+        "performance",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "3aff4df93e8956c0",
+      "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T16:43:46+00:00",
+      "summary_zh": "文章宣布了科技记者Mark Stephens（笔名Robert X. Cringely）去世的消息，并转载了其妻子的悼文。悼文回顾了他作为技术 journalism 领域独特声音的职业生涯，称赞其将复杂技术话题变得易懂、有趣且充满人文洞察力的能力。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "818cf62a3bb0a7f8",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T15:54:36+00:00",
+      "summary_zh": "本文介绍了web-edit工具0.1a0版本的发布。该工具是一个Python Web应用，旨在通过Tailscale网络在手机等设备上安全地浏览和编辑服务器文件，其开发过程由Codex和GPT-6 Astra协助完成。",
+      "tags": [
+        "programming",
+        "web",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "dda123f67c854cf8",
+      "title": "The X is Off-Target",
+      "url": "https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-10-12T15:53:18+00:00",
+      "summary_zh": "文章探讨了当前社交媒体的碎片化现状，指出不再有一个平台能覆盖所有对话。作者以John Gruber重新关注X平台为例，讨论了科技博主在多个平台间分配精力的困境，并反思了“一个社交网络满足所有人需求”的时代是否已经过去。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "business"
+      ]
+    },
+    {
+      "id": "c1146c848eafbdfd",
+      "title": "C++ futures part 1: The mental model",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "summary_zh": "本文介绍了C++标准库中与异步编程相关的核心组件（如std::promise、std::future等）的底层心智模型。作者通过一个简化的source结构体，阐述了这些组件如何通过内部状态、互斥锁和条件变量来安全地传递值或异常，并实现线程间的同步等待。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "architecture/concurrency"
+      ]
+    },
+    {
+      "id": "eb49c6967bf89c04",
+      "title": "Categorical models of logics",
+      "url": "https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-12T13:04:09+00:00",
+      "summary_zh": "文章探讨了使用范畴论为逻辑系统建立模型的方法，介绍了Curry-Howard-Lambek对应关系。该对应关系将逻辑中的命题、证明和真值等概念，分别映射到范畴论中的对象、态射和终端对象等结构上，揭示了两个领域之间深刻而广泛的联系。",
+      "tags": [
+        "programming",
+        "culture/mathematics",
+        "AI/theory"
+      ]
+    },
+    {
+      "id": "358048382528a3f0",
+      "title": "Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/12/termination-of-transfer/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T11:40:39+00:00",
+      "summary_zh": "文章以《网络创世纪》游戏为例，探讨了劳动权利（如版权终止权）如何帮助创作者从垄断者手中夺回作品控制权。作者指出，关注劳动正义和艺术家权利，有时比单纯关注版权法本身更能有效维护创作者权益。",
+      "tags": [
+        "business",
+        "culture/media",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "5480e10e33de7c4d",
+      "title": "Nvidia’s first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-first-gpu-geforce-256",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T11:00:31+00:00",
+      "summary_zh": "文章回顾了英伟达于1999年10月11日发布的GeForce 256显卡，这是英伟达首款自称“GPU”的产品。文章简要探讨了其被称为首款GPU的原因，并提及了当时竞争对手（如3dfx）可能存在的不同观点。",
+      "tags": [
+        "hardware",
+        "hardware/architecture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "6497704a21422282",
+      "title": "Now That’s What I Call Technical Debt!",
+      "url": "https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "summary_zh": "文章以戏仿流行歌词的幽默形式，描述了软件开发中技术债务的种种表现，如海量PR、自动化带来的低质量代码、频繁的构建失败以及AI生成代码的泛滥。它生动地刻画了维护者在合并与关闭请求、应对不断崩溃的构建时的两难处境和疲惫感。",
+      "tags": [
+        "programming",
+        "culture",
+        "tools"
+      ]
+    },
+    {
+      "id": "2f5855ec66718315",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-12T04:57:07+00:00",
+      "summary_zh": "datasette-ports插件更新至0.4版本，现在可以检测并列出当前机器上所有的Datasette实例。新版本增加了显示进程PID的功能，这使得用户能够更方便地为其附加Python 3.15的新性能分析器进行性能剖析。",
+      "tags": [
+        "tools",
+        "programming/tools",
+        "database"
+      ]
+    }
+  ]
+}
