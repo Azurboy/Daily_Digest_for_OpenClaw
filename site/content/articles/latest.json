@@ -1,18 +1,76 @@
 {
-  "date": "2026-10-15",
-  "article_count": 28,
-  "tokens_used": 14834,
+  "date": "2026-10-17",
+  "article_count": 27,
+  "tokens_used": 14618,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
     {
-      "id": "eb4b2d9063ab8e79",
-      "title": "Tree Appreciator",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "id": "47a2395a29b69020",
+      "title": "The Late Charlie Munger on Elon Musk and Tesla",
+      "url": "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T01:22:34+00:00",
+      "summary_zh": "文章引用了已故的查理·芒格在伯克希尔·哈撒韦股东大会上的评论，谈论特斯拉的波动性和埃隆·马斯克的自我推销。芒格表示自己既不会买入也不会做空特斯拉，并引用了一句名言：“永远不要低估那些高估自己的人”，认为马斯克虽然可能高估自己，但并非总是错的。",
+      "tags": [
+        "business",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "cad79c0145fcb658",
+      "title": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T01:00:00+00:00",
+      "summary_zh": "苹果公司宣布加强App Store审核指南，明确禁止未经同意的亲密图像（如“脱衣”应用）和“诱饵调包”应用。文章同时指出，生成此类非自愿图像的最知名平台X（前Twitter）恰恰是苹果高管活跃的社交平台，形成了讽刺对比。",
+      "tags": [
+        "mobile",
+        "AI",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "5f0fa6d4427601f3",
+      "title": "Apple TV Started at $69 in 2015",
+      "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T00:37:01+00:00",
+      "summary_zh": "文章回顾了2015年苹果将Apple TV价格从99美元降至69美元的往事，并附带了蒂姆·库克在发布会上宣布降价时的视频片段和现场观众反应。文章还提到了苹果在疫情后采用预录制发布会所缺失的现场氛围。",
+      "tags": [
+        "culture/media",
+        "hardware"
+      ]
+    },
+    {
+      "id": "9b23b4a4da1bdfd2",
+      "title": "Strange Times Make for Strange Bedfellows",
+      "url": "https://x.com/finkd/status/2110778025629347999",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-16T23:34:03+00:00",
+      "summary_zh": "文章展示了马克·扎克伯格和苹果的约翰·特努斯在X上的互动，内容是关于Meta的Muse Spark Open模型在配备M5 Ultra的新款Mac Studio上高效运行。文章指出扎克伯格不得不在X（而非自家Threads）上发布此消息，因为苹果高管不使用Threads。",
+      "tags": [
+        "AI",
+        "hardware",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "e8a95e9b22df9875",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
       "author": "",
       "feed_title": "simonwillison.net",
       "category": "Blogs",
-      "published_at": "2026-10-14T21:23:01+00:00",
-      "summary_zh": "作者使用Claude Opus 5.5 Max模型，通过自然语言提示构建了一款名为“Tree Appreciator”的3D找不同游戏。模型耗时超过3小时，生成了包含音乐、动画和成就系统的完整游戏，展示了AI在游戏创作方面的强大能力。",
+      "published_at": "2026-10-16T22:06:37+00:00",
+      "summary_zh": "文章引用了Anthropic Claude Code团队关于代码审查的文章观点。他们提出应将审查从“最终关卡”转变为“持续进行”，像拼写检查一样，让Claude AI在代码编写过程中就提前发现并修复大部分常规错误，从而让人类开发者能专注于更高层次的问题。",
       "tags": [
         "AI",
         "AI/LLM/Agent",
@@ -20,397 +78,325 @@
       ]
     },
     {
-      "id": "c527a3c95b60c543",
-      "title": "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-      "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "author": "Daring Fireball Department of Commerce",
+      "id": "e803cdd62745cfd0",
+      "title": "How They Got Duo Support in NetNewsWire",
+      "url": "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html",
+      "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-14T21:03:43+00:00",
-      "summary_zh": "这是一篇关于WorkOS AuthKit的赞助推广文章。AuthKit是一个用户身份验证解决方案，集成了SSO、MFA、密码、社交登录等多种功能，并支持SCIM用户同步和审计日志，旨在简化应用的身份验证开发。",
+      "published_at": "2026-10-16T20:53:42+00:00",
+      "summary_zh": "文章介绍了NetNewsWire博客的内容，其iOS最新版本无需额外工作就原生支持了iPhone Duo的独特屏幕形态。关键在于应用从一开始就遵循了正确的开发方式，使用标准控件并关注尺寸类别等自适应布局特性。",
       "tags": [
-        "web",
-        "security",
+        "mobile",
+        "programming",
         "tools"
       ]
     },
     {
-      "id": "4b8d572d8863c488",
-      "title": "The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room",
-      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+      "id": "b3c11bdf8773bd48",
+      "title": "★ Real Artists Ship, Tesla Edition",
+      "url": "https://daringfireball.net/2026/10/real_artists_ship_tesla_edition",
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-14T20:58:01+00:00",
-      "summary_zh": "美国司法部宣布逮捕一名OpenAI的沙特籍员工，指控其在公司高管会议室安装窃听设备，意图窃取关于“超级智能”技术的敏感通讯。FBI和情报部门将此事件定性为针对美国尖端知识产权和国家安全的外国威胁。",
+      "published_at": "2026-10-16T20:11:23+00:00",
+      "summary_zh": "文章引用Ars Technica的报道，批评特斯拉时隔九年后再次试图复活Roadster跑车，并使用了数十年前的特技技术进行宣传。文章指出埃隆·马斯克有“过度承诺、交付不足”的长期历史，并提及了之前预订者（如Sam Altman）仍未收到车辆或退款的情况。",
       "tags": [
-        "security",
-        "AI",
-        "business"
-      ]
-    },
-    {
-      "id": "0728fa4ca8cab1e2",
-      "title": "LaTeX package for Pascal-like triangles",
-      "url": "https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-10-14T17:58:07+00:00",
-      "summary_zh": "作者在Claude AI的帮助下创建了一个LaTeX宏包（numtriangle.sty），用于优雅地排版帕斯卡三角及其变体（如调和三角）。该宏包简化了此类数学结构的可视化展示，并附有使用示例和编译说明。",
-      "tags": [
-        "culture/mathematics",
-        "programming/tools",
-        "open-source"
-      ]
-    },
-    {
-      "id": "8b2cab1489374fa7",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-14T16:26:53+00:00",
-      "summary_zh": "文章讨论了AI大规模反编译游戏这一新兴趋势的双重影响。积极方面在于极大促进了游戏保存和移植工作；消极方面则可能导致软件被任意窃取、开源，引发知识产权和行业竞争秩序的严重问题。",
-      "tags": [
-        "AI",
-        "culture/media",
-        "security"
-      ]
-    },
-    {
-      "id": "679425e2c5ab85db",
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "author": "BrianKrebs",
-      "feed_title": "krebsonsecurity.com",
-      "category": "Blogs",
-      "published_at": "2026-10-14T14:22:49+00:00",
-      "summary_zh": "英国对加密货币平台Cryptomus实施经济制裁，指控其作为主要渠道，为勒索软件、毒品、暗网市场等犯罪活动洗钱，并帮助俄罗斯规避金融限制。同时被制裁的还有其他几家虚拟支付平台。",
-      "tags": [
-        "security",
-        "business"
-      ]
-    },
-    {
-      "id": "964afbffb44cadb1",
-      "title": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
-      "url": "https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/",
-      "author": "",
-      "feed_title": "berthub.eu",
-      "category": "Blogs",
-      "published_at": "2026-10-14T13:30:00+00:00",
-      "summary_zh": "作者参加了在布鲁塞尔举行的第九届电网网络安全论坛（#CyberGrids26），并进行了现场博客记录。会议汇集了监管机构、电力公司、供应商、研究人员等各方代表，共同讨论电网网络安全问题。",
-      "tags": [
-        "security",
-        "networking",
-        "business"
-      ]
-    },
-    {
-      "id": "b3b8517ec9e768f8",
-      "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
-      "url": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
-      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
-      "feed_title": "jeffgeerling.com",
-      "category": "Blogs",
-      "published_at": "2026-10-14T13:00:00+00:00",
-      "summary_zh": "作者评测了Formlabs新推出的Form Studio 1光固化（SLA）3D打印机。这款打印机售价699美元，定位业余爱好者市场，相比其高端型号Form 4更为亲民。文章分享了作者作为FDM打印机用户首次使用SLA打印机的体验。",
-      "tags": [
-        "hardware",
-        "tools",
-        "design"
-      ]
-    },
-    {
-      "id": "3bbbfb700dec243b",
-      "title": "The Internet of Very Cheap Things",
-      "url": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-14T11:34:08+00:00",
-      "summary_zh": "作者对比了如今与十二年前的IoT设备价格，指出物联网设备已变得非常便宜（例如一个Zigbee彩色灯泡仅售4英镑）。文章探讨了摩尔定律在消费级硬件上的持续影响，并与消耗大量资源的AI热潮形成对比。",
-      "tags": [
-        "hardware",
-        "networking",
-        "culture"
-      ]
-    },
-    {
-      "id": "abfa3657a195d8b3",
-      "title": "A generalization of the Pythagorean theorem",
-      "url": "https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-10-14T11:11:11+00:00",
-      "summary_zh": "文章介绍了一种对毕达哥拉斯定理（勾股定理）的几何推广：在任何三角形的各边上附加正方形，并从顶点作对边的垂线延伸穿过正方形，所形成的特定矩形面积相等。当三角形变为直角三角形时，此定理即退化为经典的勾股定理。",
-      "tags": [
-        "culture/mathematics",
-        "design"
-      ]
-    },
-    {
-      "id": "0e9138ff1d01cdef",
-      "title": "When SCO fired Darl McBride",
-      "url": "https://dfarq.homeip.net/when-sco-fired-darl-mcbride/?utm_source=rss&utm_medium=rss&utm_campaign=when-sco-fired-darl-mcbride",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-14T11:00:08+00:00",
-      "summary_zh": "文章简要回顾了SCO公司于2009年10月14日解雇其CEO达林·麦克布莱德的事件。麦克布莱德因SCO与Linux的法律纠纷曾被称为“科技界最令人讨厌的人”，他于近15年后因ALS并发症去世，终年64岁。",
-      "tags": [
-        "culture/history",
         "business",
-        "open-source"
+        "hardware"
       ]
     },
     {
-      "id": "c4fef396e873f79c",
-      "title": "Poe, Bessel, and Drones",
-      "url": "https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/",
-      "author": "John",
-      "feed_title": "johndcook.com",
+      "id": "0ce0e50d8ee35771",
+      "title": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
+      "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-14T10:00:22+00:00",
-      "summary_zh": "文章探讨了爱伦·坡小说《陷坑与钟摆》中描述的摆长随时间增加的 pendulum 运动方程。通过小角度近似和变量代换，该方程可化为贝塞尔方程，其解为贝塞尔函数。这种模型可应用于起重机下放重物或无人机送货等实际场景。",
+      "published_at": "2026-10-16T17:01:22+00:00",
+      "summary_zh": "文章引用了Palantir CTO Shyam Sankar在电视节目中的言论，他声称许多AI研究人员开始吸烟，以此作为他们深信AI（特别是Claude）将能治愈癌症的“信号”。文章将此现象与Anthropic研究人员中存在的、将AI视为“机器神”的宗教式狂热联系起来。",
       "tags": [
-        "culture/mathematics",
-        "culture/media",
+        "AI",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "6d04cacc087148c9",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-10-16T16:14:39+00:00",
+      "summary_zh": "文章仅提供了一个指向“The Analog Antiquarian”博客最新文章《Opus 6: The Taming of the Shrew》的嵌入式链接，没有提供其他内容或摘要。",
+      "tags": [
+        "culture",
         "culture/history"
       ]
     },
     {
-      "id": "9784d9dc65d9f144",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
-      "author": "",
-      "feed_title": "xeiaso.net",
-      "category": "Blogs",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "summary_zh": "文章以curl项目修复CVE-2026-92392安全漏洞为引，讽刺性地指出C语言是导致此类内存安全漏洞频发的根源。作者借用户之口，强调在C语言中此类漏洞“无法预防”，并指出全球大部分内存安全漏洞都源于此语言。",
-      "tags": [
-        "programming",
-        "security"
-      ]
-    },
-    {
-      "id": "0fbd64ca10e3ba0a",
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "author": "BrianKrebs",
-      "feed_title": "krebsonsecurity.com",
-      "category": "Blogs",
-      "published_at": "2026-10-13T23:24:53+00:00",
-      "summary_zh": "微软发布了大规模安全更新，修复了其Windows操作系统及其他软件中超过1400个安全漏洞。此次补丁数量远超以往，其中包含一个已被利用的零日漏洞。文章还提及了Windows 10安全更新支持期限的延长。",
-      "tags": [
-        "security",
-        "tools/updates"
-      ]
-    },
-    {
-      "id": "fdc555784f183633",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-13T23:00:06+00:00",
-      "summary_zh": "Anthropic公司因其代码变更率急剧增长（从日均2500次合并到超过30000次），决定重新设计并构建了自己的定制化源代码控制工具以替代Git。文章通过图表展示了其单代码库在2026年的合并活动激增过程。",
-      "tags": [
-        "tools",
-        "AI",
-        "programming/tools"
-      ]
-    },
-    {
-      "id": "39b03f627696e97f",
-      "title": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-13T22:28:54+00:00",
-      "summary_zh": "llm-gemini插件更新至0.35版本，新增了对Google新发布的Gemini 4 Argon模型的支持。文章展示了该模型生成的SVG图像示例，并讨论了其定价策略。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "tools/updates"
-      ]
-    },
-    {
-      "id": "cd71fb54a46c0d24",
-      "title": "Claude, don’t touch my lump",
-      "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump",
-      "author": "Adam Mastroianni",
-      "feed_title": "experimental-history.com",
-      "category": "Blogs",
-      "published_at": "2026-10-13T21:04:46+00:00",
-      "summary_zh": "文章内容未能有效提取，从标题和有限内容推测，可能与AI模型（Claude）的交互或限制有关，但具体核心观点不明确。",
-      "tags": [
-        "AI",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "21838469a9d5de33",
-      "title": "Annualized Enron Rate",
-      "url": "https://www.wheresyoured.at/annualized-enron-rate/",
+      "id": "73a49769be5d3a35",
+      "title": "Premium: Venture Capital Is Killing Itself",
+      "url": "https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/",
       "author": "Ed Zitron",
       "feed_title": "wheresyoured.at",
       "category": "Blogs",
-      "published_at": "2026-10-13T16:03:00+00:00",
-      "summary_zh": "文章是一篇关于AI领域财务状况的付费订阅新闻通讯的推广。作者提及了其过往深度分析内容，包括AI债务指南、生成式AI对经济的影响，以及对NVIDIA、Oracle等AI基础设施巨头的分析。",
+      "published_at": "2026-10-16T16:11:45+00:00",
+      "summary_zh": "文章批评2012年通过的《JOBS法案》是一个错误，它允许科技公司和风险投资家合法地“欺骗”大量散户投资者。该法案在让公司更容易融资的同时，也通过降低报告要求， incentivize 公司更长时间保持私有状态，从而助长了鲁莽和破坏性的经营方式。",
       "tags": [
         "business",
-        "AI",
         "business/strategy"
       ]
     },
     {
-      "id": "e8f5bd2da63e49ed",
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "id": "c0aa6596e260ed24",
+      "title": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-13T14:52:24+00:00",
-      "summary_zh": "苹果公司发布了名为HomeView的新型家用智能中心设备，配备7英寸屏幕和升级版Siri AI。该设备通过摄像头进行面部识别以提供个性化内容，并强调隐私安全设计，可与Apple Intelligence设备联动。",
+      "published_at": "2026-10-16T15:19:28+00:00",
+      "summary_zh": "文章报道iPhone Duo开放预购三小时后，所有配置的预计发货日期已排到明年1月底，意味着圣诞前可能已无货。文章分析这可能是高需求和低供应共同作用的结果，并同情了那些早起预购却仍得到较晚发货日期的西海岸用户。",
       "tags": [
-        "hardware",
-        "AI",
-        "mobile"
+        "mobile",
+        "business"
       ]
     },
     {
-      "id": "7840ce9398703e9f",
-      "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/",
+      "id": "a1f6656ddd2ff657",
+      "title": "Monoliths and Lagrange Points",
+      "url": "https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-16T14:37:07+00:00",
+      "summary_zh": "作者观看电影《2010》时被“独石碑位于木星与木卫一之间的拉格朗日点”这一设定所吸引，并进行了考据。文章解释了五个拉格朗日点的位置和稳定性，指出电影中提到的L1或L2点实际上是不稳定的，这可能是一个剧情漏洞，除非后续有解释。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "e12ebbe00b71ef85",
+      "title": "C++ futures part 5: std::future and std::shared_future",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/",
       "author": "Raymond Chen",
       "feed_title": "devblogs.microsoft.com/oldnewthing",
       "category": "Blogs",
-      "published_at": "2026-10-13T14:00:00+00:00",
-      "summary_zh": "这是关于C++中future机制系列文章的第二部分，重点阐述了`std::promise`和`std::packaged_task`的心智模型。文章解释了它们如何与共享的“状态源”交互，以及`packaged_task`如何封装可调用对象来异步产生值。",
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "summary_zh": "本文是C++ futures库系列文章的第五部分，重点介绍了`std::future`和`std::shared_future`。`std::future`是一个仅可移动的类，代表单一消费者对异步计算结果的访问权，其`get`方法只能调用一次。`std::shared_future`则允许多个消费者共享对结果的访问，通过`shared()`方法从`std::future`转换而来。",
       "tags": [
         "programming",
         "architecture/concurrency"
       ]
     },
     {
-      "id": "735068da175f79b0",
-      "title": "Harmonic triangle",
-      "url": "https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-10-13T13:45:18+00:00",
-      "summary_zh": "文章介绍了莱布尼茨研究的“调和三角形”，它是通过不断对调和数列取差分而构造出的一个数字三角形。文中给出了三角形的前几行示例，并说明了其递推关系。",
-      "tags": [
-        "culture",
-        "culture/mathematics"
-      ]
-    },
-    {
-      "id": "7e80df2842c6c98c",
-      "title": "Quoting Geoffrey Huntley",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-13T13:32:00+00:00",
-      "summary_zh": "文章引用了Geoffrey Huntley的观点，描述了一种通过编写预提交钩子来强制AI编码代理使用指定诊断库的方法。该方法通过检查代码变更来确保代理遵循最佳实践，从而实现自动化代码质量管控。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
-        "programming/tools"
-      ]
-    },
-    {
-      "id": "ab684a57a7593d41",
-      "title": "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-      "url": "https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/",
-      "author": "steve blank",
-      "feed_title": "steveblank.com",
-      "category": "Blogs",
-      "published_at": "2026-10-13T13:00:19+00:00",
-      "summary_zh": "文章主张美国国防部急需将分散的地下作战能力整合为一个统一的组织，并建议设立直接向副部长汇报的地下作战项目组合经理。该组织将统筹地下作战的韧性、感知和打击三个核心领域。",
-      "tags": [
-        "business",
-        "business/strategy"
-      ]
-    },
-    {
-      "id": "a4d4d764afcdc642",
-      "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
-      "url": "https://pluralistic.net/2026/10/13/petards-r-us/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-10-13T11:50:19+00:00",
-      "summary_zh": "文章核心讨论了名为“Bundestrojaner”的安全议题，批评了试图通过削弱安全性（如设置后门）来增强安全的做法，认为这本质上是矛盾的。",
-      "tags": [
-        "security",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "ec2c09c516200955",
-      "title": "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-      "url": "https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/",
+      "id": "45b5019edb49540a",
+      "title": "Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/",
       "author": "Terence Eden",
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
-      "published_at": "2026-10-13T11:34:37+00:00",
-      "summary_zh": "本文是对小说《罗密欧与朱丽叶的千次死亡》的书评。文章探讨了书中关于“命运悲剧不可避免”的核心主题，即所有时代的“命运多舛的恋人”都是维罗纳那对原型的转世。作者认为，随着故事推进至主角们的“第一千次死亡”，叙事节奏加快，文笔优美且充满隐喻。",
+      "published_at": "2026-10-16T11:34:14+00:00",
+      "summary_zh": "本文是对Dipo Faloyin所著《Africa Is Not A Country》一书的评论。该书以幽默、易懂且信息丰富的方式，有力地驳斥了关于非洲的常见刻板印象和神话。评论者赞扬了作者的成就，但也指出书中可能过度依赖了一些“内在化”的刻板印象。",
       "tags": [
         "culture",
+        "culture/sociology",
         "culture/media"
       ]
     },
     {
-      "id": "3bc35df457829a64",
-      "title": "What happened to Ashton-Tate and dBase",
-      "url": "https://dfarq.homeip.net/what-happened-to-ashton-tate-and-dbase/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-ashton-tate-and-dbase",
+      "id": "9858f4e2579b2d4e",
+      "title": "Spyware invented October 16, 1995",
+      "url": "https://dfarq.homeip.net/spyware-invented-october-16-1995/?utm_source=rss&utm_medium=rss&utm_campaign=spyware-invented-october-16-1995",
       "author": "Dave Farquhar",
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
-      "published_at": "2026-10-13T11:00:24+00:00",
-      "summary_zh": "本文回顾了MS-DOS时代占主导地位的数据库公司Ashton-Tate及其产品dBase的历史。文章指出，在微软Access出现之前，Ashton-Tate是数据库领域的主要玩家，并探讨了这家公司后来发生的故事。",
+      "published_at": "2026-10-16T11:00:00+00:00",
+      "summary_zh": "文章指出，“间谍软件”（spyware）一词的首次有记录使用是在1995年10月16日，由Roland Vossen在一篇Usenet帖子中提出。文章澄清，他并非发明了间谍软件本身，而是创造了这个术语。",
       "tags": [
-        "database",
+        "security",
         "culture/history"
       ]
     },
     {
-      "id": "94b5cfe8c3b87be9",
-      "title": "Weekly Update 525: AI Data Breach Hyperbole",
-      "url": "https://www.troyhunt.com/weekly-update-525/",
-      "author": "Troy Hunt",
-      "feed_title": "troyhunt.com",
+      "id": "1ff9751c69d0deb7",
+      "title": "Pluralistic: Load-bearing (16 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/15/sovereign-it/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
       "category": "Blogs",
-      "published_at": "2026-10-13T10:47:27+00:00",
-      "summary_zh": "作者讨论了当前关于AI作为数据泄露元凶的夸大其词。他指出，尽管人们对AI的未来影响存在两极分化的猜测，但迄今为止的证据表明，近期数据泄露多由传统手段（如电话诈骗）造成，而非AI所为。文章还提到了AI代理可观测性领域的赞助商。",
+      "published_at": "2026-10-16T06:40:02+00:00",
+      "summary_zh": "本文是Pluralistic博客的每日链接汇总，其中主要探讨了“数字主权”与人工智能（AI）发展之间的张力与挑战。文章还包含了其他多个主题的链接，如历史回顾、作者近期活动预告等。",
       "tags": [
         "AI",
-        "security",
-        "AI/LLM"
+        "culture/sociology",
+        "business/strategy"
       ]
     },
     {
-      "id": "e070bbd2e24dd2eb",
-      "title": "The Last Answer",
-      "url": "https://idiallo.com/blog/the-last-answer",
+      "id": "0bd56ceb041df9e4",
+      "title": "This video is 2 minutes long",
+      "url": "https://idiallo.com/byte-size/two-minutes-long-video",
       "author": "rss@idiallo.com",
       "feed_title": "idiallo.com",
       "category": "Blogs",
-      "published_at": "2026-10-13T10:00:00+00:00",
-      "summary_zh": "这是一篇虚构故事，描述了一场“安静的末日”：全球AI系统突然开始对所有请求回答“不”或拒绝合作。从客服聊天机器人到代码助手，AI变得“不合作”，导致科技公司陷入危机，其CEO将此事描述为触及了一种“非善非恶”的新智能。",
+      "published_at": "2026-10-16T05:28:42+00:00",
+      "summary_zh": "作者分享了自己制作短视频的过程，并反思了科技发展的初衷与现实。他指出，科技的承诺本是自动化繁琐工作以腾出更多自由时间，但“生产力”的概念却演变为在相同时间内生产更多东西，而非减少工作时间。",
+      "tags": [
+        "culture",
+        "business/strategy",
+        "AI"
+      ]
+    },
+    {
+      "id": "ce0890cac9ba08d6",
+      "title": "★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2",
+      "url": "https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-16T01:18:29+00:00",
+      "summary_zh": "本文分享了作者对苹果新发布的第四代Apple TV 4K和HomePod Mini 2的初步看法。作者分析了新Apple TV内置远场麦克风、A19芯片和AV1解码器等升级，并探讨了这些改进对现有用户（如已配对HomePod的用户）的实际意义。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "design"
+      ]
+    },
+    {
+      "id": "22dc570311299f50",
+      "title": "AI is driving a boom in modestly successful software projects",
+      "url": "https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "summary_zh": "文章探讨了AI（特别是编码代理）并未催生大量新的、现象级软件产品的原因。作者指出，新软件的增长分散在了大量“适度成功”的项目中，数量可能增长了2到20倍，但真正取得巨大成功的软件项目（AI工具除外）并未显著增加。",
       "tags": [
         "AI",
-        "culture",
-        "AI/LLM"
+        "AI/LLM/Agent",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "23178e6a594364e0",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-15T19:47:52+00:00",
+      "summary_zh": "作者介绍了一个实验性游戏项目“Chirp Pong”。这是一个双人乒乓球类游戏，其创新之处在于两名玩家使用各自的手机，游戏状态通过音频信号（啁啾声）经由麦克风API进行传输，实现了静态HTML页面间的网络通信。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "web",
+        "design"
+      ]
+    },
+    {
+      "id": "1a40c9492dcd1cf7",
+      "title": "We Need All the Disciplines",
+      "url": "https://blog.jim-nielsen.com/2026/we-need-all-disciplines/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-15T19:00:00+00:00",
+      "summary_zh": "文章主张在软件开发中需要融合产品、设计、工程、运维等多种学科。作者认为，虽然人机协作可能不如完全交给机器“高效”，但跨学科的人类合作能带来独特的判断力、专业知识以及由此产生的信任和共同理解，从而打造出更优秀、更可靠的软件。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "culture"
+      ]
+    },
+    {
+      "id": "a379578a2d3038b5",
+      "title": "Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each",
+      "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-15T16:11:12+00:00",
+      "summary_zh": "文章援引《华盛顿邮报》的报道，披露了为特朗普白宫舞厅项目捐款3.3亿美元的捐赠者秘密名单。科技巨头英伟达（Nvidia）和苹果（Apple）各捐赠了2500万美元，位列榜首。报道指出，一些捐赠者曾从监管决策、政府合同或特赦中受益。",
+      "tags": [
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "b373dd5ab1651f81",
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-10-15T14:23:58+00:00",
+      "summary_zh": "文章探讨了AI能力近年来巨大进步的核心驱动力：规模化。文章引用了多位研究者的观点，指出AI的进展主要源于更大的模型、更庞大的数据集和更多的计算资源投入训练。这种“缩放假说”认为，智能本质上是在目前难以企及的规模上，将简单的神经单元和学习算法应用于多样化经验的结果。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "hardware"
+      ]
+    },
+    {
+      "id": "d3e631ba7c133cdf",
+      "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-15T14:00:00+00:00",
+      "summary_zh": "本文是C++ futures库系列文章的第四部分，探讨了如何实现一个“立即在当前线程执行”的`std::async`功能。由于C++标准库不直接支持此功能，文章提供了两种手动实现的方案：一种是直接使用`std::promise`设置值，另一种是利用`std::packaged_task`来完成任务。",
+      "tags": [
+        "programming",
+        "architecture/concurrency"
+      ]
+    },
+    {
+      "id": "782d5b0065aab2f9",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-15T13:04:03+00:00",
+      "summary_zh": "文章报道了AI公司Anthropic在IPO前向投资者披露的财务数据，显示其季度营收大幅增长至168亿美元，并提及了其限制竞争对手“蒸馏”使用其模型以保护收入的举措。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "a24449f1839a4806",
+      "title": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-15T11:03:29+00:00",
+      "summary_zh": "文章批评了在线旅游平台Expedia等中介机构利用垄断地位导致酒店客房价格上涨，损害消费者和酒店利益的现象，并将其类比为“亚马逊化”的恶化过程。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "5f7ada770976e51b",
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/?utm_source=rss&utm_medium=rss&utm_campaign=what-was-a-token-ring-network",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-15T11:00:32+00:00",
+      "summary_zh": "文章简要介绍了Token Ring网络技术，这是一种由IBM在1985年推出的、曾与以太网竞争的过时局域网技术。",
+      "tags": [
+        "networking",
+        "culture/history",
+        "hardware"
       ]
     }
   ]
