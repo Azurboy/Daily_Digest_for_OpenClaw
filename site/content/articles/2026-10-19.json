@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-19",
+  "article_count": 28,
+  "tokens_used": 14631,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "46dd4773a719bed2",
+      "title": "What requirements don't you have?",
+      "url": "https://seangoedecke.com/what-requirements-dont-you-have/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "summary_zh": "文章探讨了软件设计中的一个关键理念：优雅的系统往往源于主动放弃某些非核心需求。通过识别并妥协那些可以允许缓慢、陈旧或不灵活的部分，设计师能够简化实现并提升系统整体质量。文中以Unicorn网络服务器和亚马逊S3为例，说明了放弃某些特性（如进程间共享状态或慢客户端处理）如何带来隔离性、简化实现等好处。",
+      "tags": [
+        "architecture",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "ae7b31dc246e2760",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T23:43:09+00:00",
+      "summary_zh": "本文介绍了llm-tools-datasette插件版本0.1.1的发布，该版本修复了因LLM框架升级至httpx2而导致的兼容性问题。此次更新确保了该插件在依赖项变更后能正常工作。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "open-source"
+      ]
+    },
+    {
+      "id": "9d2417f40cde50f0",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T23:16:16+00:00",
+      "summary_zh": "文章介绍了LLM的调试插件llm-echo更新至0.5版本。该插件模拟一个“模型”，其功能仅是回显输入的提示词，新版更新了其对工具调用、系统提示和推理令牌的模拟令牌计数功能，以更准确地反映使用情况。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "53a37e9b574df58b",
+      "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
+      "url": "https://tomthedancingbug.com/the-inner-hive/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T22:53:00+00:00",
+      "summary_zh": "作者表达了对漫画《Tom the Dancing Bug》的喜爱，并推荐其订阅会员计划“The Inner Hive”。文章提到，该漫画虽读者众多但盈利困难，会员计划是支持作者并获得额外内容的好方式，作者个人推荐通过Patreon订阅。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "c527a3c95b60c543",
+      "title": "WorkOS AuthKit",
+      "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T22:45:00+00:00",
+      "summary_zh": "本文是一篇赞助内容，介绍了WorkOS的AuthKit产品。AuthKit旨在简化用户认证系统的开发，提供SSO、MFA、密码、社交登录等多种登录方式，以及用户自动供应（SCIM）和审计日志等功能，帮助企业快速构建复杂的认证需求。",
+      "tags": [
+        "web",
+        "security",
+        "tools"
+      ]
+    },
+    {
+      "id": "21a3efef026ebf80",
+      "title": "Verizon Is Going to Charge $10/Month for iPhone Handoff",
+      "url": "https://www.verizon.com/about/news/iphone-duo-verizon-offers",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T22:20:06+00:00",
+      "summary_zh": "文章报道了Verizon将对iPhone Handoff（设备间无缝切换号码功能）收取每月10美元的费用，并对比了T-Mobile每月5美元的定价。作者批评Verizon作为美国最昂贵的运营商之一，此定价符合其品牌形象但令人不快，同时指出其宣传中的“立即获取”与当前供货延迟存在矛盾。",
+      "tags": [
+        "mobile",
+        "business"
+      ]
+    },
+    {
+      "id": "5c33898ee5df3251",
+      "title": "Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T21:58:33+00:00",
+      "summary_zh": "文章引用了Mark Gurman的报道，指出苹果HomeView设备因软件（特别是AI助手）未就绪而多次延迟发布，导致成品硬件在仓库中积压近一年。报道认为其硬件规格（如A18芯片和8GB内存）反映了多年前的设计，但作者也指出类似规格的MacBook Neo并未延迟，且性能足够。",
+      "tags": [
+        "hardware",
+        "AI",
+        "mobile"
+      ]
+    },
+    {
+      "id": "4ddf0d92414ab512",
+      "title": "Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’",
+      "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T21:26:32+00:00",
+      "summary_zh": "文章对《The Information》此前关于HomeView将配备“机器人旋转底座”的错误报道进行了反驳，并以此质疑该媒体同一篇文章中关于“AI别针”产品的报道同样可能不实。作者借此机会对比了Mark Gurman在HomeView报道上的相对准确性。",
+      "tags": [
+        "hardware",
+        "AI",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "804516a962d1d0b8",
+      "title": "Apple Issues Statement on Duo Demand Far Outstripping Supply",
+      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T20:04:44+00:00",
+      "summary_zh": "文章讨论了苹果首款折叠屏手机iPhone Duo因需求远超供应而导致交货时间大幅推迟至次年一月的现象。苹果发布声明称需求“非同寻常”，但作者分析认为，除了需求强劲，初始供应量极低也是关键因素，并引用报道指出苹果零售店在发售日可能无现货可供直接购买。",
+      "tags": [
+        "mobile",
+        "business"
+      ]
+    },
+    {
+      "id": "efa6d929160244e9",
+      "title": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
+      "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T19:34:45+00:00",
+      "summary_zh": "文章引用了Manton Reece的一个推测，解释为何苹果HomeView的壁挂式版本与配备低音炮底座的版本售价相同：苹果可能希望通过定价策略，阻止用户仅因价格更便宜而选择安装更复杂的壁挂式版本，从而避免用户因安装麻烦而后悔。",
+      "tags": [
+        "business",
+        "hardware",
+        "design"
+      ]
+    },
+    {
+      "id": "7fdf30f1a768c1cc",
+      "title": "Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances",
+      "url": "https://x.com/AbdulElSayed/status/2111627277578731885",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T19:17:01+00:00",
+      "summary_zh": "文章分享了一段美国密歇根州参议员候选人Abdul El-Sayed巧妙应对现场挑衅者的视频，并赞扬其临场反应出色。后续更新指出挑衅者实为共和党安排的“托儿”，作者借此评论特朗普主义导致共和党转变为“颂扬愚蠢和无知”的政党。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "de05f18ead59c79f",
+      "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+      "url": "http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "author": "Ken Shirriff (noreply@blogger.com)",
+      "feed_title": "righto.com",
+      "category": "Blogs",
+      "published_at": "2026-10-18T16:14:00+00:00",
+      "summary_zh": "本文深入剖析了英特尔8087浮点协处理器的内部结构和工作原理，重点解释了其如何执行浮点加法和减法运算。文章通过芯片显微照片，展示了其微码ROM和数据路径，并说明了8087如何通过专用硬件将浮点运算速度提升近百倍，同时处理无穷大等特殊情况。",
+      "tags": [
+        "hardware",
+        "culture/history",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "1cdd72b64b529301",
+      "title": "Una Watch TOTP - MFA on your wrist!",
+      "url": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-18T11:34:08+00:00",
+      "summary_zh": "作者开发了一款手表应用，用于显示两步验证（MFA/TOTP）代码，认为这虽然方便但存在严重安全隐患。他警告读者不要效仿，或仅将其用于非关键账户。文章在HTML注释中透露了作者自己也在使用此应用，并提到了一个名为“评论俱乐部”的趣味社区。",
+      "tags": [
+        "security",
+        "mobile",
+        "tools"
+      ]
+    },
+    {
+      "id": "08b61987ef2cf978",
+      "title": "How many VICmodems Commodore sold",
+      "url": "https://dfarq.homeip.net/how-many-vicmodems-commodore-sold/?utm_source=rss&utm_medium=rss&utm_campaign=how-many-vicmodems-commodore-sold",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T11:00:03+00:00",
+      "summary_zh": "文章探讨了Commodore VICmodem（特别是1600型号）的销售数据，对“它是首个销量达百万的调制解调器”这一常见说法提出了质疑。作者通过研究，试图澄清这一历史产品的真实销售情况。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "2fa9ab1c0e634da9",
+      "title": "Notes on the complex roots of unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "author": "Eli Bendersky",
+      "feed_title": "eli.thegreenplace.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T01:18:00+00:00",
+      "summary_zh": "文章探讨了数学中“单位根”的概念，从实数域内的简单情况（如1和-1）出发，延伸到复数域。重点介绍了复数域内单位根的丰富性和有趣特性，展示了看似简单问题背后的数学深度。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "95e32224de1e8bb3",
+      "title": "Whatever You Say Bounces Off Me and Sticks to You",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-18T00:55:42+00:00",
+      "summary_zh": "文章报道了OpenAI对苹果的诉讼新进展，指控一名前员工向苹果泄露了其未发布产品的机密文件。OpenAI在法庭文件中表达了对商业秘密可能被苹果用于开发竞品的担忧，并对此进行了讽刺性评论。",
+      "tags": [
+        "AI",
+        "business",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "7b455c54a8af16e7",
+      "title": "Writing is no longer proof of work",
+      "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "summary_zh": "文章指出，在科技公司中，写作常被用作一种“工作量证明”，类似于比特币的工作量证明机制，用于证明合规性、努力或知识。作者认为，大型语言模型（LLM）的出现正在削弱写作作为可靠证据的价值。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture",
+        "business"
+      ]
+    },
+    {
+      "id": "e725f16bc7c9a342",
+      "title": "How the AI boom might really end: 5 scenarios",
+      "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "author": "martin@martinalderson.com (Martin Alderson)",
+      "feed_title": "martinalderson.com",
+      "category": "Blogs",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "summary_zh": "作者基于当前AI投资热潮和芯片股波动，探讨了AI繁荣可能终结的五种情景。文章承认AI正在创造巨大价值，但认为如同任何投资浪潮一样，可能存在资产错误定价和泡沫风险。",
+      "tags": [
+        "AI",
+        "business",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "cc225fa176e6c3ea",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T21:11:12+00:00",
+      "summary_zh": "文章介绍了一种利用`document.currentScript`属性实现内联渲染的JavaScript技巧。通过一个简短的脚本，可以在页面加载时动态替换自身内容，从而创建一个微型的模板语言，用于在HTML中直接嵌入动态数据。",
+      "tags": [
+        "web",
+        "programming",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "2b9b97b763e9d1bc",
+      "title": "★ HomeView Thoughts and Observations",
+      "url": "https://daringfireball.net/2026/10/homeview_thoughts_and_observations",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T17:25:13+00:00",
+      "summary_zh": "文章对苹果新发布的“Apple HomeView”产品进行了初步观察和评论。作者从产品命名（Apple HomeView vs. HomeView）的细节谈起，并调侃了其宣传视频中不切实际的场景（如早上做法式吐司）。",
+      "tags": [
+        "mobile",
+        "business",
+        "design"
+      ]
+    },
+    {
+      "id": "6100e4ae14fcffcd",
+      "title": "Cloud of suspicion lifted from NIST curves",
+      "url": "https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-17T15:39:06+00:00",
+      "summary_zh": "文章讨论了NIST标准椭圆曲线长期以来因种子值由NSA提供而存在的后门疑虑。最新研究（由Anthropic进行）表明这些曲线并未被植入后门，从而消除了密码学界的长期怀疑。文章简要解释了椭圆曲线密码学的安全基础。",
+      "tags": [
+        "security",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "65c9e500ab8aa8d9",
+      "title": "Apple TV Price History, Charted",
+      "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T14:06:18+00:00",
+      "summary_zh": "文章引用了一张图表，展示了从2007年初代到2026年最新款Apple TV机顶盒的起售价历史，并调整了通货膨胀因素。作者评论道，苹果可能放弃了让Apple TV硬件变得价格亲民，转而推动其应用软件登陆其他电视平台。",
+      "tags": [
+        "hardware",
+        "business",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "c706b8884b6bc824",
+      "title": "web-edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T13:16:49+00:00",
+      "summary_zh": "文章宣布了web-edit工具0.1a2版本的发布。该工具是一个用于浏览和编辑文件夹内文件的小型Web应用，主要用于通过Tailscale在不同机器间编辑文件。新版本增加了将文本和图像数据复制到剪贴板的功能。",
+      "tags": [
+        "web",
+        "tools",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "b7fac977dd746229",
+      "title": "Reading List 10/17/26",
+      "url": "https://www.construction-physics.com/p/reading-list-101726",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-10-17T12:03:37+00:00",
+      "summary_zh": "这是一篇常规的“阅读清单”博客文章，列出了作者在特定日期（2026年10月17日）推荐阅读的文章、书籍或其他内容。通常包含简短的介绍或评论，但此处提供的片段不完整，主要是页面结构和图片占位符。",
+      "tags": [
+        "culture",
+        "open-source"
+      ]
+    },
+    {
+      "id": "28d4bb6614bb1e27",
+      "title": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-17T11:34:57+00:00",
+      "summary_zh": "本文是对马修·哈钦森所著《你真的是医生吗？》一书的评论。该书通过作者作为黑人医生在英国国家医疗服务体系中的亲身经历，揭示了医疗系统中的种族不平等问题，并融合了传记、对体系的批评与幽默观察。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "5897625960920e07",
+      "title": "Intel 386 released October 17, 1985",
+      "url": "https://dfarq.homeip.net/intel-386-released-october-17-1985/?utm_source=rss&utm_medium=rss&utm_campaign=intel-386-released-october-17-1985",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T11:00:24+00:00",
+      "summary_zh": "文章回顾了英特尔386处理器于1985年10月17日发布的历史事件。该芯片对计算机行业产生了颠覆性的深远影响，其重要性可能至今无出其右。",
+      "tags": [
+        "hardware",
+        "culture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "2bf0e1c0f487aa54",
+      "title": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-17T10:47:35+00:00",
+      "summary_zh": "文章揭露了一家以色列广告技术公司被用作“雇佣间谍软件”的投放系统。该公司利用谷歌、脸书等主要广告平台，将间谍软件伪装成广告进行传播，构成了严重的隐私与安全威胁。",
+      "tags": [
+        "security",
+        "security/privacy",
+        "web/ad-tech"
+      ]
+    },
+    {
+      "id": "5bfea087bb2daf31",
+      "title": "This Week in Package Management: 17 October 2026",
+      "url": "https://nesbitt.io/2026/10/17/this-week-in-package-management.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-17T10:00:00+00:00",
+      "summary_zh": "本文是2026年10月17日当周的包管理工具动态汇总。主要介绍了pnpm和mise等工具的新版本发布情况，涵盖了远程缓存、性能优化、网络文件系统支持等新特性与改进。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "devops"
+      ]
+    }
+  ]
+}
