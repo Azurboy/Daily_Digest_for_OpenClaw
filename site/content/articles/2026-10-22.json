@@ -1,0 +1,486 @@
+{
+  "date": "2026-10-22",
+  "article_count": 32,
+  "tokens_used": 16692,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "486095d368eeddbb",
+      "title": "★ The iPhone Duo",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T22:59:14+00:00",
+      "summary_zh": "文章评论了苹果的折叠屏手机iPhone Duo，指出其存在诸多固有缺陷，如厚重、外屏局促、硬件按钮位置不当以及需要回归Touch ID等。作者认为，尽管部分问题可通过设计和工程缓解，但有些问题根植于折叠屏设备的概念本身，可能无法解决。",
+      "tags": [
+        "mobile",
+        "hardware/design",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "dd3b373660e51cb2",
+      "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/21/brittle-individualism/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T20:05:21+00:00",
+      "summary_zh": "文章讨论了对抗性互操作性，指出仅靠个人或小团队的“氛围编码”式越狱无法根本解决问题，它更像是一项需要集体协作的团队运动。文章还链接了其他多个主题的评论和内容。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "open-source"
+      ]
+    },
+    {
+      "id": "02c9ab5f304f07c7",
+      "title": "Can they write a function?",
+      "url": "https://idiallo.com/blog/can-they-write-a-function",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T19:00:40+00:00",
+      "summary_zh": "文章提出了一个简化的软件开发者招聘流程：让候选人现场编写函数、完成FizzBuzz测试并部署一个服务。作者认为，经验可以在工作中学习，而企业文化等标准往往难以衡量且随意。",
+      "tags": [
+        "career",
+        "programming",
+        "culture"
+      ]
+    },
+    {
+      "id": "d5bfffb2d100cc8f",
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "summary_zh": "作者通过阅读核战争规划者的回忆录，将其在RAND公司工作时的使命感与当今AI公司（如Anthropic）的言论进行类比。两者都带有宗教色彩，内部人员都背负着他人所不知晓的重大责任和知识负担。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "60cdd6b596008249",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T18:41:53+00:00",
+      "summary_zh": "PHP发布了紧急安全更新，修复了两个远程代码执行漏洞。由于协调披露过程泄露，漏洞信息提前在网络上流传，导致一家安全公司误发演示视频，加速了漏洞利用代码的传播。",
+      "tags": [
+        "programming",
+        "security",
+        "web"
+      ]
+    },
+    {
+      "id": "e0e7f9f0f4ba064a",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:25:16+00:00",
+      "summary_zh": "作者发布的游戏《Battle Drones》在Apache 2.0许可下很快出现了一个法语分支版本《Panache》。该版本将游戏背景重置为1900年代法国蒸汽朋克风格，并添加了动画介绍，目前主要是美学更新。",
+      "tags": [
+        "open-source",
+        "web",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "9042618b3b96e995",
+      "title": "Going Somewhere",
+      "url": "https://simone.org/somewhere/",
+      "author": "Simone Salis",
+      "feed_title": "simone.org",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:14:51+00:00",
+      "summary_zh": "文章是一篇个人叙事散文，讲述了作者在芝加哥清晨从机场乘车回家的经历。通过与一位兼职司机的理发师的深入对话，探讨了陌生人之间的真诚交流、个人身份以及生活感悟。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "3aea2d3b283086de",
+      "title": "Trust Stores Are Dependencies Too",
+      "url": "https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "summary_zh": "文章讨论了eMudhra错误生成中间CA证书导致私钥可被恢复的安全事件。重点指出信任存储（如certifi、webpki-roots等）也是关键的软件依赖项，需要及时更新，并列举了各语言和平台受影响的包。",
+      "tags": [
+        "security",
+        "programming/tools",
+        "devops"
+      ]
+    },
+    {
+      "id": "5d15c045388ec8ec",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T15:26:07+00:00",
+      "summary_zh": "PHP中存在两个严重的远程代码执行漏洞，影响了全球近70%的网站，包括Drupal、WordPress等流行系统。已有在野利用，导致部分政府网站被迫下线，所有运行PHP的站点需立即升级。",
+      "tags": [
+        "security",
+        "web",
+        "programming"
+      ]
+    },
+    {
+      "id": "7549aaca15237d8b",
+      "title": "Backdoors, Incompetence, and Elliptic Curves",
+      "url": "https://www.johndcook.com/blog/2026/10/21/emudhra/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T15:16:51+00:00",
+      "summary_zh": "文章探讨了NIST椭圆曲线近期两次成为新闻焦点：先是Anthropic的研究为其种子来源正名，排除了后门嫌疑；随后又因eMudhra使用极小的密钥导致证书失效，指出加密系统的弱点往往在于人为错误而非算法本身。",
+      "tags": [
+        "security",
+        "culture/mathematics",
+        "security/privacy"
+      ]
+    },
+    {
+      "id": "0e2f48bc0979a338",
+      "title": "Upgrade your PHP installs immediately to protect against php2shell",
+      "url": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T14:10:00+00:00",
+      "summary_zh": "PHP发布了两个关键安全更新，修复了可导致远程代码执行的漏洞（被统称为php2shell）。文章紧急呼吁所有运行PHP的服务立即升级到最新版本，并提到了社区维护者即使在休假中也及时推送更新的情况。",
+      "tags": [
+        "security",
+        "programming",
+        "web"
+      ]
+    },
+    {
+      "id": "5c7f48cef4839cfe",
+      "title": "Why didn’t we use Ro­Register­For­Apartment­Shutdown to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-21T14:00:00+00:00",
+      "summary_zh": "文章解释了在尝试创建一种“伪敏捷”COM包装器时，为何不能使用`RoRegisterForApartmentShutdown`函数来进行清理。主要原因是该函数要求注册对象本身是敏捷的，而这正是我们试图解决的问题，会导致循环依赖。",
+      "tags": [
+        "programming",
+        "tools",
+        "architecture"
+      ]
+    },
+    {
+      "id": "f0ad34a6faa17324",
+      "title": "Deliberate imperfection",
+      "url": "https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T12:04:06+00:00",
+      "summary_zh": "文章分析了《传道书》第三章著名诗歌中的对称性与节奏，并指出其中心对句存在一处刻意的“不完美”。作者认为这种在完美结构中的微小失衡，可能具有特殊的文学或神学意义。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "f09a208cd5e6c280",
+      "title": "Creative Computing launched October 1974",
+      "url": "https://dfarq.homeip.net/creative-computing-launched-october-1974/?utm_source=rss&utm_medium=rss&utm_campaign=creative-computing-launched-october-1974",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T11:00:00+00:00",
+      "summary_zh": "文章回顾了《Creative Computing》杂志于1974年10月创刊的历史。该杂志是上世纪七八十年代最具影响力的计算机杂志之一，其诞生与数字设备公司（DEC）有关，并与《Byte》等杂志竞争。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "open-source"
+      ]
+    },
+    {
+      "id": "a80cd8e4dce42194",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章讽刺性地报道了BIND 9 named软件因C语言内存安全问题（CVE-2026-94300）而曝出严重漏洞的事件。作者借用户之口，批评了C语言社区对内存安全漏洞“无法避免”的消极态度，指出C语言是此类漏洞的高发区。",
+      "tags": [
+        "security",
+        "programming",
+        "networking"
+      ]
+    },
+    {
+      "id": "9189459514dd21ca",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章以讽刺口吻报道了Apache Traffic Server实验性插件（CVE-2026-111813）因C++代码未验证客户端输入，导致未授权命令执行漏洞。作者批评了开发者将签名验证设为可选、对安全风险无动于衷的态度。",
+      "tags": [
+        "security",
+        "programming",
+        "web"
+      ]
+    },
+    {
+      "id": "7dedfa7032ea914a",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章讽刺性地报道了Brotli解码器因C语言内存安全问题（CVE-2026-111497）曝出严重漏洞，允许远程代码执行。作者再次抨击了C语言社区对内存安全漏洞“无能为力”的普遍说辞，强调C语言在此类问题上的高发性。",
+      "tags": [
+        "security",
+        "programming",
+        "performance"
+      ]
+    },
+    {
+      "id": "7174649ba602c976",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章报道了musl libc库的regcomp()函数因C语言整数溢出漏洞（CVE-2026-107891）可能导致拒绝服务或任意代码执行。文章延续了同一系列的讽刺风格，批评C语言是内存安全漏洞的根源，且社区缺乏有效应对措施。",
+      "tags": [
+        "security",
+        "programming",
+        "open-source"
+      ]
+    },
+    {
+      "id": "e25b355e18f7a50b",
+      "title": "Jesus Christ patch your shit now",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章以紧急口吻报道了PHP因C语言内存安全漏洞（CVE-2026-109618）而需立即修补。作者强烈敦促所有用户尽快更新，并再次讽刺了C语言社区将此类严重漏洞视为“无法避免的悲剧”的消极心态。",
+      "tags": [
+        "security",
+        "programming",
+        "web"
+      ]
+    },
+    {
+      "id": "35a8d53ae6d1af7b",
+      "title": "Rails is a JIT compiler",
+      "url": "https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss",
+      "author": "",
+      "feed_title": "bernsteinbear.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章探讨了如何通过运行时生成代码（JIT编译思想）来优化Rails框架中的枚举查询性能。作者以具体代码为例，展示了通过动态编译将枚举状态检查转换为高效机器码的可能性，旨在提升应用速度。",
+      "tags": [
+        "programming",
+        "web",
+        "performance"
+      ]
+    },
+    {
+      "id": "29daa7fc6b7fe775",
+      "title": "Objects, attributes, maps, oh my!",
+      "url": "https://bernsteinbear.com/blog/object-shapes/?utm_source=rss",
+      "author": "",
+      "feed_title": "bernsteinbear.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary_zh": "文章探讨了Python、Ruby、JavaScript等动态类型语言中，对象在底层如何实现为属性名到值的映射（字典）。作者分析了这种设计的灵活性及其对性能的影响，并引出了后续可能讨论的优化策略。",
+      "tags": [
+        "programming",
+        "performance"
+      ]
+    },
+    {
+      "id": "4257f838c0d22be2",
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-20T23:50:25+00:00",
+      "summary_zh": "文章报道了eMudhra中间CA证书私钥泄露的严重安全事件，该CA被主流操作系统和浏览器信任。文章指出，所有捆绑证书的软件都需要更新，并列举了Python生态中uv、pip、certifi等工具已发布修复版本。",
+      "tags": [
+        "security",
+        "security/privacy",
+        "programming"
+      ]
+    },
+    {
+      "id": "7fa30abfca2c7ff1",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-20T19:34:19+00:00",
+      "summary_zh": "作者介绍了一款使用AI辅助（Claude）开发的、具有音频同步多人对战功能的即时战略网页游戏《Battle Drones》。文章分享了从原型到趣味性迭代的开发过程，并重点介绍了通过音频实现附近设备联机的独特技术。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "web",
+        "programming"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-10-20T17:36:24+00:00",
+      "summary_zh": "文章以怀旧和幽默的笔触，模拟了在1986年为Commodore 64电脑“安装程序”的繁琐过程。从骑车去商场书店寻找特定计算机杂志，到手动输入代码，生动再现了早期个人计算机用户获取软件的独特体验。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "221d0fffcbc868cc",
+      "title": "Death & Domains",
+      "url": "https://feed.tedium.co/link/15204/17501584/death-domains-commentary",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-10-20T17:35:53+00:00",
+      "summary_zh": "文章探讨了当域名所有者去世后，其数字身份如何延续的问题。作者指出，个人不像企业那样有完善的继承计划，当前的域名和托管系统在用户停止付费后会导致其数字遗产消失。这引发了关于是否需要建立不依赖域名的、更持久的在线身份系统的思考。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "web"
+      ]
+    },
+    {
+      "id": "5d260266561d1e65",
+      "title": "Pluralistic: The death of history's most successful publisher (20 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/20/main-character-syndrome/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-20T17:24:41+00:00",
+      "summary_zh": "文章批评谷歌在搜索和内容分发领域表现出“主角综合症”，试图成为历史上最成功的出版商。作者探讨了谷歌的垄断地位及其对信息生态的影响，特别是其AI摘要（被戏称为“垃圾”）对传统出版模式的冲击。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "AI",
+        "AI/LLM",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "c1a35b7e39e85350",
+      "title": "AI Had Better Work Out",
+      "url": "https://www.wheresyoured.at/ai-had-better-work-out/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-10-20T16:12:06+00:00",
+      "summary_zh": "这是一篇关于AI行业财务状况的深度分析文章预告。作者计划通过付费通讯深入探讨AI债务泡沫、生成式AI对全球经济的实际影响，并分析英伟达、甲骨文等AI基础设施主要参与者的商业表现。",
+      "tags": [
+        "AI",
+        "business"
+      ]
+    },
+    {
+      "id": "c0e4ca5d40fd26fd",
+      "title": "ClickHouse Will Let You Be Wrong at Scale",
+      "url": "https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/",
+      "author": "Mathew Duggan",
+      "feed_title": "matduggan.com",
+      "category": "Blogs",
+      "published_at": "2026-10-20T14:01:12+00:00",
+      "summary_zh": "作者分享了在ClickHouse上进行大规模、非典型用例（每日20亿行防火墙遥测数据）的实践经验和教训。文章指出，虽然ClickHouse对于标准的可观测性用例很简单，但在处理复杂自定义场景时功能强大但难以驾驭，并坦诚记录了实施过程中犯下的诸多错误。",
+      "tags": [
+        "database",
+        "devops",
+        "performance"
+      ]
+    },
+    {
+      "id": "b97dd6d23ef742b9",
+      "title": "Microspeak: Drain the slide, back-up slides",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261020-00/?p=112784/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-20T14:00:00+00:00",
+      "summary_zh": "文章解释了微软内部术语“排空幻灯片”（drain the slide）的含义，即演讲者逐字朗读幻灯片内容。作者分析了这种现象产生的原因，包括演讲者经验不足，以及幻灯片同时服务于现场演示和后续留存参考这两个不同目的之间的内在矛盾。",
+      "tags": [
+        "culture",
+        "business"
+      ]
+    },
+    {
+      "id": "d802a57170c2767c",
+      "title": "[Sponsor] Sunnny",
+      "url": "https://sunnny.com/",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-20T13:09:38+00:00",
+      "summary_zh": "这是一则关于Sunnny产品的赞助广告。Sunnny是一个专注于B2B客户数据管理的平台，目前提供早期访问。",
+      "tags": [
+        "business",
+        "tools"
+      ]
+    },
+    {
+      "id": "4e9bdf6375566f30",
+      "title": "Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-20T11:34:35+00:00",
+      "summary_zh": "这是一篇关于《Quackery: A Brief History of the Worst Ways to Cure Everything》的书评。该书以轻松幽默的笔触回顾了人类历史上各种以赚钱为目的的虚假医疗方法。书评称赞了书籍的趣味性和精美的电子书排版，同时也反思了区分骗术与真正疗法的困难。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "5c96e9ace286eb11",
+      "title": "What happened to Epyx",
+      "url": "https://dfarq.homeip.net/what-happened-to-epyx/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-epyx",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-20T11:00:42+00:00",
+      "summary_zh": "文章回顾了Epyx公司的兴衰史。Epyx曾是8位家用电脑（特别是Atari和Commodore）时代最著名和多产的软件发行商之一。然而，该公司未能成功向新平台转型，这最终导致了其破产。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "business"
+      ]
+    }
+  ]
+}
