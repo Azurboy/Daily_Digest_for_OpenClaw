@@ -1,0 +1,476 @@
+{
+  "date": "2026-10-23",
+  "article_count": 31,
+  "tokens_used": 16856,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "00e1c62671775aca",
+      "title": "Software is slow because of bad design, not slow languages",
+      "url": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "summary_zh": "文章反驳了“用更快语言重写软件能显著提升性能”的观点，指出大多数程序的性能瓶颈在于I/O而非语言本身。作者强调软件性能更多是设计问题，而非编程语言的选择，因为许多慢速语言已通过库实现了接近C的性能。",
+      "tags": [
+        "programming",
+        "performance",
+        "architecture"
+      ]
+    },
+    {
+      "id": "87e22db35085845a",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T19:42:26+00:00",
+      "summary_zh": "文章分享了一支荷兰另类摇滚乐队De Staat的新音乐视频，其中出现了由生成式AI创建的鹈鹕骑自行车的特效镜头。作者指出这是首次在音乐视频中看到此类AI生成内容，并提到了特效制作团队。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "AI",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "3416e70818131438",
+      "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T19:10:10+00:00",
+      "summary_zh": "文章讨论了苹果为新款iPhone Duo屏幕优化应用的重要性，并列举了历史上每次屏幕尺寸或分辨率变化时应用生态的适应过程。作者强调iPhone用户非常在意应用的视觉和交互体验，开发者若不及时优化，用户可能会转向竞争对手的应用。",
+      "tags": [
+        "mobile",
+        "design",
+        "business"
+      ]
+    },
+    {
+      "id": "486095d368eeddbb",
+      "title": "Updates to My iPhone Duo Review",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T18:49:38+00:00",
+      "summary_zh": "这是对作者之前发布的iPhone Duo评测的更新补充，主要澄清了Duo相机的具体功能规格。文章指出，虽然Duo相机成像质量优秀，但它不具备Pro系列的专业控制、空间视频、ProRES等高级功能，并详细说明了其与iPhone Air和Pro型号的差异。",
+      "tags": [
+        "mobile",
+        "hardware",
+        "design"
+      ]
+    },
+    {
+      "id": "2f38489938aada9c",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T18:09:56+00:00",
+      "summary_zh": "文章报道了Anthropic公司将其“Agent Skills”标准捐赠给由Linux基金会托管的Agentic AI Foundation（AAIF），以确保其开放、社区驱动和供应商中立。作者提到自己此前曾预测过这一举措，并分享了如何使用AI代理通过MCP插件查询自己博客内容的趣事。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "open-source"
+      ]
+    },
+    {
+      "id": "6c02262b66ac8866",
+      "title": "Productivity",
+      "url": "https://idiallo.com/byte-size/productivity-video",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T16:56:14+00:00",
+      "summary_zh": "文章对现代“生产力”概念进行了反思，指出即使有AI代理处理繁琐工作，人们依然感到忙碌和压力。作者认为，生产力的提升本应减少工作时间，但现实却是被用来产生更多成果，导致“休息”被无限推迟，这引发了对工作与生活平衡的思考。",
+      "tags": [
+        "culture",
+        "business",
+        "AI",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "2eded73c1a58a8ad",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:34:13+00:00",
+      "summary_zh": "文章引用了开发者Armin Ronacher的一条推文：“AI虽然有趣，但我们在过去30年里构建了太多糟糕的软件，现在宇宙正在惩罚我们的罪过。”这句话简洁地表达了对历史技术债务与当前AI时代挑战之间关联的观察。",
+      "tags": [
+        "AI",
+        "programming",
+        "culture"
+      ]
+    },
+    {
+      "id": "8879be43b4f80ed6",
+      "title": "NYC, New Webinar, Differential Testing",
+      "url": "https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/",
+      "author": "",
+      "feed_title": "buttondown.com/hillelwayne",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:14:05+00:00",
+      "summary_zh": "作者在简报中分享了个人近况（移居纽约、回归Twitter）并预告了一场关于Web应用属性测试的线上研讨会。文章核心探讨了如何对非确定性系统（如AI代码转换工具）进行差分测试，以验证其输出正确性，并提出了关注系统状态不变量的测试思路。",
+      "tags": [
+        "programming",
+        "testing",
+        "AI"
+      ]
+    },
+    {
+      "id": "f595350c4b92d73c",
+      "title": "Working around a strange Python problem",
+      "url": "https://www.johndcook.com/blog/2026/10/22/pep-723/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:12:10+00:00",
+      "summary_zh": "作者遇到了一个Python脚本因PEP 723元数据块解析问题而报错的奇怪问题。问题根源在于脚本内容中包含了一个作为字符串文本的元数据块标记，被解析器误认为是第二个元数据块。文章描述了一个通过临时修改字符串内容来绕过此问题的“脏修复”方案。",
+      "tags": [
+        "programming",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "a57713209620db53",
+      "title": "How the eMudrha certificate debacle might have happened",
+      "url": "https://www.johndcook.com/blog/2026/10/22/certificate-debacle/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T14:01:55+00:00",
+      "summary_zh": "文章针对eMudrha证书私钥使用极小数字（如4）的安全事故，推测了其可能的发生原因。作者分析了在NIST P-384椭圆曲线系统中，私钥本应是巨大的随机数，但事故中的密钥却异常小，可能是由于混淆了位数上限、取模运算错误或仅取用随机数的一个字节所致。",
+      "tags": [
+        "security",
+        "security/privacy",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "8ca83b58224eae92",
+      "title": "If people would just",
+      "url": "https://herman.bearblog.dev/if-people-would-just/",
+      "author": "herman (hidden)",
+      "feed_title": "herman.bearblog.dev",
+      "category": "Blogs",
+      "published_at": "2026-10-22T12:19:00+00:00",
+      "summary_zh": "文章批评了在解决问题时过度依赖“如果人们只要（just）…”这种思维模式。作者指出，指望所有人永远行为得体是不现实的，好的系统设计必须考虑到总会有一小部分人会出错或故意破坏。关键在于设计能容错或限制破坏的健壮系统，而非空想完美用户。",
+      "tags": [
+        "design",
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "ccd221a5f3553ab4",
+      "title": "Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:34:36+00:00",
+      "summary_zh": "这是一篇对Mokin品牌17合1 USB-C扩展坞的评测。文章详细列出了该设备丰富的接口配置（包括视频输出、多种USB端口、网口、读卡器等）和独特设计（如底部吸盘、LCD天气显示屏），并附上了产品实物图片。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "tools"
+      ]
+    },
+    {
+      "id": "5bafaf90a950d7ca",
+      "title": "The number of points on an elliptic curve",
+      "url": "https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:08:51+00:00",
+      "summary_zh": "本文探讨了有限域上椭圆曲线的点数问题。文章通过直观的估计和严格的界限分析，解释了为什么椭圆曲线上的点数大约等于域中元素的个数，并以模7的整数域为例进行了说明。",
+      "tags": [
+        "culture",
+        "culture/mathematics",
+        "security/cryptography"
+      ]
+    },
+    {
+      "id": "116a6677e044667e",
+      "title": "Windows 7 released Oct 22, 2009",
+      "url": "https://dfarq.homeip.net/windows-7-released-oct-22-2009/?utm_source=rss&utm_medium=rss&utm_campaign=windows-7-released-oct-22-2009",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:00:16+00:00",
+      "summary_zh": "文章回顾了Windows 7于2009年10月22日发布的历史事件。它指出Windows 7在Vista之后成功挽回了用户口碑，并成为有史以来最受欢迎的Windows版本之一。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T06:34:24+00:00",
+      "summary_zh": "文章以幽默怀旧的口吻，描述了在1986年如何为Commodore 64电脑“安装程序”（当时还不叫“应用”）。整个过程包括骑自行车去商场书店寻找特定的计算机杂志，并希望杂志没有售罄。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware/retro-computing"
+      ]
+    },
+    {
+      "id": "9f3c74759ee33f7c",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary_zh": "文章讽刺性地评论了C语言项目中频繁出现的内存安全漏洞（如NGINX的CVE-2026-93479）。它模仿了开发者“无法预防此类悲剧”的无奈论调，实则批评了C语言是导致全球绝大多数内存安全漏洞的根源。",
+      "tags": [
+        "programming",
+        "security",
+        "programming/languages/C"
+      ]
+    },
+    {
+      "id": "486095d368eeddbb",
+      "title": "★ The iPhone Duo",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T22:59:14+00:00",
+      "summary_zh": "文章评论了苹果的折叠屏手机iPhone Duo，指出其存在诸多固有缺陷，如厚重、外屏狭小、硬件按钮位置别扭以及需要回归Touch ID等。作者认为，其中一些问题可能永远无法在折叠屏设备上得到根本解决。",
+      "tags": [
+        "mobile",
+        "hardware/design",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "906981468ccf0d32",
+      "title": "Script dependencies with Nix",
+      "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "summary_zh": "文章介绍了如何在非NixOS的Linux发行版上使用Nix来管理脚本（如Python脚本）的依赖关系。这种方法可以避免因系统或语言包管理器更新导致的依赖冲突，让脚本运行更可靠。",
+      "tags": [
+        "devops",
+        "programming/tools",
+        "devops/package-management"
+      ]
+    },
+    {
+      "id": "dd3b373660e51cb2",
+      "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/21/brittle-individualism/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T20:05:21+00:00",
+      "summary_zh": "这是博客“Pluralistic”的每日链接摘要，其中主要提到了“对抗性互操作性是一项团队运动”的观点。文章认为，仅靠 vibe-coded 的越狱（jailbreaks）很有趣，但无法真正解决问题。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "open-source"
+      ]
+    },
+    {
+      "id": "02c9ab5f304f07c7",
+      "title": "Can they write a function?",
+      "url": "https://idiallo.com/blog/can-they-write-a-function",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T19:00:40+00:00",
+      "summary_zh": "文章讨论了软件开发的招聘问题，认为筛选优秀候选人的最佳方法是让他们现场编写一个函数（如FizzBuzz测试）并部署一个服务。作者强调经验可以在工作中学习，而其他如“文化契合度”等标准往往很随意。",
+      "tags": [
+        "career",
+        "programming",
+        "career/hiring"
+      ]
+    },
+    {
+      "id": "d5bfffb2d100cc8f",
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "summary_zh": "作者通过阅读丹尼尔·埃尔斯伯格的《末日机器》一书，将冷战时期核战争规划者（如兰德公司员工）的使命感与当今AI公司（如Anthropic）员工的狂热使命感进行了类比。两者都自视为掌握特殊知识的“内部人士”，肩负着拯救世界的重任。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "business/strategy",
+        "AI/ethics"
+      ]
+    },
+    {
+      "id": "60cdd6b596008249",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T18:41:53+00:00",
+      "summary_zh": "文章转述了PHP基金会关于一次关键安全更新的公告。此次更新修复了两个远程代码执行漏洞，但由于协调披露过程泄露，导致漏洞细节和攻击视频提前在网络上传播，迫使PHP项目提前发布了补丁。",
+      "tags": [
+        "security",
+        "programming",
+        "programming/languages/PHP",
+        "security/vulnerability"
+      ]
+    },
+    {
+      "id": "e0e7f9f0f4ba064a",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:25:16+00:00",
+      "summary_zh": "文章介绍了一个名为“Panache”的法国版衍生游戏，它是对作者前一天发布的“Battle Drones”游戏的法语分叉和换肤。新游戏将背景设定在1900年代法国蒸汽朋克风格，增加了新的模型、音乐和开场动画。",
+      "tags": [
+        "open-source",
+        "culture/media",
+        "mobile/gaming"
+      ]
+    },
+    {
+      "id": "9042618b3b96e995",
+      "title": "Going Somewhere",
+      "url": "https://simone.org/somewhere/",
+      "author": "Simone Salis",
+      "feed_title": "simone.org",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:14:51+00:00",
+      "summary_zh": "这是一篇个人叙事散文，描述了作者在长途飞行后，于清晨从芝加哥奥黑尔机场乘坐网约车回家的经历。作者与司机（一位有着22年康复史的理发师兼司机）进行了一场深刻而坦诚的对话，触及了身份、成瘾和人性连接等主题。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "3aea2d3b283086de",
+      "title": "Trust Stores Are Dependencies Too",
+      "url": "https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "summary_zh": "文章讨论了eMudhra错误生成中间CA证书导致私钥可从证书中恢复的安全事件。各大浏览器和操作系统通过各自的机制进行了快速封锁，但许多依赖自带根证书库的客户端软件（如Python的certifi、Node.js、Go等）需要手动更新。这揭示了信任存储（Trust Stores）同样是关键且易被忽视的软件依赖。",
+      "tags": [
+        "security",
+        "security/privacy",
+        "web",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "5d15c045388ec8ec",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T15:26:07+00:00",
+      "summary_zh": "PHP语言中发现了两个允许攻击者完全控制服务器的严重漏洞，影响了大量使用Drupal、Magento、Joomla和WordPress等系统的网站。已有在野利用，导致许多政府网站被迫下线。文章紧急呼吁网站管理员立即更新PHP核心软件以进行修复。",
+      "tags": [
+        "security",
+        "web",
+        "programming"
+      ]
+    },
+    {
+      "id": "7549aaca15237d8b",
+      "title": "Backdoors, Incompetence, and Elliptic Curves",
+      "url": "https://www.johndcook.com/blog/2026/10/21/emudhra/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T15:16:51+00:00",
+      "summary_zh": "文章围绕NIST椭圆曲线近期两次成为新闻焦点展开：先是Anthropic的研究为其种子来源正名，排除了后门嫌疑；随后又因eMudhra公司错误地使用极小密钥导致证书安全问题。文章指出，加密系统的阿喀琉斯之踵往往是人为错误，而非算法本身的后门。",
+      "tags": [
+        "security",
+        "culture/mathematics",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "0e2f48bc0979a338",
+      "title": "Upgrade your PHP installs immediately to protect against php2shell",
+      "url": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T14:10:00+00:00",
+      "summary_zh": "PHP发布了两个9.2分（满分10分）的严重远程代码执行（RCE）漏洞安全通告。文章紧急呼吁所有运行PHP服务的用户立即升级到指定的安全版本（如8.2.35、8.3.36等），并提到了社区维护者即使在休假中也及时推送更新的轶事。",
+      "tags": [
+        "security",
+        "web",
+        "programming"
+      ]
+    },
+    {
+      "id": "5c7f48cef4839cfe",
+      "title": "Why didn’t we use Ro­Register­For­Apartment­Shutdown to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-21T14:00:00+00:00",
+      "summary_zh": "文章探讨了在COM编程中，为何不能使用`RoRegisterForApartmentShutdown`函数来清理不可封送（unmarshalable）的委托对象。主要原因是该函数要求注册的对象必须是敏捷（agile）的，而这正是我们试图通过包装器解决的问题，因此陷入了循环依赖，无法满足需求。",
+      "tags": [
+        "programming",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "f0ad34a6faa17324",
+      "title": "Deliberate imperfection",
+      "url": "https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-21T12:04:06+00:00",
+      "summary_zh": "文章通过分析《圣经·传道书》第三章的著名诗歌，探讨了其结构中的对称性、数字“七”象征的完美，以及节奏感。作者特别指出诗歌中间对句（“抛掷石头”与“堆聚石头”）在逻辑上存在一种“刻意的瑕疵”，这种不对称性反而增添了诗歌的深度与思考空间。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "f09a208cd5e6c280",
+      "title": "Creative Computing launched October 1974",
+      "url": "https://dfarq.homeip.net/creative-computing-launched-october-1974/?utm_source=rss&utm_medium=rss&utm_campaign=creative-computing-launched-october-1974",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-21T11:00:00+00:00",
+      "summary_zh": "文章纪念了开创性计算机杂志《Creative Computing》于1974年10月创刊52周年。该杂志是20世纪70-80年代最伟大的计算机杂志之一，即使在《Byte》杂志的激烈竞争下也留下了深远影响。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "culture/media"
+      ]
+    }
+  ]
+}
