@@ -1,0 +1,457 @@
+{
+  "date": "2026-10-24",
+  "article_count": 30,
+  "tokens_used": 15998,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "1560ea04dee0e58a",
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T21:35:13+00:00",
+      "summary_zh": "文章介绍了一个名为Quick Study的工具，它使用Claude Opus 5.5 High根据提示构建了一个网页应用。该应用能快速（几秒内）使用Canvas和模拟画笔将照片绘制成油画风格，其核心算法基于Sobel边缘检测，无需外部库。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "tools"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-10-23T20:54:26+00:00",
+      "summary_zh": "文章以怀旧口吻描述了在1986年为Commodore 64电脑获取和安装程序的繁琐过程。用户需要骑自行车去商场书店，在有限的电脑杂志中寻找包含所需程序的刊物，并手动输入代码。",
+      "tags": [
+        "culture",
+        "hardware/retro-computing",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "2353814513bbf46c",
+      "title": "Pluralistic: Critique and writing (23 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/23/better-to-give/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T20:44:02+00:00",
+      "summary_zh": "这是Cory Doctorow的博客“Pluralistic”的每日摘要，主要讨论了写作工作坊中批评与写作的重要性。文章还包含其他链接，涉及AI、教学法、安全漏洞、邮政服务等多个主题。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "AI/ethics"
+      ]
+    },
+    {
+      "id": "9e0308113d32ae3f",
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T19:40:54+00:00",
+      "summary_zh": "文章介绍了月之暗面（Moonshot）公司发布的新大语言模型Kimi K3.1 Pro。该模型在多项基准测试中表现优异，与Claude Opus 5.5和GPT-6 Astra水平相当，并计划于2026年11月4日前开源权重。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "open-source"
+      ]
+    },
+    {
+      "id": "f3e0824b5059e5cd",
+      "title": "RMSNorm",
+      "url": "https://www.gilesthomas.com/2026/10/rmsnorm",
+      "author": "",
+      "feed_title": "gilesthomas.com",
+      "category": "Blogs",
+      "published_at": "2026-10-23T18:40:00+00:00",
+      "summary_zh": "文章探讨了RMSNorm作为LayerNorm的替代方案在大语言模型（如GPT-2）中的应用。作者通过实验证明，归一化对模型训练至关重要，能防止梯度消失或爆炸，而RMSNorm在保持效果的同时计算更高效。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "programming"
+      ]
+    },
+    {
+      "id": "200773e521fde480",
+      "title": "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
+      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T16:52:56+00:00",
+      "summary_zh": "文章引用了The Verge对苹果折叠手机iPhone Duo的评测，重点指出了其令人困惑的握持和按键方向设计。评测认为，默认设置下用户需要不断调整握持方式以适应按钮位置，影响了使用体验。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "design"
+      ]
+    },
+    {
+      "id": "cb1779a65b505906",
+      "title": "Premium: The Hater's Guide To Blackstone",
+      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-10-23T16:28:34+00:00",
+      "summary_zh": "文章以讽刺口吻批评了黑石集团创始人Stephen A. Schwarzman在其自传系列“My Personal History”中塑造的自我形象。作者通过揭露其早期职业生涯和相关历史人物的争议，质疑其叙述的“高尚价值观”。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "culture"
+      ]
+    },
+    {
+      "id": "10e495446dc1a3ab",
+      "title": "An Ion Storm!, Part 2: The Return to Ground Level",
+      "url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T16:19:26+00:00",
+      "summary_zh": "文章是游戏开发历史系列的一部分，讲述了离子风暴（Ion Storm）公司创始人John Romero的故事，特别是他与Stevie Case的关系。内容涉及游戏《大刀》（Daikatana）的开发背景和当时的行业文化。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "mobile/gaming"
+      ]
+    },
+    {
+      "id": "b8cb581da13e5812",
+      "title": "Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’",
+      "url": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T14:42:06+00:00",
+      "summary_zh": "文章总结了Joanna Stern对苹果折叠手机iPhone Duo的视频评测。评测通过机器人测试铰链耐久性、实地测试相机等功能，指出了手机的优点、缺点和软件bug，并特别提到缺少Face ID的遗憾。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "design"
+      ]
+    },
+    {
+      "id": "157bf9172976a2d0",
+      "title": "Why didn’t we use the COM static store to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-23T14:00:00+00:00",
+      "summary_zh": "文章解释了在COM编程中，为何不能使用COM静态存储（COM static store）来清理不可封送的委托（unmarshalable delegate）。原因在于其生命周期与单套间（apartment）的关闭时机不匹配，且UWP相关的替代方案限制过多。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "7e27bcf2845e741d",
+      "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
+      "url": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-10-23T13:00:00+00:00",
+      "summary_zh": "作者评测了Ubiquiti公司售价99美元的空气质量和蒸汽探测器。文章提到，作者因关注高浓度二氧化碳对认知能力的影响而开始监测空气质量，并认为这款设备性能不错。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "tools"
+      ]
+    },
+    {
+      "id": "25b339412a9e21a1",
+      "title": "More phishing messages via Booking.com and Novotel",
+      "url": "https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-23T11:34:15+00:00",
+      "summary_zh": "作者分享了通过Booking.com预订诺富特酒店后收到的两起精准网络钓鱼经历。诈骗者通过WhatsApp发送消息，精确掌握了用户的姓名、电话、入住地点和日期，但使用的域名和话术仍存在明显破绽。",
+      "tags": [
+        "security",
+        "security/privacy",
+        "security/vulnerability"
+      ]
+    },
+    {
+      "id": "39457eb31531876f",
+      "title": "Windows XP released October 25, 2001",
+      "url": "https://dfarq.homeip.net/windows-xp-released-october-25-2001/?utm_source=rss&utm_medium=rss&utm_campaign=windows-xp-released-october-25-2001",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T11:00:13+00:00",
+      "summary_zh": "文章回顾了微软于2001年10月25日发布Windows XP的历史事件，并指出微软在相隔8年的同一周内发布了两款最受欢迎的Windows版本。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "b1959b1fad9a2681",
+      "title": "One Small Bug",
+      "url": "https://nesbitt.io/2026/10/23/one-small-bug.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "summary_zh": "文章通过一个添加CSV导出功能并修复分页Bug的对话场景，揭示了因包管理器版本过旧导致依赖解析策略失效的潜在问题，强调了配置与工具版本匹配的重要性。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "devops/package-management"
+      ]
+    },
+    {
+      "id": "00e1c62671775aca",
+      "title": "Software is slow because of bad design, not slow languages",
+      "url": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "summary_zh": "文章反驳了“用更快语言重写软件能显著提升性能”的观点，指出大多数程序受I/O限制而非语言速度限制，性能问题根源在于软件设计而非编程语言选择。",
+      "tags": [
+        "programming",
+        "performance",
+        "architecture"
+      ]
+    },
+    {
+      "id": "3d70bddac7bb7e87",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "summary_zh": "文章以讽刺口吻报道了Ruby正则表达式库因C语言组件漏洞（CVE-2026-89078）引发的安全危机，暗示C语言是此类内存安全漏洞频发的根源。",
+      "tags": [
+        "security",
+        "security/vulnerability",
+        "programming/languages/C"
+      ]
+    },
+    {
+      "id": "87e22db35085845a",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T19:42:26+00:00",
+      "summary_zh": "文章分享了一支荷兰摇滚乐队音乐视频中出现AI生成的“鹈鹕骑自行车”特效画面，并标注了相关AI生成标签。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "AI"
+      ]
+    },
+    {
+      "id": "3416e70818131438",
+      "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T19:10:10+00:00",
+      "summary_zh": "文章讨论了苹果为新款iPhone Duo发布优化应用列表的现象，指出每次屏幕规格重大变更都会引发应用适配潮，iPhone用户对应用体验有高要求，会促使开发者快速跟进。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "design"
+      ]
+    },
+    {
+      "id": "486095d368eeddbb",
+      "title": "Updates to My iPhone Duo Review",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T18:49:38+00:00",
+      "summary_zh": "文章是对iPhone Duo评测的更新补充，主要澄清了其相机虽优秀但缺乏Pro系列的专业控制、参考图像、空间视频等高级功能，定位并非专业机型。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "2f38489938aada9c",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T18:09:56+00:00",
+      "summary_zh": "文章报道了Anthropic公司将Agent Skills标准捐赠给其与Block、OpenAI共同创立的Agentic AI基金会，旨在保持该标准的开放性和厂商中立性，作者此前曾预测此动向。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "open-source"
+      ]
+    },
+    {
+      "id": "6c02262b66ac8866",
+      "title": "Productivity",
+      "url": "https://idiallo.com/byte-size/productivity-video",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T16:56:14+00:00",
+      "summary_zh": "文章反思了在AI代理承担工作后人们依然感到忙碌和压力增大的现象，指出生产力提升带来的空闲时间常被用于追求更多产出，导致“休息”被无限推迟的悖论。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "business"
+      ]
+    },
+    {
+      "id": "2eded73c1a58a8ad",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:34:13+00:00",
+      "summary_zh": "文章引用了Armin Ronacher的观点：尽管AI很有趣，但过去30年我们构建了大量糟糕的软件，如今正在为此付出代价。",
+      "tags": [
+        "AI",
+        "security",
+        "programming"
+      ]
+    },
+    {
+      "id": "8879be43b4f80ed6",
+      "title": "NYC, New Webinar, Differential Testing",
+      "url": "https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/",
+      "author": "",
+      "feed_title": "buttondown.com/hillelwayne",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:14:05+00:00",
+      "summary_zh": "作者宣布搬家至纽约、回归Twitter，并预告了一场关于对Web应用进行基于属性的测试（重点是系统状态不变量）的线上研讨会，同时提及了对非确定性差分测试的思考。",
+      "tags": [
+        "programming",
+        "testing",
+        "career"
+      ]
+    },
+    {
+      "id": "f595350c4b92d73c",
+      "title": "Working around a strange Python problem",
+      "url": "https://www.johndcook.com/blog/2026/10/22/pep-723/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T15:12:10+00:00",
+      "summary_zh": "作者遇到了一个Python脚本因PEP 723元数据块解析问题而报错，原因是脚本内容中包含与元数据块标记相同的字符串。通过一个“脏 hack”（在字符串中插入空格再替换）临时解决了问题。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "testing"
+      ]
+    },
+    {
+      "id": "a57713209620db53",
+      "title": "How the eMudrha certificate debacle might have happened",
+      "url": "https://www.johndcook.com/blog/2026/10/22/certificate-debacle/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T14:01:55+00:00",
+      "summary_zh": "文章探讨了eMudhra证书丑闻中，为何会使用极小的数字（如4）作为NIST P-384椭圆曲线加密的私钥。作者推测可能源于对密钥空间（2^384）的误解、打字错误（如将模运算误写为% 384），或仅使用了随机值的一个字节。",
+      "tags": [
+        "security",
+        "security/cryptography",
+        "security/vulnerability"
+      ]
+    },
+    {
+      "id": "6fef24ac75ec13da",
+      "title": "Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-22T14:00:00+00:00",
+      "summary_zh": "文章解释了为何不使用`CoRegisterInitializeSpy`接口来清理不可封送的委托。原因包括：撤销间谍必须与注册在同一线程进行，增加了复杂性；且在初始化或反初始化过程中调用撤销的效果不可预测，这与之前遇到的`RoUnregisterForApartmentShutdown`问题类似。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "8ca83b58224eae92",
+      "title": "If people would just",
+      "url": "https://herman.bearblog.dev/if-people-would-just/",
+      "author": "herman (hidden)",
+      "feed_title": "herman.bearblog.dev",
+      "category": "Blogs",
+      "published_at": "2026-10-22T12:19:00+00:00",
+      "summary_zh": "文章批评了在解决问题时过度依赖“只要人们能...”这种思维。作者指出，指望所有人“自觉”行为是不切实际的，即使只有1%的人行为不当，在大量用户下也会造成巨大问题。因此，设计系统时应考虑如何容纳或防止不良行为，而非寄望于人的完美。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "design"
+      ]
+    },
+    {
+      "id": "ccd221a5f3553ab4",
+      "title": "Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:34:36+00:00",
+      "summary_zh": "这是一篇对Mokin 17合1 USB-C扩展坞的评测。产品功能强大，提供三显示输出、多个USB端口、千兆网口、读卡器等，并自带一个显示天气的LCD屏。评测者对其设计和功能进行了介绍。",
+      "tags": [
+        "hardware",
+        "tools"
+      ]
+    },
+    {
+      "id": "5bafaf90a950d7ca",
+      "title": "The number of points on an elliptic curve",
+      "url": "https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:08:51+00:00",
+      "summary_zh": "文章解释了有限域上椭圆曲线的点数问题。核心观点是：在模p的有限域上，椭圆曲线的点数大约等于p。作者先给出了直观的估算（基于模p下平方根的数量），然后提及会提供严格的界限并通过示例进行说明。",
+      "tags": [
+        "security",
+        "security/cryptography",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "116a6677e044667e",
+      "title": "Windows 7 released Oct 22, 2009",
+      "url": "https://dfarq.homeip.net/windows-7-released-oct-22-2009/?utm_source=rss&utm_medium=rss&utm_campaign=windows-7-released-oct-22-2009",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-22T11:00:16+00:00",
+      "summary_zh": "文章简短纪念了Windows 7于2009年10月22日发布。指出它成为了有史以来最受欢迎的Windows版本之一，在Vista之后成功挽回了市场声誉。",
+      "tags": [
+        "tools",
+        "tools/operating-systems",
+        "culture/history"
+      ]
+    }
+  ]
+}
