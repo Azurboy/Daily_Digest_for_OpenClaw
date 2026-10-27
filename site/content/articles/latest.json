@@ -1,482 +1,237 @@
 {
-  "date": "2026-10-25",
-  "article_count": 33,
-  "tokens_used": 17943,
+  "date": "2026-10-27",
+  "article_count": 28,
+  "tokens_used": 14340,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
     {
-      "id": "87bb67770936ade6",
-      "title": "MacOS Extensions pack for the Apple Network Server v1.0",
-      "url": "https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-      "author": "ClassicHasClass (noreply@blogger.com)",
-      "feed_title": "oldvcr.blogspot.com",
-      "category": "Blogs",
-      "published_at": "2026-10-25T01:21:15+00:00",
-      "summary_zh": "作者分享了对1996年苹果网络服务器的喜爱，并介绍了其独特的Harpoon操作系统。文章提及了该服务器的一些独特功能，以及作者个人拥有和收藏多台该型号服务器的经历。",
-      "tags": [
-        "hardware",
-        "hardware/retro-computing",
-        "tools/operating-systems"
-      ]
-    },
-    {
-      "id": "100293722b6ada22",
-      "title": "Computing polar triangles with linear algebra",
-      "url": "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-10-25T01:01:55+00:00",
-      "summary_zh": "本文介绍了一种使用线性代数计算球面三角形极三角形的方法。该方法通过将顶点坐标表示为矩阵，求逆并归一化行向量来得到极三角形的顶点。这个过程是一个对合运算。",
-      "tags": [
-        "culture",
-        "culture/mathematics"
-      ]
-    },
-    {
-      "id": "298ae0a162e65964",
-      "title": "Duality in spherical trigonometry",
-      "url": "https://www.johndcook.com/blog/2026/10/24/polar-triangle/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-10-25T00:28:20+00:00",
-      "summary_zh": "本文探讨了球面三角学中的对偶性，重点介绍了球面余弦定理的两种形式：边的余弦定理和角的余弦定理。文章解释了在球面几何中，边和角都是角度，并且它们之间存在相互决定的关系。",
-      "tags": [
-        "culture",
-        "culture/mathematics"
-      ]
-    },
-    {
-      "id": "98f415d2c87bbda8",
-      "title": "Don't anthropomorphize big tech companies",
-      "url": "https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-10-25T00:00:00+00:00",
-      "summary_zh": "文章引用Bryan Cantrill的观点，警告人们不要将大型科技公司拟人化。作者认为公司更像是机器而非人，将其视为有情感或意图的个体是一种认知错误，可能导致对其行为的误解。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "73dce920526733c3",
-      "title": "Nicole Nguyen’s Duo Review for the WSJ",
-      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf",
+      "id": "d0ed72c479d49fcd",
+      "title": "The NYT Seemingly Does Marissa Mayer Dirty",
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr",
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-24T22:15:00+00:00",
-      "summary_zh": "Nicole Nguyen在《华尔街日报》的评测中指出，iPhone Duo在作为手机单手使用时感觉厚重，长时间使用会导致手部不适。她希望未来的Duo能更轻薄，并提到苹果已针对可及性进行了一些设计调整。",
+      "published_at": "2026-10-27T00:30:08+00:00",
+      "summary_zh": "文章讨论了《纽约时报》对Marissa Mayer及其新AI初创公司Dazzle的报道引发的争议。报道引用了一个轶事，暗示Mayer使用AI来总结女儿的特点，这引发了社交媒体的批评。Mayer随后澄清，她使用Dazzle并非因为无法完成任务，而是想测试其早期原型寻找更深层次的洞察。",
       "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "design"
-      ]
-    },
-    {
-      "id": "8a2a0c279c0c77db",
-      "title": "Reuters and the WSJ on the Duo Launch",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T22:08:17+00:00",
-      "summary_zh": "文章汇总了路透社和《华尔街日报》关于iPhone Duo发售的报道，包括苹果高管在门店的活动以及早期评测的反馈。一些知名评论者认为Duo对于日常快速任务不够便捷，并建议许多苹果用户谨慎购买。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
+        "AI",
+        "AI/LLM/Agent",
         "business"
       ]
     },
     {
-      "id": "78beb7d4f0fc9b71",
-      "title": "Marion Barry Meets the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "id": "9ae0148c3dae867d",
+      "title": "Apple Issues Statement on iPhone Duo’s Crack Problem",
+      "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/",
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-24T21:10:06+00:00",
-      "summary_zh": "文章指出，尽管iPhone Duo刚刚发售，但已有少量设备出现内屏沿铰链区域开裂并伴有亮线的问题。虽然问题似乎并不普遍，但相关报告已不止零星几例。",
+      "published_at": "2026-10-26T23:54:26+00:00",
+      "summary_zh": "苹果公司就iPhone Duo内屏出现裂纹的问题发表声明。苹果表示，该问题仅影响极少数设备，且通常很快出现。受影响的用户可联系AppleCare进行更换，无需AppleCare+服务。文章还提及了与早年iPhone 4“天线门”事件的类比。",
       "tags": [
         "mobile",
         "mobile/iPhone",
-        "hardware/design"
+        "hardware"
       ]
     },
     {
-      "id": "b30f43c3d80b2922",
-      "title": "MKBHD’s Duo Review",
-      "url": "https://youtu.be/ESABTN4VtrA",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T20:47:28+00:00",
-      "summary_zh": "文章讨论了Marques Brownlee对iPhone Duo的评测，他认为缺乏Face ID是最大痛点，并且Duo在边缘处极其精致，但核心体验仍有粗糙之处。评测还批评了许多第三方应用未针对Duo进行优化。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "design"
-      ]
-    },
-    {
-      "id": "46dc3151b6f642f0",
-      "title": "Tim Pan’s iPhone Duo Review",
-      "url": "https://www.youtube.com/watch?v=8pCccpKjjos",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T19:15:45+00:00",
-      "summary_zh": "文章介绍了Tim Pan及其团队对iPhone Duo的高质量评测视频，包括使用工业机器人对铰链进行压力测试。视频显示，在其公司内部，选择Duo的员工数量远超其他iPhone型号，反映了强劲的需求。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "617f5443b2b8ceb6",
-      "title": "List of Vim forks",
-      "url": "https://evanhahn.com/list-of-vim-forks/",
-      "author": "",
-      "feed_title": "evanhahn.com",
-      "category": "Blogs",
-      "published_at": "2026-10-24T17:00:00+00:00",
-      "summary_zh": "本文列举了几个已知的Vim编辑器分支，包括Neovim、Vim Classic、EVi和MacVim，并简要说明了每个分支的特点。文章明确排除了Vim风格插件和受Vim启发的编辑器。",
-      "tags": [
-        "programming",
-        "programming/tools",
-        "open-source"
-      ]
-    },
-    {
-      "id": "c4f68901c09f16d1",
-      "title": "Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page",
-      "url": "https://music.apple.com/404",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T15:50:02+00:00",
-      "summary_zh": "为庆祝初代iPod发布25周年，苹果在Apple Music的404错误页面上线了一个照片级真实且功能完整的初代iPod交互彩蛋。这个精心设计的彩蛋获得了广泛好评。",
-      "tags": [
-        "web",
-        "design",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "bef702b09a0cf73f",
-      "title": "Chan Karunamuni on the Duo’s Open/Close Translucent Transition",
-      "url": "https://x.com/chan_k/status/2113622379050246243",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T15:03:44+00:00",
-      "summary_zh": "苹果人机界面设计师Chan Karunamuni介绍了iPhone Duo开合过渡效果的设计理念。该设计旨在通过感知上弯曲焦平面而非内容本身，使两块屏幕感觉像一个无缝的整体体验，如同打开一扇窗。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "design"
-      ]
-    },
-    {
-      "id": "9fdda66c7434f3f8",
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-      "author": "steve blank",
-      "feed_title": "steveblank.com",
-      "category": "Blogs",
-      "published_at": "2026-10-24T13:00:33+00:00",
-      "summary_zh": "文章讨论了埃隆·马斯克决定限制乌克兰使用星盾（Starshield）服务所引发的欧洲政策反应。这一事件被视为美国技术存在“远程关闭开关”风险的现实例证，促使欧洲重新评估对美国关键技术和武器系统的依赖，并可能加速其寻求技术自主的进程。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "3d1ee2b88a20edb4",
-      "title": "Reading List 10/24/26",
-      "url": "https://www.construction-physics.com/p/reading-list-102426",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-10-24T12:01:24+00:00",
-      "summary_zh": "这是一篇博客的阅读列表文章，内容未提供具体的技术主题或讨论。根据其来源和形式，它可能是一个包含多个主题链接的汇总性内容。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "09a307be72348653",
-      "title": "Book Review: Get Ahead of Being Dead by Evie King ★★★★☆",
-      "url": "https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-24T11:34:25+00:00",
-      "summary_zh": "文章是对埃维·金（Evie King）所著书籍《Get Ahead of Being Dead》的评论。该书是一本关于如何提前规划身后事的非正式指南，旨在帮助人们减轻亲友在处理其身后事务时的负担。书评认为该书延续了作者前作的风格，将关于死亡的轶事与关于社会如何对待逝者的政治信息相结合。",
-      "tags": [
-        "culture",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "9cd83532c6256312",
-      "title": "Commodore 1600 VICmodem",
-      "url": "https://dfarq.homeip.net/commodore-1600-vicmodem/?utm_source=rss&utm_medium=rss&utm_campaign=commodore-1600-vicmodem",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-24T11:00:08+00:00",
-      "summary_zh": "文章简要介绍了1982年Commodore公司推出的1600 VICmodem。这款调制解调器是Commodore为使计算机更普及、更经济可及而做出的努力之一，与其推出的首款售价低于300美元的彩色电脑相呼应。",
-      "tags": [
-        "hardware",
-        "hardware/retro-computing"
-      ]
-    },
-    {
-      "id": "c1706aff9438bf99",
-      "title": "This Week in Package Management: 24 October 2026",
-      "url": "https://nesbitt.io/2026/10/24/this-week-in-package-management.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-10-24T10:00:00+00:00",
-      "summary_zh": "文章总结了2026年10月24日当周的软件包管理动态，重点关注了eMudhra中间CA证书私钥泄露导致的安全事件。该事件引发了数十个包管理器、语言运行时和CA证书包的紧急安全更新。作者还撰文探讨了信任存储（CA文件）作为关键依赖项的重要性。",
-      "tags": [
-        "devops",
-        "devops/package-management",
-        "security",
-        "security/vulnerability"
-      ]
-    },
-    {
-      "id": "d1879513a33727bd",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "id": "c15b1e3c66d84564",
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
       "author": "",
       "feed_title": "simonwillison.net",
       "category": "Blogs",
-      "published_at": "2026-10-24T03:59:57+00:00",
-      "summary_zh": "作者为其开源游戏项目Battledrones发布了v14版本，新增了一个名为“Compass Rose”的支持四名玩家在线对战的地图。该功能由Claude Opus 5.5 AI协助实现，包括修改WebSocket多人网络代码以支持最多四名玩家，并引入了新的紫色和绿色机器人主题。",
+      "published_at": "2026-10-26T23:53:07+00:00",
+      "summary_zh": "OpenAI发布了GPT-6.1 Terra模型，强调其在视觉推理和计算机使用方面的能力，以及更清晰自然的写作。该模型定位为中端选项，比GPT-5.6 Terra有显著提升，擅长处理沟通和基于计算机的日常工作任务。文章讨论了其适用场景和与同类模型的比较。",
       "tags": [
-        "programming",
-        "programming/tools",
         "AI",
         "AI/LLM"
       ]
     },
     {
-      "id": "01e7751ce1a6241d",
-      "title": "Interesting systemd features you may not know about",
-      "url": "https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "author": "martin@martinalderson.com (Martin Alderson)",
-      "feed_title": "martinalderson.com",
+      "id": "9a9b38c5820c80b8",
+      "title": "Glenn Fleishman on Apple Notes and Markdown",
+      "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-10-24T00:00:00+00:00",
-      "summary_zh": "文章介绍了systemd一些可能不为人知但非常有用的功能，特别是其资源限制能力。作者重点说明了如何使用`systemd-run`命令轻松为单个进程（包括AI代理编写的脚本）设置内存和CPU使用上限，从而避免因内存泄漏等问题导致系统冻结。这些功能利用了与Docker相同的底层cgroup技术。",
+      "published_at": "2026-10-26T20:03:53+00:00",
+      "summary_zh": "文章探讨了Apple Notes为何不支持原生Markdown编辑。作者认为，Notes坚持WYSIWYG（所见即所得）编辑是正确的，因为普通用户不应接触格式化代码，且Markdown可能产生格式错误的笔记。苹果近年增加的Markdown导入/导出和复制/粘贴支持已经足够。",
       "tags": [
-        "devops",
         "tools",
-        "tools/operating-systems"
+        "programming/tools",
+        "design"
       ]
     },
     {
-      "id": "1560ea04dee0e58a",
-      "title": "Quick Study",
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "id": "de56fb996b09bd29",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
       "author": "",
       "feed_title": "simonwillison.net",
       "category": "Blogs",
-      "published_at": "2026-10-23T21:35:13+00:00",
-      "summary_zh": "文章介绍了一个名为“Quick Study”的网页工具，该工具由Claude Opus 5.5 High根据提示创建。其功能是让用户上传一张照片，工具会使用Canvas元素和模拟画笔在几秒钟内快速“绘制”出该照片的油画风格版本。该工具的核心技术是Sobel边缘检测算法，且不依赖外部库。",
+      "published_at": "2026-10-26T19:00:25+00:00",
+      "summary_zh": "文章引用Jason Koebler的报道，指出由于大型科技平台缺乏客户支持，许多用户转向ChatGPT寻求技术问题帮助。然而，ChatGPT有时会错误地引导用户，声称他们的问题具有新闻价值，并推荐他们联系404 Media这家媒体来解决问题。",
       "tags": [
         "AI",
         "AI/LLM",
-        "design",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "18cda15ab19eadde",
+      "title": "Inversion in an ellipse",
+      "url": "https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-26T18:39:32+00:00",
+      "summary_zh": "这是关于几何对偶性系列文章的一部分，重点讨论了椭圆中的反演。文章解释了“极点”和“极线”的术语起源（来自球面几何）及其在平面几何（特别是椭圆）中的应用。探讨了通过几何或代数方法定义点的极线，并说明了其对偶性在变换问题中的用途。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "1cc86600ceaf6634",
+      "title": "★ Apple Announces New A20 Pro iPad Mini",
+      "url": "https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T18:04:34+00:00",
+      "summary_zh": "苹果发布了搭载A20 Pro芯片的新款iPad Mini，这是该产品线有史以来最大的更新。新款提供星光色和午夜色两种颜色，以及128GB、256GB和512GB三种存储容量，起售价为700美元。文章列出了详细规格、价格对比以及与旧款和iPad Air的差异。",
+      "tags": [
+        "mobile",
+        "hardware"
+      ]
+    },
+    {
+      "id": "9dac61fc56c3fe42",
+      "title": "A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It",
+      "url": "https://x.com/viticci/status/2113888099784638932",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T17:00:11+00:00",
+      "summary_zh": "文章介绍了一个简单的iPhone Shortcuts自动化捷径，可以让iPhone Duo在合上时自动锁屏。作者分享了自己最初也有合上即锁的期望，但经过一段时间使用后改变了习惯，并建议用户根据自身需求决定是否使用该捷径，同时肯定了Shortcuts在自定义功能方面的价值。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "tools"
+      ]
+    },
+    {
+      "id": "db71bb0ca35a8120",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T16:15:00+00:00",
+      "summary_zh": "文章评估了名为“webframe”的开源工具，该工具允许将网页像程序一样运行，在无头浏览器中执行并输出console.log和异常信息。作者使用Claude Opus对其进行了测试，探讨了其作为网页抓取工具和代码沙箱的潜力，并与自己的shot-scraper工具进行了比较。",
+      "tags": [
+        "tools",
+        "programming/tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "724f23c474d3465e",
+      "title": "Pluralistic: Sovereign citizens, but for news (26 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/26/abandon-hope/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T15:47:10+00:00",
+      "summary_zh": "文章批评了《洛杉矶时报》在其网站上引入的强制性仲裁条款，用户阅读即被视为同意。作者将这种行为比作“新闻界的主权公民运动”，认为这是利用法律手段剥夺用户权利、逃避责任的荒谬做法，并对此进行了讽刺和抨击。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "1ef0e0e737d1951c",
+      "title": "Tiny Computers for iPhone Duo",
+      "url": "https://www.fountaininteractive.com/TinyComputers/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T15:04:10+00:00",
+      "summary_zh": "这是一篇非常简短的推荐文章，强烈推荐iPhone Duo用户尝试某个未在摘要中明确指出的内容（可能是某个应用或功能），暗示这能极大提升使用体验。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "3588c90aecca0051",
+      "title": "De IT-onmacht van de Nederlandse overheid",
+      "url": "https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/",
+      "author": "",
+      "feed_title": "berthub.eu",
+      "category": "Blogs",
+      "published_at": "2026-10-26T14:25:00+00:00",
+      "summary_zh": "文章以荷兰语撰写，探讨了荷兰政府在信息技术方面的无能。作者通过两个具体案例，说明了政府IT项目的失败以及当局不愿承认问题的态度。作者认为，这种不承认问题的做法阻碍了任何根本性解决方案的实施。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "business"
+      ]
+    },
+    {
+      "id": "bf9d24e82e393b69",
+      "title": "Puzzling out why a program doesn’t work when run from a batch file, but works when double-clicked from Explorer",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-26T14:00:00+00:00",
+      "summary_zh": "文章探讨了程序在批处理文件中运行失败，但在资源管理器中双击却能成功的原因。核心问题在于当前工作目录不同：资源管理器会将程序所在目录设为当前目录，而批处理文件若未显式切换目录，程序可能无法找到其依赖的辅助文件。",
+      "tags": [
+        "programming",
+        "tools/operating-systems",
         "programming/tools"
       ]
     },
     {
-      "id": "4d6a91df126c9638",
-      "title": "How to install an app on your Commodore 64",
-      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
-      "author": "",
-      "feed_title": "anildash.com",
+      "id": "f0f3c303d1161b1b",
+      "title": "Theatre Review: Opera UnTouched's \"The Telephone\" ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
       "category": "Blogs",
-      "published_at": "2026-10-23T20:54:26+00:00",
-      "summary_zh": "文章以怀旧和略带幽默的口吻，描述了在1986年为Commodore 64电脑“安装应用程序”（当时称为“程序”）的繁琐过程。整个过程包括骑自行车去商场书店寻找特定的计算机杂志（如《COMPUTE!’s Gazette》和《RUN》），并希望杂志没有售罄，因为这是当时获取新程序的少数途径之一。",
-      "tags": [
-        "hardware",
-        "hardware/retro-computing",
-        "culture",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "2353814513bbf46c",
-      "title": "Pluralistic: Critique and writing (23 Oct 2026)",
-      "url": "https://pluralistic.net/2026/10/23/better-to-give/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-10-23T20:44:02+00:00",
-      "summary_zh": "这是博客“Pluralistic”在2026年10月23日的文章摘要链接列表。主要内容包括一篇关于写作工作坊中“批评与写作”的文章，强调帮助他人修改故事是工作坊最重要的部分。此外，还包含“Hey look at this”链接合集、“Object permanence”回顾栏目以及作者近期的行程和书籍信息。",
+      "published_at": "2026-10-26T12:34:15+00:00",
+      "summary_zh": "这是一篇关于 Opera UnTouched 剧团在办公室环境中演出的歌剧《电话》的剧评。作者高度赞扬了演出，认为其真正做到了沉浸式体验，演员在观众中穿梭表演，带来了强烈的愉悦感。",
       "tags": [
         "culture",
         "culture/media"
       ]
     },
     {
-      "id": "9e0308113d32ae3f",
-      "title": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "author": "",
-      "feed_title": "simonwillison.net",
+      "id": "84b4691fe39c7c51",
+      "title": "Where else to find me",
+      "url": "https://www.johndcook.com/blog/2026/10/26/where-to-find-me/",
+      "author": "John",
+      "feed_title": "johndcook.com",
       "category": "Blogs",
-      "published_at": "2026-10-23T19:40:54+00:00",
-      "summary_zh": "文章介绍了月之暗面（Moonshot）公司最新发布的大语言模型Kimi K3.1 Pro。该模型在多项基准测试中表现接近Claude Opus 5.5和GPT-6 Astra等前沿模型，并且承诺将于2026年11月4日前发布完整模型权重（开源）。文章还提到了其API定价、更快的“高速”版本以及作者使用LLM工具进行的初步测试。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "open-source"
-      ]
-    },
-    {
-      "id": "f3e0824b5059e5cd",
-      "title": "RMSNorm",
-      "url": "https://www.gilesthomas.com/2026/10/rmsnorm",
-      "author": "",
-      "feed_title": "gilesthomas.com",
-      "category": "Blogs",
-      "published_at": "2026-10-23T18:40:00+00:00",
-      "summary_zh": "文章深入探讨了大型语言模型（LLM）中的归一化技术，重点对比了LayerNorm和RMSNorm。作者通过自己在JAX中复现GPT-2的训练实验，证明了归一化对于模型训练稳定性至关重要，没有它会导致训练失败。同时指出，RMSNorm作为一种更简单的替代方案，在许多情况下与LayerNorm效果相当且计算效率更高。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "programming"
-      ]
-    },
-    {
-      "id": "200773e521fde480",
-      "title": "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-23T16:52:56+00:00",
-      "summary_zh": "文章评论了苹果折叠屏手机Duo的用户体验，指出其默认设置下按键布局和屏幕方向逻辑混乱，导致用户需要频繁调整握持方式。作者认为这种反直觉的设计是产品体验上的一个明显缺陷。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "design"
-      ]
-    },
-    {
-      "id": "cb1779a65b505906",
-      "title": "Premium: The Hater's Guide To Blackstone",
-      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/",
-      "author": "Ed Zitron",
-      "feed_title": "wheresyoured.at",
-      "category": "Blogs",
-      "published_at": "2026-10-23T16:28:34+00:00",
-      "summary_zh": "文章以讽刺口吻评论了黑石集团创始人史蒂芬·施瓦茨曼的系列自传《我的个人历史》，揭露其将个人历史美化为金融圣徒传，并关联其早期职业生涯与具有争议的历史人物和事件。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture"
-      ]
-    },
-    {
-      "id": "10e495446dc1a3ab",
-      "title": "An Ion Storm!, Part 2: The Return to Ground Level",
-      "url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
-      "author": "Jimmy Maher",
-      "feed_title": "filfre.net",
-      "category": "Blogs",
-      "published_at": "2026-10-23T16:19:26+00:00",
-      "summary_zh": "文章讲述了游戏开发者约翰·罗梅罗与离子风暴公司的故事，特别是他与史蒂维·凯斯的早期关系，并引用了2000年关于《大刀》发布和Y2K Bug的讽刺报道。",
+      "published_at": "2026-10-26T12:04:54+00:00",
+      "summary_zh": "作者介绍了除个人博客外，他发布和分享内容的其他平台，包括多个X账号、RSS订阅、Mathstodon、Bluesky和Substack。文章旨在引导读者通过这些渠道关注他的更新。",
       "tags": [
         "culture",
-        "culture/media",
-        "mobile/gaming"
+        "culture/media"
       ]
     },
     {
-      "id": "b8cb581da13e5812",
-      "title": "Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’",
-      "url": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-23T14:42:06+00:00",
-      "summary_zh": "乔安娜·斯特恩对苹果Duo折叠屏手机进行了全面评测，通过机器人测试铰链耐久性，并在多种场景下测试相机等功能。评测指出了产品的优缺点，并特别提到缺少Face ID的遗憾。",
-      "tags": [
-        "mobile",
-        "mobile/iPhone",
-        "design",
-        "tools"
-      ]
-    },
-    {
-      "id": "157bf9172976a2d0",
-      "title": "Why didn’t we use the COM static store to clean up the unmarshalable delegate?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-10-23T14:00:00+00:00",
-      "summary_zh": "文章探讨了在COM编程中为何不能使用COM静态存储来清理不可封送的委托。原因在于COM静态存储的生存期与线程相关，而非所需的单套间生存期，且UWP中的每套间存储存在限制。",
-      "tags": [
-        "programming",
-        "programming/tools",
-        "tools/operating-systems"
-      ]
-    },
-    {
-      "id": "7e27bcf2845e741d",
-      "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
-      "url": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
-      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
-      "feed_title": "jeffgeerling.com",
-      "category": "Blogs",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "summary_zh": "作者介绍了Ubiquiti公司一款售价99美元的空气检测设备，该设备能监测CO2浓度和空气质量。文章提及高浓度CO2对认知能力的影响，并预告将对比评测多款空气监测设备。",
-      "tags": [
-        "hardware",
-        "hardware/design",
-        "tools"
-      ]
-    },
-    {
-      "id": "25b339412a9e21a1",
-      "title": "More phishing messages via Booking.com and Novotel",
-      "url": "https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-23T11:34:15+00:00",
-      "summary_zh": "作者分享了通过Booking.com预订诺富特酒店后收到精准钓鱼短信的经历。短信包含详细的个人信息，但发件方和域名存在明显破绽。文章分析了这些钓鱼手段的异同和潜在关联。",
-      "tags": [
-        "security",
-        "security/privacy",
-        "security/vulnerability"
-      ]
-    },
-    {
-      "id": "39457eb31531876f",
-      "title": "Windows XP released October 25, 2001",
-      "url": "https://dfarq.homeip.net/windows-xp-released-october-25-2001/?utm_source=rss&utm_medium=rss&utm_campaign=windows-xp-released-october-25-2001",
+      "id": "1ce33b54708c4142",
+      "title": "Windows 8 released Oct 26, 2012",
+      "url": "https://dfarq.homeip.net/windows-8-released-oct-26-2012/?utm_source=rss&utm_medium=rss&utm_campaign=windows-8-released-oct-26-2012",
       "author": "Dave Farquhar",
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
-      "published_at": "2026-10-23T11:00:13+00:00",
-      "summary_zh": "文章纪念Windows XP操作系统于2001年10月25日发布25周年，并指出微软在相隔8年的同一周内发布了两个最受喜爱的Windows版本。",
+      "published_at": "2026-10-26T11:00:04+00:00",
+      "summary_zh": "文章回顾了微软在2012年10月26日发布的Windows 8操作系统。作者指出这是自Windows 95以来最重大的UI重新设计，但市场反响不佳，被认为是微软的一次失败。",
       "tags": [
         "tools",
         "tools/operating-systems",
@@ -484,19 +239,181 @@
       ]
     },
     {
-      "id": "b1959b1fad9a2681",
-      "title": "One Small Bug",
-      "url": "https://nesbitt.io/2026/10/23/one-small-bug.html",
+      "id": "831ce42cb7101bd9",
+      "title": "Package Management Devroom at FOSDEM 2027: Call for Participation",
+      "url": "https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html",
       "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
       "feed_title": "nesbitt.io",
       "category": "Blogs",
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "summary_zh": "文章以对话形式描述了一个编程场景：AI助手在完成添加CSV导出功能的任务时，顺带发现并修复了分页函数的一个边界Bug，同时还指出了项目配置中一个因工具版本过旧导致的依赖解析问题。",
+      "published_at": "2026-10-26T10:00:00+00:00",
+      "summary_zh": "文章宣布了FOSDEM 2027大会中“包管理”开发者房间的征稿启事，并回顾了上一届活动的成功。征稿主题涵盖包管理生态系统的各个方面，提交截止日期为12月1日。",
       "tags": [
-        "programming",
-        "programming/tools",
-        "devops",
+        "open-source",
         "devops/package-management"
+      ]
+    },
+    {
+      "id": "fe4e5555721a5ce4",
+      "title": "Scattered thoughts on how doing math feels these days",
+      "url": "https://dynomight.net/math/",
+      "author": "dynomight",
+      "feed_title": "dynomight.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "summary_zh": "作者分享了当前AI（特别是LLM）在数学领域能力飞速发展的个人感受，以时间线形式展现了从“玩具”到“不可或缺”工具的惊人转变。他认为当前的AI使其数学工作效率提升了约50%，并感慨于技术变革的迅猛与不确定性。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "d802a57170c2767c",
+      "title": "Sunnny",
+      "url": "https://sunnny.com/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T21:50:00+00:00",
+      "summary_zh": "文章是一篇赞助商内容，介绍了Sunnny这款面向B2B公司的客户数据整合平台。它能将分散在不同系统中的客户信息进行清洗、关联和统一展示，供团队和AI模型使用，目前正在开放早期访问。",
+      "tags": [
+        "business",
+        "AI",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "6e4335ddc8d0822a",
+      "title": "Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy",
+      "url": "https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T21:47:57+00:00",
+      "summary_zh": "文章讨论了一些iPhone Duo用户将食指根部注册为Touch ID指纹的变通方法，以解决从锁屏界面快速查看通知的不便。作者认为这个方法虽然巧妙，但声称其“优于Face ID”的观点并不可靠。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "design"
+      ]
+    },
+    {
+      "id": "1a7e953f36796cb0",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "author": "",
+      "feed_title": "minimaxir.com",
+      "category": "Blogs",
+      "published_at": "2026-10-25T21:00:00+00:00",
+      "summary_zh": "文章分析了OpenAI和Anthropic在几个月内将其大语言模型价格大幅下调（高达80%）的时间线和可能原因。作者认为这主要是由于市场竞争加剧、模型效率提升以及企业为抢占市场份额和开发者生态而采取的定价策略。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "c436e7b297dda9bf",
+      "title": "Poles and polars",
+      "url": "https://www.johndcook.com/blog/2026/10/25/poles-and-polars/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-25T19:45:05+00:00",
+      "summary_zh": "文章解释了球面几何中“极”与“极线”的概念：一个大圆的极点是球面上距离该圆最远的两个对跖点，而一个点的极线则是以该点为极点的大圆。作者建议将其理解为一种对偶关系，并延伸到更一般的射影几何中。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "f139ef200f5920cf",
+      "title": "The Talk Show: ‘Lubricate the Inside of the Hinge’",
+      "url": "https://daringfireball.net/thetalkshow/2026/10/25/ep-456",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T19:03:13+00:00",
+      "summary_zh": "这是科技播客The Talk Show第456期的简介，本期特邀嘉宾是Joanna Stern，讨论的主题是iPhone Duo。文中列出了本期的赞助商信息。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "86e163f4e2d5ab07",
+      "title": "Why My Dad Didn’t Have a Cell Phone",
+      "url": "https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-25T19:00:00+00:00",
+      "summary_zh": "作者通过回忆父亲当年拒绝使用手机的原因——“为什么我要让别人能随时联系到我？”，反思了当今数字通信（邮件、短信、电话）带来的困扰。他认为这些工具已经从提供便利变成了强加待办事项、索取人们时间和注意力的噪音源。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "mobile"
+      ]
+    },
+    {
+      "id": "c37f55077c43f43f",
+      "title": "iPhone Portrait Mode, 10 Years In",
+      "url": "https://x.com/johnnie/status/2114007844605612167",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T18:09:19+00:00",
+      "summary_zh": "文章回顾了iPhone人像模式诞生十周年，探讨了其从早期依赖双传感器视差计算的数学问题，到受油画艺术启发、聚焦确保眼部精准对焦的优雅解决方案的发展历程。这一功能是历史、艺术与计算科学结合的典范。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "452814709e1615f5",
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T15:10:19+00:00",
+      "summary_zh": "作者介绍了一款自制的、功能非常具体的图片裁剪工具“Seam Cutter”。该工具允许用户在图片上创建水平或垂直切割线，然后滑动两侧以裁剪掉中间部分，常用于拼接长截图后移除中间无关内容。",
+      "tags": [
+        "tools",
+        "programming/tools",
+        "design"
+      ]
+    },
+    {
+      "id": "25a7c8e8133a3d2d",
+      "title": "Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-25T12:34:01+00:00",
+      "summary_zh": "这是一篇对LiberNovo Omni办公椅的评测。文章重点介绍了其两个秘密特性：一是极其舒适的坐感，二是支持USB-C充电。评测以轻松幽默的口吻展开，并包含了隐藏的“评论俱乐部”内容。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "tools"
+      ]
+    },
+    {
+      "id": "569e8701e9e3e4f8",
+      "title": "How much you can make in an entry level cyber security job",
+      "url": "https://dfarq.homeip.net/how-much-you-can-make-in-an-entry-level-cyber-security-job/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-you-can-make-in-an-entry-level-cyber-security-job",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-25T11:00:46+00:00",
+      "summary_zh": "文章探讨了入门级网络安全工作的薪资水平。尽管业内普遍存在人才短缺且薪酬可观的说法，但作者指出，这类职位的收入也存在一定的上限和限制条件。",
+      "tags": [
+        "career",
+        "security",
+        "business"
       ]
     }
   ]
