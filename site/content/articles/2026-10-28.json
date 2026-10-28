@@ -1,0 +1,554 @@
+{
+  "date": "2026-10-28",
+  "article_count": 37,
+  "tokens_used": 18990,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "6d84f48213540cd4",
+      "title": "Siri AI Expands to More Languages in OS 27.2",
+      "url": "https://nr.apple.com/Du9G9W8Nq1",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T22:19:39+00:00",
+      "summary_zh": "苹果在OS 27.2更新中，将全新的、能力更强的Siri AI扩展至法语、日语、韩语、葡萄牙语和西班牙语。目前该功能在欧盟地区的iOS、iPadOS和watchOS中尚不可用，苹果正与欧盟方面协商解决。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "60e134052b1b5e81",
+      "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T22:00:04+00:00",
+      "summary_zh": "苹果发布了Apple Creator Studio套件的重要更新，为Final Cut Pro、Logic Pro、Pixelmator Pro及iWork套件引入了一系列AI功能，如智能助手、生成填充和文档上下文理解。这些更新将于11月作为免费更新提供给现有订阅用户。",
+      "tags": [
+        "AI",
+        "design",
+        "tools"
+      ]
+    },
+    {
+      "id": "48a409e1a44b1b57",
+      "title": "★ Prestructured WYSIWYG",
+      "url": "https://daringfireball.net/2026/10/prestructured_wysiwyg",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T21:24:20+00:00",
+      "summary_zh": "文章讨论了Apple Notes等应用采用的“预结构化所见即所得”文本编辑理念。作者认为这种设计理念是过去15年来最好的软件设计趋势之一，它允许用户在保留结构化格式的同时进行富文本编辑。",
+      "tags": [
+        "design",
+        "tools",
+        "programming/tools"
+      ]
+    },
+    {
+      "id": "8333c89d9d7c203a",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T19:34:18+00:00",
+      "summary_zh": "作者在GitHub Universe大会的徽章上成功运行了Game Boy Color模拟器，甚至可以游玩《塞尔达传说：梦见岛》。这得益于徽章本身是一台功能完整的彩色屏幕计算机，并且内置了触摸控制器。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "839c2f1db6185031",
+      "title": "What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks",
+      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T17:59:47+00:00",
+      "summary_zh": "据报道，苹果将在“Pro and Tell”活动中发布配备触摸OLED显示屏、M5 Pro/Max芯片、动态岛和新设计的14英寸与16英寸MacBook Pro。文章作者正在洛杉矶等待此次活动。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "mobile"
+      ]
+    },
+    {
+      "id": "8ec9f277e84435e5",
+      "title": "Apple Also Announces iMac With M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T16:44:10+00:00",
+      "summary_zh": "苹果发布了搭载M6芯片的新款iMac，这是一次常规的性能升级。文章详细列出了不同端口配置、内存和存储规格的定价信息，并提到了纳米纹理玻璃和以太网端口的选配细节。",
+      "tags": [
+        "hardware",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "7de0718c4444f02e",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-10-27T16:37:00+00:00",
+      "summary_zh": "作者记录了为Calnex Rb/GPS频率参考设备更换Noctua风扇的过程。他拆开了设备外壳，展示了内部结构，并说明了更换风扇以改善设备运行状况的步骤。",
+      "tags": [
+        "hardware",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "78a13ded86f7e3bd",
+      "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
+      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T16:03:08+00:00",
+      "summary_zh": "WorkOS推出auth.md功能，允许AI代理通过读取特定的认证文件来直接注册应用，而无需经过为人类设计的浏览器登录流程。这简化了代理接入应用的过程，并提供了可控的短期凭证。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "web",
+        "security"
+      ]
+    },
+    {
+      "id": "9c1fdbd6e6b3c7d0",
+      "title": "Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T16:00:46+00:00",
+      "summary_zh": "苹果发布了新款14英寸MacBook Pro，搭载M6芯片，专注于提升性能、设备端AI能力和连接速度。M6芯片在CPU、GPU和AI任务上相比M5有显著提升，并增强了神经引擎以支持本地运行LLM等AI工作负载。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "AI"
+      ]
+    },
+    {
+      "id": "0cd172b3bf82d1ce",
+      "title": "I'm Full-Time Open Source Developer Now",
+      "url": "https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now",
+      "author": "Miguel Grinberg",
+      "feed_title": "miguelgrinberg.com",
+      "category": "Blogs",
+      "published_at": "2026-10-27T16:00:42+00:00",
+      "summary_zh": "作者宣布自己现在是一名全职开源开发者，目前维护着18个开源项目。他希望通过文章让更多人了解他的工作，并寻求可能的支持。",
+      "tags": [
+        "open-source",
+        "career",
+        "programming"
+      ]
+    },
+    {
+      "id": "361ded6eda310e84",
+      "title": "Inches & Miles",
+      "url": "https://feed.tedium.co/link/15204/17507724/ai-startups-sketchy-behavior",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-10-27T14:16:43+00:00",
+      "summary_zh": "文章批评了在AI时代，一些初创公司未经允许就利用用户数据来构建业务的现象。作者回顾了早期互联网类似的数据攫取案例（如Facebook点赞按钮），并表达了对当前趋势的担忧。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology",
+        "security"
+      ]
+    },
+    {
+      "id": "c1228bba4eb77797",
+      "title": "Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-27T14:00:00+00:00",
+      "summary_zh": "文章解释了为何不将任务栏和任务管理器设置为高优先级以保证其响应。原因是高优先级进程仍可能因等待共享资源（如网络文件访问）而阻塞，且UI线程会与其他系统UI线程竞争，无法从根本上解决系统资源耗尽的问题。",
+      "tags": [
+        "programming",
+        "tools/operating-systems",
+        "performance"
+      ]
+    },
+    {
+      "id": "05d87f32ec002c22",
+      "title": "The upvote dilemma",
+      "url": "https://herman.bearblog.dev/the-upvote-dilemma/",
+      "author": "",
+      "feed_title": "herman.bearblog.dev",
+      "category": "Blogs",
+      "published_at": "2026-10-27T13:05:30+00:00",
+      "summary_zh": "文章作者解释了从其博客平台Bear的发现页移除点赞计数的原因。主要目的是避免“从众效应”让热门帖子更热，使新内容能凭标题和内容质量被公平发现。同时，作者认为点赞计数将写作变成了人气竞赛，不利于创作者感受。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "web"
+      ]
+    },
+    {
+      "id": "a30f0e258af20fe7",
+      "title": "Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-27T12:34:53+00:00",
+      "summary_zh": "这是一篇关于Andrew Hankinson所著《You Could Do Something Amazing with Your Life [You Are Raoul Moat]》的书评。评论认为该书以第二人称视角，巧妙地运用了Raoul Moat本人的话语来构建人物形象，既带有同情心又不为其开脱，引导读者思考在类似境遇下的选择。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "dbdb9ac8378c1852",
+      "title": "The Exponential Time Hypothesis is False",
+      "url": "https://www.johndcook.com/blog/2026/10/27/eth-false/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-27T12:13:21+00:00",
+      "summary_zh": "文章讨论了布尔可满足性问题（SAT）及其特例3-SAT的计算复杂度。它介绍了Monien–Speckenmeyer分支算法，该算法比穷举搜索更高效，但时间复杂度仍是指数级的。文章探讨了该问题与P vs NP问题的关联。",
+      "tags": [
+        "culture",
+        "culture/mathematics",
+        "programming"
+      ]
+    },
+    {
+      "id": "4bcac0c92bc5eb6a",
+      "title": "IBM PC 5150 Revision A vs Revision B",
+      "url": "https://dfarq.homeip.net/ibm-pc-5150-revision-a-vs-revision-b/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-5150-revision-a-vs-revision-b",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T11:00:27+00:00",
+      "summary_zh": "文章简要介绍了IBM PC 5150 Revision A与Revision B版本之间的差异，并提及Revision B BIOS的发布日期是1982年10月27日。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "eaa3d870d6c8651d",
+      "title": "Pluralistic: History is something you do (27 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/27/tied-to-the-tracks/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T09:08:25+00:00",
+      "summary_zh": "这是博客“Pluralistic”的每日链接摘要，标题为“历史是你去创造的”。内容包含多个主题链接，涉及赌博、预测市场、社会活动、网络审查历史事件回顾以及作者近期的行程和著作信息。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "a40817bf92b87ff6",
+      "title": "Weekly Update 527: Cybergeddon News v. Reality",
+      "url": "https://www.troyhunt.com/weekly-update-527/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-10-27T07:59:09+00:00",
+      "summary_zh": "作者回顾了上周关于PHP2Shell漏洞的“网络末日”预测，指出实际造成的破坏远低于新闻渲染的严重程度。尽管存在大量易受攻击的旧网站，但大规模灾难并未发生，作者对此结果表示庆幸。",
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "id": "d0ed72c479d49fcd",
+      "title": "The NYT Seemingly Does Marissa Mayer Dirty",
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-27T00:30:08+00:00",
+      "summary_zh": "文章讨论了《纽约时报》对Marissa Mayer新AI初创公司Dazzle的报道，认为其开篇轶事（Mayer用AI总结女儿特点）可能误导读者，让她显得脱离实际。随后引用了Mayer本人的澄清，指出她使用AI是为了讽刺用几个要点概括一个人的局限性，并测试产品。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "914ddd845e9b747b",
+      "title": "Some thoughts on hosting email",
+      "url": "https://maurycyz.com/misc/email_thoughts/",
+      "author": "",
+      "feed_title": "maurycyz.com",
+      "category": "Blogs",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "summary_zh": "作者分享了对自托管电子邮件的看法，认为其难度被高估，并提供了实用的部署建议。文章指出，自托管可以确保接收邮件不丢失，而采用“回复至”自托管地址的混合策略，则能兼顾发送可靠性和接收控制权。",
+      "tags": [
+        "web",
+        "devops",
+        "tools"
+      ]
+    },
+    {
+      "id": "9ae0148c3dae867d",
+      "title": "Apple Issues Statement on iPhone Duo’s Crack Problem",
+      "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T23:54:26+00:00",
+      "summary_zh": "文章报道了苹果公司就部分iPhone Duo设备内屏出现裂纹问题发表声明。苹果承认存在该问题，但强调仅影响极少数设备，并为受影响的用户提供更换服务。文章还调侃性地回顾了iPhone 4的“天线门”事件。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "hardware"
+      ]
+    },
+    {
+      "id": "c15b1e3c66d84564",
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T23:53:07+00:00",
+      "summary_zh": "文章介绍了OpenAI发布的新模型GPT-6.1 Terra，重点分析了其强调的视觉推理和计算机使用能力，并将其定位为类似Anthropic Sonnet的中端性价比选择。作者还引用了OpenAI员工的建议，帮助开发者判断使用场景。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "ba79f08d2086b1a7",
+      "title": "MTL-style circuit simulator",
+      "url": "https://entropicthoughts.com/mtl-style-circuit-simulator",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-10-26T23:00:00+00:00",
+      "summary_zh": "文章介绍了使用MTL风格（最终无标签编码）在Haskell中构建电路模拟器的中间方案。作者通过定义类型类来封装模拟器所需的核心操作（如创建线缆、获取/设置信号、添加延迟等），从而在纯函数式编程和副作用之间取得平衡。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "9a9b38c5820c80b8",
+      "title": "Glenn Fleishman on Apple Notes and Markdown",
+      "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T20:03:53+00:00",
+      "summary_zh": "文章总结了Glenn Fleishman对Apple Notes为何不原生支持编辑Markdown的分析。核心观点是：Notes作为面向普通用户的WYSIWYG笔记应用，不应让用户接触格式化代码，以避免创建格式错误的笔记，保持体验的简洁和可靠。",
+      "tags": [
+        "tools",
+        "design",
+        "mobile"
+      ]
+    },
+    {
+      "id": "de56fb996b09bd29",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T19:00:25+00:00",
+      "summary_zh": "文章引用报道指出，由于大型科技平台缺乏人工客服支持，许多用户在遇到常规技术问题时转而求助ChatGPT。而ChatGPT却越来越多地引导这些用户联系404媒体，误以为他们发现了具有新闻价值的事件或该媒体能提供技术支持。这反映了AI在现实应用中的误导和滥用风险。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "18cda15ab19eadde",
+      "title": "Inversion in an ellipse",
+      "url": "https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-26T18:39:32+00:00",
+      "summary_zh": "本文是几何对偶性系列文章的一部分，探讨了椭圆中的极点和极线概念。文章解释了这些术语最初源于球面几何，后被推广到平面几何，并说明了它们在椭圆等圆锥曲线中的定义和应用，包括几何和代数两种定义方法。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "1cc86600ceaf6634",
+      "title": "★ Apple Announces New A20 Pro iPad Mini",
+      "url": "https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T18:04:34+00:00",
+      "summary_zh": "苹果公司发布了搭载A20 Pro芯片的新款iPad Mini，这是该产品线有史以来最大的更新。新品提供星光色和午夜黑两种颜色，以及128GB、256GB和512GB三种存储容量，起售价为700美元。文章还提供了与上一代A17 Pro型号的价格对比和详细规格链接。",
+      "tags": [
+        "hardware",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "9dac61fc56c3fe42",
+      "title": "A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It",
+      "url": "https://x.com/viticci/status/2113888099784638932",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T17:00:11+00:00",
+      "summary_zh": "文章介绍了一个简单的快捷指令自动化方案，可以让iPhone Duo在合上时自动锁定屏幕。作者分享了自己最初也有合盖即锁的期望，但经过一段时间使用后改变了习惯，并建议用户根据自身需求谨慎使用此功能，同时肯定了快捷指令在弥补系统功能缺失方面的价值。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "tools"
+      ]
+    },
+    {
+      "id": "db71bb0ca35a8120",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T16:15:00+00:00",
+      "summary_zh": "文章评估了名为“webframe”的Go语言工具，该工具允许将网页像程序一样在无头浏览器中运行并捕获控制台输出。作者将其与自己的shot-scraper工具进行比较，并让Claude Opus对其作为网页抓取工具和沙箱环境的潜力进行了测试和评估。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "web"
+      ]
+    },
+    {
+      "id": "724f23c474d3465e",
+      "title": "Pluralistic: Sovereign citizens, but for news (26 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/26/abandon-hope/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T15:47:10+00:00",
+      "summary_zh": "本文以“新闻界的‘主权公民’”为比喻，批评了《洛杉矶时报》等媒体在用户条款中引入强制性仲裁条款的做法。文章认为这种“阅读即同意”的条款如同法律战中的垃圾条款，剥夺了用户寻求公正解决争议的权利，是新闻业令人失望的转变。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "1ef0e0e737d1951c",
+      "title": "Tiny Computers for iPhone Duo",
+      "url": "https://www.fountaininteractive.com/TinyComputers/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T15:04:10+00:00",
+      "summary_zh": "文章简短地提及了一款为iPhone Duo设计的“微型电脑”模拟器应用，认为其非常有趣值得尝试。同时引用他人评论指出，该应用虽然好玩，但显然是由年轻开发者借助Claude AI制作的，缺乏对复古电脑真实使用细节的历史准确性。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "culture"
+      ]
+    },
+    {
+      "id": "3588c90aecca0051",
+      "title": "De IT-onmacht van de Nederlandse overheid",
+      "url": "https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/",
+      "author": "",
+      "feed_title": "berthub.eu",
+      "category": "Blogs",
+      "published_at": "2026-10-26T14:25:00+00:00",
+      "summary_zh": "文章（荷兰语）探讨了荷兰政府在信息技术方面的无能问题。作者通过两个具体案例，说明了政府IT能力的不足以及其不愿承认问题的现状，并指出这种不承认的态度导致问题永远无法得到解决。",
+      "tags": [
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "bf9d24e82e393b69",
+      "title": "Puzzling out why a program doesn’t work when run from a batch file, but works when double-clicked from Explorer",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-26T14:00:00+00:00",
+      "summary_zh": "文章解决了一个疑难问题：为何程序在批处理文件中运行会报错，而在资源管理器中双击却能正常工作。原因在于资源管理器会将当前目录设置为程序所在目录，而批处理文件若未设置当前目录，程序可能无法找到相关的辅助文件。通过显式更改目录即可修复此问题。",
+      "tags": [
+        "programming",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "f0f3c303d1161b1b",
+      "title": "Theatre Review: Opera UnTouched's \"The Telephone\" ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-26T12:34:15+00:00",
+      "summary_zh": "这是一篇对歌剧《电话》的五星好评剧评。该剧由Opera UnTouched剧团在一个真实的办公室里演出，被赞誉为一场真正沉浸式、充满欢乐的体验。评论称赞了两位歌剧演员的出色演唱和与观众的互动，唯一的批评是演出时长太短。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "84b4691fe39c7c51",
+      "title": "Where else to find me",
+      "url": "https://www.johndcook.com/blog/2026/10/26/where-to-find-me/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-26T12:04:54+00:00",
+      "summary_zh": "作者介绍了除个人博客外，在其他平台发布内容或通知的渠道。包括多个X（原Twitter）账号、RSS订阅、Mathstodon和Bluesky（用于数学相关内容）、Substack（用于邮件通知）以及GitHub。作者还提到LLM可以帮助用户选择RSS阅读器。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "1ce33b54708c4142",
+      "title": "Windows 8 released Oct 26, 2012",
+      "url": "https://dfarq.homeip.net/windows-8-released-oct-26-2012/?utm_source=rss&utm_medium=rss&utm_campaign=windows-8-released-oct-26-2012",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-26T11:00:04+00:00",
+      "summary_zh": "文章回顾了十四年前（2012年10月26日）发布的Windows 8操作系统。作者指出，这是自Windows 95以来微软最重要的用户界面重新设计，但最终市场反响不佳，未能获得成功。",
+      "tags": [
+        "tools",
+        "tools/operating-systems",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "831ce42cb7101bd9",
+      "title": "Package Management Devroom at FOSDEM 2027: Call for Participation",
+      "url": "https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-26T10:00:00+00:00",
+      "summary_zh": "文章宣布将于2027年FOSDEM会议上再次举办Package Management开发者专题会议，并公开征集演讲提案。会议组织者回顾了上一届活动的成功，并介绍了本届扩大的组织团队。",
+      "tags": [
+        "open-source",
+        "devops/package-management"
+      ]
+    }
+  ]
+}

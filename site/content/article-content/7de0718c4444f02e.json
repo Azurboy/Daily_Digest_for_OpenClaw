@@ -1,0 +1,6 @@
+{
+  "id": "7de0718c4444f02e",
+  "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+  "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+  "content": "<p>Since this will be the <em>only</em> source of this process on the Internet<sup id=\"fnref:1\"><a class=\"footnote-ref\" href=\"#fn:1\">1</a></sup>, I figured I'd document a quick fan swap I did on a piece of test/reference equipment I'm running in my <a href=\"https://www.youtube.com/watch?v=3BBxCn4mY5Y\">Atomic Clock Tower</a>.</p>\n<figure class=\"insert-image\"><img alt=\"Calnex Rb/GPS Frequency Reference open on workbench\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/calnex-rb-gps-frequency-reference-open.jpeg\" width=\"700\" />\n</figure>\n\n<p>I took my Torx T10 screwdriver and popped off the top cover. The screws required some force to loosen, as they were all secured with Loctite.</p>\n<p>The inside is simple and serviceable. There's a <a href=\"https://www.rebes.net/folder/Spectratime/iSync_GRClok-1500_Spec.pdf\">SpectraTime GRClok-1500</a>, with an integrated timing-grade GPS module, and a stabilized 10 MHz output<sup id=\"fnref:2\"><a class=\"footnote-ref\" href=\"#fn:2\">2</a></sup>.</p>"
+}
