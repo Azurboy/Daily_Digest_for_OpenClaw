@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-30",
+  "article_count": 31,
+  "tokens_used": 16065,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "49d99f09e516b736",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T22:48:29+00:00",
+      "summary_zh": "OpenAI效仿Anthropic，为符合条件的ChatGPT订阅用户推出API积分福利。根据不同的订阅计划（100美元、200美元或500美元），用户将获得等额的API积分，可用于其API组织。作者认为这对于同时订阅两家服务的用户是个好消息，并可能促使其发布更多公开演示。",
+      "tags": [
+        "AI",
+        "business",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "bc4eb35bac8d31c3",
+      "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
+      "url": "https://developer.apple.com/news/?id=w9mxlhek",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T21:03:42+00:00",
+      "summary_zh": "苹果公司宣布，在与台湾公平交易委员会沟通后，将调整台湾App Store的佣金费率。自2026年10月31日起，iOS和iPadOS上App Store台湾商店的标准应用内购买和付费应用交易的佣金率将从目前的30%降至26%。此举与之前在日本的调整类似。",
+      "tags": [
+        "business",
+        "mobile",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "8b78d1798ec7fdf3",
+      "title": "A Health Update From Craig Hockenberry",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T19:57:21+00:00",
+      "summary_zh": "Craig Hockenberry（Iconfactory联合创始人）发布个人健康更新，透露自己上周身体不适导致其网站出现问题。目前他正在康复中，并能够舒适地在户外进行写作。文章表达了对这位朋友健康状况好转的欣慰之情。",
+      "tags": [
+        "culture",
+        "career",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "beae5691a18ef17e",
+      "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’",
+      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T19:44:11+00:00",
+      "summary_zh": "文章引述《华尔街日报》报道，揭示了苹果前高管Tony Blevins在任期内如何通过强硬策略管理与芯片供应商的关系。具体手段包括制造供应商间的竞争、进行马拉松式深夜谈判、要求“最惠客户”条款并进行频繁审计，甚至曾因Micron以更低价格出售给其他客户而赢得巨额仲裁赔偿。",
+      "tags": [
+        "business",
+        "hardware",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "5d280100b264fa22",
+      "title": "Celebrating SIM Cards",
+      "url": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-10-29T19:00:00+00:00",
+      "summary_zh": "作者分享了为母亲更换旧iPhone的经历，并惊叹于SIM卡技术的可靠与便捷。将SIM卡从旧手机取出并插入新手机后，所有通信服务立即无缝工作，无需任何额外设置或联系运营商。作者借此向SIM卡技术的开发者们致敬，并呼吁更多这样“开箱即用”的体验。",
+      "tags": [
+        "mobile",
+        "hardware",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "a41c6b1e5e903c63",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T17:00:26+00:00",
+      "summary_zh": "文章介绍了Jacob Sansbury及其团队如何利用前沿的智能体工程和尖端模型，构建一个名为Spawn的多人在线游戏世界。在这个环境中，玩家可以通过向游戏内的智能体Savi发出提示词来实时修改游戏世界，例如创建城堡、召唤巨龙并骑乘飞行。这展示了智能体技术在游戏领域的创新应用。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "ff21bdff1eb6b64f",
+      "title": "What I learned about power from LBJ and Robert Moses",
+      "url": "https://www.dwarkesh.com/p/lessons-in-power",
+      "author": "Dwarkesh Patel",
+      "feed_title": "dwarkesh.com",
+      "category": "Blogs",
+      "published_at": "2026-10-29T16:48:39+00:00",
+      "summary_zh": "作者分享了他为采访传记作家Robert Caro所做的准备，以及从Caro关于林登·约翰逊和罗伯特·摩斯的传记作品中汲取的关于权力积累与运用的深刻见解。Caro的著作被广泛认为是关于政治权力最出色的探索，作者经过多年努力终于获得采访机会。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "81b38f560f77397b",
+      "title": "A New Kind of Chemistry",
+      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-10-29T15:45:10+00:00",
+      "summary_zh": "文章探讨了核聚变作为一种“新型化学”的潜力。与仅涉及外层电子重排的传统化学反应不同，核聚变通过改变原子核内部结构来释放巨大能量。作者通过与核聚变公司Marathon Fusion的交流，阐述了这项技术如何可能为文明发展提供新的基础。",
+      "tags": [
+        "culture",
+        "culture/mathematics",
+        "hardware"
+      ]
+    },
+    {
+      "id": "a88966c4d239355b",
+      "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
+      "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T15:06:56+00:00",
+      "summary_zh": "文章指出，在发现号航天飞机的右舷侧，其英文名称“Discovery”中的一个字母“s”被上下颠倒安装。这是一个存在了42年的标识错误，作者借此调侃在标识制作中需要特别注意像“H”和“S”这类字母的方向。",
+      "tags": [
+        "culture",
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "95cafd4597e819bb",
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T14:06:27+00:00",
+      "summary_zh": "文章引用了Ben Hylak的一条推文，其中他调侃式地表达了对未来产品形态的愿景：希望所有他使用的产品都只是无界面的MCP（模型上下文协议），能直接接入智能体，无需用户操心底层细节。但唯独自己的产品例外，声称客户非常喜欢其用户界面。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "design"
+      ]
+    },
+    {
+      "id": "76439f31c98a2129",
+      "title": "IBM’s 2018 Red Hat acquisition",
+      "url": "https://dfarq.homeip.net/ibms-2018-red-hat-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=ibms-2018-red-hat-acquisition",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T11:00:49+00:00",
+      "summary_zh": "文章简要回顾了IBM在八年前（2018年10月28日）宣布以340亿美元收购Linux发行商Red Hat的事件。同时提及了Red Hat更早之前（1999年8月11日）的IPO，曾是历史上首日涨幅第八大的公司。",
+      "tags": [
+        "business",
+        "open-source",
+        "tools/operating-systems"
+      ]
+    },
+    {
+      "id": "182b4170aeaa6aa6",
+      "title": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
+      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T04:06:15+00:00",
+      "summary_zh": "文章报道了苹果新款MacBook Pro首次引入触摸屏的消息。苹果高管John Ternus强调，Mac的核心仍是间接输入设备（触控板和键盘），但触摸功能在特定场景下会很方便。新设计确保了加入触摸屏不会让产品变厚变重，并且与OLED屏幕等技术升级同步实现，作者体验后对其表示赞赏。",
+      "tags": [
+        "hardware",
+        "design",
+        "tools"
+      ]
+    },
+    {
+      "id": "2662b5a33a088395",
+      "title": "You can just ask AI to do things",
+      "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary_zh": "文章探讨了使用AI的关键技能在于发挥其主动性，尝试用AI代理自动化日常开发任务。作者分享了让AI代理运行开发服务器、向服务器发送请求以及监控生产变更等具体实例，展示了AI如何提升工作效率。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "8344161f2b910ac3",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary_zh": "文章以讽刺口吻报道了Linux内核CVE-2026-98432漏洞事件，指出此类内存安全问题在C语言中频繁发生。它引用了程序员们的无奈言论，暗示C语言是导致全球绝大多数内存安全漏洞的根源，并对其安全性提出了尖锐批评。",
+      "tags": [
+        "programming",
+        "security"
+      ]
+    },
+    {
+      "id": "f7874a16a06542c0",
+      "title": "Custom Voices With Qwen3-TTS",
+      "url": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
+      "author": "Armin Ronacher",
+      "feed_title": "lucumr.pocoo.org",
+      "category": "Blogs",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary_zh": "作者介绍了在为游戏项目寻找旁白配音时，选择使用Qwen3-TTS模型进行语音克隆以创造独特声音的过程。文章分享了使用Qwen3-TTS（特别是其支持语音嵌入的CustomVoice模型）的经验和示例，旨在帮助读者实现自定义AI语音。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "design"
+      ]
+    },
+    {
+      "id": "b192f23f67f3551e",
+      "title": "Avoid Public Functions Calling Other Public Functions",
+      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "author": "Alex Kladov",
+      "feed_title": "matklad.github.io",
+      "category": "Blogs",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary_zh": "文章提出了一个软件模块设计的小技巧：避免让公共函数直接调用其他公共函数。作者建议，当公共函数之间存在共享逻辑时，应创建一个新的私有函数，然后让这两个公共函数都调用这个私有辅助函数，以避免未来可能产生的问题。",
+      "tags": [
+        "programming",
+        "architecture"
+      ]
+    },
+    {
+      "id": "5e396018eb1a2135",
+      "title": "Making agents fast - what I've learnt over the last 12 months",
+      "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "author": "martin@martinalderson.com (Martin Alderson)",
+      "feed_title": "martinalderson.com",
+      "category": "Blogs",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary_zh": "作者分享了在过去12个月中优化AI智能体工作流速度的经验。文章重点讨论了推理速度的两个关键组成部分：首令牌时间（TTFT）和每秒令牌数（tok/s），并强调了提示缓存和批处理对于提升智能体性能的重要性。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "performance"
+      ]
+    },
+    {
+      "id": "da9c62c52f6c35e6",
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T23:23:21+00:00",
+      "summary_zh": "文章引用了Ted Sanders对LLM性能和OpenAI模型命名惯例的解释。他指出，LLM性能是多维度的，但模型大小是解释性能差异的关键单一变量：更大的模型通常性能更好、成本更高、对冷门知识的回忆能力更强。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business"
+      ]
+    },
+    {
+      "id": "7e137b0467999a02",
+      "title": "Extremely brief history of PDP computers",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-10-28T23:00:00+00:00",
+      "summary_zh": "文章以时间线的形式简要回顾了PDP系列计算机的演变历史，包括PDP-1、PDP-4、PDP-5、PDP-6等型号。作者解释了这些机器的设计初衷、市场定位和技术升级路径，并指出它们对早期计算和黑客文化产生了深远影响。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "61640cf5f70a9281",
+      "title": "Exit Liquidity",
+      "url": "https://www.wheresyoured.at/exit-liquidity/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-10-28T17:51:00+00:00",
+      "summary_zh": "这是一篇付费通讯的促销和内容预告文章。作者宣布因家庭事务暂停一周更新，并推出订阅折扣。文章列举了过往发布的深度分析内容，包括关于AI债务、生成式AI对经济的影响，以及对NVIDIA和Oracle等AI基础设施巨头的分析。",
+      "tags": [
+        "business",
+        "AI"
+      ]
+    },
+    {
+      "id": "e9a7a10b5a66f3aa",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T16:45:23+00:00",
+      "summary_zh": "文章介绍了GitHub Octoverse 2026年度报告的核心数据，显示合并的PR、提交次数和新仓库数量在2026年出现爆炸性增长。作者认为这清晰地体现了智能体工程对开发活动的巨大影响，并预测了未来开发工作流程的变革。",
+      "tags": [
+        "open-source",
+        "AI/LLM/Agent",
+        "tools"
+      ]
+    },
+    {
+      "id": "013fd8eeebf968f5",
+      "title": "Fake it ‘til you make it (and then keep faking it)",
+      "url": "https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then",
+      "author": "Adam Mastroianni",
+      "feed_title": "experimental-history.com",
+      "category": "Blogs",
+      "published_at": "2026-10-28T15:36:04+00:00",
+      "summary_zh": "文章探讨了“假装直到成功”（并继续假装）这一现象在社会多个领域的普遍性。它指出，从个人职业发展到公司估值，再到国家经济数据，许多成功故事背后都依赖于持续的、有时是必要的“表演”或叙事构建。",
+      "tags": [
+        "culture",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "69e73e11cf5d59d6",
+      "title": "Guessing the Name: MacBook Studio?",
+      "url": "https://www.macrumors.com/2026/10/28/macbook-studio/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T14:58:45+00:00",
+      "summary_zh": "文章猜测苹果即将发布的带触摸屏OLED显示屏的MacBook可能被命名为“MacBook Studio”。作者分析了这个名字与现有产品线（如Mac Studio、Studio Display）以及苹果专业软件套件Creator Studio的契合度，认为这是一个合理的命名选择。",
+      "tags": [
+        "hardware",
+        "mobile/iPhone",
+        "design"
+      ]
+    },
+    {
+      "id": "026684210bfd4749",
+      "title": "C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-28T14:00:00+00:00",
+      "summary_zh": "文章讨论了在C++/WinRT中创建自定义实现对象的两种方法：`make`和`make_self`。作者指出了一种常见的过度矫正模式，即使用`make_self`创建对象后立即将其转换为投影接口，并解释了为什么这种模式通常是低效或不必要的。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "7f577f4b01c6fc58",
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T13:55:15+00:00",
+      "summary_zh": "作者认为2026年10月是“氛围感游戏开发”的转折点，类似于之前AI编码代理的转折点。文章列举了多个由Claude Opus 5.5等AI辅助开发的游戏案例，并鼓励读者尝试构建自己的游戏。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "57a1c2fb281dbed1",
+      "title": "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-28T12:34:54+00:00",
+      "summary_zh": "这是一篇关于SoundPEATS CC3 Pro蓝牙耳机的评测。作者高度评价了其佩戴舒适度，并介绍了其支持LDAC等音频编解码器、USB-C充电等规格特性。",
+      "tags": [
+        "hardware",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "e5f54b2440219dff",
+      "title": "The Unbalanced Group Theorem",
+      "url": "https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-10-28T11:51:51+00:00",
+      "summary_zh": "文章解释了“非平衡群定理”与“有限单群分类定理”的关系。Axiom公司在形式化证明CFSG时，发现原UGT证明存在缺陷并提供了新证明，因此其论文以UGT命名。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "0fa35905c02cadea",
+      "title": "TI-99/4A discontinued October 28, 1983",
+      "url": "https://dfarq.homeip.net/ti-99-4a-discontinued-october-28-1983/?utm_source=rss&utm_medium=rss&utm_campaign=ti-99-4a-discontinued-october-28-1983",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T11:00:44+00:00",
+      "summary_zh": "文章纪念了德州仪器TI-99/4A家用电脑于1983年10月28日停产并退出市场的历史事件。这标志着一家拥有强大实力的公司在市场竞争中的重大挫败。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "202023ce26b2e437",
+      "title": "Pluralistic: Agents vs ecommerce (28 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/28/principle-agent-problem/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T10:54:05+00:00",
+      "summary_zh": "文章探讨了AI代理与电子商务之间的冲突，指出电商平台利用不透明定价（如附加费）等“黑暗模式”来对抗比价代理。这引发了关于代理如何改变消费市场的讨论。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "business"
+      ]
+    },
+    {
+      "id": "2cf23206607f40da",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-28T10:09:07+00:00",
+      "summary_zh": "文章引用了亚马逊工程领导层关于AI时代开发者角色的观点：如果当前AI工具对你的工作没有帮助，这是一个需要记录的发现而非失败。能解释AI局限性的工程师展现了所需的判断力。",
+      "tags": [
+        "AI",
+        "career",
+        "business"
+      ]
+    },
+    {
+      "id": "d2af08bc7e0fd433",
+      "title": "This Week in Source Control: 28 October 2026",
+      "url": "https://nesbitt.io/2026/10/28/this-week-in-source-control.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-28T10:00:00+00:00",
+      "summary_zh": "这是一份新的关于源代码控制的周报，涵盖git、jj等客户端及GitHub、GitLab等托管平台的动态。首期提到，由于AI编码代理的使用激增，Anthropic等公司正在重新设计源代码控制系统以应对规模挑战。",
+      "tags": [
+        "programming",
+        "programming/tools",
+        "AI/LLM/Agent"
+      ]
+    }
+  ]
+}
