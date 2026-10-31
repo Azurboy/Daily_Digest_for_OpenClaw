@@ -1,0 +1,6 @@
+{
+  "id": "4feb20d2844d9336",
+  "title": "Rejoice, leap seconds are dead!",
+  "url": "https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/",
+  "content": "<p>There will never be a leap second again. At least not for UTC.</p>\n<figure class=\"insert-image\"><img alt=\"CGPM Resolution 5\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/cgpm-resolution-5.jpg\" width=\"700\" />\n</figure>\n\n<p><a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">At the CGPM</a>, they decided the last leap second we'll ever see for UTC, or Coordinated Universal Time, happened back at the <a href=\"https://kb.meinbergglobal.com/kb/time_sync/leap_seconds/leap_second_announcement_2016\">end of 2016</a>.</p>\n<p>Of <em>course</em> they made that decision while I was out on vacation, so I'm just getting this video up now:</p>\n<div class=\"yt-embed\">\n <div class=\"embed-container\"></div>\n</div>\n<p>But what's the CGPM, why does this matter, and why am I excited about it?</p>"
+}
