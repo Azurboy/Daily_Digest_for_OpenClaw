@@ -1,9 +1,139 @@
 {
-  "date": "2026-10-31",
-  "article_count": 27,
-  "tokens_used": 12731,
+  "date": "2026-11-01",
+  "article_count": 23,
+  "tokens_used": 11515,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "dce015df9030d224",
+      "title": "Fast and slow ways to improve your reputation",
+      "url": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "summary_zh": "文章探讨了在科技公司中建立声誉的“先有鸡还是先有蛋”困境：员工需要好声誉才能获得重要项目，但又需要重要项目来建立声誉。作者通过案例分析了公司内部的实际激励与正式流程之间的差异，并指出这是一种常见的恶性循环。",
+      "tags": [
+        "career",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "a181817ce8345f3a",
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-31T23:15:22+00:00",
+      "summary_zh": "文章详细介绍了Parameter Labs发现的一个ChatGPT安全漏洞。攻击者通过沙盒iframe中的postMessage交互，利用MathLive库的虚拟键盘功能，最终能在父页面注入无沙盒限制的iframe，从而可能窃取用户数据。OpenAI已修复此漏洞。",
+      "tags": [
+        "security",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "5433d48c0a4a7162",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-10-31T22:10:01+00:00",
+      "summary_zh": "datasette-llm插件发布了0.1a9版本，主要改进是能自动继承LLM工具的默认模型配置。用户现在无需显式指定模型即可启动Datasette Agent，简化了使用流程。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "tools"
+      ]
+    },
+    {
+      "id": "eade3138b3fd87db",
+      "title": "Pluralistic: Formalities (31 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/31/burn-berne/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-10-31T15:15:59+00:00",
+      "summary_zh": "文章讨论了美国版权局在AI时代对版权形式要求的立场转变，认为版权应恢复为需要主动申请才能获得的权利。这反映了关于AI生成内容版权归属的持续法律争论。",
+      "tags": [
+        "AI",
+        "culture",
+        "business"
+      ]
+    },
+    {
+      "id": "65812535c9e0c160",
+      "title": "Reading List 10/31/26",
+      "url": "https://www.construction-physics.com/p/reading-list-103126",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-10-31T12:34:23+00:00",
+      "summary_zh": "这是一篇阅读列表或摘要类文章，内容未在提供的片段中具体展开。通常此类文章会汇总和点评近期与“建造物理学”主题相关的技术文章、报告或新闻。",
+      "tags": [
+        "culture/media",
+        "open-source"
+      ]
+    },
+    {
+      "id": "f9b0057d90530c22",
+      "title": "Gig Review: The Witcher in Concert ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-10-31T12:34:18+00:00",
+      "summary_zh": "作者分享了观看电子游戏《巫师3：狂猎》现场音乐会的体验。文章探讨了将游戏配乐以现场交响乐形式呈现的流行趋势，并将其与电影现场音乐会进行比较，认为这是一种沉浸式的艺术享受。",
+      "tags": [
+        "culture/media",
+        "design"
+      ]
+    },
+    {
+      "id": "cfc729314e53d3e8",
+      "title": "Johnston’s Electric Trains, St. Louis",
+      "url": "https://dfarq.homeip.net/johnstons-electric-trains-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=johnstons-electric-trains-st-louis",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-10-31T11:03:01+00:00",
+      "summary_zh": "文章简要介绍了位于圣路易斯Dutchtown社区、经营约50年的家族企业Johnston‘s Electric Train Shop。该店是当地第一家专门经营电动火车模型的爱好商店。",
+      "tags": [
+        "culture/history",
+        "hardware/design"
+      ]
+    },
+    {
+      "id": "3ba7536149b17f8c",
+      "title": "This Week in Package Management: 31 October 2026",
+      "url": "https://nesbitt.io/2026/10/31/this-week-in-package-management.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-10-31T10:00:00+00:00",
+      "summary_zh": "本周包管理新闻摘要，涵盖了Go语言因eMudhra中间证书事件进行的紧急安全发布、sbt和pipx等工具的安全更新，以及包管理器生态系统的其他动态。",
+      "tags": [
+        "programming",
+        "security",
+        "tools"
+      ]
+    },
+    {
+      "id": "f639907d58570d9d",
+      "title": "Notes from October 2026",
+      "url": "https://evanhahn.com/notes-from-october-2026/",
+      "author": "",
+      "feed_title": "evanhahn.com",
+      "category": "Blogs",
+      "published_at": "2026-10-31T06:00:00+00:00",
+      "summary_zh": "作者总结了十月份的个人动态：将网站迁移至CDN和对象存储以提升性能并降低成本；发布了一份Vim衍生版列表；在Ghost平台为自动化功能增加了分析和更细粒度的触发器。",
+      "tags": [
+        "web",
+        "tools",
+        "programming"
+      ]
+    },
     {
       "id": "f2e0c5ad767d2d0d",
       "title": "College will only cost $20 a month",
@@ -12,11 +142,11 @@
       "feed_title": "idiallo.com",
       "category": "Blogs",
       "published_at": "2026-10-30T23:35:13+00:00",
-      "summary_zh": "作者反思了科技行业招聘热潮后的变化，担忧计算机科学毕业生的就业前景。作为家长，他提出了一个颠覆性的问题：是否可以用每月20美元的AI订阅（提供个性化辅导）来替代昂贵的传统大学教育。文章探讨了AI在教育领域的潜在替代作用及其局限性。",
+      "summary_zh": "作者反思了科技招聘市场的巨大变化，并对传统大学教育的价值提出质疑。文章探讨了每月20美元的AI订阅服务是否可能成为未来更经济高效的高等教育替代方案，同时讨论了大学经历中人际网络与沉重债务的矛盾。",
       "tags": [
         "AI",
-        "culture/sociology",
-        "career"
+        "career",
+        "culture/sociology"
       ]
     },
     {
@@ -27,11 +157,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-10-30T22:30:54+00:00",
-      "summary_zh": "文章宣布了Daring Fireball博客及其播客节目The Talk Show近期的赞助商名额开放情况。提供了具体的赞助费用、时间安排（包括2026年末和2027年第一季度）以及针对新赞助商的优惠信息。旨在吸引符合其高质量、好设计受众定位的产品或服务进行合作。",
+      "summary_zh": "文章宣布Daring Fireball博客及其播客The Talk Show仍有赞助名额开放。作者提供了2026年底和2027年的赞助费率，并鼓励符合其高质量设计受众定位的产品或服务商联系。",
       "tags": [
         "business",
-        "culture/media",
-        "design"
+        "culture/media"
       ]
     },
     {
@@ -42,7 +171,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-10-30T21:59:22+00:00",
-      "summary_zh": "介绍了一个名为nesformer的项目，该项目成功将任天堂娱乐系统（NES）的6502 CPU模拟器编码到了Qwen3.5-4B大语言模型的权重中。用户现在可以在大模型内部（尽管速度很慢）运行如《超级马里奥兄弟》等NES游戏ROM。文章还分享了构建过程中使用的Opus 5.5提示词。",
+      "summary_zh": "介绍了一个名为nesformer的项目，成功将任天堂娱乐系统（NES）的6502 CPU模拟器编码到了Qwen3.5-4B大模型的权重中。用户现在可以（缓慢地）在模型内部运行NES游戏ROM，如《超级马里奥兄弟》。",
       "tags": [
         "AI",
         "AI/LLM",
@@ -57,11 +186,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-10-30T21:56:10+00:00",
-      "summary_zh": "文章整理了苹果新款MacBook Pro（包括M6、M5 Pro和M5 Max芯片型号）的详细定价与配置选项，并以表格形式清晰呈现。涵盖了新旧两种设计（传统mini-LED和新款PROLED XDR触屏版）的发布时间、机型差异（如14英寸与16英寸）和配置限制。",
+      "summary_zh": "文章整理了苹果M6、M5 Pro和M5 Max MacBook Pro的定价与配置选项，并将其组织成表格以便一览。作者区分了旧款（mini-LED）和新款（PROLED XDR）机型，并指出不同尺寸和芯片配置的差异。",
       "tags": [
         "hardware",
-        "hardware/design",
-        "tools"
+        "hardware/design"
       ]
     },
     {
@@ -72,11 +200,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-10-30T17:53:41+00:00",
-      "summary_zh": "文章赞扬了苹果音乐网站404页面中精心复刻的iPod复古彩蛋，认为其细节精准、体验真实，是“全力以赴”的彩蛋典范。作者引用他人评价，指出好的彩蛋应注重细节和真实感，并以此批评那些制作粗糙的彩蛋。",
+      "summary_zh": "文章赞扬了Apple Music网站上精心复刻的iPod彩蛋，认为其细节到位、体验真实，是“完整”彩蛋的典范。文中还提到该网页彩蛋内甚至包含了原版iPod的隐藏游戏Breakout，形成了彩蛋中的彩蛋。",
       "tags": [
-        "design",
+        "culture",
         "culture/media",
-        "web"
+        "mobile/iPhone"
       ]
     },
     {
@@ -87,11 +215,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-10-30T17:18:56+00:00",
-      "summary_zh": "通用汽车（GM）因非法收集并出售其“智能驾驶”项目用户的驾驶行为和位置数据给保险经纪公司，最终被35个州起诉并达成2.2亿美元的和解。文章批评GM背叛用户隐私、设计低劣，并表达了对其商业行为的不信任。",
+      "summary_zh": "通用汽车（GM）因非法向数据经纪人出售驾驶员的行为和位置数据，并最终导致信息被保险公司用于定价，同意支付2.2亿美元和解。文章批评GM背叛用户隐私，并对其产品设计也表达了不满。",
       "tags": [
-        "security",
         "business",
-        "mobile"
+        "security"
       ]
     },
     {
@@ -102,11 +229,10 @@
       "feed_title": "filfre.net",
       "category": "Blogs",
       "published_at": "2026-10-30T17:03:04+00:00",
-      "summary_zh": "文章简要引用了《模拟古物学家》博客本周发布的一篇新文章，标题为《Timeout伦敦（伊丽莎白时代版）》。内容本身未提供更多细节，仅作为新内容发布的提示。",
+      "summary_zh": "文章仅提供了一个指向《模拟古董商》博客中关于“伊丽莎白时代版《Time Out London》”文章的嵌入式链接，没有提供更多摘要内容。",
       "tags": [
         "culture",
-        "culture/history",
-        "culture/media"
+        "culture/history"
       ]
     },
     {
@@ -117,11 +243,10 @@
       "feed_title": "dwarkesh.com",
       "category": "Blogs",
       "published_at": "2026-10-30T16:56:02+00:00",
-      "summary_zh": "这是一期对91岁的传记文学大师罗伯特·卡洛的采访播客/视频内容。节目提供了YouTube、Apple Podcasts和Spotify等多个平台的观看/收听链接，并穿插了来自Antithesis和WorkOS两家公司的赞助广告。",
+      "summary_zh": "文章主要内容是对91岁传记大师罗伯特·卡洛的访谈链接，并包含两家赞助商的推广内容（Antithesis和WorkOS）。访谈本身是核心，但文章主体是播客/视频的观看方式和赞助商信息。",
       "tags": [
         "culture",
-        "culture/media",
-        "business"
+        "culture/media"
       ]
     },
     {
@@ -132,7 +257,7 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-10-30T16:53:09+00:00",
-      "summary_zh": "报道了著名演员帕特里克·斯图尔特因阿尔茨海默病和路易体痴呆去世，享年86岁。文章深情回忆了他在《星际迷航：下一代》中饰演的让-卢克·皮卡德舰长这一经典角色，并赞扬了其个人魅力与专业成就。",
+      "summary_zh": "报道了著名演员帕特里克·斯图尔特因阿尔茨海默病和路易体痴呆去世，享年86岁。文章深情回忆了他在《星际迷航：下一代》中饰演的让-卢克·皮卡德船长，并表达了对其本人及角色的敬意。",
       "tags": [
         "culture",
         "culture/media"
@@ -146,11 +271,24 @@
       "feed_title": "jeffgeerling.com",
       "category": "Blogs",
       "published_at": "2026-10-30T14:00:00+00:00",
-      "summary_zh": "文章庆祝国际计量大会（CGPM）正式决议，宣布自2016年后将不再为协调世界时（UTC）引入闰秒。作者解释了这一决定的重要性，并表达了对消除闰秒所带来技术复杂性的欣喜之情。",
+      "summary_zh": "文章庆祝闰秒在UTC（协调世界时）中被正式废除，称其为“已死”。作者解释了CGPM做出这一决定的原因及其重要性，并表达了对这一技术变革的兴奋之情。",
       "tags": [
-        "programming",
-        "tools",
-        "culture"
+        "culture",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "0140bccc1845355f",
+      "title": "The Microsoft building that was reportedly haunted",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-10-30T14:00:00+00:00",
+      "summary_zh": "讲述了微软已出售并拆除的22号楼据传闹鬼的历史。文中列举了各种灵异现象，如“病态建筑综合症”、电梯门无故开启、异响等，甚至有空车溜坡撞车事件，为这栋建筑增添了一层神秘色彩。",
+      "tags": [
+        "culture",
+        "business"
       ]
     },
     {
@@ -161,7 +299,7 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-10-30T12:34:22+00:00",
-      "summary_zh": "这是一篇对小说《微物之神》的负面书评。作者批评该书情节迂回枯燥、人物塑造单一（非怪物即傻瓜）、写作风格矫揉造作且重复啰嗦，认为其华丽的文笔无法掩盖故事本身的乏味与结构问题。",
+      "summary_zh": "这是一篇对阿兰达蒂·洛伊《微物之神》的负面书评。评论者认为小说过于矫饰、情节迂回、人物塑造单一（全是怪物或傻瓜），虽然部分文笔优美，但整体故事乏味，令人难以投入。",
       "tags": [
         "culture",
         "culture/media"
@@ -175,11 +313,10 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-10-30T11:00:05+00:00",
-      "summary_zh": "文章回顾了52年前（1974年10月31日）微处理器先驱费德里科·法金离开英特尔公司的历史事件。法金是早期英特尔CPU的设计核心，他离开后创立了Zilog公司并开发了传奇的Z-80 CPU。",
+      "summary_zh": "文章简短纪念了微处理器先驱费德里科·法金在52年前的今天（1974年10月31日）离开英特尔。他随后创立了Zilog并开发了传奇的Z-80 CPU。",
       "tags": [
         "hardware",
-        "culture/history",
-        "open-source"
+        "culture/history"
       ]
     },
     {
@@ -190,215 +327,11 @@
       "feed_title": "nesbitt.io",
       "category": "Blogs",
       "published_at": "2026-10-30T10:00:00+00:00",
-      "summary_zh": "文章探讨了软件包注册中心如何通过签名和证明来验证发布产物的来源和完整性。签名将文件与密钥绑定，而来源证明则记录了构建环境和发布者信息。此外，可信发布机制利用CI/CD的短期凭证替代长期API令牌，简化了来源证明的生成过程。",
+      "summary_zh": "文章探讨了跨包注册中心的软件包签名和证明机制。签名将软件包与密钥绑定，证明则提供来源声明（如构建出处）。文中比较了不同注册中心（如PyPI）的“可信发布”实践，该实践利用CI的短期凭证替代长期令牌，并提及了对GitHub Actions工作流的安全审计。",
       "tags": [
         "security",
-        "devops",
-        "tools"
-      ]
-    },
-    {
-      "id": "fa4f4f742c1bfc5e",
-      "title": "Elegance and intelligence are anticorrelated",
-      "url": "https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "summary_zh": "文章探讨了优雅与智力之间可能存在的负相关性，指出高智力者有时会因能快速暴力解决问题而忽略寻找优雅方案。在软件工程中，工作记忆的大小是关键智力，而优秀设计旨在通过抽象减少需要同时处理的模块数量。",
-      "tags": [
-        "culture",
         "programming",
-        "design"
-      ]
-    },
-    {
-      "id": "49d99f09e516b736",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T22:48:29+00:00",
-      "summary_zh": "OpenAI效仿Anthropic，为符合条件的ChatGPT订阅用户提供等额的API积分福利。根据每月100、200或500美元的订阅计划，用户可获得相应额度的API积分。这一举措降低了开发者使用其API构建应用的门槛。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "business"
-      ]
-    },
-    {
-      "id": "bc4eb35bac8d31c3",
-      "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
-      "url": "https://developer.apple.com/news/?id=w9mxlhek",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T21:03:42+00:00",
-      "summary_zh": "苹果公司宣布，在与台湾公平交易委员会讨论后，将调整台湾App Store的佣金费率。自2026年10月31日起，iOS和iPadOS上标准应用内购买和付费应用的佣金率将从目前的30%降至26%。",
-      "tags": [
-        "business",
-        "mobile",
-        "mobile/iPhone"
-      ]
-    },
-    {
-      "id": "8b78d1798ec7fdf3",
-      "title": "A Health Update From Craig Hockenberry",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T19:57:21+00:00",
-      "summary_zh": "文章分享了Craig Hockenberry的健康近况更新，他此前因健康问题导致其公司网站服务中断。目前他已康复，并能在舒适的环境中继续工作，对此感到非常高兴。",
-      "tags": [
-        "culture",
-        "career"
-      ]
-    },
-    {
-      "id": "beae5691a18ef17e",
-      "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’",
-      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T19:44:11+00:00",
-      "summary_zh": "文章通过《华尔街日报》的报道，揭示了苹果公司过去如何通过强硬谈判策略和审计条款来压低芯片供应商的价格。报道描述了苹果前高管利用竞争压力、长时间谈判和“最惠客户”条款等手段，以确保获得最低价格。",
-      "tags": [
-        "business",
-        "hardware"
-      ]
-    },
-    {
-      "id": "5d280100b264fa22",
-      "title": "Celebrating SIM Cards",
-      "url": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
-      "author": "",
-      "feed_title": "blog.jim-nielsen.com",
-      "category": "Blogs",
-      "published_at": "2026-10-29T19:00:00+00:00",
-      "summary_zh": "作者分享了为母亲更换旧iPhone的经历，对SIM卡技术带来的无缝体验感到惊喜。将SIM卡从旧手机直接插入新手机后，通话和短信等功能立即正常工作，无需任何额外设置或联系运营商。这体现了SIM卡设计初衷的成功实现。",
-      "tags": [
-        "mobile",
-        "hardware"
-      ]
-    },
-    {
-      "id": "a41c6b1e5e903c63",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T17:00:26+00:00",
-      "summary_zh": "文章介绍了Spawn项目，这是一个利用前沿AI智能体技术构建的多人在线游戏世界。玩家可以通过向游戏内的智能体（Savi）发送提示词来实时创建和修改游戏环境，例如生成城堡和龙，并与之互动。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "ff21bdff1eb6b64f",
-      "title": "What I learned about power from LBJ and Robert Moses",
-      "url": "https://www.dwarkesh.com/p/lessons-in-power",
-      "author": "Dwarkesh Patel",
-      "feed_title": "dwarkesh.com",
-      "category": "Blogs",
-      "published_at": "2026-10-29T16:48:39+00:00",
-      "summary_zh": "作者分享了他为采访传记作家罗伯特·卡罗所做的长期努力，以及从卡罗所写的林登·约翰逊和罗伯特·摩西传记中学到的关于权力积累与运用的深刻见解。这些书籍被广泛认为是关于政治权力运作的最佳著作之一。",
-      "tags": [
-        "culture",
-        "culture/history",
-        "business"
-      ]
-    },
-    {
-      "id": "81b38f560f77397b",
-      "title": "A New Kind of Chemistry",
-      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-10-29T15:45:10+00:00",
-      "summary_zh": "文章对比了传统的化学反应与核反应（裂变与聚变）的本质区别。化学反应只涉及原子外层电子的重排，而核反应则改变了原子核的内部结构，释放出巨大能量。文章进而探讨了核聚变作为未来清洁能源的潜力与挑战。",
-      "tags": [
-        "culture",
-        "culture/science",
-        "hardware"
-      ]
-    },
-    {
-      "id": "a88966c4d239355b",
-      "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
-      "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T15:06:56+00:00",
-      "summary_zh": "文章指出，在服役42年的发现号航天飞机右舷侧的“s”字母标识被意外地上下颠倒了。这呼应了作者此前关于标识设计中字母“H”和“S”容易出错的观察。",
-      "tags": [
-        "culture",
-        "hardware",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "95cafd4597e819bb",
-      "title": "Quoting Ben Hylak",
-      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T14:06:27+00:00",
-      "summary_zh": "文章引用了一段关于AI产品愿景的推文：理想中所有产品都应是“无头”的MCP，直接接入智能体，用户无需关心底层实现。但推文作者调侃称，自己的产品是例外，客户非常喜爱其用户界面。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
-        "design"
-      ]
-    },
-    {
-      "id": "d535115b5cfeea56",
-      "title": "The support case of a customer who said that all they could see was a black screen",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-10-29T14:00:00+00:00",
-      "summary_zh": "文章解释了当用户长按电源键12秒强制关机时，Windows内核会尝试收集紧急内核转储（LPBH），用于分析系统故障。其中“黑屏LPBH”故障会被专门团队分析，常见原因包括显卡驱动问题等。",
-      "tags": [
-        "tools",
-        "tools/operating-systems"
-      ]
-    },
-    {
-      "id": "76439f31c98a2129",
-      "title": "IBM’s 2018 Red Hat acquisition",
-      "url": "https://dfarq.homeip.net/ibms-2018-red-hat-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=ibms-2018-red-hat-acquisition",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T11:00:49+00:00",
-      "summary_zh": "文章回顾了IBM在2018年10月28日宣布以340亿美元收购Linux供应商红帽（Red Hat）的事件。这是IBM历史上的一次重大收购，旨在加强其开源和混合云业务。",
-      "tags": [
-        "business",
-        "open-source"
-      ]
-    },
-    {
-      "id": "182b4170aeaa6aa6",
-      "title": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
-      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-29T04:06:15+00:00",
-      "summary_zh": "文章讨论了新款MacBook Pro引入触摸屏功能，苹果高管强调Mac的核心仍是间接输入设备（触控板和键盘），但触摸屏在特定场景下提供了便利。作者体验后认为触摸屏并未损害Mac的UI体验，而是作为一项附加功能。",
-      "tags": [
-        "hardware",
-        "design"
+        "tools"
       ]
     }
   ]

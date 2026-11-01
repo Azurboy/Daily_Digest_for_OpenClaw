@@ -1,0 +1,6 @@
+{
+  "id": "5433d48c0a4a7162",
+  "title": "datasette-llm 0.1a9",
+  "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a9\">datasette-llm 0.1a9</a></p>\n        <p>I have some big upgrades to <a href=\"https://agent.datasette.io/\">Datasette Agent</a> in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying <code>datasette-llm</code> plugin. </p>\n<p>It now picks up the default model used by <a href=\"https://llm.datasette.io/\">LLM</a>, which means you can start using Datasette Agent without needing to explicitly configure a default model:</p>\n<pre><code>uvx --with datasette-agent datasette content.db --internal internal.db\n</code></pre>\n<p>Previously you would also need to specify a model with <code>-s plugins.datasette-agent.default_model gpt-6-astra</code>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/datasette-agent\">datasette-agent</a></p>"
+}
