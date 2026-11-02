@@ -1,9 +1,134 @@
 {
-  "date": "2026-11-01",
-  "article_count": 23,
-  "tokens_used": 11515,
+  "date": "2026-11-02",
+  "article_count": 17,
+  "tokens_used": 9676,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "215d5e6ee0fa4f77",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-01T23:24:22+00:00",
+      "summary_zh": "作者分享了在使用Python 3.15和uv工具时遇到的依赖问题。当出现因uv.lock文件锁定不兼容Python 3.15的依赖版本而导致的构建错误时，一个简单的解决方法是删除该文件并重新运行命令。文章以watchfiles库为例说明了此问题。",
+      "tags": [
+        "programming",
+        "programming/python",
+        "tools"
+      ]
+    },
+    {
+      "id": "db53b27de1c1b48f",
+      "title": "A unified view of poles and polars",
+      "url": "https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-01T20:29:54+00:00",
+      "summary_zh": "本文探讨了平面几何和球面几何中的极点和极线概念。作者指出，在欧几里得平面中，极点和极线的定义因圆锥曲线类型而异且存在特例。通过转向射影空间，可以统一处理这些概念，消除特例，但代价是需要在一个更大的几何空间中使用不同的坐标系。",
+      "tags": [
+        "culture",
+        "culture/science",
+        "design"
+      ]
+    },
+    {
+      "id": "78a13ded86f7e3bd",
+      "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
+      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-01T20:22:56+00:00",
+      "summary_zh": "WorkOS推出了一项名为auth.md的功能，旨在让AI代理能够自主注册应用，而无需通过为人类设计的浏览器登录页面。通过发布一个auth.md文件，代理可以读取该文件并自行注册，从而获得由开发者控制的范围化、短期有效的凭证，使用户无需中断当前工作流程。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "web",
+        "business"
+      ]
+    },
+    {
+      "id": "b72dc720cf78e393",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-01T16:49:04+00:00",
+      "summary_zh": "文章引用了Kyle Kingsbury的观点，讨论了LLM（大语言模型）的使用对软件信任体系带来的侵蚀。他指出，LLM使得伪造成熟系统的标志性特征变得更容易，从而削弱了用户对文档、软件及其开发组织的信任。这引发了关于维护者如何确保软件和文档的正确性，并向用户证明其质量的思考。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "1176eef206c0ac76",
+      "title": "10 Years on Mastodon",
+      "url": "https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-01T12:34:18+00:00",
+      "summary_zh": "作者庆祝自己使用去中心化社交网络Mastodon十周年。文章包含了一段嵌入的Mastodon帖子，表达了对此里程碑的反思和庆祝之情。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "web"
+      ]
+    },
+    {
+      "id": "9ac2a1384c96c02b",
+      "title": "IBM PC/XT drives stuck in the bay? How to free them",
+      "url": "https://dfarq.homeip.net/ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-01T12:00:51+00:00",
+      "summary_zh": "本文为维修IBM PC/XT 5160型号的用户提供了实用指南。当需要移除软盘驱动器时，即使拧下了两颗可见的固定螺丝，驱动器仍可能卡在插槽中。文章介绍了如何解决驱动器被卡住的问题，帮助用户顺利取出驱动器。",
+      "tags": [
+        "hardware",
+        "hardware/design",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "87dd3b372ac019d0",
+      "title": "A Mastodon bot powered by iOS Shortcuts",
+      "url": "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
+      "author": "",
+      "feed_title": "evanhahn.com",
+      "category": "Blogs",
+      "published_at": "2026-11-01T11:00:00+00:00",
+      "summary_zh": "作者介绍了他如何利用iOS快捷指令（Shortcuts）来运行一个Mastodon机器人。这个名为Ulrira的机器人会随机发布《塞尔达传说：织梦岛》中的游戏台词。作者详细说明了该快捷指令的工作流程，并提到他借助AI功能将原有的Bash脚本转换成了快捷指令的初始版本。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "AI",
+        "AI/LLM",
+        "web"
+      ]
+    },
+    {
+      "id": "a883eb358aca603f",
+      "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+      "url": "https://www.troyhunt.com/weekly-update-528/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-11-01T07:35:23+00:00",
+      "summary_zh": "文章讨论了AI生成代码对开发者角色的根本性改变，并引用了Proton CEO的观点，即开发者的工作已转变为帮助LLM更快地写出更好的代码，而不仅仅是自己写代码。同时，文章也提到了当前技术领域的兴奋状态，认为热爱技术的人正处在一个激动人心的时代。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "career",
+        "programming"
+      ]
+    },
     {
       "id": "dce015df9030d224",
       "title": "Fast and slow ways to improve your reputation",
@@ -12,10 +137,11 @@
       "feed_title": "seangoedecke.com",
       "category": "Blogs",
       "published_at": "2026-11-01T00:00:00+00:00",
-      "summary_zh": "文章探讨了在科技公司中建立声誉的“先有鸡还是先有蛋”困境：员工需要好声誉才能获得重要项目，但又需要重要项目来建立声誉。作者通过案例分析了公司内部的实际激励与正式流程之间的差异，并指出这是一种常见的恶性循环。",
+      "summary_zh": "文章探讨了在科技公司中建立声誉的“先有鸡还是先有蛋”困境：需要参与重要项目才能获得好声誉，但获得好声誉又是被分配重要项目的前提。作者通过一个工程师的常见案例，分析了公司内部的实际激励与正式流程之间的差异，并提出了打破这一恶性循环的策略。",
       "tags": [
         "career",
-        "culture/sociology"
+        "business",
+        "culture"
       ]
     },
     {
@@ -26,10 +152,12 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-10-31T23:15:22+00:00",
-      "summary_zh": "文章详细介绍了Parameter Labs发现的一个ChatGPT安全漏洞。攻击者通过沙盒iframe中的postMessage交互，利用MathLive库的虚拟键盘功能，最终能在父页面注入无沙盒限制的iframe，从而可能窃取用户数据。OpenAI已修复此漏洞。",
+      "summary_zh": "Parameter Labs披露了在ChatGPT的“HTML预览”（原名Canvas）功能中发现的一个安全漏洞。攻击链涉及通过沙箱iframe中的postMessage()触发父页面中的MathLive虚拟键盘组件，并利用其innerHTML操作注入无沙箱限制的iframe，从而可能窃取用户账户。OpenAI在收到报告后已修复此漏洞。",
       "tags": [
         "security",
-        "AI/LLM"
+        "AI",
+        "AI/LLM",
+        "web"
       ]
     },
     {
@@ -40,11 +168,13 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-10-31T22:10:01+00:00",
-      "summary_zh": "datasette-llm插件发布了0.1a9版本，主要改进是能自动继承LLM工具的默认模型配置。用户现在无需显式指定模型即可启动Datasette Agent，简化了使用流程。",
+      "summary_zh": "datasette-llm插件发布了0.1a9版本，进行了一项微小的用户体验改进。现在该插件会自动读取LLM工具的默认模型配置，这意味着用户启动Datasette Agent时无需再显式指定默认模型，简化了使用流程。",
       "tags": [
         "AI",
         "AI/LLM/Agent",
-        "tools"
+        "programming",
+        "tools",
+        "open-source"
       ]
     },
     {
@@ -55,10 +185,11 @@
       "feed_title": "pluralistic.net",
       "category": "Blogs",
       "published_at": "2026-10-31T15:15:59+00:00",
-      "summary_zh": "文章讨论了美国版权局在AI时代对版权形式要求的立场转变，认为版权应恢复为需要主动申请才能获得的权利。这反映了关于AI生成内容版权归属的持续法律争论。",
+      "summary_zh": "本文主要讨论了美国版权局在AI时代对版权形式要求的立场。文章认为，版权局正在恢复版权的本来面目，即版权是需要通过努力才能获得的东西，而非自动拥有。这涉及到AI生成内容版权归属的复杂法律问题。",
       "tags": [
         "AI",
         "culture",
+        "culture/sociology",
         "business"
       ]
     },
@@ -70,10 +201,10 @@
       "feed_title": "construction-physics.com",
       "category": "Blogs",
       "published_at": "2026-10-31T12:34:23+00:00",
-      "summary_zh": "这是一篇阅读列表或摘要类文章，内容未在提供的片段中具体展开。通常此类文章会汇总和点评近期与“建造物理学”主题相关的技术文章、报告或新闻。",
+      "summary_zh": "文章内容不完整，无法从提供的片段中提取核心内容。根据标题和来源推测，可能是一份涉及建筑物理或相关领域的阅读清单或摘要。",
       "tags": [
-        "culture/media",
-        "open-source"
+        "culture",
+        "culture/media"
       ]
     },
     {
@@ -84,10 +215,10 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-10-31T12:34:18+00:00",
-      "summary_zh": "作者分享了观看电子游戏《巫师3：狂猎》现场音乐会的体验。文章探讨了将游戏配乐以现场交响乐形式呈现的流行趋势，并将其与电影现场音乐会进行比较，认为这是一种沉浸式的艺术享受。",
+      "summary_zh": "作者分享了观看《巫师》游戏音乐会现场演出的体验，探讨了电子游戏配乐以现场交响乐形式呈现的独特魅力。文章认为，电影和游戏已成为现代人接触古典风格音乐的主要途径之一。",
       "tags": [
-        "culture/media",
-        "design"
+        "culture",
+        "culture/media"
       ]
     },
     {
@@ -98,10 +229,11 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-10-31T11:03:01+00:00",
-      "summary_zh": "文章简要介绍了位于圣路易斯Dutchtown社区、经营约50年的家族企业Johnston‘s Electric Train Shop。该店是当地第一家专门经营电动火车模型的爱好商店。",
+      "summary_zh": "文章介绍了位于圣路易斯Dutchtown社区、经营约50年的家族企业Johnston's Electric Train Shop。该店是圣路易斯第一家专门经营电动火车模型的爱好商店。",
       "tags": [
+        "culture",
         "culture/history",
-        "hardware/design"
+        "business"
       ]
     },
     {
@@ -112,11 +244,11 @@
       "feed_title": "nesbitt.io",
       "category": "Blogs",
       "published_at": "2026-10-31T10:00:00+00:00",
-      "summary_zh": "本周包管理新闻摘要，涵盖了Go语言因eMudhra中间证书事件进行的紧急安全发布、sbt和pipx等工具的安全更新，以及包管理器生态系统的其他动态。",
+      "summary_zh": "本周包管理新闻摘要，重点包括Go语言针对eMudhra中间证书的紧急安全更新、sbt修复zip slip漏洞以及pipx更新对pip版本的要求。文章汇总了来自多个渠道的包管理器相关安全与更新信息。",
       "tags": [
         "programming",
-        "security",
-        "tools"
+        "tools",
+        "security"
       ]
     },
     {
@@ -127,211 +259,11 @@
       "feed_title": "evanhahn.com",
       "category": "Blogs",
       "published_at": "2026-10-31T06:00:00+00:00",
-      "summary_zh": "作者总结了十月份的个人动态：将网站迁移至CDN和对象存储以提升性能并降低成本；发布了一份Vim衍生版列表；在Ghost平台为自动化功能增加了分析和更细粒度的触发器。",
+      "summary_zh": "作者总结了十月份的个人动态：将网站迁移至CDN和对象存储以提升性能并降低成本；发布了一份Vim衍生编辑器列表；在Ghost平台为自动化功能增加了分析数据和更精细的触发器。",
       "tags": [
         "web",
         "tools",
         "programming"
-      ]
-    },
-    {
-      "id": "f2e0c5ad767d2d0d",
-      "title": "College will only cost $20 a month",
-      "url": "https://idiallo.com/blog/college-will-cost-20-dollars",
-      "author": "rss@idiallo.com",
-      "feed_title": "idiallo.com",
-      "category": "Blogs",
-      "published_at": "2026-10-30T23:35:13+00:00",
-      "summary_zh": "作者反思了科技招聘市场的巨大变化，并对传统大学教育的价值提出质疑。文章探讨了每月20美元的AI订阅服务是否可能成为未来更经济高效的高等教育替代方案，同时讨论了大学经历中人际网络与沉重债务的矛盾。",
-      "tags": [
-        "AI",
-        "career",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "dd4a78d2586e5e5c",
-      "title": "Sponsorship Openings for Daring Fireball (Including The Talk Show)",
-      "url": "https://daringfireball.net/feeds/sponsors/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T22:30:54+00:00",
-      "summary_zh": "文章宣布Daring Fireball博客及其播客The Talk Show仍有赞助名额开放。作者提供了2026年底和2027年的赞助费率，并鼓励符合其高质量设计受众定位的产品或服务商联系。",
-      "tags": [
-        "business",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "3b8361d079acb9cc",
-      "title": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T21:59:22+00:00",
-      "summary_zh": "介绍了一个名为nesformer的项目，成功将任天堂娱乐系统（NES）的6502 CPU模拟器编码到了Qwen3.5-4B大模型的权重中。用户现在可以（缓慢地）在模型内部运行NES游戏ROM，如《超级马里奥兄弟》。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "hardware"
-      ]
-    },
-    {
-      "id": "5ff6b6cdddc3519d",
-      "title": "★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max",
-      "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T21:56:10+00:00",
-      "summary_zh": "文章整理了苹果M6、M5 Pro和M5 Max MacBook Pro的定价与配置选项，并将其组织成表格以便一览。作者区分了旧款（mini-LED）和新款（PROLED XDR）机型，并指出不同尺寸和芯片配置的差异。",
-      "tags": [
-        "hardware",
-        "hardware/design"
-      ]
-    },
-    {
-      "id": "b458ae1689811bce",
-      "title": "The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
-      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T17:53:41+00:00",
-      "summary_zh": "文章赞扬了Apple Music网站上精心复刻的iPod彩蛋，认为其细节到位、体验真实，是“完整”彩蛋的典范。文中还提到该网页彩蛋内甚至包含了原版iPod的隐藏游戏Breakout，形成了彩蛋中的彩蛋。",
-      "tags": [
-        "culture",
-        "culture/media",
-        "mobile/iPhone"
-      ]
-    },
-    {
-      "id": "9065841963051881",
-      "title": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
-      "url": "https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T17:18:56+00:00",
-      "summary_zh": "通用汽车（GM）因非法向数据经纪人出售驾驶员的行为和位置数据，并最终导致信息被保险公司用于定价，同意支付2.2亿美元和解。文章批评GM背叛用户隐私，并对其产品设计也表达了不满。",
-      "tags": [
-        "business",
-        "security"
-      ]
-    },
-    {
-      "id": "6d04cacc087148c9",
-      "title": "This Week on The Analog Antiquarian",
-      "url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
-      "author": "Jimmy Maher",
-      "feed_title": "filfre.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T17:03:04+00:00",
-      "summary_zh": "文章仅提供了一个指向《模拟古董商》博客中关于“伊丽莎白时代版《Time Out London》”文章的嵌入式链接，没有提供更多摘要内容。",
-      "tags": [
-        "culture",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "cd6b789ab55962b0",
-      "title": "Robert Caro – The master biographer reflects at 91",
-      "url": "https://www.dwarkesh.com/p/robert-caro",
-      "author": "Dwarkesh Patel",
-      "feed_title": "dwarkesh.com",
-      "category": "Blogs",
-      "published_at": "2026-10-30T16:56:02+00:00",
-      "summary_zh": "文章主要内容是对91岁传记大师罗伯特·卡洛的访谈链接，并包含两家赞助商的推广内容（Antithesis和WorkOS）。访谈本身是核心，但文章主体是播客/视频的观看方式和赞助商信息。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "cf921d9d2b9864d9",
-      "title": "Patrick Stewart Dies at 86",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T16:53:09+00:00",
-      "summary_zh": "报道了著名演员帕特里克·斯图尔特因阿尔茨海默病和路易体痴呆去世，享年86岁。文章深情回忆了他在《星际迷航：下一代》中饰演的让-卢克·皮卡德船长，并表达了对其本人及角色的敬意。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "4feb20d2844d9336",
-      "title": "Rejoice, leap seconds are dead!",
-      "url": "https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/",
-      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
-      "feed_title": "jeffgeerling.com",
-      "category": "Blogs",
-      "published_at": "2026-10-30T14:00:00+00:00",
-      "summary_zh": "文章庆祝闰秒在UTC（协调世界时）中被正式废除，称其为“已死”。作者解释了CGPM做出这一决定的原因及其重要性，并表达了对这一技术变革的兴奋之情。",
-      "tags": [
-        "culture",
-        "culture/science"
-      ]
-    },
-    {
-      "id": "0140bccc1845355f",
-      "title": "The Microsoft building that was reportedly haunted",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-10-30T14:00:00+00:00",
-      "summary_zh": "讲述了微软已出售并拆除的22号楼据传闹鬼的历史。文中列举了各种灵异现象，如“病态建筑综合症”、电梯门无故开启、异响等，甚至有空车溜坡撞车事件，为这栋建筑增添了一层神秘色彩。",
-      "tags": [
-        "culture",
-        "business"
-      ]
-    },
-    {
-      "id": "6883a701eb32223c",
-      "title": "Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆",
-      "url": "https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-30T12:34:22+00:00",
-      "summary_zh": "这是一篇对阿兰达蒂·洛伊《微物之神》的负面书评。评论者认为小说过于矫饰、情节迂回、人物塑造单一（全是怪物或傻瓜），虽然部分文笔优美，但整体故事乏味，令人难以投入。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "306359c3f52ae7c1",
-      "title": "When Federico Faggin left Intel",
-      "url": "https://dfarq.homeip.net/when-federico-faggin-left-intel/?utm_source=rss&utm_medium=rss&utm_campaign=when-federico-faggin-left-intel",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-30T11:00:05+00:00",
-      "summary_zh": "文章简短纪念了微处理器先驱费德里科·法金在52年前的今天（1974年10月31日）离开英特尔。他随后创立了Zilog并开发了传奇的Z-80 CPU。",
-      "tags": [
-        "hardware",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "d04177eda6659957",
-      "title": "Signing and Attestations Across Package Registries",
-      "url": "https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-10-30T10:00:00+00:00",
-      "summary_zh": "文章探讨了跨包注册中心的软件包签名和证明机制。签名将软件包与密钥绑定，证明则提供来源声明（如构建出处）。文中比较了不同注册中心（如PyPI）的“可信发布”实践，该实践利用CI的短期凭证替代长期令牌，并提及了对GitHub Actions工作流的安全审计。",
-      "tags": [
-        "security",
-        "programming",
-        "tools"
       ]
     }
   ]
