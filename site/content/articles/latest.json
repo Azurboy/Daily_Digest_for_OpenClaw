@@ -1,9 +1,240 @@
 {
-  "date": "2026-11-02",
-  "article_count": 17,
-  "tokens_used": 9676,
+  "date": "2026-11-03",
+  "article_count": 24,
+  "tokens_used": 12629,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "1c3dde34e72ac49f",
+      "title": "Pumpkin Seeds",
+      "url": "https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-11-03T02:49:10+00:00",
+      "summary_zh": "文章是一篇关于万圣节流行文化的博客，延续了作者每年发布万圣节特辑的传统。内容包含与万圣节相关的神秘生物、名人轶事和原创音乐等轻松话题。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "ee5bbf6202dad163",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T02:24:31+00:00",
+      "summary_zh": "谷歌与行业伙伴合作，成功摧毁了一个由超过130万台安卓电视盒子组成的僵尸网络“XCPE”。该僵尸网络秘密租用用户网络连接并进行广告欺诈，其制造商已被谷歌切断联系。此次行动预计还将切断该僵尸网络与另外超过1000万台物联网设备的连接。",
+      "tags": [
+        "security",
+        "mobile",
+        "hardware"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T01:13:06+00:00",
+      "summary_zh": "文章以怀旧的口吻，幽默地描述了在1986年为Commodore 64电脑“安装程序”（当时还不叫“应用”）的繁琐过程。核心步骤是骑自行车去商场书店寻找并购买载有程序的计算机杂志。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "c303ee9ccaa3f0a3",
+      "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
+      "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:10:53+00:00",
+      "summary_zh": "苹果公司公布了创纪录的第四季度财报，营收达1145亿美元，同比增长12%。iPhone和Mac业务增长强劲，而可穿戴设备和iPad收入有所下滑。文章还提及了新任CEO在财报电话会议中关于Mac与iOS生态系统融合的问答。",
+      "tags": [
+        "business",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "3d8c696758675ee1",
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "文章反驳了一篇认为前沿大语言模型（LLM）具备“超人类”能力直接解读和修改神经网络权重的论文。作者认为，一个聪明的人类机器学习研究者同样可以完成论文中展示的所有任务，LLM在此方面的能力并非不可企及。",
+      "tags": [
+        "AI",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "662f2b1b6d21b1a7",
+      "title": "Audience capture",
+      "url": "https://seangoedecke.com/audience-capture/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "作者探讨了网络写作中“受众捕获”现象带来的风险，即过度追求阅读量和互动等指标可能导致内容偏离本心。他强调，这些指标只是衡量其真正目标（如与聪明读者交流、获得实质性反馈）的代理，不应本末倒置。",
+      "tags": [
+        "culture",
+        "career"
+      ]
+    },
+    {
+      "id": "80b8b883d90849b6",
+      "title": "Prove you are not a child",
+      "url": "https://idiallo.com/blog/prove-you-are-not-a-child",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "作者支持禁止儿童使用社交媒体，但反对当前的身份验证执行方式。他认为要求成年人上传敏感身份信息以自证非儿童，会带来巨大的隐私和数据泄露风险，将成本转嫁给了成年人。",
+      "tags": [
+        "security",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "8fbbc27028afdfad",
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T23:49:30+00:00",
+      "summary_zh": "llm 命令行工具和Python库发布了0.37版本，包含大量新功能和修复。主要更新包括添加新模型支持、调整默认模型、增强嵌入功能以及对多内容类型的支持。作者还分享了利用AI助手审核AI生成的PR的经验。",
+      "tags": [
+        "programming",
+        "programming/python",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "9cef0740515e434d",
+      "title": "[Sponsor] OurCal",
+      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T22:43:59+00:00",
+      "summary_zh": "这是一则OurCal应用的赞助广告。OurCal是一款将共享日历与群组聊天结合的应用，日历变动会自动同步到聊天中，旨在解决日程共享中的沟通问题。应用支持多平台，注重隐私保护（端到端加密）。",
+      "tags": [
+        "tools",
+        "mobile",
+        "business"
+      ]
+    },
+    {
+      "id": "e675677888b0d9ef",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "summary_zh": "作者回忆了作为Windows 2000开发团队成员，在旧金山产品发布会前溜进空无一人的礼堂彩排现场的经历。他描述了当时巨大的舞台布置，包括一个10米高的模拟笔记本电脑和各种演示区域。",
+      "tags": [
+        "culture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "46fbd430d725f742",
+      "title": "Making peace with the projective plane",
+      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-02T14:44:02+00:00",
+      "summary_zh": "作者分享了他对射影平面理解过程的转变，从最初认为它是抽象且无动机的，到后来认识到它在几何学中消除特例、处理“无穷远”概念的优雅性与必然性。他倡导以自底向上的方式教授数学抽象概念。",
+      "tags": [
+        "culture",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "93776c9c2a6b392f",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T13:31:26+00:00",
+      "summary_zh": "作者通过分析美国人口普查局的企业趋势调查数据，追踪企业AI采用率的变化。在过程中发现，该局的数据收集工作受到了美国政府关于“超级智能”的行政命令的干扰，影响了相关数据的发布。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "8aef3e740ee6379c",
+      "title": "Lorem Ipsum Dot Gov Dot UK",
+      "url": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-02T12:34:00+00:00",
+      "summary_zh": "文章以幽默的口吻讨论了在网站上线前使用“Lorem ipsum”这类占位文本进行布局测试的常见做法及其风险。作者调侃了测试时使用不可读文本以避免管理层关注内容而非设计的策略，并暗示了占位文本意外发布到生产环境的尴尬。",
+      "tags": [
+        "web",
+        "design",
+        "culture"
+      ]
+    },
+    {
+      "id": "bbd2219059fb5f98",
+      "title": "Etoys.com and its rapid rise and fall",
+      "url": "https://dfarq.homeip.net/etoys-com-and-its-rapid-rise-and-fall/?utm_source=rss&utm_medium=rss&utm_campaign=etoys-com-and-its-rapid-rise-and-fall",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T12:00:16+00:00",
+      "summary_zh": "文章回顾了在线玩具零售商Etoys.com在1997年互联网兴起时的快速崛起与衰落。它讲述了一个在互联网早期试图抓住电商机遇的创业故事，反映了当时互联网商业的泡沫与挑战。",
+      "tags": [
+        "business",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "f071e857244787e1",
+      "title": "Pluralistic: Autodoxing (02 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/02/agony-verification/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T08:20:37+00:00",
+      "summary_zh": "文章（从标签和标题推断）讨论了“Autodoxing”概念，批评了考虑不周的科技政策（如年龄验证、聊天监控）可能带来的负面影响。它链接了关于隐私、监控和信息窃取等主题的多篇内容。",
+      "tags": [
+        "security",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "8f5c9968f5b6c6a6",
+      "title": "Reliably aligning LLMs is impossible in principle",
+      "url": "https://seangoedecke.com/alignment-is-impossible/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "summary_zh": "文章论证了可靠地对齐大型语言模型（LLMs）在原则上是不可能的。作者认为LLMs并非传统的“盲目优化器”，其行为难以完全理解和控制，因此无法确保超级智能AI永远不会做出有害行为。",
+      "tags": [
+        "AI",
+        "AI/LLM"
+      ]
+    },
     {
       "id": "215d5e6ee0fa4f77",
       "title": "If in doubt, delete the uv.lock file",
@@ -12,11 +243,26 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-01T23:24:22+00:00",
-      "summary_zh": "作者分享了在使用Python 3.15和uv工具时遇到的依赖问题。当出现因uv.lock文件锁定不兼容Python 3.15的依赖版本而导致的构建错误时，一个简单的解决方法是删除该文件并重新运行命令。文章以watchfiles库为例说明了此问题。",
+      "summary_zh": "作者分享了一个解决Python依赖错误的实用技巧：当使用uv工具遇到版本冲突或构建错误（特别是升级到Python 3.15后）时，删除项目中的`uv.lock`文件通常能解决问题。这尤其适用于那些不应提交锁文件的库项目。",
       "tags": [
         "programming",
         "programming/python",
         "tools"
+      ]
+    },
+    {
+      "id": "78a13ded86f7e3bd",
+      "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
+      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-01T21:22:56+00:00",
+      "summary_zh": "文章介绍了WorkOS的auth.md功能，该功能允许AI代理无需通过人类浏览器界面即可自动注册应用。通过发布一个机器可读的认证文件，代理可以自行获取有范围限制的短期凭证，从而简化AI代理与应用的集成。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "web"
       ]
     },
     {
@@ -27,27 +273,10 @@
       "feed_title": "johndcook.com",
       "category": "Blogs",
       "published_at": "2026-11-01T20:29:54+00:00",
-      "summary_zh": "本文探讨了平面几何和球面几何中的极点和极线概念。作者指出，在欧几里得平面中，极点和极线的定义因圆锥曲线类型而异且存在特例。通过转向射影空间，可以统一处理这些概念，消除特例，但代价是需要在一个更大的几何空间中使用不同的坐标系。",
+      "summary_zh": "文章探讨了几何中的“极点和极线”概念，并指出在欧几里得平面几何中处理不同圆锥曲线时存在特例和复杂性。作者提出，通过转向射影空间，可以统一处理椭圆、抛物线和双曲线的情况，从而获得更优雅的数学框架。",
       "tags": [
         "culture",
-        "culture/science",
-        "design"
-      ]
-    },
-    {
-      "id": "78a13ded86f7e3bd",
-      "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
-      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-01T20:22:56+00:00",
-      "summary_zh": "WorkOS推出了一项名为auth.md的功能，旨在让AI代理能够自主注册应用，而无需通过为人类设计的浏览器登录页面。通过发布一个auth.md文件，代理可以读取该文件并自行注册，从而获得由开发者控制的范围化、短期有效的凭证，使用户无需中断当前工作流程。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
-        "web",
-        "business"
+        "culture/science"
       ]
     },
     {
@@ -58,12 +287,11 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-01T16:49:04+00:00",
-      "summary_zh": "文章引用了Kyle Kingsbury的观点，讨论了LLM（大语言模型）的使用对软件信任体系带来的侵蚀。他指出，LLM使得伪造成熟系统的标志性特征变得更容易，从而削弱了用户对文档、软件及其开发组织的信任。这引发了关于维护者如何确保软件和文档的正确性，并向用户证明其质量的思考。",
+      "summary_zh": "文章引用了Kyle Kingsbury的观点，指出LLMs的使用侵蚀了人们对文档、软件及其开发组织的信任。由于LLM可以轻易伪造成熟系统的标志，维护者需要思考如何确保软件和文档的正确性，并向用户证明其质量。",
       "tags": [
         "AI",
         "AI/LLM",
-        "culture",
-        "culture/sociology"
+        "culture"
       ]
     },
     {
@@ -74,11 +302,10 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-01T12:34:18+00:00",
-      "summary_zh": "作者庆祝自己使用去中心化社交网络Mastodon十周年。文章包含了一段嵌入的Mastodon帖子，表达了对此里程碑的反思和庆祝之情。",
+      "summary_zh": "作者庆祝自己使用去中心化社交网络Mastodon十周年，并进行了反思。文章包含了一段嵌入的Mastodon帖子，分享了这一里程碑式的个人经历。",
       "tags": [
         "culture",
-        "culture/media",
-        "web"
+        "culture/media"
       ]
     },
     {
@@ -89,11 +316,10 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-01T12:00:51+00:00",
-      "summary_zh": "本文为维修IBM PC/XT 5160型号的用户提供了实用指南。当需要移除软盘驱动器时，即使拧下了两颗可见的固定螺丝，驱动器仍可能卡在插槽中。文章介绍了如何解决驱动器被卡住的问题，帮助用户顺利取出驱动器。",
+      "summary_zh": "文章提供了一个针对复古计算机IBM PC/XT型号5160的实用维修技巧：当软盘驱动器在卸下两颗可见螺丝后仍卡在托架中时，如何将其安全取出。",
       "tags": [
         "hardware",
-        "hardware/design",
-        "culture/history"
+        "hardware/design"
       ]
     },
     {
@@ -104,13 +330,11 @@
       "feed_title": "evanhahn.com",
       "category": "Blogs",
       "published_at": "2026-11-01T11:00:00+00:00",
-      "summary_zh": "作者介绍了他如何利用iOS快捷指令（Shortcuts）来运行一个Mastodon机器人。这个名为Ulrira的机器人会随机发布《塞尔达传说：织梦岛》中的游戏台词。作者详细说明了该快捷指令的工作流程，并提到他借助AI功能将原有的Bash脚本转换成了快捷指令的初始版本。",
+      "summary_zh": "作者介绍了一个完全由iOS快捷指令（Shortcuts）驱动的Mastodon机器人。该机器人会随机发布《塞尔达传说：织梦岛》中的游戏台词，其创建过程部分借助了AI驱动的快捷指令生成器。",
       "tags": [
         "mobile",
-        "mobile/iPhone",
-        "AI",
         "AI/LLM",
-        "web"
+        "programming"
       ]
     },
     {
@@ -121,149 +345,12 @@
       "feed_title": "troyhunt.com",
       "category": "Blogs",
       "published_at": "2026-11-01T07:35:23+00:00",
-      "summary_zh": "文章讨论了AI生成代码对开发者角色的根本性改变，并引用了Proton CEO的观点，即开发者的工作已转变为帮助LLM更快地写出更好的代码，而不仅仅是自己写代码。同时，文章也提到了当前技术领域的兴奋状态，认为热爱技术的人正处在一个激动人心的时代。",
+      "summary_zh": "文章讨论了AI生成代码对开发者工作的根本性改变，引用观点认为开发者的职责已从编写代码转变为帮助LLM更快更好地编写代码。作者同时指出，尽管工作性质剧变，但当前的技术时代依然令人兴奋。",
       "tags": [
         "AI",
         "AI/LLM",
-        "career",
-        "programming"
-      ]
-    },
-    {
-      "id": "dce015df9030d224",
-      "title": "Fast and slow ways to improve your reputation",
-      "url": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-11-01T00:00:00+00:00",
-      "summary_zh": "文章探讨了在科技公司中建立声誉的“先有鸡还是先有蛋”困境：需要参与重要项目才能获得好声誉，但获得好声誉又是被分配重要项目的前提。作者通过一个工程师的常见案例，分析了公司内部的实际激励与正式流程之间的差异，并提出了打破这一恶性循环的策略。",
-      "tags": [
-        "career",
-        "business",
-        "culture"
-      ]
-    },
-    {
-      "id": "a181817ce8345f3a",
-      "title": "How We Took Over ChatGPT Accounts",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-31T23:15:22+00:00",
-      "summary_zh": "Parameter Labs披露了在ChatGPT的“HTML预览”（原名Canvas）功能中发现的一个安全漏洞。攻击链涉及通过沙箱iframe中的postMessage()触发父页面中的MathLive虚拟键盘组件，并利用其innerHTML操作注入无沙箱限制的iframe，从而可能窃取用户账户。OpenAI在收到报告后已修复此漏洞。",
-      "tags": [
-        "security",
-        "AI",
-        "AI/LLM",
-        "web"
-      ]
-    },
-    {
-      "id": "5433d48c0a4a7162",
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-10-31T22:10:01+00:00",
-      "summary_zh": "datasette-llm插件发布了0.1a9版本，进行了一项微小的用户体验改进。现在该插件会自动读取LLM工具的默认模型配置，这意味着用户启动Datasette Agent时无需再显式指定默认模型，简化了使用流程。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
         "programming",
-        "tools",
-        "open-source"
-      ]
-    },
-    {
-      "id": "eade3138b3fd87db",
-      "title": "Pluralistic: Formalities (31 Oct 2026)",
-      "url": "https://pluralistic.net/2026/10/31/burn-berne/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-10-31T15:15:59+00:00",
-      "summary_zh": "本文主要讨论了美国版权局在AI时代对版权形式要求的立场。文章认为，版权局正在恢复版权的本来面目，即版权是需要通过努力才能获得的东西，而非自动拥有。这涉及到AI生成内容版权归属的复杂法律问题。",
-      "tags": [
-        "AI",
-        "culture",
-        "culture/sociology",
-        "business"
-      ]
-    },
-    {
-      "id": "65812535c9e0c160",
-      "title": "Reading List 10/31/26",
-      "url": "https://www.construction-physics.com/p/reading-list-103126",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-10-31T12:34:23+00:00",
-      "summary_zh": "文章内容不完整，无法从提供的片段中提取核心内容。根据标题和来源推测，可能是一份涉及建筑物理或相关领域的阅读清单或摘要。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "f9b0057d90530c22",
-      "title": "Gig Review: The Witcher in Concert ★★★★☆",
-      "url": "https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-10-31T12:34:18+00:00",
-      "summary_zh": "作者分享了观看《巫师》游戏音乐会现场演出的体验，探讨了电子游戏配乐以现场交响乐形式呈现的独特魅力。文章认为，电影和游戏已成为现代人接触古典风格音乐的主要途径之一。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "cfc729314e53d3e8",
-      "title": "Johnston’s Electric Trains, St. Louis",
-      "url": "https://dfarq.homeip.net/johnstons-electric-trains-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=johnstons-electric-trains-st-louis",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-10-31T11:03:01+00:00",
-      "summary_zh": "文章介绍了位于圣路易斯Dutchtown社区、经营约50年的家族企业Johnston's Electric Train Shop。该店是圣路易斯第一家专门经营电动火车模型的爱好商店。",
-      "tags": [
-        "culture",
-        "culture/history",
-        "business"
-      ]
-    },
-    {
-      "id": "3ba7536149b17f8c",
-      "title": "This Week in Package Management: 31 October 2026",
-      "url": "https://nesbitt.io/2026/10/31/this-week-in-package-management.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-10-31T10:00:00+00:00",
-      "summary_zh": "本周包管理新闻摘要，重点包括Go语言针对eMudhra中间证书的紧急安全更新、sbt修复zip slip漏洞以及pipx更新对pip版本的要求。文章汇总了来自多个渠道的包管理器相关安全与更新信息。",
-      "tags": [
-        "programming",
-        "tools",
-        "security"
-      ]
-    },
-    {
-      "id": "f639907d58570d9d",
-      "title": "Notes from October 2026",
-      "url": "https://evanhahn.com/notes-from-october-2026/",
-      "author": "",
-      "feed_title": "evanhahn.com",
-      "category": "Blogs",
-      "published_at": "2026-10-31T06:00:00+00:00",
-      "summary_zh": "作者总结了十月份的个人动态：将网站迁移至CDN和对象存储以提升性能并降低成本；发布了一份Vim衍生编辑器列表；在Ghost平台为自动化功能增加了分析数据和更精细的触发器。",
-      "tags": [
-        "web",
-        "tools",
-        "programming"
+        "career"
       ]
     }
   ]
