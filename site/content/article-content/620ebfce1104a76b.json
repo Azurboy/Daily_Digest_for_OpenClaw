@@ -1,0 +1,6 @@
+{
+  "id": "620ebfce1104a76b",
+  "title": "Runs scored in World Baseball Classic",
+  "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
+  "content": "<p>\nIn the Spring 2026 edition of the Metaculus Cup one question concerned the\nnumber of runs in the knockout stage of the World Baseball Classic (WBC)\nin 2026.\n</p>\n\n\n\n<p>\nThe community predicted a mean of just under 70 runs, with a spread of 60–80. My\nprediction was 60 runs, with a spread of 42–80. The actual number ended up being\n59 runs – nearly exactly what I predicted. Let&rsquo;s see how that was done.\n</p>\n\n\n\n<p>\nFirst, there&rsquo;s a sloppy way of making a quick guess. It&rsquo;s not very interesting,\nbut it&rsquo;s a good baseline. Once we have that, we&rsquo;ll dig into modeling counts on a\nmore granular level, and that&rsquo;s when it gets interesting. Those techniques can\nbe used for all sorts of counts, not just sports prediction!\n</p>\n\n\n\n<p>\nI don&rsquo;t know anything about baseball. I don&rsquo;t even know what a run is, so I had\nmy research assistant count how many runs were in a few of the previous WBCs.\n</p>\n\n\n<p><a href=\"https://entropicthoughts.com/sums-of-overdispersed-counts\">(Continue reading the full article on the web.)</a></p>"
+}

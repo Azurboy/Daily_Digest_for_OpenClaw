@@ -1,0 +1,567 @@
+{
+  "date": "2026-11-04",
+  "article_count": 38,
+  "tokens_used": 19458,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "7c2f585f4a14a8cf",
+      "title": "Apple Begins Opening Siri AI to Developers",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T23:58:49+00:00",
+      "summary_zh": "苹果在最新的操作系统测试版中向开发者开放了Siri AI集成功能。开发者现在可以将自己的应用与Siri AI连接，为用户提供新的交互方式。这为开发者提供了在春季App Store正式开放提交前的预览和构建时间。",
+      "tags": [
+        "AI",
+        "mobile",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "a87eb7561ff6f898",
+      "title": "iPad Mini (A20 Pro) Review Roundup",
+      "url": "https://www.techmeme.com/261103/p15#a261103p15",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T23:45:18+00:00",
+      "summary_zh": "文章汇总了多家媒体对搭载A20 Pro芯片的新款iPad Mini的评测。评测重点讨论了其创新的“声学显示屏”技术、出色的电池续航表现，但也提及了高音量下机身振动等细节。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "e2158ab53466c079",
+      "title": "MKBHD on the New A20 Pro iPad Mini",
+      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T23:25:25+00:00",
+      "summary_zh": "科技博主MKBHD评测新款A20 Pro iPad Mini，赞赏其声学显示屏，但批评其缺少120Hz ProMotion刷新率。他指出，限制在于更昂贵的显示驱动器，而非面板本身，这是苹果出于成本或利润考虑的决定。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "88c7e90ccfb4cdcf",
+      "title": "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T19:26:41+00:00",
+      "summary_zh": "Safari 27.3测试版引入了垂直标签页布局和自适应深色模式。垂直标签页位于屏幕左侧，可与标签组和智能标签分类协同工作。自适应深色模式能为不支持深色模式的网站自动应用深色主题。",
+      "tags": [
+        "web",
+        "tools",
+        "design"
+      ]
+    },
+    {
+      "id": "3608ed6c487b7a81",
+      "title": "New Article, Annual LFP Charity Discount",
+      "url": "https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/",
+      "author": "",
+      "feed_title": "buttondown.com/hillelwayne",
+      "category": "Blogs",
+      "published_at": "2026-11-03T18:06:44+00:00",
+      "summary_zh": "作者发布了关于确定性模拟测试与形式化方法对比的新博客文章。同时，作者再次启动年度慈善折扣活动，将其编程书籍《Logic for Programmers》的部分版税捐赠给芝加哥食品银行。",
+      "tags": [
+        "programming",
+        "testing",
+        "culture"
+      ]
+    },
+    {
+      "id": "62e74dd7418f3f19",
+      "title": "Running Dry",
+      "url": "https://www.wheresyoured.at/running-dry/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-03T17:16:20+00:00",
+      "summary_zh": "作者推广其付费通讯订阅，并列举了过去几个月发布的深度分析文章，主题涵盖AI债务、生成式AI对经济的影响，以及对英伟达、甲骨文等AI基础设施巨头的剖析。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "f1a111e72742f0df",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T16:29:48+00:00",
+      "summary_zh": "文章介绍了一项名为“权重空间编程”的新发现，前沿大语言模型能够直接解读和修改神经网络权重。作者验证了Qwen 3.8 27B模型在本地笔记本电脑上也具备类似能力，可以分析权重并识别问题。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "programming"
+      ]
+    },
+    {
+      "id": "0b86c010857d521d",
+      "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T15:46:25+00:00",
+      "summary_zh": "《纽约时报》等多家出版商起诉Brave浏览器公司，指控其非法抓取网站内容用于训练AI模型，并向AI公司出售这些数据。诉讼还指控Brave浏览器的“付费墙拦截”功能帮助用户绕过出版商的订阅限制。",
+      "tags": [
+        "AI",
+        "security",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "c0dfb94194d9c0b1",
+      "title": "Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’",
+      "url": "https://www.macworld.com/article/208438/jobs_transcript.html",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T15:40:34+00:00",
+      "summary_zh": "文章回顾了史蒂夫·乔布斯在最后一次财报电话会议上的发言，他认为“开放与封闭”的争论是烟雾弹，真正的核心是“集成与碎片化”哪个对用户更有利。乔布斯坚信苹果的集成模式在提供无缝体验上更具优势。",
+      "tags": [
+        "business",
+        "culture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "57d58d99bf7430f9",
+      "title": "How do you implement a random-access database when you don’t have random-access external storage?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-03T15:00:00+00:00",
+      "summary_zh": "文章探讨了在早期Apple II只有磁带机作为外部存储的情况下，一个电话簿程序如何实现数据库功能。其巧妙之处在于程序将用户数据直接存储在BASIC的DATA语句中，将其作为数据库的内存来使用。",
+      "tags": [
+        "programming",
+        "hardware",
+        "database"
+      ]
+    },
+    {
+      "id": "257937dbabe4020c",
+      "title": "Chance Miller Reviews the New A20 Pro iPad Mini",
+      "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T14:51:14+00:00",
+      "summary_zh": "评测指出新款A20 Pro iPad Mini的OLED屏幕虽在像素响应时间上有改进，但令人失望的是仍不支持120Hz ProMotion刷新率，仅停留在60Hz。文章分析了苹果将ProMotion技术严格限定在高端“Pro”产品线的策略。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "27a7047c914ec595",
+      "title": "Fraction comparison trick revisited",
+      "url": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T14:41:25+00:00",
+      "summary_zh": "文章重新探讨了一个分数比较的数学技巧：当a+d大于b+c时，a/b大于c/d的概率为11/12。文章从多个角度阐释了这一结论，并指出其等价于“两对数对中，和较大的那一对，其积也较大的概率是11/12”。",
+      "tags": [
+        "programming",
+        "culture",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "0c400639f7218b40",
+      "title": "Apple’s Analyst Calls Have Been Scripted for Decades",
+      "url": "https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T14:39:03+00:00",
+      "summary_zh": "文章评论了苹果新任CEO约翰·特尔纳斯在首次财报电话会议中的表现，指出其遵循脚本的做法与前任蒂姆·库克并无不同。作者认为苹果的财报电话会议历来枯燥，并建议特尔纳斯效仿史蒂夫·乔布斯，将此类会议交由CFO和COO处理，除非有特殊情况需要CEO亲自说明。",
+      "tags": [
+        "business",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "0cd5115e0f53c3c2",
+      "title": "Apple’s New iPhone Release Schedule Seems to Pay Off",
+      "url": "https://x.com/asymco/status/2117379158087278697",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T14:30:40+00:00",
+      "summary_zh": "文章分析了苹果调整iPhone发布周期（将标准版iPhone 18推迟至次年年初发布）对销量的影响。尽管标准版iPhone是苹果最畅销的单一机型，但数据显示Pro系列销量总和已超过标准版，且主流消费者可能并不在意标准版的发布时间推迟。此外，本季度iPhone销量增长也受益于苹果对其他主要产品提价。",
+      "tags": [
+        "business",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "a6a6e966b526ed85",
+      "title": "Pluralistic: Separable (03 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/03/nobody-is-home/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T14:19:29+00:00",
+      "summary_zh": "文章探讨了人工智能（AI）如何导致创作与创作者分离的现象，例如产生没有画家的绘画、没有作家的文字以及没有数学家的数学。这引发了关于AI时代创作本质和价值的讨论。",
+      "tags": [
+        "AI",
+        "culture/sociology",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "92fd20533f79da7f",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-03T12:34:31+00:00",
+      "summary_zh": "作者分享了向英国在线超市Ocado报告技术问题（日历邀请格式错误）的经历，并收到了疑似由AI生成的客服回复。文章以此为例，倡导对劣质的AI应用进行公开批评和抵制。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "574e09b229c13b9e",
+      "title": "Euclidean, Spherical, and Projective Geometry",
+      "url": "https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T12:33:10+00:00",
+      "summary_zh": "文章介绍了欧几里得几何的五条公设，并重点讨论了第五公设（平行公设）的独特性和复杂性。通过回顾萨凯里等人试图证明该公设的历史，引出了非欧几何研究的开端。",
+      "tags": [
+        "culture/science",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "c8469e3a6ec3ff8e",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=charles-tandy-the-mastermind-behind-radio-shack",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T12:00:06+00:00",
+      "summary_zh": "文章简要介绍了查尔斯·坦迪的生平，他是坦迪公司的董事长、总裁兼首席执行官，也是Radio Shack等零售品牌创建或扩张背后的关键人物。",
+      "tags": [
+        "business",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "7a16caccdfbc8b33",
+      "title": "How a programming might reinvent the projective plane",
+      "url": "https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T10:45:19+00:00",
+      "summary_zh": "文章探讨了如何通过编程实践来严谨地定义射影平面。为了解决计算两条直线交点时遇到的特殊情况（如平行线无交点），提出了引入“无穷远点”的概念，使得所有直线对都能相交于一点（包括无穷远点），从而简化程序逻辑。",
+      "tags": [
+        "programming",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "dcf65f4aed7f78c1",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T05:32:25+00:00",
+      "summary_zh": "文章介绍了一项巧妙的开源情报（OSINT）技术：通过分析视频背景中几乎无法察觉的飞机噪音，计算其多普勒曲线，并与ADS-B广播式自动相关监视数据交叉比对，从而精确定位视频的拍摄地点。",
+      "tags": [
+        "security",
+        "networking",
+        "tools"
+      ]
+    },
+    {
+      "id": "de959bab941149a9",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T05:28:59+00:00",
+      "summary_zh": "作者发布了十月份的赞助者专属月度通讯，内容包括LLM发布动态、漏洞趋势、开发工具更新以及个人近况等。九月份的通讯已公开，作为内容预览。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "career"
+      ]
+    },
+    {
+      "id": "1c3dde34e72ac49f",
+      "title": "Pumpkin Seeds",
+      "url": "https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-11-03T02:49:10+00:00",
+      "summary_zh": "这是一篇关于万圣节的轻松随笔，汇集了与万圣节相关的流行文化冷知识、奇闻异事，甚至包含一首原创曲调，旨在为节日过后的人们提供一些有趣的谈资和回味。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "ee5bbf6202dad163",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T02:24:31+00:00",
+      "summary_zh": "谷歌与行业伙伴合作，成功捣毁了一个名为XCPE的僵尸网络。该网络感染了超过130万台安卓电视盒子，将其变为代理节点并从事广告欺诈。涉事中国电视盒制造商Videostrong被指预装恶意软件，谷歌已与其切断联系。此次行动预计还将切断该僵尸网络对另外超过1000万台物联网设备的访问。",
+      "tags": [
+        "security",
+        "mobile",
+        "hardware"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T01:13:06+00:00",
+      "summary_zh": "文章以怀旧和幽默的口吻，描述了在1986年为Commodore 64电脑“安装应用程序”（当时称为“程序”）的繁琐过程：需要骑自行车去商场书店寻找特定的计算机杂志，并手动输入其中的代码。",
+      "tags": [
+        "culture/history",
+        "hardware",
+        "programming"
+      ]
+    },
+    {
+      "id": "c303ee9ccaa3f0a3",
+      "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
+      "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:10:53+00:00",
+      "summary_zh": "苹果公司公布了创纪录的第四季度财报，营收达1145亿美元，同比增长12%。iPhone和Mac业务增长强劲，而可穿戴设备和iPad收入有所下降。新任CEO在分析师电话会议中讨论了Mac与iOS生态系统的进一步整合。",
+      "tags": [
+        "business",
+        "hardware",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "3d8c696758675ee1",
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "文章探讨了前沿大语言模型直接读取和修改神经网络权重的能力，认为这种能力并非超人类。作者指出，一位聪明的人类机器学习研究者同样可以完成论文中展示的任务，并对模型通过权重自我改进引发递归自我提升的潜力进行了分析。",
+      "tags": [
+        "AI",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "662f2b1b6d21b1a7",
+      "title": "Audience capture",
+      "url": "https://seangoedecke.com/audience-capture/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "作者讨论了“观众俘获”现象，即网络写作环境如何通过算法和激励机制，促使作者为追求阅读量和互动数据而创作。作者认为，过度关注这些代理指标会偏离写作的初衷，如与智者交流思想和获得实质性反馈。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "80b8b883d90849b6",
+      "title": "Prove you are not a child",
+      "url": "https://idiallo.com/blog/prove-you-are-not-a-child",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "作者支持禁止儿童使用社交媒体，但反对当前的身份验证执行方式。文章指出，要求成年人上传敏感身份信息以证明自己不是儿童，会带来巨大的隐私和数据泄露风险，最终让成年人承担代价。",
+      "tags": [
+        "security",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "e97832c0fc5e2d39",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "author": "",
+      "feed_title": "rakhim.exotext.com",
+      "category": "Blogs",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary_zh": "作者反驳了“科技公司对我们了如指掌”的普遍说法，通过个人经历指出，当前的广告推荐和个性化算法常常表现笨拙，无法捕捉简单的用户偏好模式。文章认为科技公司的数据收集并未带来真正智能的服务。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "AI"
+      ]
+    },
+    {
+      "id": "8fbbc27028afdfad",
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T23:49:30+00:00",
+      "summary_zh": "llm 命令行工具和Python库发布了0.37版本，包含大量新功能和修复。更新包括添加新模型支持、调整默认模型、增强嵌入功能以及对不同类型内容的支持。作者还分享了使用AI助手审核AI生成的PR的经验。",
+      "tags": [
+        "programming",
+        "programming/python",
+        "AI",
+        "tools"
+      ]
+    },
+    {
+      "id": "620ebfce1104a76b",
+      "title": "Runs scored in World Baseball Classic",
+      "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-11-02T23:00:00+00:00",
+      "summary_zh": "作者成功预测了2026年世界棒球经典赛淘汰赛阶段的总得分。文章介绍了预测方法，从简单的基线猜测开始，进而深入探讨了可用于各种计数预测的、更精细的计数建模技术。",
+      "tags": [
+        "culture",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "9cef0740515e434d",
+      "title": "[Sponsor] OurCal",
+      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T22:43:59+00:00",
+      "summary_zh": "OurCal是一款将任意日历与群聊连接的应用，旨在解决共享日历日程变更沟通不畅的问题。变更会自动发布到群聊，且所有通信均为端到端加密。该应用支持苹果和安卓平台，采用订阅制。",
+      "tags": [
+        "tools",
+        "mobile",
+        "design"
+      ]
+    },
+    {
+      "id": "e675677888b0d9ef",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "summary_zh": "作者回忆了Windows 2000发布会前，作为团队成员提前潜入旧金山市政礼堂彩排现场的经历。描述了当时空旷的礼堂舞台布置，包括一个10米高的巨型笔记本模型和各种演示区域。",
+      "tags": [
+        "culture",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "46fbd430d725f742",
+      "title": "Making peace with the projective plane",
+      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-02T14:44:02+00:00",
+      "summary_zh": "作者回顾了自己学习射影平面的经历，最初觉得它是没有动机的抽象概念。后来认识到射影空间和齐次坐标通过消除例外情况和对“无穷远”的模糊引用，能使几何学更加优雅和自然。",
+      "tags": [
+        "culture",
+        "culture/science"
+      ]
+    },
+    {
+      "id": "93776c9c2a6b392f",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T13:31:26+00:00",
+      "summary_zh": "文章通过更新美国人口普查局关于企业AI采用率的数据图表，引出了该机构受到所谓“超级智能”行政命令影响的情况。作者曾用此数据演示GPT-5的分析能力，现在则关注政策对数据收集的影响。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "8aef3e740ee6379c",
+      "title": "Lorem Ipsum Dot Gov Dot UK",
+      "url": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-02T12:34:00+00:00",
+      "summary_zh": "文章以幽默口吻讨论了在网站上线前使用“Lorem Ipsum”这类无意义文本进行布局测试的普遍做法，并暗示政府网站也可能意外将测试页面发布到生产环境。作者还设置了隐藏的“评论俱乐部”内容。",
+      "tags": [
+        "web",
+        "culture",
+        "testing"
+      ]
+    },
+    {
+      "id": "bbd2219059fb5f98",
+      "title": "Etoys.com and its rapid rise and fall",
+      "url": "https://dfarq.homeip.net/etoys-com-and-its-rapid-rise-and-fall/?utm_source=rss&utm_medium=rss&utm_campaign=etoys-com-and-its-rapid-rise-and-fall",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T12:00:16+00:00",
+      "summary_zh": "文章回顾了在线玩具零售商Etoys.com在1997年互联网兴起时的快速崛起与迅速衰落。它作为一个早期的电子商务尝试，反映了当时互联网创业的机遇与风险。",
+      "tags": [
+        "business",
+        "culture/history",
+        "web"
+      ]
+    },
+    {
+      "id": "f071e857244787e1",
+      "title": "Pluralistic: Autodoxing (02 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/02/agony-verification/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-02T08:20:37+00:00",
+      "summary_zh": "文章讨论了名为“Autodoxing”的技术政策问题，批评了考虑不周的科技监管如何导致不良后果。内容涉及隐私、监控和年龄验证等议题，并链接了相关的历史科技政策案例。",
+      "tags": [
+        "security",
+        "culture/sociology"
+      ]
+    }
+  ]
+}
