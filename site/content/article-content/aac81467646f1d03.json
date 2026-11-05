@@ -1,0 +1,6 @@
+{
+  "id": "aac81467646f1d03",
+  "title": "llm 0.37.1",
+  "url": "https://simonwillison.net/2026/Nov/3/llm/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.1\">llm 0.37.1</a></p>\n        <p>A bugfix release for <a href=\"https://llm.datasette.io/\">LLM</a>, with contributions from <a href=\"https://github.com/remote-controlled-man\">Steven Huang</a>, <a href=\"https://github.com/tao-hpu\">Tao An</a>, <a href=\"https://github.com/ar-jan\">Arjan Mossel</a>, and <a href=\"https://github.com/XXXXXQ-0206\">XQ</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/llm\">llm</a></p>"
+}
