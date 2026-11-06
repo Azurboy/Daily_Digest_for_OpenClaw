@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-06",
+  "article_count": 21,
+  "tokens_used": 10351,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T02:32:14+00:00",
+      "summary_zh": "文章以幽默怀旧的口吻，回顾了1986年在Commodore 64电脑上安装程序的繁琐过程。核心步骤是需要骑自行车去商场书店寻找并购买载有程序的计算机杂志。这生动地展现了早期个人计算机用户获取软件的独特方式。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "8113b4cdd49737bb",
+      "title": "A database is a store for global variables",
+      "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary_zh": "文章提出了一个有趣的观点：数据库本质上是全局变量的存储库。作者探讨了为什么数据库被广泛接受，而传统编程中的全局变量却被视为不良实践，并分析了数据库作为“受控的全局状态”的特殊性。",
+      "tags": [
+        "programming",
+        "database",
+        "architecture"
+      ]
+    },
+    {
+      "id": "d99eb122ba5fed94",
+      "title": "Salon Ceases Publication",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T21:31:04+00:00",
+      "summary_zh": "文章报道了老牌数字媒体Salon在运营31年后突然停止出版的消息。作者回顾了Salon作为网络新闻先驱的历史地位及其对数字新闻业的贡献，并对其档案能否保留表示担忧。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "47970ec7c8c0ce63",
+      "title": "The benchmark where AIs have to lie to win",
+      "url": "https://www.dwarkesh.com/p/clocktower",
+      "author": "Dwarkesh Patel",
+      "feed_title": "dwarkesh.com",
+      "category": "Blogs",
+      "published_at": "2026-11-05T21:05:50+00:00",
+      "summary_zh": "作者通过让多个AI模型玩社交欺骗游戏《血染钟楼》，来评估AI在创造性撒谎、即时策略、长期规划和集体推理等方面的能力。这个独特的基准测试揭示了当前AI在复杂社交互动和战略欺骗中的优势与局限。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "f0dad24eb1e8d07c",
+      "title": "Meta Releases Mac Version of Edits",
+      "url": "https://edits.instagram.com/blog/edits-desktop-video-editor/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T20:27:05+00:00",
+      "summary_zh": "Meta旗下的Instagram Edits视频编辑应用推出了macOS桌面版本，旨在为大屏幕和键鼠操作提供更强大的编辑支持。文章认为这是Mac原生应用开发复苏的积极迹象，同时也指出了应用在图标和菜单文本细节上的不足。",
+      "tags": [
+        "mobile",
+        "design",
+        "tools"
+      ]
+    },
+    {
+      "id": "f477952e40160351",
+      "title": "It's unbreakable in theory",
+      "url": "https://idiallo.com/byte-size/unbreakable-in-theory",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-05T20:20:10+00:00",
+      "summary_zh": "文章以iPhone Duo屏幕损坏和特斯拉Cybertruck车窗被砸等事例，讨论了实验室测试与现实用户使用之间的巨大差距。作者指出，无论理论测试多么完美，产品一旦遇到真实用户不可预测的行为，就可能出现意想不到的故障。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "hardware",
+        "testing"
+      ]
+    },
+    {
+      "id": "ff14400f2913b0a2",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T17:34:03+00:00",
+      "summary_zh": "文章引用了Paul Ford的观点，强调现代网络浏览器作为应用平台极其强大，且访问这种强大能力的成本正在日益降低。这凸显了Web技术的进步和其作为通用计算平台的潜力。",
+      "tags": [
+        "web",
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "232ceb552fdcd282",
+      "title": "Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-05T12:34:17+00:00",
+      "summary_zh": "这是一篇对Tozo NC9 Pro蓝牙耳机的评测。文章指出其音质、降噪和续航表现中规中矩，但最大的亮点是其配备全彩触摸屏的充电盒，用户无需依赖手机App即可直接在盒子上进行各项设置和音乐控制。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "tools"
+      ]
+    },
+    {
+      "id": "765a3412f5c03599",
+      "title": "Micron Computers’ rise and fall",
+      "url": "https://dfarq.homeip.net/micron-computers-rise-and-fall/?utm_source=rss&utm_medium=rss&utm_campaign=micron-computers-rise-and-fall",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T12:00:41+00:00",
+      "summary_zh": "文章简要介绍了Micron Computers公司的兴衰史。这家由内存芯片制造商Micron Technology在1995年创立的PC营销公司，初期取得成功，但最终于2008年11月停止运营。",
+      "tags": [
+        "hardware",
+        "business",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "c49f69d3ee3119ad",
+      "title": "Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/05/see-you-in-court/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T08:53:45+00:00",
+      "summary_zh": "文章讨论了美国《通信规范法》第230条的重要性，认为如果没有该条款提供的责任豁免保护，小型、管理良好的在线社区将难以承受法律威胁而消亡，最终可能导致像Facebook这样的大型平台永久垄断互联网。",
+      "tags": [
+        "web",
+        "business",
+        "security",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "a268ea9382891c77",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-05T04:36:17+00:00",
+      "summary_zh": "安全报告指出，白宫内部多台设备被检测出安装了住宅代理服务，导致其IP地址可被他人租用。这些代理活动与一家俄罗斯公司的服务有关，其创始人的业务曾与2016年针对美国选举系统的网络攻击有关联，引发了严重的安全担忧。",
+      "tags": [
+        "security",
+        "networking"
+      ]
+    },
+    {
+      "id": "4cc0823ef045658b",
+      "title": "“It Gives Great Demo”",
+      "url": "https://blog.jim-nielsen.com/2026/it-gives-great-demo/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-11-04T19:00:00+00:00",
+      "summary_zh": "文章借史蒂夫·乔布斯解释为何不做触摸屏MacBook的著名言论，深入探讨了“它演示效果很棒”这一现象。作者指出，许多技术产品在演示时令人惊艳，但在实际日常使用中可能体验糟糕，揭示了产品营销（演示）与实用价值之间的潜在矛盾。",
+      "tags": [
+        "design",
+        "hardware",
+        "business",
+        "culture"
+      ]
+    },
+    {
+      "id": "6b1c4708310c50a0",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-04T15:26:02+00:00",
+      "summary_zh": "datasette-llm 0.1a10 版本发布，修复了一个影响 agent.datasette.io 演示站点的错误。该错误导致可用的 LLM 模型未能正确限制为仅配置文件中指定的模型。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "open-source",
+        "tools"
+      ]
+    },
+    {
+      "id": "f1a771a1a418d498",
+      "title": "This Election Will Not Look Surprising in History",
+      "url": "https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-04T15:15:51+00:00",
+      "summary_zh": "文章通过一张选举趋势地图和历史引述，分析了美国政治格局自2024年以来的重大转变。内容聚焦于特朗普的政治遗产及其对共和党造成的长期影响。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "cc85db3d9e980656",
+      "title": "There are things with ranks, but it’s not always clear what the ranks mean",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-04T15:00:00+00:00",
+      "summary_zh": "文章探讨了Windows系统中“排名”概念的含义模糊问题，并以SQL Server中的RANK函数为例，说明其文档有时未能明确说明更高排名是代表更好还是更差的匹配度。",
+      "tags": [
+        "programming",
+        "database",
+        "tools"
+      ]
+    },
+    {
+      "id": "b1fb77af1e39acb5",
+      "title": "‘Political Reckoning Shatters Trump’s Grip on Washington’",
+      "url": "https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-04T14:56:47+00:00",
+      "summary_zh": "文章引用《华尔街日报》报道，分析特朗普总统在第二个任期内因外交和国内政策失误导致政治支持迅速崩溃，以及共和党在中期选举中遭遇的惨败。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "02433251e2fcc2f0",
+      "title": "Book Review: Practice by Rosalind Brown ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-04T12:34:07+00:00",
+      "summary_zh": "这是一篇对Rosalind Brown所著小说《Practice》的书评。该书以普鲁斯特式的风格，描绘了一位年轻女性在应对论文危机时一天的生活与内心挣扎，探讨了文学研究的本质与意义。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "a7c3f6243d2929cd",
+      "title": "The first Compaq computer",
+      "url": "https://dfarq.homeip.net/first-compaq-computer/?utm_source=rss&utm_medium=rss&utm_campaign=first-compaq-computer",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-04T12:00:56+00:00",
+      "summary_zh": "文章简要介绍了第一台康柏电脑——Compaq Portable。它于1982年11月发布，是一款手提箱大小的IBM个人电脑克隆机，搭载Intel 8088 CPU和MS-DOS操作系统。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "b14fbee3a15912ca",
+      "title": "Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/04/genius-scan-is-neither/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-04T11:45:02+00:00",
+      "summary_zh": "文章批评了“AI误触经济”现象，指出其收据扫描应用Genius Scan的每个有用按钮现在都变成了召唤无用AI功能的入口，导致应用体验恶化。",
+      "tags": [
+        "AI",
+        "mobile",
+        "business"
+      ]
+    },
+    {
+      "id": "0b0ccf54ecf2299d",
+      "title": "This Week in Source Control: 4 November 2026",
+      "url": "https://nesbitt.io/2026/11/04/this-week-in-source-control.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-04T10:00:00+00:00",
+      "summary_zh": "本周源代码控制新闻摘要，重点介绍了OpenAI如何通过名为Pando的Rust后端系统来扩展其巨型代码仓库的Git服务，以实现高效的推送和获取操作。",
+      "tags": [
+        "devops",
+        "tools",
+        "open-source",
+        "AI"
+      ]
+    },
+    {
+      "id": "afac48785cfe7e75",
+      "title": "Goodhart's Law, but We Already Spent All Our Money",
+      "url": "https://idiallo.com/blog/we-spent-all-our-money-goodharts-law",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "summary_zh": "文章以体育和电子游戏为例，指出当前社会倾向于用金钱收入来衡量一切事物的价值。作者将这种现象与古德哈特定律以及当前AI浪潮中过度追求商业指标的问题联系起来。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    }
+  ]
+}
