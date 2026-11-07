@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-07",
+  "article_count": 26,
+  "tokens_used": 13264,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "aedcdd730b4c7d44",
+      "title": "Working with designers",
+      "url": "https://seangoedecke.com/working-with-designers/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "summary_zh": "作者分享了与设计师合作的经验，认为设计师能立即展现其价值，提供工程师意想不到的优质方案。同时，作者也指出团队中拥有多名设计师可能带来问题，并对设计系统持有复杂的负面看法。",
+      "tags": [
+        "design",
+        "culture"
+      ]
+    },
+    {
+      "id": "6140ad676514ffa9",
+      "title": "★ Touch and Glow",
+      "url": "https://daringfireball.net/2026/11/touch_and_glow",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T19:50:46+00:00",
+      "summary_zh": "文章对比了洛杉矶和旧金山湾区的生活体验，作者认为洛杉矶虽好但不宜久居。同时，也提及了苹果在洛杉矶举办媒体活动的不同寻常之处。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "mobile/iPhone"
+      ]
+    },
+    {
+      "id": "db8aad7567ee0d78",
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T17:13:12+00:00",
+      "summary_zh": "文章引用了Nilay Patel的观点，批评当前AI产品的成本过高而实际效益不足，未能真正改善用户生活。他认为AI行业需要创造出无需说服、用户能直观感受到其价值的更好产品。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business"
+      ]
+    },
+    {
+      "id": "c386630f8780ac9e",
+      "title": "Static site generators are weird",
+      "url": "https://evanhahn.com/static-site-generators-are-weird/",
+      "author": "",
+      "feed_title": "evanhahn.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "summary_zh": "作者肯定了静态站点生成器的价值，但也指出大多数生成器（如Jekyll、Gatsby、Hugo）都要求开发者学习其独特的构建方式，包括模板、资源管理、路由等，导致每个工具都是一个独立且复杂的世界。",
+      "tags": [
+        "web",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "2bf13061253c13c3",
+      "title": "Premium: Fault Lines",
+      "url": "https://www.wheresyoured.at/premium-fault-lines/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-06T16:44:41+00:00",
+      "summary_zh": "作者表达了在经历一段压抑时期后，对近期政治变局带来的希望与改变的感慨。文章也提到“蓝潮”可能对科技股泡沫产生影响，并提及了科技巨头与政治的关系。",
+      "tags": [
+        "culture",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "93e953706007dcf4",
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T15:34:48+00:00",
+      "summary_zh": "本文回顾了游戏《杀出重围》的开发故事和发布时的评价，探讨了其雄心勃勃的设计以及伴随的一些缺陷。文章也引用了游戏首席编剧关于其未来预言性的评论。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "bb1c7ea8e9eebeec",
+      "title": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
+      "url": "https://support.apple.com/en-us/149248",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T15:03:51+00:00",
+      "summary_zh": "苹果支持文档提供了通过终端命令关闭MacBook Pro发光Logo的方法。作者认为将其保留为命令行设置是合适的，可以避免其成为误导性的“省电技巧”在GUI中传播。",
+      "tags": [
+        "hardware",
+        "mobile/iPhone",
+        "tools"
+      ]
+    },
+    {
+      "id": "295fdbf27b0be6b0",
+      "title": "The President is Coping Well",
+      "url": "https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T15:00:22+00:00",
+      "summary_zh": "文章评论了特朗普签署公告将白宫椭圆形办公室指定为地标的行为，并讽刺地预测这些改动将在其任期结束后被迅速清除。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "095ca6b274b84c8c",
+      "title": "Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-06T15:00:00+00:00",
+      "summary_zh": "文章探讨了Windows热补丁系统为何需要原子性激活，解释了即使挂起进程的所有线程，对于x86等变长指令集架构，仍可能因指令指针位置问题导致执行到不完整的补丁指令。",
+      "tags": [
+        "programming",
+        "performance",
+        "architecture"
+      ]
+    },
+    {
+      "id": "3e38e7e4b34f1afd",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T13:01:35+00:00",
+      "summary_zh": "文章探讨了建筑规范如何通过限制新房供应和增加建造成本，从而推高住房价格。文中引用了多位经济学家的研究，并指出除了土地使用法规，建筑规范本身也是导致高房价的重要因素。",
+      "tags": [
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "74c0e0e17f07f9af",
+      "title": "A video game which caused real world violence",
+      "url": "https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-06T12:34:34+00:00",
+      "summary_zh": "文章讨论了电子游戏在减少现实世界暴力方面的潜在作用，但也列举了《Pokémon Go》和早期AR游戏《Mozzies》导致玩家闯入军事基地或引发肢体冲突的案例，说明游戏有时确实会引发线下问题。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "mobile"
+      ]
+    },
+    {
+      "id": "53639df14cdbbaf3",
+      "title": "What happened to Transmeta, the last big dotcom IPO",
+      "url": "https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-transmeta-the-last-big-dotcom-ipo",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-06T12:00:53+00:00",
+      "summary_zh": "文章简要介绍了Transmeta公司，这家在2000年完成2.73亿美元IPO的公司，被认为是互联网泡沫时代最后一个大型科技IPO，其成功直到2004年谷歌上市才被超越。",
+      "tags": [
+        "business",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "871932f01cb5c681",
+      "title": "Weekend at Bernie’s II",
+      "url": "https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-06T10:00:00+00:00",
+      "summary_zh": "文章追踪了421个曾被认为“死亡”或“休眠”的关键开源代码库在六个月后的复活情况。研究发现，近四分之一的复活代码库的提交历史中出现了AI编码代理的身影，且大部分提交由原项目的主要贡献者完成。这引发了关于AI辅助漏洞发现将如何测试那些沉寂项目的讨论。",
+      "tags": [
+        "open-source",
+        "AI",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "c3251d44f9581800",
+      "title": "Writing English is Solved",
+      "url": "https://idiallo.com/byte-size/english-is-solved",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "summary_zh": "作者以讽刺的口吻探讨了AI在写作和编程领域的应用现状。文章反驳了“写作（或编码）问题已解决”的观点，指出无论代码由人还是AI生成，其长度与bug数量仍呈正相关。作者认为，对AI生成内容（尤其是文本）的盲目信任是危险的。",
+      "tags": [
+        "AI",
+        "culture",
+        "programming"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T02:32:14+00:00",
+      "summary_zh": "文章以怀旧幽默的笔调，模拟了1986年为Commodore 64电脑“安装程序”的繁琐过程。从骑自行车去商场书店，到在杂志架上寻找载有程序代码的特定计算机杂志，整个过程充满了那个时代的独特印记，与当今便捷的应用下载形成鲜明对比。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "8113b4cdd49737bb",
+      "title": "A database is a store for global variables",
+      "url": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary_zh": "文章提出了一个有趣的观点：数据库本质上是全局变量的存储库。作者探讨了为何数据库这种“全局变量”被广泛接受，而传统编程中的全局变量却被视为不良实践。文章分析了全局变量的两大弊端（隐式数据传递和耦合性）在数据库场景下的体现与特殊性。",
+      "tags": [
+        "database",
+        "programming",
+        "architecture"
+      ]
+    },
+    {
+      "id": "3283891a5ef32136",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "author": "",
+      "feed_title": "mitchellh.com",
+      "category": "Blogs",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary_zh": "文章内容为空，仅提供标题“Libghostty 1.0”。根据标题推断，这可能是一款软件或库的1.0版本发布公告。",
+      "tags": [
+        "tools",
+        "programming",
+        "open-source"
+      ]
+    },
+    {
+      "id": "d99eb122ba5fed94",
+      "title": "Salon Ceases Publication",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T21:31:04+00:00",
+      "summary_zh": "文章报道了知名数字媒体Salon在运营31年后突然停止发布的消息。作者回顾了Salon作为网络新闻先驱的贡献，并表达了对其档案能否得以保存的担忧。文章也附带了作者个人博客与Salon的历史链接记录。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "f0dad24eb1e8d07c",
+      "title": "Meta Releases Mac Version of Edits",
+      "url": "https://edits.instagram.com/blog/edits-desktop-video-editor/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T20:27:05+00:00",
+      "summary_zh": "Meta公司为其视频编辑应用Edits发布了macOS桌面版本，旨在支持更复杂的项目。作者对此表示欢迎，认为这是Mac原生应用开发复兴的又一例证，并对应用的SwiftUI实现和整体设计给予了积极评价，同时也指出了图标和菜单栏文本格式等细节问题。",
+      "tags": [
+        "mobile",
+        "design",
+        "tools"
+      ]
+    },
+    {
+      "id": "f477952e40160351",
+      "title": "It's unbreakable in theory",
+      "url": "https://idiallo.com/byte-size/unbreakable-in-theory",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-05T20:20:10+00:00",
+      "summary_zh": "文章以iPhone Duo屏幕损坏的图片为引，讨论了实验室测试与现实用户使用之间的差距。作者指出，无论产品在受控测试中多么“坚不可摧”，一旦遇到真实用户不可预测的使用方式，仍可能出现问题，并以特斯拉Cybertruck车窗等例子佐证了这一观点。",
+      "tags": [
+        "mobile",
+        "mobile/iPhone",
+        "business"
+      ]
+    },
+    {
+      "id": "ff14400f2913b0a2",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T17:34:03+00:00",
+      "summary_zh": "文章引用了Paul Ford的观点：网络浏览器是非常强大的应用软件，并且访问这种能力的成本似乎每天都在下降。这强调了Web作为应用平台的潜力和日益增长的可及性。",
+      "tags": [
+        "web",
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "5aacc8baac10484e",
+      "title": "You shouldn’t change the style of a Win32 static control after it has been created",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "summary_zh": "文章解释了为何不应在创建Win32经典静态控件后更改其样式。原因是该控件基于80年代初的代码，创建时即确定类型，且不监听样式更改消息。动态更改样式（如从图像改为文本）会导致资源泄漏等未定义行为，因其销毁逻辑依赖于原始样式。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "232ceb552fdcd282",
+      "title": "Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-05T12:34:17+00:00",
+      "summary_zh": "文章评测了Tozo NC9 Pro蓝牙耳机，指出其最有趣的特点并非耳机本身，而是其配备全彩触摸屏的充电盒。该触摸屏允许用户直接进行设置、切歌等操作，无需依赖手机App，这在一定程度上解决了硬件厂商应用软件体验不佳的普遍问题。",
+      "tags": [
+        "hardware",
+        "mobile",
+        "design"
+      ]
+    },
+    {
+      "id": "765a3412f5c03599",
+      "title": "Micron Computers’ rise and fall",
+      "url": "https://dfarq.homeip.net/micron-computers-rise-and-fall/?utm_source=rss&utm_medium=rss&utm_campaign=micron-computers-rise-and-fall",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T12:00:41+00:00",
+      "summary_zh": "文章简要回顾了Micron Computers公司的兴衰史。这家由内存芯片制造商Micron Technology在1995年创立的PC营销企业，最初取得了成功，但最终于2008年11月6日退出市场。",
+      "tags": [
+        "hardware",
+        "business",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "c49f69d3ee3119ad",
+      "title": "Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/05/see-you-in-court/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-05T08:53:45+00:00",
+      "summary_zh": "文章探讨了CDA 230法案（《通信规范法》第230条）对互联网生态的重要性。作者认为，若废除该法案，小型在线社区将因无力承担法律风险而消失，最终可能导致Facebook等科技巨头永久垄断互联网。",
+      "tags": [
+        "web",
+        "culture/sociology",
+        "business"
+      ]
+    },
+    {
+      "id": "a268ea9382891c77",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-05T04:36:17+00:00",
+      "summary_zh": "安全研究人员发现白宫内部网络存在安全漏洞，多名工作人员的电脑或移动设备安装了住宅代理服务（如Infatica），导致其IP地址可被他人租用。这些代理活动在近一个月内持续发生，涉事代理公司的创始人曾与2016年针对美国选举系统的网络攻击有关。",
+      "tags": [
+        "security",
+        "networking"
+      ]
+    }
+  ]
+}
