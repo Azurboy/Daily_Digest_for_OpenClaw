@@ -1,9 +1,168 @@
 {
-  "date": "2026-11-08",
-  "article_count": 22,
-  "tokens_used": 11399,
+  "date": "2026-11-09",
+  "article_count": 19,
+  "tokens_used": 9803,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "fc77f99d9516f554",
+      "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T23:56:32+00:00",
+      "summary_zh": "文章引用《纽约时报》报道，质疑英伟达发言人关于公司未与中国客户分享机密信息且客户未游说美国政府改变对华芯片销售政策的声明。内容暗示英伟达CEO黄仁勋与一名中国客户的关系可能涉及不当行为，并对中国政府规避高端芯片禁令的意图提出指控。",
+      "tags": [
+        "AI",
+        "business"
+      ]
+    },
+    {
+      "id": "6810fb9ad0007bbb",
+      "title": "Finite Projective Planes",
+      "url": "https://www.johndcook.com/blog/2026/11/08/finite-geometries/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T23:23:49+00:00",
+      "summary_zh": "文章介绍了有限几何中的有限射影平面概念，解释了其几何与集合论公理。以著名的法诺平面为例，说明了如何用有限的点和线满足射影平面的公理，并讨论了从几何图示和集合论两种角度理解有限几何的差异与注意事项。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "a86fe963d82ab963",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T22:26:00+00:00",
+      "summary_zh": "作者探讨了为SQLite实现一个`parse_number()`自定义函数的两种方式：使用C语言和Rust语言编写扩展。对比了两种实现方式的代码复杂度、生成的库文件大小以及性能差异，发现Rust版本虽然文件更大，但得益于其标准库中更快的字符串解析函数，性能反而更优。",
+      "tags": [
+        "programming",
+        "database",
+        "tools"
+      ]
+    },
+    {
+      "id": "0296dba05fa5bf52",
+      "title": "Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T21:50:31+00:00",
+      "summary_zh": "文章报道英伟达CEO黄仁勋因与美国情报部门认定的中国间谍存在亲密关系，正在接受公司内部调查。此事引发国家安全担忧，因为黄仁勋是AI革命的关键人物且与特朗普关系密切。黄仁勋已就婚外情道歉，英伟达董事会声称暂无证据表明机密泄露，但将进行全面审查。",
+      "tags": [
+        "AI",
+        "business",
+        "security"
+      ]
+    },
+    {
+      "id": "8966d71daa50f42d",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "author": "Ken Shirriff (noreply@blogger.com)",
+      "feed_title": "righto.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T16:12:25+00:00",
+      "summary_zh": "文章详细介绍了对一款 vintage 芯片 ST680A 进行逆向工程的过程。该芯片采用二极管-晶体管逻辑（DTL）实现了四个与非门，属于Signetics公司1965年推出的600系列，是首批采用塑料双列直插式封装（DIP）的集成电路之一。作者通过显微镜观察芯片晶片，分析了其内部电路结构和工作原理。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "49408d89a1e18552",
+      "title": "Some thoughts on restaurant menu QR codes",
+      "url": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:34:01+00:00",
+      "summary_zh": "作者基于在欧洲长途旅行中使用QR码菜单的亲身经历，为餐厅电子菜单辩护。文章指出电子菜单具有即时翻译、显示过敏原信息、更新库存状态等多项优势，远比传统纸质菜单方便实用，并将反对电子菜单的言论类比于拒绝使用酒店电子门卡的保守观点。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "web"
+      ]
+    },
+    {
+      "id": "45fe94bec501b8fb",
+      "title": "The problem with Micron MT 4264 RAM",
+      "url": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&utm_medium=rss&utm_campaign=the-problem-with-micron-mt-4264-ram",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:00:03+00:00",
+      "summary_zh": "文章简短提及，在修复1980年代8位计算机时，内部使用的美光（Micron）MT 4264 RAM芯片是众所周知的常见故障点。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "748d7f6d8ec1685d",
+      "title": "Is AI crashing?",
+      "url": "https://dfarq.homeip.net/is-ai-crashing/?utm_source=rss&utm_medium=rss&utm_campaign=is-ai-crashing",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:00:02+00:00",
+      "summary_zh": "作者在2026年11月这个时间点，探讨人工智能领域是否正在经历泡沫破裂或市场崩溃。文章提到有人持肯定观点，并类比了历史上的互联网泡沫危机，但作者本人表示尚无法确定，并对当时没有记录互联网泡沫的经历感到遗憾。",
+      "tags": [
+        "AI",
+        "business"
+      ]
+    },
+    {
+      "id": "9985aaf8789a777f",
+      "title": "LLMs are terrible at designing AI systems",
+      "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T00:00:00+00:00",
+      "summary_zh": "文章指出，大语言模型（LLM）在设计和开发涉及AI功能（尤其是LLM自身）的软件系统时表现糟糕。它们擅长编写常规程序，但面对AI特有的问题（如设计一个检测记忆矛盾的工具）时，常常会搞砸。作者探讨了导致这一现象的可能原因。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "programming"
+      ]
+    },
+    {
+      "id": "c8f8d1cd7c47bf28",
+      "title": "Horible public key tricks:",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "author": "",
+      "feed_title": "maurycyz.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T00:00:00+00:00",
+      "summary_zh": "作者表达了对当前SSL/TLS证书体系（如ACME协议、证书频繁过期）的复杂性和安全性的不满。为了抗议，他提出了一种使用“虚荣”弱私钥（如特定素数）生成证书的方法，旨在使公钥证书本身成为明显的抗议标志，同时仍能对网络流量进行加密以防范被动窃听。",
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "id": "2a01327e518cc8a0",
+      "title": "The great software IP writedown",
+      "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "author": "martin@martinalderson.com (Martin Alderson)",
+      "feed_title": "martinalderson.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T00:00:00+00:00",
+      "summary_zh": "文章探讨了AI大幅降低软件开发成本后，对软件本身价值及软件/SaaS行业经济模式的冲击。作者认为，软件业过去获取超额利润的能力是一种历史异常，其传统的高利润率可能难以为继，并分析了垄断、网络效应和品牌/质量这三种传统超额利润来源在软件行业的适用性。",
+      "tags": [
+        "AI",
+        "business",
+        "programming"
+      ]
+    },
     {
       "id": "fe1f6a98c50b6110",
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -12,7 +171,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-07T23:57:46+00:00",
-      "summary_zh": "作者发现Datasette在HTML页面中为Firefox提供`link: rel=next` HTTP头会导致不必要的预取请求，浪费服务器资源。他追溯到一个存在24年的Firefox相关bug，并惊讶地发现自己早在2002年就曾撰文抱怨过此功能。",
+      "summary_zh": "作者发现Datasette为HTML分页页面提供的`link: rel=next` HTTP头部，会导致Firefox浏览器自动预取下一页内容，造成不必要的服务器负载和带宽浪费。文章追溯了Firefox这个存在了24年的“特性”，并提到作者本人在2002年就曾写博客抱怨过此事。",
       "tags": [
         "web",
         "web/performance",
@@ -27,9 +186,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-07T21:14:09+00:00",
-      "summary_zh": "作者在Full Stack Creator节目中讨论了新款配备PROLED XDR显示屏的MacBook Pro，并表达了对这些有趣设备的喜爱。节目中还穿插了对Ricoh GR系列紧凑型相机的赞赏。",
+      "summary_zh": "作者在播客节目《Full Stack Creator》中讨论了新款搭载PROLED XDR显示屏的MacBook Pro，并分享了对这款有趣设备的看法。谈话中还提及了对理光GR系列紧凑型相机的喜爱。",
       "tags": [
         "hardware",
+        "hardware/laptop",
         "culture/media"
       ]
     },
@@ -41,7 +201,7 @@
       "feed_title": "construction-physics.com",
       "category": "Blogs",
       "published_at": "2026-11-07T13:23:36+00:00",
-      "summary_zh": "这是一篇来自construction-physics.com的阅读列表文章，发布日期为2026年11月7日。文章内容包含一张图片，但提供的文本片段不完整，无法提炼具体的技术主题。",
+      "summary_zh": "这是一篇来自construction-physics.com的阅读列表文章，发布日期为2026年11月7日。文章内容包含图片，但具体主题和核心内容未在提供的片段中明确说明。",
       "tags": [
         "culture",
         "culture/media"
@@ -55,7 +215,7 @@
       "feed_title": "pluralistic.net",
       "category": "Blogs",
       "published_at": "2026-11-07T13:03:46+00:00",
-      "summary_zh": "文章重点介绍了JS Tan和Clarissa Redwine的著作《Against Tech Oligarchy》，探讨为科技行业发明新的劳工行动策略。内容还包含其他链接和作者近况的更新。",
+      "summary_zh": "文章重点介绍了JS Tan和Clarissa Redwine的著作《Against Tech Oligarchy》，探讨了为独特而强大的科技行业发明新的劳工行动策略的必要性。内容涉及科技团结、劳工好斗性以及对科技寡头的批判。",
       "tags": [
         "business",
         "culture/sociology"
@@ -69,7 +229,7 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-07T12:34:34+00:00",
-      "summary_zh": "这篇书评高度评价了Lucy Easthope的《When the Dust Settles》。书评指出，这本书通过作者的个人经历，有力地论证了在灾难应对中，除了人道主义计划，人性化的回应和情感空间同样至关重要。",
+      "summary_zh": "本书评高度评价了Lucy Easthope的《When the Dust Settles》。书评强调，这本书通过作者的个人经历，有力地论证了在灾难规划与响应中，除了人道主义方案，还必须为“人性化”反应留出空间，并批判了削弱国家应急能力的财政紧缩政策。",
       "tags": [
         "culture",
         "culture/sociology"
@@ -83,7 +243,7 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-07T12:00:47+00:00",
-      "summary_zh": "文章介绍了20世纪50年代初期的Marx 9613柴油货运火车模型套装，该套装通过Montgomery Ward销售，以其双柴油机车和7英寸货运车厢为特色，是战后锡版印刷工艺的优秀代表。",
+      "summary_zh": "文章介绍了马克思（Marx）公司于1950年代早期生产的9613号柴油货运火车模型套装。该套装包含双柴油机车和7英寸货运车厢，通过蒙哥马利沃德百货公司销售，是战后锡版平版印刷术的一个优秀范例。",
       "tags": [
         "culture",
         "culture/history"
@@ -97,9 +257,10 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-07T12:00:42+00:00",
-      "summary_zh": "文章分享了作者升级HP Elitedesk 800 G4台式电脑的经历。作者指出，与常受关注的Dell Optiplex相比，HP Elitedesk系列具有类似的优缺点，且近期更容易找到。",
+      "summary_zh": "文章是一篇HP Elitedesk 800 G4台式机的升级日记。作者指出，与常受关注的戴尔Optiplex相比，他近期在寻找惠普Elitedesk电脑方面运气更好，并提及两者具有许多相似的优缺点。",
       "tags": [
-        "hardware"
+        "hardware",
+        "hardware/desktop"
       ]
     },
     {
@@ -110,219 +271,11 @@
       "feed_title": "nesbitt.io",
       "category": "Blogs",
       "published_at": "2026-11-07T10:00:00+00:00",
-      "summary_zh": "本周的软件包管理动态汇总，重点关注安全更新。其中详细介绍了Vox Pupuli修复的OpenVox（Puppet社区分支）中的三个关键漏洞，这些漏洞可能导致远程代码执行和授权绕过。",
+      "summary_zh": "本文是2026年11月7日的软件包管理周报，汇总了相关安全动态。重点报道了Vox Pupuli修复OpenVox（Puppet社区分支）中三个由研究人员报告的严重漏洞，这些漏洞可能导致远程代码执行和授权绕过。",
       "tags": [
         "devops",
         "security",
-        "tools"
-      ]
-    },
-    {
-      "id": "aedcdd730b4c7d44",
-      "title": "Working with designers",
-      "url": "https://seangoedecke.com/working-with-designers/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-11-07T00:00:00+00:00",
-      "summary_zh": "作者分享了与设计师合作的经验，认为设计师能提供工程师意想不到的、直观可见的价值。同时，作者也指出设计师在技术公司中角色的独特性，并对设计系统和团队中多名设计师的情况表达了复杂看法。",
-      "tags": [
-        "design",
-        "culture"
-      ]
-    },
-    {
-      "id": "6140ad676514ffa9",
-      "title": "★ Touch and Glow",
-      "url": "https://daringfireball.net/2026/11/touch_and_glow",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T19:50:46+00:00",
-      "summary_zh": "作者比较了洛杉矶和旧金山湾区的生活体验，认为洛杉矶虽好但依赖汽车，更像一个小国家而非城市。文章也提及苹果在洛杉矶举行媒体活动的不寻常性，并最终回归到对苹果新硬件产品的讨论。",
-      "tags": [
-        "culture",
-        "hardware",
-        "mobile/iPhone"
-      ]
-    },
-    {
-      "id": "db8aad7567ee0d78",
-      "title": "Quoting Nilay Patel",
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T17:13:12+00:00",
-      "summary_zh": "文章引用了Nilay Patel对当前AI行业的尖锐批评，指出AI产品的实际收益无法 justify 其高昂的社会、环境和经济成本，并存在明显的腐败问题。他强调AI行业必须创造出真正让生活更美好、无需说服用户的产品才能走出困境。",
-      "tags": [
-        "AI",
-        "business",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "c386630f8780ac9e",
-      "title": "Static site generators are weird",
-      "url": "https://evanhahn.com/static-site-generators-are-weird/",
-      "author": "",
-      "feed_title": "evanhahn.com",
-      "category": "Blogs",
-      "published_at": "2026-11-06T17:00:00+00:00",
-      "summary_zh": "作者肯定静态站点生成器（SSG）在创建快速、安全站点方面的价值，但批评大多数SSG（如Jekyll、Gatsby、Hugo）都要求用户学习其独特且各异的工作方式，导致开发体验碎片化且古怪。",
-      "tags": [
-        "web",
-        "tools"
-      ]
-    },
-    {
-      "id": "2bf13061253c13c3",
-      "title": "Premium: Fault Lines",
-      "url": "https://www.wheresyoured.at/premium-fault-lines/",
-      "author": "Ed Zitron",
-      "feed_title": "wheresyoured.at",
-      "category": "Blogs",
-      "published_at": "2026-11-06T16:44:41+00:00",
-      "summary_zh": "本文是一篇政治评论，作者表达了对近期政治选举结果的乐观情绪，认为这打破了长期的压抑局面，证明了积极的变革是可能的。文章也提及了选举结果对科技股可能产生的影响。",
-      "tags": [
-        "culture",
-        "business",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "93e953706007dcf4",
-      "title": "Deus Ex",
-      "url": "https://www.filfre.net/2026/11/deus-ex/",
-      "author": "Jimmy Maher",
-      "feed_title": "filfre.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T15:34:48+00:00",
-      "summary_zh": "本文回顾了2000年发行的经典游戏《杀出重围》，探讨了其发布时的评价、游戏设计上的优缺点及其在游戏史上的地位。文章引用了游戏主创和当时媒体的评论。",
-      "tags": [
-        "culture",
-        "design",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "bb1c7ea8e9eebeec",
-      "title": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
-      "url": "https://support.apple.com/en-us/149248",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T15:03:51+00:00",
-      "summary_zh": "苹果官方支持文档介绍了如何通过终端命令关闭MacBook Pro上PROLED XDR显示屏的发光苹果Logo。作者认为将其保留为命令行设置可以过滤掉那些无趣的用户，并避免其成为错误的“省电技巧”。",
-      "tags": [
-        "hardware",
-        "tools",
-        "mobile/iPhone"
-      ]
-    },
-    {
-      "id": "295fdbf27b0be6b0",
-      "title": "The President is Coping Well",
-      "url": "https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T15:00:22+00:00",
-      "summary_zh": "本文讽刺了某位总统签署公告，试图将白宫椭圆形办公室指定为地标以防止未来改动。作者认为此举徒劳无功，并引用电影《低俗小说》的桥段表达了对未来两年政治局势的戏谑看法。",
-      "tags": [
-        "culture",
-        "business",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "095ca6b274b84c8c",
-      "title": "Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-11-06T15:00:00+00:00",
-      "summary_zh": "文章探讨了Windows热补丁系统为何需要原子性激活。即使能挂起进程中的所有线程，对于变长指令集（如x86），若线程恰好在执行旧指令的间隙被挂起，直接替换代码仍可能导致执行错误的新指令字节。",
-      "tags": [
-        "programming",
-        "performance",
-        "tools"
-      ]
-    },
-    {
-      "id": "3e38e7e4b34f1afd",
-      "title": "How Do Building Codes Affect the Price of Housing?",
-      "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-11-06T13:01:35+00:00",
-      "summary_zh": "文章探讨了建筑法规如何影响住房价格。它综述了现有研究，指出许多分析聚焦于法规（尤其是土地使用限制）如何通过限制新房供应来推高房价，这也是YIMBY运动关注的核心。",
-      "tags": [
-        "business",
-        "culture",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "74c0e0e17f07f9af",
-      "title": "A video game which caused real world violence",
-      "url": "https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-11-06T12:34:34+00:00",
-      "summary_zh": "文章讨论了电子游戏与现实世界暴力的关系，指出游戏通常可能减少人际暴力，但有时也会引发线下冲突。作者举例了早期增强现实游戏《Mozzies》导致玩家因挥舞手机而引发真实肢体冲突的事件。",
-      "tags": [
-        "culture",
-        "mobile",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "53639df14cdbbaf3",
-      "title": "What happened to Transmeta, the last big dotcom IPO",
-      "url": "https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-transmeta-the-last-big-dotcom-ipo",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-06T12:00:53+00:00",
-      "summary_zh": "本文简要介绍了Transmeta公司，这家公司在2000年11月进行了最后一次大型互联网泡沫时代的IPO，融资2.73亿美元，被认为是直到2004年谷歌上市前最后一个成功的科技IPO。",
-      "tags": [
-        "business",
-        "hardware",
-        "culture/history"
-      ]
-    },
-    {
-      "id": "871932f01cb5c681",
-      "title": "Weekend at Bernie’s II",
-      "url": "https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-11-06T10:00:00+00:00",
-      "summary_zh": "文章跟踪了六个月前被标记为“死亡”或“休眠”的关键开源仓库的现状，发现其中421个已恢复活跃。值得注意的是，近四分之一的复苏仓库的提交历史中出现了AI编码代理的“音乐”（即AI生成的提交）。",
-      "tags": [
-        "open-source",
-        "AI",
-        "AI/LLM/Agent"
-      ]
-    },
-    {
-      "id": "c3251d44f9581800",
-      "title": "Writing English is Solved",
-      "url": "https://idiallo.com/byte-size/english-is-solved",
-      "author": "rss@idiallo.com",
-      "feed_title": "idiallo.com",
-      "category": "Blogs",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary_zh": "作者以反讽的口吻探讨了“AI已解决写作/编码问题”的论调。他分享了自己大量使用AI进行写作和编程的经验，但指出代码长度与bug数量正相关，AI生成的长代码仍需严格审查，因此问题远未“解决”。",
-      "tags": [
-        "AI",
-        "programming",
-        "AI/LLM"
+        "tools/package-management"
       ]
     }
   ]
