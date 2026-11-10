@@ -1,0 +1,481 @@
+{
+  "date": "2026-11-10",
+  "article_count": 32,
+  "tokens_used": 16405,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "480b9a157ab5c8d4",
+      "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-10T04:14:31+00:00",
+      "summary_zh": "WorkOS Airlock 提供了一种控制AI代理访问内部工具的方法。它通过检查每个代理调用的意图（如读取Linear问题或发送邮件）来动态授权，而非预先分配固定角色。所有操作都会被记录，并可根据策略自动批准、拒绝或转交人工审核。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "security"
+      ]
+    },
+    {
+      "id": "b487bef803e17f56",
+      "title": "Combinatorial designs",
+      "url": "https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-10T01:38:48+00:00",
+      "summary_zh": "本文介绍了组合设计（Combinatorial designs）的概念，它是Steiner系统的进一步抽象。文章从具体的Steiner三元系（STS）出发，逐步推广到更一般的S(t, k, n)系统定义，并指出有限射影平面和仿射平面是其特例。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "ae9d0259e15c4016",
+      "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
+      "url": "https://www.troyhunt.com/weekly-update-529/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-11-10T00:42:35+00:00",
+      "summary_zh": "文章讨论了关于禁止未成年人使用社交媒体的法律争议，指出问题的核心在于责任归属而非禁令本身。作者强调，法律应将执行和监管责任置于社交平台而非家长身上，并认为尽管初期存在漏洞，但长期来看此举有助于改变社会规范。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "86b4ba3155e4ca0c",
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T23:58:46+00:00",
+      "summary_zh": "llm-anthropic 0.31 版本集成了Anthropic新发布的Fable 5.2和Mythos 5.2模型。文章展示了如何使用该工具包调用新模型，并通过生成“鹈鹕骑自行车”SVG图像的示例，比较了不同推理级别（low到max）的输出效果与限制。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "ffd0277ad7cd64c2",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T23:57:21+00:00",
+      "summary_zh": "作者利用Claude Code开发了一个名为“Beep Locator”的软件系统，用于定位房间内神秘蜂鸣声的来源。该系统通过分布在房间内的多个设备（手机、平板、笔记本）的麦克风进行三角定位，并提供了一个包含地图和设备状态监控的Web界面。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "ef7bd59bc567655c",
+      "title": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
+      "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T23:46:17+00:00",
+      "summary_zh": "Bloomberg早在一年前就报道了新加坡AI公司Megaspeed异常大量采购英伟达芯片的情况，并提及了华盛顿对其可能向中国走私半导体的担忧。报道引用了英伟达的声明，称其多次实地核查确认芯片未被转用，但暗示核查可能由CEO黄仁勋亲自进行。",
+      "tags": [
+        "AI",
+        "business",
+        "security"
+      ]
+    },
+    {
+      "id": "497494dfe81ac6c1",
+      "title": "Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May",
+      "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T20:57:04+00:00",
+      "summary_zh": "做空机构Culper Research在五月发布报告，指控英伟达超过20%的计算收入仍依赖中国，并通过非法GPU转移和东南亚中介实现。报告特别指出，英伟达的最大东南亚买家Megaspeed可能通过壳公司秘密获得阿里巴巴的融资，与英伟达“无中国股东”的说法存在出入。",
+      "tags": [
+        "AI",
+        "business",
+        "security"
+      ]
+    },
+    {
+      "id": "c8d155be1ca2cca5",
+      "title": "Tesla Brain Drain",
+      "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T20:32:27+00:00",
+      "summary_zh": "文章指出特斯拉正面临严重的人才流失问题，自2023年投资者日以来，上台展示的14名高管中已有7人离职。同时，特斯拉在产车型数量稀少，与其全球市值第11的地位形成反差，引发了对其产品线和执行力的担忧。",
+      "tags": [
+        "business",
+        "hardware"
+      ]
+    },
+    {
+      "id": "8583ca38b1973010",
+      "title": "Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T17:47:22+00:00",
+      "summary_zh": "据报道，参议员卢比奥曾向政府高级官员发出警告备忘录，提及英伟达CEO黄仁勋与一名中国间谍的关系。这份备忘录在特朗普访华前流传，可能导致黄仁勋最初未被列入随行商业领袖名单，后因特朗普本人介入才得以加入。",
+      "tags": [
+        "AI",
+        "business",
+        "security"
+      ]
+    },
+    {
+      "id": "2e959023b8a39125",
+      "title": "Steiner Systems",
+      "url": "https://www.johndcook.com/blog/2026/11/09/steiner-systems/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-09T17:01:43+00:00",
+      "summary_zh": "本文深入探讨了Steiner三元系（STS），指出有限射影平面和仿射平面是其特例。文章回答了STS的存在性条件（n ≡ 1 或 3 mod 6）、同构实例的多重性以及STS何时对应射影或仿射空间（当n为2^k - 1时）等关键问题。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "b701a0112efd9a75",
+      "title": "If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-09T15:00:00+00:00",
+      "summary_zh": "文章解答了关于Windows Update热补丁的疑问：系统支持连续应用两个热补丁更新，然后才需要一次传统的重启更新。文中通过官方图表说明了这一双周期热补丁流程，并解释了其工作原理。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "f01345e6354db721",
+      "title": "Finite hyperbolic planes",
+      "url": "https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-09T14:26:09+00:00",
+      "summary_zh": "本文介绍了有限双曲平面的概念，其核心公理是过直线外一点至少存在两条平行线。与有限射影或仿射平面相比，有限双曲几何结构更少，应用也不广泛。文章给出了一个满足公理的例子：六个顶点的完全图。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "cdb551a9021d36c7",
+      "title": "Finite Affine Planes",
+      "url": "https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-09T14:21:49+00:00",
+      "summary_zh": "本文介绍了有限仿射平面的概念，它是欧几里得几何中保留关联性但忽略度量性质的几何结构。文章给出了仿射平面的公理，并以奇素数p构造了有限仿射平面的具体例子。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "030d1451c78c46c5",
+      "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+      "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-09T12:34:00+00:00",
+      "summary_zh": "作者介绍了一种通过设置“蜜罐”目录来大幅减少网站AI爬虫流量的简单方法。该方法通过在robots.txt中禁止该目录，并在页面中隐藏链接，一旦有访问者触发，便将其IP地址永久封禁。",
+      "tags": [
+        "web",
+        "security",
+        "tools"
+      ]
+    },
+    {
+      "id": "7e4ffd782e7e39a8",
+      "title": "Radio Shack index",
+      "url": "https://dfarq.homeip.net/radio-shack-index/?utm_source=rss&utm_medium=rss&utm_campaign=radio-shack-index",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T12:30:37+00:00",
+      "summary_zh": "这是一篇关于Radio Shack和Tandy公司的文章索引，汇总了作者在该主题下撰写的30多篇文章。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "business"
+      ]
+    },
+    {
+      "id": "b2ba4660d842152e",
+      "title": "Silicon Graphics founded November 9, 1981",
+      "url": "https://dfarq.homeip.net/silicon-graphics-founded-november-9-1981/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-graphics-founded-november-9-1981",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T12:00:01+00:00",
+      "summary_zh": "本文纪念了传奇Unix工作站制造商Silicon Graphics（SGI）的成立日期。文章提到了其标志性的Indy和O2工作站，它们采用MIPS RISC微处理器和IRIX操作系统。",
+      "tags": [
+        "culture",
+        "culture/history",
+        "hardware"
+      ]
+    },
+    {
+      "id": "79a4ad13740d2f22",
+      "title": "Introducing Ninety",
+      "url": "https://nesbitt.io/2026/11/09/introducing-ninety.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "summary_zh": "文章介绍了Ninety，一个针对开源软件安全性的预测市场平台。该平台允许用户对开源项目漏洞的披露、严重性和修复时间进行预测和交易，旨在为开源安全提供一个实时定价机制。",
+      "tags": [
+        "open-source",
+        "security",
+        "business"
+      ]
+    },
+    {
+      "id": "831cf35bc0870678",
+      "title": "Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T08:12:24+00:00",
+      "summary_zh": "本文是一篇博客文章的链接摘要，核心观点探讨了美国政治中的特朗普主义及其持久影响。文章认为特朗普主义的影响难以彻底消除，并链接了其他相关主题的评论。",
+      "tags": [
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "5963f0ac82713985",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T04:32:33+00:00",
+      "summary_zh": "作者分享了自己使用Claude AI将Three.js创建的3D模型转换为原生WebGL代码的经验。尽管转换后的代码略有差异，但证明了当前大语言模型具备处理复杂3D图形编程任务的能力。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "web",
+        "programming"
+      ]
+    },
+    {
+      "id": "cfd192eda4f22e6c",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T04:25:05+00:00",
+      "summary_zh": "作者讨论了AI助手生成的PR描述过于详尽、像“AI废话”的问题，并提出使用HTML的<details>标签将大部分AI生成的详细描述折叠起来。这样可以在保留完整信息的同时，由人类提供一个简洁、有判断力的高层摘要。",
+      "tags": [
+        "AI",
+        "programming",
+        "tools",
+        "culture"
+      ]
+    },
+    {
+      "id": "b0125a77b8572523",
+      "title": "Yak-Shaving Overload",
+      "url": "https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-11-09T02:50:32+00:00",
+      "summary_zh": "作者反思了自己在尝试为一个被遗忘的Linux平板电脑（JingPad）开发软件时过度依赖AI的经历。项目最终令人沮丧，作者认为这揭示了在技术探索中过度激进地使用AI可能带来的危险和不良感受。",
+      "tags": [
+        "AI",
+        "hardware",
+        "mobile",
+        "open-source"
+      ]
+    },
+    {
+      "id": "320e96df00e28159",
+      "title": "Optimal virulence and the Android lockdown",
+      "url": "https://dynomight.net/android/",
+      "author": "dynomight",
+      "feed_title": "dynomight.net",
+      "category": "Blogs",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "summary_zh": "文章从“最佳毒力”的生物学理论切入，类比讨论了Android系统可能走向封闭（锁定）的生态学原因。作者认为，像病毒一样，一个过于“贪婪”（封闭）的系统可能反而不利于其长期生存和传播。",
+      "tags": [
+        "mobile",
+        "culture",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "8535ee72d5219243",
+      "title": "AI and Irontown",
+      "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+      "author": "Armin Ronacher",
+      "feed_title": "lucumr.pocoo.org",
+      "category": "Blogs",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "summary_zh": "作者通过分析宫崎骏电影《幽灵公主》中“达达拉城”的复杂角色，探讨了AI发展带来的类似伦理困境。电影中各方都有其合理诉求与冲突，这映射了AI技术带来的益处与破坏性影响并存的现实。",
+      "tags": [
+        "AI",
+        "culture",
+        "culture/media",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "fc77f99d9516f554",
+      "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T23:56:32+00:00",
+      "summary_zh": "文章基于《纽约时报》的报道，评论了英伟达CEO黄仁勋涉嫌向中国泄露机密信息的事件。报道指出，英伟达发言人之前的声明与事实不符，此事暴露了在芯片销售禁令下企业与中国政府关系的复杂性。",
+      "tags": [
+        "business",
+        "hardware",
+        "AI",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "6810fb9ad0007bbb",
+      "title": "Finite Projective Planes",
+      "url": "https://www.johndcook.com/blog/2026/11/08/finite-geometries/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T23:23:49+00:00",
+      "summary_zh": "文章探讨了有限几何的概念，特别是有限射影平面。它解释了满足特定几何公理的有限模型是存在的，并以著名的法诺平面为例，阐述了如何在几何视角和集合论视角之间切换来理解它。",
+      "tags": [
+        "culture",
+        "culture/mathematics"
+      ]
+    },
+    {
+      "id": "a86fe963d82ab963",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T22:26:00+00:00",
+      "summary_zh": "作者探讨了为SQLite创建`parse_number()`自定义函数的两种实现方式：C语言扩展与Rust扩展。文章比较了两种实现方式的代码复杂度、生成的二进制文件大小以及性能，发现Rust扩展虽然文件更大，但得益于其更快的字符串解析库，性能反而更优。",
+      "tags": [
+        "programming",
+        "database",
+        "tools"
+      ]
+    },
+    {
+      "id": "0296dba05fa5bf52",
+      "title": "Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T21:50:31+00:00",
+      "summary_zh": "据报道，英伟达CEO黄仁勋承认与一名被美国情报部门认定为中方间谍的商业主管有亲密关系，引发公司内部调查和国家安全担忧。文章提及黄仁勋在AI革命中的重要地位及其与特朗普总统的关系，使得此事影响超出个人范畴。",
+      "tags": [
+        "business",
+        "AI",
+        "security"
+      ]
+    },
+    {
+      "id": "924a8e63d605f6df",
+      "title": "Addition By Subtraction",
+      "url": "https://blog.jim-nielsen.com/2026/addition-by-subtraction/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T19:00:00+00:00",
+      "summary_zh": "作者通过从其图标展示网站中移除查看四种不同像素尺寸图标的功能，实践了“减法即加法”的理念。他认为减少选择（从四个尺寸选项减少到默认和一个备选尺寸）简化了用户体验，使网站变得更好。",
+      "tags": [
+        "design",
+        "web"
+      ]
+    },
+    {
+      "id": "8966d71daa50f42d",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "author": "Ken Shirriff (noreply@blogger.com)",
+      "feed_title": "righto.com",
+      "category": "Blogs",
+      "published_at": "2026-11-08T16:12:25+00:00",
+      "summary_zh": "文章详细介绍了对一款老式ST680A逻辑芯片进行逆向工程的过程。作者通过显微镜观察芯片内部结构，分析了其采用二极管-晶体管逻辑实现四个与非门的工作原理，并回顾了该芯片所属的Signetics 600系列的历史意义。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "49408d89a1e18552",
+      "title": "Some thoughts on restaurant menu QR codes",
+      "url": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:34:01+00:00",
+      "summary_zh": "作者反驳了对餐厅QR码菜单的批评，基于其欧洲旅行经历阐述了电子菜单的诸多优势。这些优势包括即时翻译、完整的过敏原信息、实时库存更新以及便捷的支付功能，认为电子菜单提供了比传统纸质菜单更好的体验。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "mobile"
+      ]
+    },
+    {
+      "id": "45fe94bec501b8fb",
+      "title": "The problem with Micron MT 4264 RAM",
+      "url": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&utm_medium=rss&utm_campaign=the-problem-with-micron-mt-4264-ram",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:00:03+00:00",
+      "summary_zh": "文章指出，Micron MT 4264 RAM芯片在维修1980年代8位计算机时经常成为故障根源。这种特定型号和年代的芯片以高故障率而闻名，是复古计算爱好者社区中一个公认的问题。",
+      "tags": [
+        "hardware",
+        "culture/history"
+      ]
+    },
+    {
+      "id": "748d7f6d8ec1685d",
+      "title": "Is AI crashing?",
+      "url": "https://dfarq.homeip.net/is-ai-crashing/?utm_source=rss&utm_medium=rss&utm_campaign=is-ai-crashing",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-08T12:00:02+00:00",
+      "summary_zh": "作者在2026年末对AI领域是否正在经历“崩盘”或泡沫破裂提出了疑问。他回顾了互联网泡沫的历史，并试图记录当前时刻，以观察和思考AI行业可能面临的发展转折点。",
+      "tags": [
+        "AI",
+        "business"
+      ]
+    }
+  ]
+}
