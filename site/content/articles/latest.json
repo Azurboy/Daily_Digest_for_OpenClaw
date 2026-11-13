@@ -1,9 +1,244 @@
 {
-  "date": "2026-11-12",
-  "article_count": 49,
-  "tokens_used": 26602,
+  "date": "2026-11-13",
+  "article_count": 39,
+  "tokens_used": 20403,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "809598b02e4206dd",
+      "title": "So you want to buy AI for your company",
+      "url": "https://idiallo.com/byte-size/buying-ai-for-your-company",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T00:34:41+00:00",
+      "summary_zh": "本文以幽默讽刺的口吻，模拟了为企业选购AI模型时的混乱场景。文章列举了Gemini、Claude、GPT、DeepSeek、GLM、Qwen等多个主流AI模型及其虚构版本，调侃了模型版本繁多、性能指标复杂且选择困难的现状。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business"
+      ]
+    },
+    {
+      "id": "5b86eed0286e0e3b",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T22:55:19+00:00",
+      "summary_zh": "文章介绍了llm-gemini插件0.37版本的发布，该版本支持新推出的Gemini 4 Hydrogen模型。作者详细列出了Gemini 4系列模型（Carbon, Argon, Hydrogen）的定价表，并表达了对Google复杂定价策略的困惑。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "548fe94a79cba56a",
+      "title": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T21:32:07+00:00",
+      "summary_zh": "报道称英伟达前CEO黄仁勋已同意在感恩节前就涉嫌与中国间谍有关的婚外情事件向国会作证，但听证会将闭门进行。文章指出此事可能重创英伟达股价，进而波及整个依赖其投资的AI行业与经济。",
+      "tags": [
+        "AI",
+        "business",
+        "security/espionage",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "b90c39738446aaea",
+      "title": "Scott Colom Flips Mississippi",
+      "url": "https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T21:20:29+00:00",
+      "summary_zh": "文章报道了密西西比州检察官Scott Colom击败现任共和党参议员，成为该州自1982年以来首位民主党参议员，也是近150年来首位黑人参议员。作者赞扬了Colom出色的竞选活动，并提及了一段被认为非常出色的竞选广告。",
+      "tags": [
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "7a3c2931e3970370",
+      "title": "The Dream of Quibi Lives On",
+      "url": "https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:54:43+00:00",
+      "summary_zh": "文章简短地讽刺了Peacock流媒体平台发布的一份新闻稿，该稿声称其通过重新构想的移动体验“扩展了垂直视频领导地位”。作者对“垂直视频领导地位”这一说法进行了调侃。",
+      "tags": [
+        "culture/media",
+        "web"
+      ]
+    },
+    {
+      "id": "d686a30db5066afd",
+      "title": "Pluralistic: Uber's labor crash (12 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/12/starvation-wages/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:50:53+00:00",
+      "summary_zh": "本文探讨了Uber面临的劳动力危机，指出其用机器人取代廉价劳动力的商业模式难以为继。文章链接了一篇关于Uber“饥饿工资”及其商业模式更广泛问题的深度分析。",
+      "tags": [
+        "business",
+        "culture/sociology",
+        "web"
+      ]
+    },
+    {
+      "id": "110b24142925b150",
+      "title": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
+      "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:41:35+00:00",
+      "summary_zh": "文章根据《华尔街日报》报道，详细披露了英伟达前CEO黄仁勋与其绯闻对象Alice Huang及其丈夫Kang Wei之间复杂的商业与私人关系。指出这对夫妇长期以来利用人脉涉足多个热门行业，目前正因与黄仁勋的关系面临多项调查。",
+      "tags": [
+        "AI",
+        "business",
+        "security/espionage"
+      ]
+    },
+    {
+      "id": "2149fca53e44bc8d",
+      "title": "Reuters Raises the Jensen Huang Affair Tally to Three",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:12:11+00:00",
+      "summary_zh": "路透社报道称，英伟达前CEO黄仁勋除已知的两段婚外情外，还与第三名员工存在亲密关系。这使得其因绯闻辞职的事件进一步复杂化。",
+      "tags": [
+        "AI",
+        "business",
+        "security/espionage"
+      ]
+    },
+    {
+      "id": "87ff67cbdff1a552",
+      "title": "Trump Weighs in on Huang’s Successor",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T17:32:42+00:00",
+      "summary_zh": "文章引用美国前总统特朗普在其博客上的发言，他建议由苹果公司的Tim Cook接替黄仁勋出任英伟达CEO。作者简短地否定了这一可能性。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "049ace856e268e72",
+      "title": "First Strike",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+      "author": "",
+      "feed_title": "geohot.github.io",
+      "category": "Blogs",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "summary_zh": "文章通过对比中美电力增长趋势图，指出中国在电力产能上的巨大优势将深刻影响地缘政治和AI竞争。作者批评了美国当前“AI竞赛”中零和博弈的短视思维，并担忧这可能引发对“斩首式先发制人打击”的危险考量。",
+      "tags": [
+        "AI",
+        "hardware",
+        "culture/sociology/politics",
+        "business"
+      ]
+    },
+    {
+      "id": "ba25142c621712e7",
+      "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
+      "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:55:12+00:00",
+      "summary_zh": "文章引用了黄仁勋三个月前的一次访谈，其中他将其管理风格比作驾驶F1赛车，强调组织必须适配CEO个人。他承认这种高度个人化的管理结构意味着他离开后，公司需要为继任者进行重塑。作者认为这种结构现在看起来问题重重。",
+      "tags": [
+        "AI",
+        "business/management"
+      ]
+    },
+    {
+      "id": "cbd7d968d7a9a1e5",
+      "title": "Jensen Huang Resigns From Nvidia",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:19:07+00:00",
+      "summary_zh": "文章报道了英伟达官方宣布CEO黄仁勋立即辞职的消息，并由现任CFO Colette Kress担任临时CEO。董事会已开始寻找永久继任者。作者将此与当年乔布斯离开苹果时的情景相比较，认为公司运营可能不会中断，但暗示情况可能更为复杂。",
+      "tags": [
+        "AI",
+        "business/management"
+      ]
+    },
+    {
+      "id": "2c3fdfcda27f6141",
+      "title": "How can I pass more than one parameter to co_await?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:00:00+00:00",
+      "summary_zh": "文章探讨了在C++协程中，如何向`co_await`运算符传递多个参数（如优先级或超时）的问题。核心解决方案是无法直接传递多个参数，必须将可等待对象及其参数封装到一个更大的对象中，然后等待这个封装后的对象。",
+      "tags": [
+        "programming",
+        "programming/functional-programming"
+      ]
+    },
+    {
+      "id": "5681e08a45631720",
+      "title": "Technology as a Search Problem",
+      "url": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-11-12T13:01:45+00:00",
+      "summary_zh": "文章将技术创新视为一个在高维“设计空间”或“技术空间”中的搜索过程。作者通过研究贝尔实验室、具体技术的历史演变以及多重发明等现象，探讨了技术进步的本质和影响因素。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "a167ea7d0f55dca6",
+      "title": "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-12T12:34:10+00:00",
+      "summary_zh": "这是一篇关于蒂姆·伯纳斯-李传记的书评。评论认为这本书既非纯粹的传记，也非完整的万维网历史，在个人故事、技术细节和对网络现状的反思之间未能取得平衡，导致内容略显平淡，可能让各类读者都感到不够满足。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "18d0a382461fed91",
+      "title": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-3com",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T12:00:26+00:00",
+      "summary_zh": "文章回顾了网络设备制造商3Com公司的兴衰史。该公司在网络卡和网络设备领域曾风光一时，但在互联网泡沫后逐渐没落，最终于2009年悄然消失。",
+      "tags": [
+        "hardware",
+        "networking",
+        "culture/history/technology"
+      ]
+    },
     {
       "id": "b82e8005f30b0a56",
       "title": "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’",
@@ -11,12 +246,12 @@
       "author": "John Gruber",
       "feed_title": "daringfireball.net",
       "category": "Blogs",
-      "published_at": "2026-11-12T05:12:51+00:00",
-      "summary_zh": "据Semafor报道，英伟达董事会正考虑罢免CEO黄仁勋，并可能任命CFO科莱特·克雷斯为临时CEO。报道称罢免决定可能最早于周三做出，原因是黄仁勋被曝出婚外情。董事会已聘请外部公司寻找下一任CEO，苹果硬件主管等人在考虑之列。",
+      "published_at": "2026-11-12T04:59:59+00:00",
+      "summary_zh": "文章报道了英伟达董事会因CEO黄仁勋的婚外情丑闻，正计划罢免其职务，并考虑任命首席财务官Colette Kress为临时CEO。报道还提及董事会已向白宫简报，并正在外部寻找正式CEO人选，苹果硬件主管Johny Srouji是潜在考虑对象之一。",
       "tags": [
         "business",
-        "business/management",
-        "AI"
+        "hardware",
+        "business/management"
       ]
     },
     {
@@ -27,11 +262,11 @@
       "feed_title": "anildash.com",
       "category": "Blogs",
       "published_at": "2026-11-12T04:24:15+00:00",
-      "summary_zh": "这篇文章以怀旧的口吻，幽默地描述了在1986年如何为Commodore 64电脑“安装程序”（当时还不叫“应用”）。核心过程是骑自行车去商场书店，在杂志摊寻找载有程序的计算机杂志《COMPUTE!’s Gazette》或《RUN》。文章生动再现了早期个人计算机用户获取软件的繁琐体验。",
+      "summary_zh": "文章以怀旧幽默的口吻，描述了在1986年为Commodore 64电脑“安装程序”（当时还不叫“应用”）的繁琐过程。核心步骤包括骑自行车去商场书店，在有限的电脑杂志中寻找并手动输入代码。",
       "tags": [
         "culture",
-        "culture/history/technology",
-        "hardware"
+        "hardware",
+        "culture/history/technology"
       ]
     },
     {
@@ -42,11 +277,11 @@
       "feed_title": "anildash.com",
       "category": "Blogs",
       "published_at": "2026-11-12T04:24:15+00:00",
-      "summary_zh": "作者对纽约市的风险投资家们进行了批评，认为他们缺乏自信，过分迎合硅谷的价值观和认可，而牺牲了本地社区的利益和独特性。文章呼吁纽约的投资界应该更加自信，支持本地的优秀人才和创意，而不是在外部贬低下保持沉默。",
+      "summary_zh": "作者批评纽约市的一些风险投资家缺乏自信和自尊，过度迎合硅谷投资者的价值观，甚至容忍后者贬低纽约的社区。作者呼吁本地投资者应更有骨气，支持本地优秀的人才和创意，以维护纽约的独特性和商业利益。",
       "tags": [
         "business",
-        "culture/sociology",
-        "career"
+        "culture",
+        "culture/sociology"
       ]
     },
     {
@@ -57,11 +292,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-12T03:57:43+00:00",
-      "summary_zh": "彭博社报道，英伟达董事会已聘请外部公司寻找CEO黄仁勋的潜在替代者。董事会正在考虑任命临时CEO，同时寻找永久人选。报道指出，由于黄仁勋拒绝内部继任计划，公司内部没有明显的接班人，且公司部分销售涉嫌非法走私至中国并被掩盖。",
+      "summary_zh": "文章报道英伟达董事会正与外部公司合作，寻找CEO黄仁勋的潜在替代者。由于黄仁勋拒绝内部接班人计划，公司没有明显的内部候选人，且公司可能涉及向中国非法走私芯片并掩盖事实，使得寻找合适外部人选面临挑战。",
       "tags": [
         "business",
-        "business/management",
-        "security/espionage"
+        "hardware",
+        "business/management"
       ]
     },
     {
@@ -72,11 +307,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-12T03:42:05+00:00",
-      "summary_zh": "《华尔街日报》报道，英伟达董事会正准备罢免CEO黄仁勋，原因是他有两段婚外情，其中一位涉事女性被怀疑是中国间谍。董事会计划最快于周三开会决定他的去留。此举将终结黄仁勋推动全球AI繁荣并成为地缘政治明星的时代。",
+      "summary_zh": "文章报道英伟达董事会因CEO黄仁勋的两起婚外情（其中一起涉及疑似中国间谍），正准备最快于周三开会决定罢免其职务。此举将终结黄仁勋推动全球AI繁荣并成为地缘政治明星的时代，使这家全球最具价值的公司之一面临领导层更迭。",
       "tags": [
         "business",
-        "business/management",
-        "security/espionage"
+        "hardware",
+        "business/management"
       ]
     },
     {
@@ -87,11 +322,27 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-12T03:35:21+00:00",
-      "summary_zh": "《纽约时报》报道，英伟达CEO黄仁勋除与一名被美国情报部门认定为中方间谍的女性有染外，还与向其汇报工作的公司副总裁Kimberly Powell存在婚外关系。这违反了公司行为准则中关于避免利益冲突和上下级关系的规定。有视频证据显示两人在会议期间举止亲密。",
+      "summary_zh": "文章披露英伟达CEO黄仁勋除与疑似中国间谍有染外，还与向其汇报的副总裁Kimberly Powell存在婚外情，这违反了公司禁止上下级恋情的《行为准则》。有视频证据显示二人在公司会议期间的酒店举止亲密。",
       "tags": [
         "business",
+        "security",
         "business/management",
         "security/espionage"
+      ]
+    },
+    {
+      "id": "68967b76e104e1af",
+      "title": "SSA from bytecode: imperative pearl",
+      "url": "https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss",
+      "author": "",
+      "feed_title": "bernsteinbear.com",
+      "category": "Blogs",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary_zh": "文章简明扼要地解释了如何将Ruby基于栈的字节码转换为静态单赋值形式的高层中间表示。作者提炼了其近2000行转换函数的核心逻辑，即通过虚拟栈跟踪每个栈槽的SSA值，从而将隐式的栈操作转换为显式的SSA指令。",
+      "tags": [
+        "programming",
+        "tools",
+        "programming/functional-programming"
       ]
     },
     {
@@ -102,7 +353,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-11T22:03:25+00:00",
-      "summary_zh": "谷歌推出了Gemini Decisions API，提供名为“Gemini Decision 1”的决策模型。该API与Jev和OpenAI的决策模型类似，支持是/否、选择和评分三类问题，定价与GPT-6 Luna相同。其特点是支持全模态输入（文本、图像、音频、视频、PDF），但在回答是/否问题时置信度输出与其他模型略有不同。",
+      "summary_zh": "文章介绍了谷歌新发布的Gemini Decisions API，这是一个与Jev和OpenAI决策模型类似的API，支持是/否、选择和评分三类问题。其特点是价格与OpenAI相当，并具备全面的多模态能力（文本、图像、音频、视频、PDF），但在回答置信度上表现得更为保守。",
       "tags": [
         "AI",
         "AI/LLM",
@@ -117,12 +368,12 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-11T21:18:30+00:00",
-      "summary_zh": "AWS发布了官方模拟器“aws-emulator”，允许开发者在本地测试AWS服务，而无需使用付费API密钥。该项目使用Rust编写，在最初三周内由大量AI智能体贡献了数万次提交。目前运行需要Docker，未来有望提供单一二进制文件以便集成到测试套件中。",
+      "summary_zh": "AWS推出了官方模拟器aws-emulator，允许开发者在本地测试其众多服务，而无需使用付费API密钥。该项目由大量AI代理在Rust中编写，目前需要Docker在macOS或Windows上运行。",
       "tags": [
         "cloud",
-        "devops",
+        "AI/LLM/Agent",
         "testing",
-        "AI/LLM/Agent"
+        "tools"
       ]
     },
     {
@@ -133,11 +384,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-11T19:17:32+00:00",
-      "summary_zh": "苹果关闭了其长期运营的“Apple支持社区”论坛。评论认为，该论坛的设计早已过时，且因其使用apple.com域名而在搜索引擎中排名靠前，容易被公众误认为是官方支持渠道，对苹果品牌形象是一种尴尬和损害。",
+      "summary_zh": "苹果公司关闭了其长期运营的“Apple支持社区”。评论认为，该社区网站陈旧，且因其在apple.com域名下而容易被公众误认为是官方渠道，其关闭是件好事。",
       "tags": [
         "business",
-        "web",
-        "culture/media"
+        "culture/media",
+        "web"
       ]
     },
     {
@@ -148,11 +399,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-11T19:02:58+00:00",
-      "summary_zh": "这是一篇关于iPhone Duo（折叠iPhone）的相机评测。作者指出，虽然iPhone 18 Pro的相机系统更强大，但Duo的主摄像头表现“非常出色”，拍摄效果令人惊艳。相机系统不应成为不购买Duo的理由，其优势更多体现在拍照的规划、编辑和分享等周边体验上。",
+      "summary_zh": "文章介绍了Austin Mann对可折叠iPhone Duo的相机评测。虽然iPhone 18 Pro在相机硬件上仍有优势，但Duo的相机系统表现非常出色，尤其在照片的规划、编辑和分享等周边体验上表现突出。",
       "tags": [
         "mobile",
         "design",
-        "hardware"
+        "culture/media"
       ]
     },
     {
@@ -163,12 +414,12 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-11T18:42:50+00:00",
-      "summary_zh": "作者为其个人工具集网站（tools.simonwillison.net）添加了按标签浏览功能。利用AI工具分析每个工具的代码，自动提取出使用的JavaScript库、API等标签，并在首页生成了标签云，方便用户按技术栈分类浏览其收集的244个工具。",
+      "summary_zh": "作者利用AI工具分析了自己构建的众多网页工具代码，为工具集网站添加了按JavaScript库和浏览器API等标签浏览的功能。网站首页现在展示了基于使用频率生成的标签云。",
       "tags": [
-        "web",
         "web/development",
+        "AI/LLM",
         "tools",
-        "AI/LLM/Agent"
+        "programming"
       ]
     },
     {
@@ -179,11 +430,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-11T18:36:34+00:00",
-      "summary_zh": "这是一篇关于iPhone Duo的评测链接。评测者Quinn Nelson的观点是“iPhone Duo用起来不像一部iPhone”，文章认为这是一篇出色且公允的评测。",
+      "summary_zh": "文章简要推荐了Quinn Nelson对iPhone Duo的评测，认为这是一篇出色且公允的评论，并附上了原文链接。",
       "tags": [
         "mobile",
-        "design",
-        "hardware"
+        "culture/media"
       ]
     },
     {
@@ -194,11 +444,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-11T18:29:17+00:00",
-      "summary_zh": "文章指出，美国最高法院2008年Heller案中引用的‘危险且不寻常’武器限制标准，是基于对18世纪法学家布莱克斯通原话‘危险或不寻常’的误引。这一误引对枪支管制法律的司法裁决产生了深远影响。",
+      "summary_zh": "《纽约时报》报道指出，美国最高法院2008年Heller案判决中引用的“危险且不寻常”武器测试标准，是基于对18世纪法学家布莱克斯通原话“危险或不寻常”的误引。这一误引对近二十年的枪支管控法律产生了深远影响。",
       "tags": [
-        "culture",
         "culture/sociology/politics",
-        "culture/history"
+        "culture/history",
+        "security"
       ]
     },
     {
@@ -209,11 +459,12 @@
       "feed_title": "terriblesoftware.org",
       "category": "Blogs",
       "published_at": "2026-11-11T18:23:50+00:00",
-      "summary_zh": "作者将使用AI工具（如代码助手）时产生的疲惫感类比为计算机科学中的‘颠簸’现象。他指出，AI工具使多任务并行变得容易，但这种在多个AI任务间频繁切换的行为，反而消耗了用户的认知精力，导致疲惫。",
+      "summary_zh": "作者将当前AI辅助编程的体验比作计算机科学中的“抖动”现象：开发者同时启动多个AI任务，导致在任务间频繁切换和审查，这种多任务处理最终使人精疲力竭，尽管看起来AI在做所有工作。",
       "tags": [
-        "AI",
+        "AI/LLM/Agent",
+        "programming",
         "culture/sociology",
-        "business/management"
+        "career"
       ]
     },
     {
@@ -224,10 +475,11 @@
       "feed_title": "krebsonsecurity.com",
       "category": "Blogs",
       "published_at": "2026-11-11T18:06:01+00:00",
-      "summary_zh": "文章揭露了全球最活跃的勒索软件即服务团伙Qilin的幕后运营者。通过分析其过去十年犯下的操作安全错误，文章将管理员身份指向一名居住在俄罗斯圣彼得堡的36岁男子。",
+      "summary_zh": "网络安全调查揭示了全球最活跃的勒索软件即服务团伙Qilin的运营情况，并指出其管理员因操作安全失误，身份可能指向一名居住在俄罗斯圣彼得堡的36岁男子。",
       "tags": [
         "security",
-        "security/vulnerabilities"
+        "security/vulnerabilities",
+        "security/espionage"
       ]
     },
     {
@@ -238,11 +490,12 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-11T17:19:52+00:00",
-      "summary_zh": "llm命令行工具发布0.37.2版本，修复了一个安全漏洞。该漏洞可能导致用户配置的OpenAI API密钥被意外发送给其他OpenAI兼容的API提供商。",
+      "summary_zh": "LLM命令行工具发布了0.37.2版本，修复了两个安全漏洞。这些漏洞可能导致配置的OpenAI API密钥被意外发送给其他兼容的API提供商。",
       "tags": [
-        "tools",
+        "AI/LLM",
         "security",
-        "AI/LLM"
+        "security/privacy",
+        "tools"
       ]
     },
     {
@@ -253,12 +506,28 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-11T15:11:59+00:00",
-      "summary_zh": "文章介绍了Anthropic公司IPO路演视频中的内容，重点是其独特的‘多芯片策略’。该公司训练和运行Claude模型时，同时使用了AWS、谷歌、英伟达和AMD的多种芯片，并展示了其AI模型Mythos在三天内将Claude移植到AMD平台的能力。",
+      "summary_zh": "Anthropic在IPO路演视频中披露了其业务细节，特别是在计算策略上的独特之处：他们训练和运行Claude模型横跨AWS、谷歌、英伟达和AMD四大芯片平台。视频还展示了其AI代理Mythos仅用三天就成功将Claude移植到AMD GPU上。",
       "tags": [
-        "AI",
         "AI/LLM",
+        "AI/LLM/Agent",
         "business",
-        "cloud"
+        "cloud",
+        "hardware"
+      ]
+    },
+    {
+      "id": "a4a6b81172cc6bfb",
+      "title": "I didn’t write a program with emoji, but I did use a control character",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-11T15:00:00+00:00",
+      "summary_zh": "作者回忆了早年通过echo命令和组合键输入特殊字符（如Alt+小键盘输入）来生成一个简单的MS-DOS重启程序（reboot.com）的经历，这类似于但远不及用纯表情符号编写程序那样复杂。",
+      "tags": [
+        "programming",
+        "culture/history/technology",
+        "tools/windows"
       ]
     },
     {
@@ -269,11 +538,11 @@
       "feed_title": "borretti.me",
       "category": "Blogs",
       "published_at": "2026-11-11T13:00:00+00:00",
-      "summary_zh": "文章通过一个交互式图表探讨了关于未来（尤其是人工超级智能ASI）可能性的思想实验。它引导读者根据不同的选择和条件，探索多种潜在的发展路径和结局。",
+      "summary_zh": "文章以交互式图表的形式探讨了关于未来（尤其是人工智能发展）的多种可能性路径。图表从“现在”出发，通过一系列决策节点（如“我们是否达到ASI？”）引导读者探索不同的未来情景。",
       "tags": [
         "AI",
-        "culture",
-        "culture/sociology"
+        "culture/sociology",
+        "design"
       ]
     },
     {
@@ -284,7 +553,7 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-11T12:34:05+00:00",
-      "summary_zh": "文章提供了解决Eufy HomeBase 2智能家居基站存储已满问题的快速修复方法：插入USB存储设备，通过App格式化，然后重启并格式化内部存储。",
+      "summary_zh": "本文提供了一个快速解决 Eufy HomeBase 2 存储空间已满问题的步骤指南。核心方法是插入U盘，通过App格式化，并重启设备以清理内部存储。文章还分享了作者长期使用该智能家居系统的背景。",
       "tags": [
         "hardware",
         "hardware/peripherals",
@@ -299,7 +568,7 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-11T12:00:14+00:00",
-      "summary_zh": "文章纪念微软Windows操作系统于1983年11月10日首次宣布。它指出，最初的Windows版本就像后来的许多版本一样，发布延迟且未能包含所有承诺的功能。",
+      "summary_zh": "文章回顾了微软于1983年11月10日首次宣布Windows操作系统的历史事件。它指出，最初的Windows版本发布延迟且功能未达预期，这一特点与后来的许多Windows版本相似。",
       "tags": [
         "culture",
         "culture/history/technology",
@@ -314,439 +583,11 @@
       "feed_title": "nesbitt.io",
       "category": "Blogs",
       "published_at": "2026-11-11T10:00:00+00:00",
-      "summary_zh": "本周源代码控制资讯汇总，重点介绍了GitHub新的Git存储架构‘Rubicon’。该设计将数据包存储于Azure Blob，并通过Ref-CAS服务管理引用，实现了高并发处理（内部测试达每秒7200次推送）。",
+      "summary_zh": "本文是2026年11月11日当周的版本控制与代码托管平台新闻汇总。重点介绍了GitHub新的Git存储架构“Rubicon”，它通过将数据包存储至Azure Blob Storage并使用Ref-CAS服务处理引用更新，实现了极高的并发推送性能。",
       "tags": [
         "tools",
         "web/development",
-        "cloud",
-        "architecture"
-      ]
-    },
-    {
-      "id": "459456b6ccf41c1f",
-      "title": "Monads in Lean",
-      "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
-      "author": "Eli Bendersky",
-      "feed_title": "eli.thegreenplace.net",
-      "category": "Blogs",
-      "published_at": "2026-11-11T03:25:00+00:00",
-      "summary_zh": "文章通过一个简单的表达式求值器示例，演示了如何在Lean 4编程语言中使用单子。内容与Haskell或OCaml等函数式语言中的单子概念相似。",
-      "tags": [
-        "programming",
-        "programming/functional-programming"
-      ]
-    },
-    {
-      "id": "8157f3d2feda20d7",
-      "title": "Glue work is still harmful in the age of AI",
-      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "summary_zh": "文章反驳了在AI时代‘胶水工作’变得重要的观点。作者认为，AI减少了项目协调需求，降低了管理‘难搞’工程师的必要性，并且‘胶水工作’本身对职业发展有害，因此其重要性不增反降。",
-      "tags": [
-        "AI",
-        "business/management",
-        "career",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "1f61a090d552d64c",
-      "title": "Ms. Bashkansky, Please Do Not Build The Torment Nexus",
-      "url": "https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/",
-      "author": "jyn",
-      "feed_title": "jyn.dev",
-      "category": "Blogs",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "summary_zh": "作者公开致信前OpenAI员工Naomi Bashkansky，强烈反对其研发‘心灵感应’与AI交互技术的计划。文章认为，实现脑机接口直接与AI思维交互是一个极其危险的想法，是在打造现实版的‘折磨迷宫’，并描绘了其可能带来的可怕未来场景。",
-      "tags": [
-        "AI",
-        "culture/sociology",
-        "security/privacy"
-      ]
-    },
-    {
-      "id": "5bacf324b2a02746",
-      "title": "20 years of blogging",
-      "url": "https://www.gilesthomas.com/2026/11/20-years-of-blogging",
-      "author": "",
-      "feed_title": "gilesthomas.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T23:00:00+00:00",
-      "summary_zh": "作者回顾了自己技术博客20年的写作历程，分享了从早期家庭实验室自动化备份系列到近期从头构建LLM和微调LLM等长篇技术系列。他认为持续分享技术内容对他人仍有价值，并从中获得满足感。",
-      "tags": [
-        "culture",
-        "AI",
-        "AI/LLM"
-      ]
-    },
-    {
-      "id": "fbfc8da669da14df",
-      "title": "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
-      "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T22:16:25+00:00",
-      "summary_zh": "Gary Marcus对Anthropic的IPO提出严厉批评，认为其商业模式在激烈竞争且需要指数级资本投入的AI市场中存在严重问题。他质疑Anthropic所谓的“护城河”，并将其比作一个可能最终崩溃的“邪教”组织。",
-      "tags": [
-        "AI",
-        "business",
-        "business/management"
-      ]
-    },
-    {
-      "id": "6e299ce357456abc",
-      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-      "author": "BrianKrebs",
-      "feed_title": "krebsonsecurity.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T21:55:03+00:00",
-      "summary_zh": "微软在11月的“补丁星期二”发布了修复近1100个安全漏洞的更新，其中包括63个可被远程利用的严重漏洞。此次更新意味着微软今年已发布超过5100个安全补丁，远超往年平均水平，突显了软件安全维护的巨大挑战。",
-      "tags": [
-        "security",
-        "security/vulnerabilities",
-        "tools",
-        "tools/windows"
-      ]
-    },
-    {
-      "id": "71b89d234f65eee7",
-      "title": "Altar II Keyboard on Kickstarter",
-      "url": "https://www.kickstarter.com/projects/electronicamaterials/altar-ii/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T20:59:25+00:00",
-      "summary_zh": "Electronic Materials Office在Kickstarter上推出了Altar II机械键盘，这是对前代产品的改进版本。新款键盘更薄，采用全新开关和磁吸式旋钮，并引入了旨在减少对睡眠影响的琥珀红色背光等新功能。",
-      "tags": [
-        "hardware",
-        "hardware/peripherals",
-        "design"
-      ]
-    },
-    {
-      "id": "685b79678ed43d6d",
-      "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
-      "author": "Troy Hunt",
-      "feed_title": "troyhunt.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T20:26:15+00:00",
-      "summary_zh": "Have I Been Pwned服务终于增加了银行转账支付选项，以解决许多组织机构因采购政策限制而无法使用信用卡支付的长期难题。这一改变旨在让更多受政策约束的机构能够便捷地使用其数据泄露查询服务。",
-      "tags": [
-        "security",
-        "security/privacy",
-        "business",
-        "web"
-      ]
-    },
-    {
-      "id": "e5607ea9b3456678",
-      "title": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T20:09:44+00:00",
-      "summary_zh": "llm-gemini插件更新至0.36版本，以支持谷歌最新发布的Gemini 4 Carbon模型。文章介绍了该模型的定价策略（初期优惠价，12月1日后将翻倍），并通过生成鹈鹕图像的示例展示了其能力。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "tools",
-        "programming"
-      ]
-    },
-    {
-      "id": "254cbd933a0214cb",
-      "title": "Revisiting Leander v Sweden and Big Brother Watch",
-      "url": "https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/",
-      "author": "",
-      "feed_title": "berthub.eu",
-      "category": "Blogs",
-      "published_at": "2026-11-10T19:10:00+00:00",
-      "summary_zh": "文章探讨了欧洲人权法院近期关于大规模监控的判例（如Leander v Sweden和Big Brother Watch案），并试图结合当前网络安全和AI发展重新解读这些法律先例。作者认为，几年前看似合理的监控计划，在技术快速演进的背景下可能需要重新评估。",
-      "tags": [
-        "security",
-        "security/privacy",
-        "culture",
-        "culture/sociology/politics"
-      ]
-    },
-    {
-      "id": "4ed6659f14e43849",
-      "title": "Making a Website in 2026",
-      "url": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
-      "author": "",
-      "feed_title": "blog.jim-nielsen.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T19:00:00+00:00",
-      "summary_zh": "文章评论了Pete Millspaugh使用多种AI工具生成同一网站的尝试，并指出当项目涉及数据库、分析或支付等第三方服务依赖时，LLM如何选择具体服务提供商成为一个有趣且复杂的问题。这揭示了AI辅助开发在技术选型上面临的挑战。",
-      "tags": [
-        "AI",
-        "web",
-        "web/development",
-        "programming"
-      ]
-    },
-    {
-      "id": "b1018be5a2c734ec",
-      "title": "Jensen's Bizarre Adventure",
-      "url": "https://www.wheresyoured.at/jensens-bizarre-adventure/",
-      "author": "Ed Zitron",
-      "feed_title": "wheresyoured.at",
-      "category": "Blogs",
-      "published_at": "2026-11-10T17:43:27+00:00",
-      "summary_zh": "这是一篇付费新闻通讯的推广文章，主要深入分析AI泡沫背后的财务状况。内容包括对AI债务、生成式AI对全球经济的影响，以及对英伟达、甲骨文等AI基础设施巨头的深度剖析。",
-      "tags": [
-        "AI",
-        "business",
-        "business/management"
-      ]
-    },
-    {
-      "id": "62b6c205aefb1a50",
-      "title": "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
-      "url": "https://pluralistic.net/2026/11/10/worst-of-all-worlds/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T17:34:21+00:00",
-      "summary_zh": "文章主张欧盟应就边境IT系统（如申根信息系统）的严重失败对承包商（如IBM、Atos）采取强硬措施。作者以略带讽刺的口吻建议，有时需要“杀鸡儆猴”来确保大型政府IT项目的问责与成功。",
-      "tags": [
-        "security",
-        "culture",
-        "culture/sociology/politics",
-        "business"
-      ]
-    },
-    {
-      "id": "c1d3e00c796f8c1a",
-      "title": "We need more goat sacrifices",
-      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-      "author": "Adam Mastroianni",
-      "feed_title": "experimental-history.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T17:21:43+00:00",
-      "summary_zh": "文章标题“我们需要更多的山羊祭祀”是一个隐喻，其具体内容因提供的片段不完整而无法准确概括。从来源和常见主题推断，可能是一篇从历史或实验角度探讨社会仪式、风险管理或技术文化的评论性文章。",
-      "tags": [
-        "culture",
-        "culture/history",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "f4624ff3586a1462",
-      "title": "Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T17:06:01+00:00",
-      "summary_zh": "彭博社报道称，英伟达在美国对Megaspeed公司涉嫌芯片走私的调查中进行了干预，并向政府提供了不完整的销售数据，少报了约5万颗、价值数十亿美元的芯片。英伟达最初声称业务合规，但在被追问后承认在额外仓库中发现了缺失的硬件。",
-      "tags": [
-        "hardware",
-        "security",
-        "security/espionage",
-        "business"
-      ]
-    },
-    {
-      "id": "eb1a2f2a866cd603",
-      "title": "Regarding Graveyards and Indispensable Men",
-      "url": "https://www.youtube.com/watch?v=vydmUCGQnyI",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T17:01:06+00:00",
-      "summary_zh": "文章引用了史蒂夫·乔布斯在2003年接受《60分钟》采访时的观点，强调商业上的伟大成就从来不是由一个人完成的，而是由一个团队实现的。这提醒人们重视团队协作而非个人英雄主义。",
-      "tags": [
-        "business",
-        "business/management",
-        "culture"
-      ]
-    },
-    {
-      "id": "0f4e4cf02ca0e76a",
-      "title": "Steven Levy on John Ternus",
-      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T16:32:26+00:00",
-      "summary_zh": "文章介绍了苹果公司高管John Ternus的背景和工作风格，他是一位资深的苹果内部人士，深受乔布斯追求细节完美的影响。文章通过Steven Levy的视角，展现了Ternus作为产品领导者对苹果设计理念的传承。",
-      "tags": [
-        "business",
-        "business/management",
-        "culture/history/technology"
-      ]
-    },
-    {
-      "id": "e1e944fc2d868377",
-      "title": "OurCal",
-      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T15:15:17+00:00",
-      "summary_zh": "文章介绍了一款名为OurCal的日历应用，它通过将共享日历与群组聊天连接来解决日程沟通问题。该应用支持多平台，采用端到端加密，并因其出色的设计和Apple平台的优先支持而受到推荐。",
-      "tags": [
-        "mobile",
-        "tools",
-        "security/privacy"
-      ]
-    },
-    {
-      "id": "c2eda24c43e1654e",
-      "title": "Microsoft employee price list from 1987",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-11-10T15:00:00+00:00",
-      "summary_zh": "文章展示了一份1987年微软内部员工软件价格清单，列出了当时如MS-DOS、FORTRAN、Multiplan等软件的员工折扣价。这为观察近40年前的软件市场和微软早期产品提供了历史视角。",
-      "tags": [
-        "culture",
-        "culture/history/technology",
-        "tools/windows"
-      ]
-    },
-    {
-      "id": "1f12b245f61241dc",
-      "title": "Safari 27.3 Adds Support for Global Privacy Control",
-      "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T14:47:10+00:00",
-      "summary_zh": "文章指出Safari 27.3版本更新增加了对“全球隐私控制”（Global Privacy Control）标准的支持。该标准旨在替代失效的“请勿追踪”（Do Not Track）功能，允许用户一次性设置隐私偏好，理论上可减少重复的Cookie同意弹窗。",
-      "tags": [
-        "web",
-        "security/privacy",
-        "tools"
-      ]
-    },
-    {
-      "id": "d47a22265f925a0d",
-      "title": "‘A Scandal at the Center of the Economy’",
-      "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T14:36:18+00:00",
-      "summary_zh": "文章讨论了英伟达CEO黄仁勋被曝与一名中国女商人（据称为中国国家安全部资产）有染的丑闻，以及硅谷和华盛顿部分人士对此事的反应。文章质疑了将个人视为“不可或缺”的英雄崇拜文化，并探讨了此事对美国AI领导地位可能的影响。",
-      "tags": [
-        "business",
-        "AI",
-        "security/espionage",
-        "culture/sociology"
-      ]
-    },
-    {
-      "id": "fed6f9d3430f6778",
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
-      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T14:35:38+00:00",
-      "summary_zh": "文章报道了美国商务部对涉嫌向中国走私英伟达AI芯片的新加坡公司Megaspeed的调查被突然中止的事件。调查被转移至司法部，起因是英伟达法律顾问在联系调查人员时提及了由特朗普任命的商务部高官的名字，此举被内部人员认为可能违反了程序并影响了案件。",
-      "tags": [
-        "security",
-        "security/espionage",
-        "business",
-        "AI"
-      ]
-    },
-    {
-      "id": "cee6cf51d7e027e8",
-      "title": "Balanced Incomplete Block Designs",
-      "url": "https://www.johndcook.com/blog/2026/11/10/bibd/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T14:26:21+00:00",
-      "summary_zh": "文章以测试不同肥料为例，介绍了“平衡不完全区组设计”（BIBD）这一实验设计方法。该方法用于在无法将所有处理（如肥料）应用于每个区组（如地块）的情况下，确保每个处理被测试次数相同，且每对处理都能在某个区组内进行直接比较。",
-      "tags": [
-        "culture",
-        "culture/mathematics",
-        "culture/mathematics/discrete"
-      ]
-    },
-    {
-      "id": "ebc12b967b941fe0",
-      "title": "Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆",
-      "url": "https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-11-10T12:34:31+00:00",
-      "summary_zh": "文章评论了Richard Ayoade的新书《The Unfinished Harauld Hughes》，认为它与作者前作风格类似，是一部关于（半）虚构电视主持人制作纪录片过程的荒诞主义小说。该书语言独特，充满讽刺和冷幽默，但情节驱动力较弱。",
-      "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "e2db69b5826e264c",
-      "title": "Novell’s lawsuits with Microsoft",
-      "url": "https://dfarq.homeip.net/novells-lawsuits-with-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=novells-lawsuits-with-microsoft",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T12:00:02+00:00",
-      "summary_zh": "文章简要提及了Novell（DR DOS的前所有者）与微软之间的法律诉讼历史。Caldera（DR DOS的当时所有者）在1996年起诉微软后，微软与之和解，随后Novell也提起了诉讼。",
-      "tags": [
-        "business",
-        "culture/history/technology"
-      ]
-    },
-    {
-      "id": "c80838f46e535c12",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T07:28:21+00:00",
-      "summary_zh": "文章介绍了Meta AI新发布的小型高效模型Muse Ember，它专为复杂推理、工具调用、代码任务和长文档解析等智能体日常工作设计。文章将其与GPT-6 Luna和Claude Haiku等同类模型进行了比较，并详细分析了其定价策略。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "AI/LLM/Agent"
-      ]
-    },
-    {
-      "id": "cafac86bc616d20d",
-      "title": "The classic console corner's CRT changeover",
-      "url": "https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html",
-      "author": "ClassicHasClass (noreply@blogger.com)",
-      "feed_title": "oldvcr.blogspot.com",
-      "category": "Blogs",
-      "published_at": "2026-11-10T06:23:17+00:00",
-      "summary_zh": "文章描述了作者游戏角里一堆经典游戏主机（如雅达利、Pong、Intellivision等）的陈列情况，其核心是一台CRT（阴极射线管）电视，因为这些老式主机大多只支持NTSC制式的RF输出，与现代平板电视不兼容。",
-      "tags": [
-        "hardware",
-        "culture/history/technology",
-        "hardware/peripherals"
-      ]
-    },
-    {
-      "id": "f932ce86887297f1",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-10T05:34:14+00:00",
-      "summary_zh": "文章引用了Anthropic官方文档，指出在提示Claude Fable 5.2模型进行代码任务时，明确声明模型是代码的所有者和长期维护者，可以显著改变其行为。当模型认为代码属于自己时，它会更积极地重构代码、合并重复部分并进行相关修复，而不仅仅是添加新代码。这种“所有权提示”策略将代码合并率从不足10%提升至约75%，是一种有效的提示工程技巧。",
-      "tags": [
-        "AI",
-        "AI/LLM/Agent",
-        "programming"
+        "cloud"
       ]
     }
   ]
