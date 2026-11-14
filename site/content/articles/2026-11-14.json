@@ -1,0 +1,530 @@
+{
+  "date": "2026-11-14",
+  "article_count": 35,
+  "tokens_used": 17693,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "4cb58a6ed2a63999",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T23:02:45+00:00",
+      "summary_zh": "datasette-cluster-map 插件发布 0.19 版本，现已兼容 Datasette 1.0a42。该版本依赖新的 datasette-leaflet 插件，以确保向 OpenStreetMap 请求地图瓦片时发送正确的 referrer 标头。",
+      "tags": [
+        "open-source",
+        "tools",
+        "web/development"
+      ]
+    },
+    {
+      "id": "e1058067669e2b5f",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T22:30:54+00:00",
+      "summary_zh": "datasette-leaflet 插件发布 0.3 版本，解决了因 Datasette 默认的 Referrer-Policy 导致 OpenStreetMap 瓦片请求违反其政策的问题。新版本为瓦片请求设置了合适的 referrer 策略。",
+      "tags": [
+        "open-source",
+        "tools",
+        "web/development"
+      ]
+    },
+    {
+      "id": "3fee03694d3bafdd",
+      "title": "Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’",
+      "url": "https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T20:01:25+00:00",
+      "summary_zh": "文章讨论了英伟达 CEO 黄仁勋因个人丑闻而“跌落神坛”的事件。作者表达了对此事的同情，认为黄仁勋是一位伟大的 CEO，其遭遇是悲剧性的，并指出事件本身也带有荒诞和讽刺的意味。",
+      "tags": [
+        "business",
+        "culture/media",
+        "AI"
+      ]
+    },
+    {
+      "id": "0b406b1cea07bf6d",
+      "title": "Pluralistic: I told you so (13 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/13/outlookpocalypse/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T19:44:37+00:00",
+      "summary_zh": "文章围绕微软近期发生的全球性云服务中断事件展开评论。作者借此事件批评微软等科技巨头因规模过大而“大而不能倒”或“大而不在乎”，并链接了其他相关社会文化评论。",
+      "tags": [
+        "business",
+        "cloud",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "0e4c0a02af9c00da",
+      "title": "Inside Jensen Huang’s Final Hours as the CEO of Nvidia",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T19:19:47+00:00",
+      "summary_zh": "文章描述了英伟达 CEO 黄仁勋在辞职前最后时刻的状态。据内部人士描述，在经历了数周的否认和挣扎后，黄仁勋最终显得精疲力尽、意志消沉，并表现出悔恨之情。",
+      "tags": [
+        "business",
+        "culture/media",
+        "AI"
+      ]
+    },
+    {
+      "id": "579aa129bfed87fd",
+      "title": "The avalanche that hit math is coming for AI development",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "author": "Dwarkesh Patel",
+      "feed_title": "dwarkesh.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T18:37:51+00:00",
+      "summary_zh": "作者阐述了对 AI 发展速度的最新看法，认为 AI 在可验证领域的研究进展预示着 AI 研究本身即将被自动化。他预测在很短时间内，AI 将能达到甚至超越人类顶尖专家在所有领域的水平。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "6d9646a8e0d1383a",
+      "title": "Premium: The Hater’s Guide To Megaspeed",
+      "url": "https://www.wheresyoured.at/hg-megaspeed/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-13T18:19:39+00:00",
+      "summary_zh": "文章深入调查了与英伟达及黄仁勋丑闻相关的 Megaspeed 公司，指控其是一个为规避美国对华 GPU 出口管制而设立的跨国走私网络，并可能为英伟达贡献了巨额收入。",
+      "tags": [
+        "business",
+        "security/espionage",
+        "AI",
+        "hardware"
+      ]
+    },
+    {
+      "id": "ff0fe521bc7a3790",
+      "title": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T17:27:56+00:00",
+      "summary_zh": "微软遭遇全球范围的云服务中断，影响包括电子邮件、云服务和 AI 服务在内的多项 Microsoft 365 服务。中断从周四开始持续，微软已采取措施延长邮件超时时间以防止邮件丢失。",
+      "tags": [
+        "cloud",
+        "business",
+        "AI"
+      ]
+    },
+    {
+      "id": "cfad99258dc87537",
+      "title": "David Sacks Is Fucked Too",
+      "url": "https://x.com/DavidSacks/status/2121070881258504395",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T17:14:40+00:00",
+      "summary_zh": "文章驳斥了为黄仁勋辩护的言论，指出丑闻的核心并非 Alice Huang 是否为间谍，而是黄仁勋与一家涉嫌非法向中国走私 AI 芯片的客户公司高管有染，这本身已构成严重问题。",
+      "tags": [
+        "business",
+        "security/espionage",
+        "AI"
+      ]
+    },
+    {
+      "id": "5145b2945d317d6d",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T17:07:18+00:00",
+      "summary_zh": "这是《The Analog Antiquarian》博客本周的更新通知，内容是关于电子游戏《Titus Andronicus》的文章。",
+      "tags": [
+        "culture/media",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "4690edd88365340b",
+      "title": "Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T15:40:52+00:00",
+      "summary_zh": "据报道，部分英伟达员工在内部建议箱发起请愿，呼吁公司董事会考虑员工情绪，让已辞职的 CEO 黄仁勋回归。该帖子获得了大量评论，其中不少支持黄仁勋回来。",
+      "tags": [
+        "business",
+        "business/management",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "da7bde920090da02",
+      "title": "NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T15:31:22+00:00",
+      "summary_zh": "文章披露美国商务部长霍华德·卢特尼克在针对英伟达对华芯片出口管制问题上采取较温和立场，并与黄仁勋关系密切。英伟达在商务部受到特殊对待，甚至能直接参与影响自身的规则制定。",
+      "tags": [
+        "business",
+        "security/espionage",
+        "culture/sociology/politics",
+        "AI"
+      ]
+    },
+    {
+      "id": "114ed2f21593559c",
+      "title": "How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "summary_zh": "文章探讨了如何简化向C++协程`co_await`传递多个参数的辅助类设计。作者提出通过创建辅助方法来生成复合参数，避免调用者需要为每种参数组合命名新类型，从而解决类型命名泛滥的问题。",
+      "tags": [
+        "programming",
+        "programming/coroutines"
+      ]
+    },
+    {
+      "id": "6aae6c8b3799daf8",
+      "title": "Kepler and the dwarf",
+      "url": "https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T14:54:38+00:00",
+      "summary_zh": "文章通过开普勒第三定律计算一颗新发现的矮行星候选体的轨道参数，发现其公转周期与报道的距离数据存在差异。作者解释这种差异源于轨道偏心率，即椭圆轨道的焦点（太阳位置）不在中心，因此远日点距离（报道值）不等于半长轴（计算值）。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "3e2c794db80318d3",
+      "title": "So all software is free as in money now?",
+      "url": "https://matduggan.com/so-all-software-is-free-as-in-money-now/",
+      "author": "Mathew Duggan",
+      "feed_title": "matduggan.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T14:16:16+00:00",
+      "summary_zh": "作者对“有人用AI免费复刻了Adobe全家桶”的说法表示极度怀疑，认为技术领域常存在“轻松解决难题”的虚假宣传。文章以个人经历和字体行业的复杂性为例，质疑完全免费替代专业创意软件的可能性。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "13311e5f13e2f97d",
+      "title": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-13T12:34:48+00:00",
+      "summary_zh": "这是一篇对Thermal Master P3 Lite热成像相机的评测。文章介绍了这款配备可拆卸微距镜头的相机，既能用于房屋检测和野生动物观察，也能聚焦微小的电子元件。",
+      "tags": [
+        "hardware",
+        "hardware/peripherals",
+        "tools"
+      ]
+    },
+    {
+      "id": "4110906f4d753dac",
+      "title": "Ira Velinsky, industrial designer for Commodore and Atari",
+      "url": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/?utm_source=rss&utm_medium=rss&utm_campaign=ira-velinsky-industrial-designer-of-the-commodore-64",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-13T12:00:11+00:00",
+      "summary_zh": "文章介绍了工业设计师Ira Velinsky，他在1980年代为Commodore和Atari工作。他负责设计了曲线优美的“保时捷PET”机箱、短命的Commodore TED系列机箱以及后来的Atari产品机箱。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "design"
+      ]
+    },
+    {
+      "id": "06f48e6745dd2458",
+      "title": "Long permutations and long cycles",
+      "url": "https://www.johndcook.com/blog/2026/11/13/long-cycles/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T11:59:31+00:00",
+      "summary_zh": "文章探讨了随机排列中最长循环长度的渐近行为。通过具体排列示例，分析了固定点、短循环和长循环。核心问题是研究随着列表长度n增加，最长循环的平均长度E[Ln]的增长速率，结论是其与n成正比。",
+      "tags": [
+        "programming",
+        "programming/algorithms"
+      ]
+    },
+    {
+      "id": "809598b02e4206dd",
+      "title": "So you want to buy AI for your company",
+      "url": "https://idiallo.com/byte-size/buying-ai-for-your-company",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-13T00:34:41+00:00",
+      "summary_zh": "文章以讽刺口吻描述了为企业选购AI模型时的混乱局面，列举了Gemini、Claude、GPT等多种模型及其令人困惑的版本、代号和基准分数。反映了当前AI市场模型繁多、营销话术复杂、选择困难的现状。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business"
+      ]
+    },
+    {
+      "id": "5b86eed0286e0e3b",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T22:55:19+00:00",
+      "summary_zh": "文章宣布了llm-gemini插件0.37版本的发布，以支持新推出的Gemini 4 Hydrogen模型。作者详细列出了Gemini 4系列（Carbon, Argon, Hydrogen）令人困惑的定价策略，指出Carbon和Argon价格相同且即将涨价，而Hydrogen是目前成本最低的成员。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "548fe94a79cba56a",
+      "title": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T21:32:07+00:00",
+      "summary_zh": "报道称英伟达前CEO黄仁勋已同意在感恩节前就涉嫌与为中国从事间谍活动的女子有染一事向国会作证，但证词将闭门进行。文章认为闭门听证只是序幕，公开问责将在明年，此事可能重创英伟达股价并波及整个依赖其投资的AI行业和经济。",
+      "tags": [
+        "business",
+        "security",
+        "security/espionage",
+        "AI"
+      ]
+    },
+    {
+      "id": "b90c39738446aaea",
+      "title": "Scott Colom Flips Mississippi",
+      "url": "https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T21:20:29+00:00",
+      "summary_zh": "文章报道了密西西比州检察官Scott Colom击败现任共和党参议员，将成为该州自1982年以来首位民主党参议员，也是近150年来首位黑人参议员。作者盛赞Colom的竞选广告堪称杰作，并指出其获胜出乎许多全国性民主党人的意料。",
+      "tags": [
+        "culture",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "7a3c2931e3970370",
+      "title": "The Dream of Quibi Lives On",
+      "url": "https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:54:43+00:00",
+      "summary_zh": "文章讽刺了Peacock流媒体平台一份宣称其“垂直视频领导力”的新闻稿标题，调侃了其对竖屏视频体验的重新构想，并戏谑地建议应该为此制作纪念T恤和帽子。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "web"
+      ]
+    },
+    {
+      "id": "d686a30db5066afd",
+      "title": "Pluralistic: Uber's labor crash (12 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/12/starvation-wages/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:50:53+00:00",
+      "summary_zh": "文章批评了Uber的商业模式，指出其用机器人取代低薪司机的计划在经济上不可行。内容涉及零工经济、劳工权益、监控定价和“平台恶化”现象，揭示了网约车行业面临的劳工危机。",
+      "tags": [
+        "business",
+        "culture/sociology",
+        "business/management"
+      ]
+    },
+    {
+      "id": "110b24142925b150",
+      "title": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
+      "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:41:35+00:00",
+      "summary_zh": "《华尔街日报》报道称，英伟达CEO黄仁勋与一位名叫Alice Huang的女性存在婚外情，而Alice的丈夫Kang Wei似乎知情并默许。这对夫妇利用各种商业机会和关系网络，包括涉足英伟达AI芯片领域，目前正面临多项调查。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "2149fca53e44bc8d",
+      "title": "Reuters Raises the Jensen Huang Affair Tally to Three",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T20:12:11+00:00",
+      "summary_zh": "路透社报道称，已辞职的英伟达CEO黄仁勋与第二名员工存在亲密关系，使其已知的婚外情数量增至三起。此前报道的两名女性分别为疑似中国间谍的Alice Huang和英伟达副总裁Kimberly Powell。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology"
+      ]
+    },
+    {
+      "id": "87ff67cbdff1a552",
+      "title": "Trump Weighs in on Huang’s Successor",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T17:32:42+00:00",
+      "summary_zh": "美国总统特朗普在其博客上评论英伟达CEO继任者问题，称苹果CEO蒂姆·库克是接替黄仁勋的唯一人选。文章随后否定了这一说法。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "049ace856e268e72",
+      "title": "First Strike",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+      "author": "",
+      "feed_title": "geohot.github.io",
+      "category": "Blogs",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "summary_zh": "文章通过图表指出，按当前趋势，中国电力产能将在十年内达到美国的十倍。作者认为美国应通过向中国出售AI芯片来换取资金，大力发展太阳能和电池产能，以应对长期竞争。但现实中“AI竞赛”心态可能导致危险的零和思维，甚至引发先发制人的打击。",
+      "tags": [
+        "AI",
+        "business",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "ba25142c621712e7",
+      "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
+      "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:55:12+00:00",
+      "summary_zh": "文章引用了黄仁勋三个月前的一次访谈，他将其管理风格比作驾驶F1赛车，认为公司组织应适配CEO个人风格，继任者需要“重塑公司”。作者认为这种结构在英伟达市值下滑的背景下值得商榷。",
+      "tags": [
+        "AI",
+        "business",
+        "business/management"
+      ]
+    },
+    {
+      "id": "cbd7d968d7a9a1e5",
+      "title": "Jensen Huang Resigns From Nvidia",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:19:07+00:00",
+      "summary_zh": "英伟达董事会宣布黄仁勋立即辞去CEO等所有职务，由现任CFO Colette Kress担任临时CEO。董事会已开始寻找永久继任者，并表达了对领导团队的信心。",
+      "tags": [
+        "AI",
+        "business",
+        "business/management"
+      ]
+    },
+    {
+      "id": "2c3fdfcda27f6141",
+      "title": "How can I pass more than one parameter to co_await?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-12T15:00:00+00:00",
+      "summary_zh": "文章探讨了在C++协程中，如何向`co_await`运算符传递多个参数（如优先级或超时）的问题。核心解决方案是将可等待对象及其参数包装成一个更大的对象，然后等待这个包装器对象。",
+      "tags": [
+        "programming",
+        "programming/functional-programming"
+      ]
+    },
+    {
+      "id": "5681e08a45631720",
+      "title": "Technology as a Search Problem",
+      "url": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-11-12T13:01:45+00:00",
+      "summary_zh": "文章提出将技术创新视为一个“搜索问题”。技术可以被看作高维“设计空间”中的一个点，发明者的任务是在这个空间中导航，寻找可行且优越的解决方案。这是作者对技术进步本质的系列思考之一。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "a167ea7d0f55dca6",
+      "title": "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-12T12:34:10+00:00",
+      "summary_zh": "这是一篇对蒂姆·伯纳斯-李自传《This Is for Everyone》的书评。评论认为该书在个人传记、万维网诞生故事以及对网络现状的哀叹之间摇摆，试图面向所有人但最终可能让所有人都不太满意。",
+      "tags": [
+        "web",
+        "culture/history/technology",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "18d0a382461fed91",
+      "title": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-3com",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T12:00:26+00:00",
+      "summary_zh": "文章简要回顾了网络设备制造商3Com公司，它曾是网络卡和其他网络设备领域的重要厂商，但最终在2009年11月11日悄然消失。",
+      "tags": [
+        "networking",
+        "culture/history/technology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "b82e8005f30b0a56",
+      "title": "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’",
+      "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-12T04:59:59+00:00",
+      "summary_zh": "Semafor报道称，英伟达董事会计划罢免CEO黄仁勋，并考虑任命CFO Colette Kress为临时CEO。董事会已向白宫通报情况，并聘请外部公司寻找新CEO，苹果硬件主管Johny Srouji是潜在人选之一。",
+      "tags": [
+        "AI",
+        "business",
+        "business/management"
+      ]
+    }
+  ]
+}
