@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-17",
+  "article_count": 31,
+  "tokens_used": 15598,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "abf110bc13dc7834",
+      "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-17T05:54:01+00:00",
+      "summary_zh": "文章探讨了当后台程序需要代表前台GUI程序显示对话框时，如何确保对话框正确关联到GUI程序窗口的技术问题。核心解决方案是GUI程序需要将自身窗口句柄传递给后台程序，以便后台程序将其设置为对话框的所有者，从而确保模态行为和正确的窗口层级关系。",
+      "tags": [
+        "programming",
+        "programming/windows",
+        "tools"
+      ]
+    },
+    {
+      "id": "f2170c97b1876c5d",
+      "title": "Apple Support Document on the New ‘Full Disk Access’ and ‘System & App Protection Override’ Settings in MacOS 27.3 Beta 2",
+      "url": "https://support.apple.com/en-us/149699",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T02:00:11+00:00",
+      "summary_zh": "文章讨论了macOS 27.3 Beta 2中引入的“完全磁盘访问”和“系统和应用保护覆盖”新权限设置。作者认为苹果对这些涉及高风险的权限进行了深思熟虑的设计，旨在防止用户在不完全理解后果的情况下过度授权，并提供了详细的支持文档。",
+      "tags": [
+        "security",
+        "mobile/macos",
+        "design"
+      ]
+    },
+    {
+      "id": "a50437ccc021c623",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T23:57:26+00:00",
+      "summary_zh": "文章介绍了LLM命令行工具0.37.3版本的发布，主要修复了因Homebrew升级SQLite至3.54.1版本后导致的JSON处理兼容性问题。新版本SQLite修正了一个关于SELECT子查询返回JSON文本的bug，LLM通过调整SQL查询语法进行了适配。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools",
+        "programming",
+        "database/sqlite"
+      ]
+    },
+    {
+      "id": "0d544fc512589bb7",
+      "title": "‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’",
+      "url": "https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T23:51:54+00:00",
+      "summary_zh": "文章报道了Anthropic公司一名网络安全研究员参与组织硅谷“默认同意”式性派对的事件。该事件引发了关于AI安全领域从业者私下行为是否影响其专业判断，以及此类活动是否对行业女性造成压力的争议。",
+      "tags": [
+        "culture/sociology/technology",
+        "AI",
+        "business"
+      ]
+    },
+    {
+      "id": "0e7da4629e11a0a7",
+      "title": "[Sponsor] Ivy: The To-do List That Ends",
+      "url": "https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T23:18:35+00:00",
+      "summary_zh": "文章介绍了一款名为Ivy的待办事项应用，其核心设计理念是“每日清零”，基于“艾维·李方法”帮助用户专注于当天的有限任务。该应用集成了日历、提醒事项、专注时段和日记等功能，并原生开发于苹果生态系统。",
+      "tags": [
+        "mobile",
+        "mobile/ios",
+        "tools/productivity",
+        "design"
+      ]
+    },
+    {
+      "id": "640f10b40e483248",
+      "title": "Developers Continue to Optimize iPhone Apps for the Duo",
+      "url": "https://x.com/arinwaichulis/status/2122397676767522942",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T23:09:05+00:00",
+      "summary_zh": "文章提到为iPhone Duo（一款可折叠iPhone）优化的应用数量在短时间内翻倍，超过了20万个。作者在测试新机时发现更多应用已适配，但奇怪的是苹果自家的Apple Store应用却仍未优化。",
+      "tags": [
+        "mobile",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "26e4ae976ac35c79",
+      "title": "Irish Goodbye / French Leave / Leave the English Way",
+      "url": "https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T22:55:38+00:00",
+      "summary_zh": "文章探讨了“不告而别”这一行为在不同文化中的称呼差异，例如美国人称之为“爱尔兰式告别”，英国人称之为“法国式离开”，而法国人则称之为“英国式离开”。作者分享了对此行为的个人看法，认为其并非不礼貌，而是一种巧妙的离开方式。",
+      "tags": [
+        "culture",
+        "culture/sociology",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "1358dbc00f2e6914",
+      "title": "MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)",
+      "url": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T20:27:34+00:00",
+      "summary_zh": "文章详细介绍了macOS 27.3 Beta 2中对“完全磁盘访问”权限管理的重大改动。苹果将原有的统一控制项拆分为“辅助功能”和“系统和应用保护覆盖”两个独立类别，后者允许用户更精细地控制自动化工具可以访问哪些特定应用，而非授予其无限制的系统控制权。",
+      "tags": [
+        "security",
+        "mobile/macos",
+        "design"
+      ]
+    },
+    {
+      "id": "9cb957403573c614",
+      "title": "‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T19:22:38+00:00",
+      "summary_zh": "文章介绍了iOS 27.3 Beta 2为iPhone Duo新增的“使用前置摄像头解锁”功能，作为对缺少Face ID的补充。该功能仅在锁屏界面可用，且需要近期通过Touch ID或密码进行过认证，大约45分钟不活动后需重新使用Touch ID。",
+      "tags": [
+        "mobile",
+        "mobile/ios",
+        "security",
+        "hardware"
+      ]
+    },
+    {
+      "id": "de53e4a44e16b68f",
+      "title": "Ben Thompson on Nvidia",
+      "url": "https://stratechery.com/2026/obituaries/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T18:44:02+00:00",
+      "summary_zh": "文章分析了英伟达利用其现金流和信用评级为其芯片客户提供资金支持的“高风险业务”模式。作者指出，这种由创始人主导的、支撑整个AI生态系统的“开放支票簿”模式可能难以持续，一旦行业收入未达预期，英伟达的这项对冲策略可能变成负担。",
+      "tags": [
+        "business",
+        "AI",
+        "hardware",
+        "cloud"
+      ]
+    },
+    {
+      "id": "5153c90e5459a655",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "author": "Dwarkesh Patel",
+      "feed_title": "dwarkesh.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T17:46:28+00:00",
+      "summary_zh": "文章介绍了AI安全专家Paul Christiano的观点，他认为按照当前发展轨迹，一年内出现足以推翻政府的超级智能有三分之一的可能性。他主张AI实验室应暂停算法进展，先确保模型权重和研究机密的安全，并讨论了在智能爆炸期间对齐超级智能的挑战。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "security",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "1fe2672ad8f8845e",
+      "title": "WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’",
+      "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T17:37:48+00:00",
+      "summary_zh": "文章报道称，英伟达作为AI经济“开放支票簿”的日子可能即将结束。在创始人卸任CEO后，新任财务负责人对之前的一些交易持谨慎态度，公司预计将收缩对依赖其芯片的初创公司的资金支持，这与之前宣布的巨额收购Hugging Face的交易形成对比。",
+      "tags": [
+        "business",
+        "AI",
+        "hardware",
+        "cloud"
+      ]
+    },
+    {
+      "id": "78ac7dbb496cfb5c",
+      "title": "Here's how anyone can easily use private, open weight models",
+      "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+      "author": "Micah Lee",
+      "feed_title": "micahflee.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T16:35:27+00:00",
+      "summary_zh": "文章指出，尽管OpenAI和Anthropic等闭源模型存在数据隐私等问题，但用户无需依赖它们或昂贵的硬件。实际上，存在大量开源模型和工具生态系统，特别是“开放权重”模型，任何人都可以下载和托管使用，为个人提供了私密、可控的替代方案。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "open-source"
+      ]
+    },
+    {
+      "id": "fd03feae0837be25",
+      "title": "Oprah Gives Everyone in Her Audience a ‘Duo iPhone’",
+      "url": "https://youtu.be/j0Rsv1U3Q7A",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T16:05:18+00:00",
+      "summary_zh": "文章简要报道了奥普拉·温弗瑞在其播客节目中，延续其标志性的“奥普拉最爱之物”传统，向现场观众赠送了“Duo iPhone”。现场观众反应热烈。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "hardware"
+      ]
+    },
+    {
+      "id": "0aa598170534fdd5",
+      "title": "My Empire of Dirt",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "author": "",
+      "feed_title": "geohot.github.io",
+      "category": "Blogs",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "summary_zh": "文章批判了以Anthropic为代表的“单体”AI意识形态，认为其追求由AI代理内部生成需求、将人类排除在外的未来愿景是危险且自大的。作者质疑这种发展最终服务于谁，并表达了对有效利他主义等思潮的担忧。",
+      "tags": [
+        "AI",
+        "culture/sociology/technology",
+        "business"
+      ]
+    },
+    {
+      "id": "de2b5f630c871195",
+      "title": "Robert Pattinson Is the Next James Bond",
+      "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T15:36:52+00:00",
+      "summary_zh": "文章确认罗伯特·帕丁森已被选为下一任詹姆斯·邦德的扮演者，结束了数月来的猜测。作者认为这是一个可靠的选择，并期待导演丹尼斯·维伦纽瓦能成功执导。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "57b32abd47595a1e",
+      "title": "Taxis and hash functions",
+      "url": "https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T14:46:36+00:00",
+      "summary_zh": "文章以2014年纽约市出租车数据泄露事件为例，探讨哈希函数在隐私保护中的应用与误区。核心指出，问题的根源不在于使用了已被攻破的MD5算法，而在于使用了未加盐的公开哈希函数，使得攻击者可以通过对已知小规模数据集（如所有车牌号）进行哈希来反向匹配。",
+      "tags": [
+        "security",
+        "programming/algorithms"
+      ]
+    },
+    {
+      "id": "332d0cad59d15121",
+      "title": "Gig Review: ABBA Voyage ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-16T12:34:40+00:00",
+      "summary_zh": "作者分享了在伦敦观看ABBA Voyage虚拟音乐会的体验，形容其效果令人惊叹，通过灯光、激光和环绕声系统创造了沉浸式体验。同时，作者也指出虚拟形象存在“恐怖谷”效应，使其看起来像游戏过场动画，并认为现场乐队伴奏的缺席让演出感觉更像一场电影。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "design"
+      ]
+    },
+    {
+      "id": "238e833623d5f93d",
+      "title": "The rise and fall of Syquest",
+      "url": "https://dfarq.homeip.net/the-rise-and-fall-of-syquest/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-and-fall-of-syquest",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-16T12:00:33+00:00",
+      "summary_zh": "文章回顾了Syquest公司及其可移动硬盘的兴衰史。Syquest在USB闪存盘普及之前，为解决数据移动存储问题提供了巧妙的解决方案，但如今该技术已完全过时。",
+      "tags": [
+        "hardware",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "5446f7cc17eb4d12",
+      "title": "Weekly Update 530: Email Dependencies & Apps",
+      "url": "https://www.troyhunt.com/weekly-update-530/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T07:09:38+00:00",
+      "summary_zh": "文章以微软近期邮件服务中断事件为例，探讨了电子邮件作为关键基础设施的依赖性问题。作者认为，虽然不应因此否定邮件的用途，但此次中断是一个契机，促使我们审视在关键通信（如安全警报）中引入冗余渠道的必要性。",
+      "tags": [
+        "web",
+        "devops",
+        "business"
+      ]
+    },
+    {
+      "id": "ac7338b099785557",
+      "title": "Orbital footnote",
+      "url": "https://www.johndcook.com/blog/2026/11/15/orbital-footnote/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T02:19:01+00:00",
+      "summary_zh": "文章对一篇关于矮行星候选体ED138轨道计算的博文进行了补充。通过对比“距离太阳46倍于地日距离”这一描述分别指代远日点距离和平均距离的两种假设，作者计算出两种截然不同的轨道偏心率，凸显了天文描述中精确性的重要。",
+      "tags": [
+        "programming",
+        "programming/algorithms"
+      ]
+    },
+    {
+      "id": "4d781f5b684eed93",
+      "title": "People will lose their jobs over GTA 6",
+      "url": "https://idiallo.com/blog/losing-your-job-over-a-video-game",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-16T00:40:21+00:00",
+      "summary_zh": "作者以《GTA 6》即将发售引发玩家请假热潮为引，结合自身曾因沉迷《合金装备5》而逐渐将游戏优先于工作的经历，探讨了工作与个人兴趣的平衡问题。故事核心讲述了作者在项目维护阶段，因客户频繁且无理的变更请求而感到沮丧，最终在游戏诱惑下逐渐疏于职守，暗示了过度沉迷可能导致职业风险。",
+      "tags": [
+        "culture",
+        "career",
+        "business"
+      ]
+    },
+    {
+      "id": "3c506afcbc502083",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T23:58:36+00:00",
+      "summary_zh": "文章宣布了Datasette的新地理空间插件datasette-maplibre的初始版本发布。该插件整合了MapLibre GL库和OpenFreeMap免费矢量地图服务，并利用Claude Fable 5.2 AI辅助开发，实现了创新功能，如滚动时才加载WebGL预览以提升性能。",
+      "tags": [
+        "web",
+        "web/development",
+        "tools",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "0139ca5c534e35bb",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T23:20:27+00:00",
+      "summary_zh": "文章介绍了Datasette 1.0a43版本的主要更新，包括为输出渲染器增加了流式支持、多个安全修复（其中一个涉及私有查询泄露）、行页面JSON API的重新设计以及新增Web组件等数十项改进。作者提到大量使用了Claude Fable 5.2来加速实现1.0里程碑的功能。",
+      "tags": [
+        "web",
+        "web/development",
+        "tools",
+        "database",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "9f458effb436880f",
+      "title": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T23:18:17+00:00",
+      "summary_zh": "Datasette 发布了 0.65.6 版本，该版本从 1.0a43 向后移植了一个次要的安全修复。修复了一个安全问题，即当使用 `add_database` 注册数据库并指定了与名称不同的路由时，被拒绝访问的参与者仍可能通过 `/` 下载该数据库。",
+      "tags": [
+        "security",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "87d2912ca1d33f52",
+      "title": "What’s Next For Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "author": "steve blank",
+      "feed_title": "steveblank.com",
+      "category": "Blogs",
+      "published_at": "2026-11-15T22:15:04+00:00",
+      "summary_zh": "文章讨论了在创始人兼CEO黄仁勋宣布离职后，英伟达公司可能面临的未来挑战。作者回顾了黄仁勋三次重塑公司的关键决策（如CUDA、转向深度学习），并指出公司可能面临创新停滞的风险。文章旨在探讨这家科技巨头在后创始人时代的战略方向。",
+      "tags": [
+        "business",
+        "business/management",
+        "AI",
+        "hardware"
+      ]
+    },
+    {
+      "id": "6cd5b0f193a27c85",
+      "title": "The Legion of PCAST",
+      "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T17:14:42+00:00",
+      "summary_zh": "文章评论了特朗普政府的总统科技顾问委员会（PCAST）的成员构成，将其比作“末日军团”。重点提及了包括大卫·萨克斯、马克·安德森、谢尔盖·布林等在内的亿万富翁支持者，并对该委员会在人工智能等领域可能产生的影响进行了政治和社会层面的讨论。",
+      "tags": [
+        "culture",
+        "culture/sociology/politics",
+        "AI",
+        "business"
+      ]
+    },
+    {
+      "id": "480b9a157ab5c8d4",
+      "title": "WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T15:52:01+00:00",
+      "summary_zh": "文章介绍了WorkOS的Airlock产品，该产品旨在解决AI智能体（Agent）使用工具时的权限控制问题。它允许用户为AI任务设定策略，对每个工具调用进行意图检查、裁决（允许/拒绝/人工审核）并记录日志，从而避免赋予智能体过度或不足的权限。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "security",
+        "tools"
+      ]
+    },
+    {
+      "id": "96d3fb6520e02075",
+      "title": "ASI as a Black Box",
+      "url": "https://borretti.me/article/asi-as-a-black-box",
+      "author": "",
+      "feed_title": "borretti.me",
+      "category": "Blogs",
+      "published_at": "2026-11-15T13:00:00+00:00",
+      "summary_zh": "文章探讨了人工超级智能（ASI）作为一个“黑箱”的概念。作者指出，仅从定义出发很难推断ASI的具体形态，并以说服力和科学发现为例，说明我们在缺乏相关演绎理论的情况下，无法确切知道ASI能力的上限。",
+      "tags": [
+        "AI",
+        "culture",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "b9d556eadf84f39c",
+      "title": "Variable Electricity Pricing - the Highs and the Lows",
+      "url": "https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-15T12:34:58+00:00",
+      "summary_zh": "作者分享了家庭使用Octopus Energy可变电价套餐的体验。该套餐每半小时根据供需调整电价，在可再生能源充足时电价极低甚至为负（用户获得报酬），而在需求高峰时电价上涨。文章通过自制显示屏展示了价格波动，并讨论了这种定价模式的利弊。",
+      "tags": [
+        "business",
+        "culture",
+        "culture/technology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "92f42de25db27764",
+      "title": "Date codes on cardboard boxes",
+      "url": "https://dfarq.homeip.net/date-codes-on-cardboard-boxes/?utm_source=rss&utm_medium=rss&utm_campaign=date-codes-on-cardboard-boxes",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-15T12:03:44+00:00",
+      "summary_zh": "文章提供了一个小技巧：通过产品包装箱上的日期代码来判断物品的生产日期。作者指出，当内部零件没有明确日期标识时，外包装箱上的代码常常是确定生产时间的关键线索。",
+      "tags": [
+        "hardware",
+        "hardware/peripherals",
+        "culture",
+        "culture/history/technology"
+      ]
+    }
+  ]
+}
