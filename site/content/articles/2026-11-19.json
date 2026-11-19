@@ -1,0 +1,475 @@
+{
+  "date": "2026-11-19",
+  "article_count": 31,
+  "tokens_used": 16202,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T03:52:10+00:00",
+      "summary_zh": "本文以怀旧口吻，模拟了1986年如何在Commodore 64电脑上安装程序的过程。核心步骤是需要骑自行车去购物中心的特定书店，在有限的电脑杂志中寻找并购买载有程序的刊物。文章生动地描绘了早期个人计算机用户获取软件的独特体验。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "1f045681c00cb575",
+      "title": "NYC’s venture capitalists need to love themselves",
+      "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T03:52:10+00:00",
+      "summary_zh": "作者批评了纽约市许多风险投资家缺乏自信，过度迎合硅谷投资者而贬低本地社区的现象。他认为这种做法既不符合纽约精神，也不利于本地优秀人才和创意的发展，呼吁投资者应更有主见地支持本地生态。",
+      "tags": [
+        "business",
+        "culture",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "90a1d31587dabb01",
+      "title": "Supersequences and Superpermutations",
+      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T00:10:21+00:00",
+      "summary_zh": "文章探讨了“超序列”的概念，即一个包含其字母表所有排列作为子序列的字符串。作者举例说明了包含10个数字所有排列的最小超序列（83个字符），并将其与要求更严格的“超排列”进行了对比。",
+      "tags": [
+        "programming",
+        "programming/algorithms",
+        "AI"
+      ]
+    },
+    {
+      "id": "4f6f205d7a43e845",
+      "title": "★ The 50-Yard Line",
+      "url": "https://daringfireball.net/2026/11/the_50-yard_line",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T20:42:23+00:00",
+      "summary_zh": "文章回顾并评论了英伟达CEO黄仁勋此前对特朗普总统的公开赞扬，认为其言论在特朗普支持率低迷的背景下显得格外突兀和谄媚。作者暗示黄仁勋可能未能准确感知当时的政治氛围。",
+      "tags": [
+        "business",
+        "culture",
+        "culture/sociology/politics"
+      ]
+    },
+    {
+      "id": "bef7de4e40c7c443",
+      "title": "Email Dumpster Diving",
+      "url": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-11-18T19:00:00+00:00",
+      "summary_zh": "作者分享了自己定期查看垃圾邮件文件夹的习惯，认为这既能偶尔发现被误判的邮件，也是一种了解最新网络钓鱼和诈骗手段的“主动免疫”方式。文中列举了利用云服务账单到期等话术的常见诈骗邮件示例。",
+      "tags": [
+        "security",
+        "culture",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "5f73b59a3fca2b79",
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T17:09:59+00:00",
+      "summary_zh": "文章介绍了新发布的Datasette插件`datasette-arrows`，它利用Datasette新增的流式导出API，实现了对Apache Arrow IPC流格式的支持。该插件由AI助手建议并构建，允许用户高效地导出大量数据供DuckDB、pandas等工具使用。",
+      "tags": [
+        "programming",
+        "open-source",
+        "tools",
+        "database/sqlite"
+      ]
+    },
+    {
+      "id": "27f7b51e3bf8f5a8",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T15:58:27+00:00",
+      "summary_zh": "文章引用了curl作者Daniel Stenberg的观点，他指出在AI代理将大量C代码“移植”成Rust代码的几周内，真正的curl项目合并了数百次提交并修复了数百个bug（包括安全漏洞），质疑这些重写版本能否跟上原项目的迭代速度。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "programming",
+        "security",
+        "open-source"
+      ]
+    },
+    {
+      "id": "f8510781afc82e6a",
+      "title": "Jensen Huang Tweets",
+      "url": "https://x.com/JensenHuang/status/2122726005219737649",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T15:39:16+00:00",
+      "summary_zh": "文章评论了黄仁勋在社交媒体上公开表示愿意应召回归英伟达担任CEO的推文，认为此举有失体面。同时批评了部分支持者将美国经济与对华芯片销售简单挂钩的言论，指出国家安全考量已占据上风。",
+      "tags": [
+        "business",
+        "culture",
+        "culture/sociology/politics",
+        "hardware"
+      ]
+    },
+    {
+      "id": "d6b88907cbdaa308",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T14:44:48+00:00",
+      "summary_zh": "作者以Python软件基金会董事身份，呼吁受益于Python的公司和个人参与其年终募捐活动。文中介绍了PSF在维护Python知识产权、运营PyPI、赞助开发者活动、保障生态安全等方面的重要工作。",
+      "tags": [
+        "open-source",
+        "programming",
+        "culture"
+      ]
+    },
+    {
+      "id": "491f62b5f2b0e33f",
+      "title": "Once More Unto The Breach - Another Year In Review",
+      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-18T12:34:00+00:00",
+      "summary_zh": "这是作者在辞职并实现“财务独立，提前退休”近两年后撰写的年度回顾。文章以轻松的口吻分享了退休后观看演出、旅行等悠闲生活，并在HTML注释中隐藏了与读者互动的“评论俱乐部”彩蛋。",
+      "tags": [
+        "culture",
+        "career"
+      ]
+    },
+    {
+      "id": "665acbf0212b3f56",
+      "title": "Push button telephones introduced November 18, 1963",
+      "url": "https://dfarq.homeip.net/push-button-telephones-introduced-november-18-1963/?utm_source=rss&utm_medium=rss&utm_campaign=push-button-telephones-introduced-november-18-1963",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T12:00:04+00:00",
+      "summary_zh": "文章简要纪念了按键式电话（或称双音多频电话）于1963年11月18日首次推出，距今已62年。它取代了之前的转盘式电话，标志着电话输入方式的一次重要革新。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "0fec83a711f4a85b",
+      "title": "This Week in Source Control: 18 November 2026",
+      "url": "https://nesbitt.io/2026/11/18/this-week-in-source-control.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-18T10:00:00+00:00",
+      "summary_zh": "这是一份关于版本控制和代码托管平台的周度新闻摘要。本期重点介绍了Gerrit 3.15.0的发布，其新特性包括将reftable存储格式投入生产、新增用于批量操作文件的REST API，以及标记AI生成评论的功能。",
+      "tags": [
+        "programming",
+        "tools",
+        "devops",
+        "AI"
+      ]
+    },
+    {
+      "id": "c34e5e97e9af2ea3",
+      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T08:28:46+00:00",
+      "summary_zh": "文章探讨了“恶化”现象，即糟糕的商业实践与诈骗之间的界限日益模糊，使得诈骗者更容易得手。作者认为，当用户难以区分低劣服务和蓄意欺诈时，整个环境就对诈骗者更加有利。",
+      "tags": [
+        "business",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "e010dc913600f8d7",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-18T02:52:04+00:00",
+      "summary_zh": "攻击者利用Optimizely平台的漏洞，在包括BBC、CNN在内的至少178个顶级网站上进行了恶意软件A/B测试。此事件暴露了网站对第三方内容来源管控不严的安全风险。",
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "id": "65aee7c4908b5c1c",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/",
+      "author": "",
+      "feed_title": "xeiaso.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "summary_zh": "文章以讽刺口吻评论了NGINX项目因C语言编写的组件而出现严重内存安全漏洞的事件。作者指出，C语言是此类漏洞频发的“唯一”语言，并模仿了开发者对此类事件“无能为力”的常见说辞。",
+      "tags": [
+        "programming",
+        "security"
+      ]
+    },
+    {
+      "id": "3af01553d0558db3",
+      "title": "Are vibe-coded games making me a substance dualist?",
+      "url": "https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist",
+      "author": "",
+      "feed_title": "rakhim.exotext.com",
+      "category": "Blogs",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "summary_zh": "作者反思了由AI“氛围编码”生成的电子游戏所带来的“诡异谷”体验，认为它们缺乏人类作品中的“灵魂”或情感共鸣。文章探讨了艺术创作中技术与人性的界限。",
+      "tags": [
+        "AI",
+        "culture/media",
+        "design"
+      ]
+    },
+    {
+      "id": "b4439a7527ca175b",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T22:52:29+00:00",
+      "summary_zh": "文章介绍了一种为AI编码智能体设计的外部沙箱模式，旨在安全地执行代码而无需担心对主机造成损害。作者发布了三种沙箱服务器的实现，以隔离运行智能体生成的代码。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "security"
+      ]
+    },
+    {
+      "id": "0b5f35342ecc69a5",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T22:38:52+00:00",
+      "summary_zh": "OpenAI发布了GPT-6.2 Astra和GPT-6.2 Sol两款新模型，分别针对高难度项目和日常任务。文章介绍了新模型的API价格、性能特点，并提供了相关工具的更新信息。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "e7a0bec0b9958009",
+      "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
+      "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T18:41:12+00:00",
+      "summary_zh": "文章介绍了SetShot 1.0，一款用于追踪macOS系统设置变化的开源工具。该工具通过对比快照来记录由用户、系统或应用引起的设置变更，帮助用户洞察系统底层变化。",
+      "tags": [
+        "tools/productivity",
+        "mobile/macos",
+        "open-source"
+      ]
+    },
+    {
+      "id": "e3502e78fdc762d4",
+      "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
+      "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T18:21:23+00:00",
+      "summary_zh": "苹果的云服务（包括iCloud、App Store等）及官方状态页面出现大规模故障，导致用户在多款应用中遇到同步和登录问题。文章记录了故障现象和后续恢复情况。",
+      "tags": [
+        "cloud",
+        "mobile/macos",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "9e24bec0316d82cc",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T16:48:33+00:00",
+      "summary_zh": "Datasette Lite经过重写，现在能通过Service Workers和Pyodide在浏览器中运行完整的服务器端Datasette Python应用。用户可以通过URL参数灵活加载特定版本、插件和数据库文件。",
+      "tags": [
+        "web",
+        "programming",
+        "tools",
+        "database/sqlite"
+      ]
+    },
+    {
+      "id": "a2883eff0fadbb48",
+      "title": "My Empire of Sunshine and Roses",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html",
+      "author": "",
+      "feed_title": "geohot.github.io",
+      "category": "Blogs",
+      "published_at": "2026-11-17T16:00:00+00:00",
+      "summary_zh": "作者从“差异历史”和反事实的角度思考个人对世界的影响，并讨论了AI发展的确定性与不确定性。文章反思了技术演进中的集中化与去中心化力量。",
+      "tags": [
+        "AI",
+        "culture/sociology/technology",
+        "business"
+      ]
+    },
+    {
+      "id": "2071a434439b80d8",
+      "title": "The NVIDIA Bubble",
+      "url": "https://www.wheresyoured.at/the-nvidia-bubble/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-17T15:43:58+00:00",
+      "summary_zh": "文章深入分析了NVIDIA在AI热潮中的财务状况和市场地位，探讨其是否存在泡沫。作者提供了对AI债务、基础设施巨头以及生成式AI经济影响的系列深度分析。",
+      "tags": [
+        "business",
+        "AI",
+        "hardware"
+      ]
+    },
+    {
+      "id": "c818f11d70b8d7e3",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-11-17T15:00:00+00:00",
+      "summary_zh": "作者分享了他搭建精密时间服务器并加入公共NTP池的经历。他使用树莓派、高精度GNSS模块和TimeHAT构建了一个Stratum 1时间源，并对外提供了一个Stratum 2公共NTP服务器。",
+      "tags": [
+        "hardware",
+        "networking",
+        "open-source"
+      ]
+    },
+    {
+      "id": "446ee16a12eff787",
+      "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-17T15:00:00+00:00",
+      "summary_zh": "文章探讨了1987年微软内部员工价目表中，为何MS-DOS BASIC编译器比解释器更便宜。作者推测这并非反映零售价，而是基于内部成本核算（如物料和管理费），并认为可能因为编译器手册更薄、省略了语言基础教程。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "programming"
+      ]
+    },
+    {
+      "id": "c5e5692e95be6c35",
+      "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T13:01:56+00:00",
+      "summary_zh": "这是一篇内容广泛的博客文章摘要，包含多个主题链接，如“对过去蛋白质的回忆”、科技文化评论和媒体观察。文章本身是一个链接合集，而非单一主题的深入探讨。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "c0b90f4191eac5b9",
+      "title": "HomeAssistant - shrink a HAOS qcow2 filesystem",
+      "url": "https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-17T12:34:37+00:00",
+      "summary_zh": "文章详细介绍了如何手动缩小HomeAssistant OS（HAOS）虚拟磁盘qcow2文件的大小，以回收未使用的磁盘空间。步骤包括完全关闭HAOS、备份原文件、使用qemu-img工具检查和调整磁盘映像。",
+      "tags": [
+        "devops",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "e391cacdac52bcb2",
+      "title": "Paul Brainerd, creator of desktop publishing",
+      "url": "https://dfarq.homeip.net/paul-brainerd-creator-of-desktop-publishing/?utm_source=rss&utm_medium=rss&utm_campaign=paul-brainerd-creator-of-desktop-publishing",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T12:00:02+00:00",
+      "summary_zh": "文章简要介绍了保罗·布雷纳德，一位从记者转型的软件开发者，他是桌面出版技术的创造者，永久改变了人类在纸上呈现文字的方式。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "design"
+      ]
+    },
+    {
+      "id": "c0b32b4b52db4221",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "author": "Stefano Marinelli",
+      "feed_title": "it-notes.dragas.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T08:30:00+00:00",
+      "summary_zh": "文章基于一次演讲，探讨了开源生态系统在Linux之外的广阔世界，重点介绍了BSD、illumos等替代操作系统。作者旨在反思开源作为一种理念、哲学和知识共享实践的意义。",
+      "tags": [
+        "open-source",
+        "culture/technology",
+        "programming"
+      ]
+    },
+    {
+      "id": "38f599c774ee5c8e",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-17T06:16:26+00:00",
+      "summary_zh": "文章引用了Go语言的一句谚语：“一点复制好过一点依赖”，强调了在Go编程哲学中，有时直接复制少量代码比引入一个外部依赖更可取。",
+      "tags": [
+        "programming",
+        "programming/algorithms",
+        "culture"
+      ]
+    },
+    {
+      "id": "abf110bc13dc7834",
+      "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-17T05:54:01+00:00",
+      "summary_zh": "文章解答了如何让一个后台程序显示的对话框看起来像是由前台GUI程序弹出的。核心解决方案是GUI程序需要将其窗口句柄传递给后台程序，以便后者能将其设置为对话框的“所有者”，从而确保正确的窗口层级和模态行为。",
+      "tags": [
+        "programming",
+        "programming/windows",
+        "tools"
+      ]
+    }
+  ]
+}
