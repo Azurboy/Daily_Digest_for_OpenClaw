@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-20",
+  "article_count": 30,
+  "tokens_used": 15824,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "478ea25aeed3c997",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T02:49:57+00:00",
+      "summary_zh": "ChatPRD创始人Claire Vo在视频中揭露其AI平台遭遇严重的“令牌欺诈”滥用，攻击者利用免费试用获取AI服务进行转售或商业活动。她描述了欺诈者如何通过特定提示词探测底层模型，并最终决定完全取消免费试用以应对此类滥用。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "business"
+      ]
+    },
+    {
+      "id": "d9af8902cca988a1",
+      "title": "Another company I've never heard of lost my Data",
+      "url": "https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T23:27:30+00:00",
+      "summary_zh": "作者收到一家从未听说过的公司Premise Health的通知，称其包含社保号在内的个人数据因员工不当操作而泄露。文章批评了数据泄露后仅提供一年免费信用监控的常规处理方式，并指出缺乏严厉惩罚导致此类事件频繁发生。",
+      "tags": [
+        "security",
+        "business"
+      ]
+    },
+    {
+      "id": "f9e2a03322c8839f",
+      "title": "★ Jon McCormack Retires From Apple",
+      "url": "https://daringfireball.net/2026/11/mccormack_retires_from_apple",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T22:25:12+00:00",
+      "summary_zh": "苹果公司负责相机和照片应用的副总裁Jon McCormack于十月底退休。他在苹果工作八年多，领导了iPhone相机技术和照片应用的开发，包括去年iPhone 17系列的自拍相机 redesign。",
+      "tags": [
+        "mobile",
+        "mobile/ios",
+        "career"
+      ]
+    },
+    {
+      "id": "8cea87557ea7742b",
+      "title": "Google’s Spark AI Agent Becomes ‘Tasks’",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T20:54:10+00:00",
+      "summary_zh": "谷歌将其Spark AI助手更名为“Tasks”并免费开放，该功能基于Gemini 4 Hydrogen模型，可协助制定计划、管理日历和分析邮件。文章同时批评了谷歌产品频繁更名且新名与现有待办应用“Google Tasks”冲突的混乱做法。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "a457925fbd609abe",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T20:43:57+00:00",
+      "summary_zh": "PostgreSQL 19 正式发布，虽然因处理AI报告的安全漏洞而推迟，但带来了重要新特性。其中最受关注的是`WAIT FOR LSN`命令，它为备用数据库提供了“读写一致性”支持，确保应用能读取到刚刚在主库上写入的数据。",
+      "tags": [
+        "database",
+        "open-source",
+        "performance"
+      ]
+    },
+    {
+      "id": "4a9cee56b0487730",
+      "title": "Grand Theft Auto 6",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T20:30:10+00:00",
+      "summary_zh": "文章探讨了《侠盗猎车手6》(GTA 6) 在面临前作巨大成功和行业困境背景下的超高期待。Rockstar公司有充足时间开发续作，但一系列泄露和延期进一步推高了这款被视为独立文化现象的游戏的热度。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "60122eeda25938db",
+      "title": "Closing The Sandwich Shop",
+      "url": "https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny",
+      "author": "Ernie Smith",
+      "feed_title": "tedium.co",
+      "category": "Blogs",
+      "published_at": "2026-11-19T18:38:35+00:00",
+      "summary_zh": "在Anthropic AI公司上市之际，文章哀悼了老牌新闻网站Salon的关闭，其原因是数字新闻的商业模式难以为继。作者回顾了Salon早期围绕新闻和评论区构建社区的历程，并强调了媒体掌握自身命运的重要性。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "dff7061a0aa174e0",
+      "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
+      "url": "https://www.techmeme.com/261118/p34#a261118p34",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T16:33:16+00:00",
+      "summary_zh": "文章对Anthropic的IPO持怀疑态度，认为LLM技术并无永久护城河，当前的繁荣是由英伟达推动的泡沫。作者还质疑Anthropic公司内部的文化和管理层是否适合领导一家上市公司。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "business"
+      ]
+    },
+    {
+      "id": "35e664d0b0b90bcf",
+      "title": "My Least Favorite Example in Software Engineering",
+      "url": "https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/",
+      "author": "",
+      "feed_title": "buttondown.com/hillelwayne",
+      "category": "Blogs",
+      "published_at": "2026-11-19T15:40:32+00:00",
+      "summary_zh": "作者阐述了对软件工程中教学示例的深刻见解，认为优秀示例应简单易懂、清晰展示主题、符合现实情况并能启发寻找同类问题。他将在演讲中重点讨论那些不符合这些标准的“最差示例”。",
+      "tags": [
+        "programming",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "cd735e5214d8fecc",
+      "title": "Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/19/loan-out-companies/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T14:10:14+00:00",
+      "summary_zh": "文章警告创作者，通过“贷款输出公司”处理版权事务可能会使其丧失“终止转让权”这一重要的版权劳动保护政策。该政策允许创作者在一定年限后收回版权，但复杂的公司结构可能使其失效。",
+      "tags": [
+        "business",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "41ab334ec7bdb49e",
+      "title": "Theatre Review: FORT – a new opera ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-19T12:34:32+00:00",
+      "summary_zh": "这是一篇关于新歌剧《FORT》的剧评。作者赞赏了两位女高音和手风琴演奏家的杰出才华，但认为曲谱过于基础且缺乏旋律，导致75分钟的单幕剧略显重复和拖沓，尽管剧情塞满了众多戏剧性元素。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "72405032007547e8",
+      "title": "Tandy 1000 models",
+      "url": "https://dfarq.homeip.net/tandy-1000-models/?utm_source=rss&utm_medium=rss&utm_campaign=tandy-1000-models",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-19T12:00:02+00:00",
+      "summary_zh": "文章简要介绍了Tandy 1000型号电脑，指出它并非坦迪公司首款IBM PC兼容机，而是于1983年底开始筹备、面向家庭和教育市场的个人电脑。",
+      "tags": [
+        "hardware",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "fb65a2aebf9649db",
+      "title": "SO Is Back! No, Not Stack Overflow, but Its Spirit",
+      "url": "https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit",
+      "author": "rss@idiallo.com",
+      "feed_title": "idiallo.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T07:27:09+00:00",
+      "summary_zh": "文章对比了Stack Overflow的问答机制与大型语言模型（LLM）的异同。作者指出，LLM虽然能更积极地回答问题，但也存在因安全策略而拒绝回答或引导付费的情况。这引发了关于知识获取自由与限制的讨论。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T03:52:10+00:00",
+      "summary_zh": "文章以幽默怀旧的口吻，描述了在1986年为Commodore 64电脑获取和安装程序的繁琐过程。作者详细讲述了需要骑自行车去商场书店寻找特定计算机杂志的步骤，生动再现了早期个人计算机时代的软件分发方式。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "1f045681c00cb575",
+      "title": "NYC’s venture capitalists need to love themselves",
+      "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/",
+      "author": "",
+      "feed_title": "anildash.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T03:52:10+00:00",
+      "summary_zh": "作者批评了纽约市的一些风险投资家缺乏自信，过度迎合硅谷的价值观和认可。文章呼吁本地投资者应更自信地支持纽约本地的优秀人才和创意，维护本地的社区精神和商业利益。",
+      "tags": [
+        "business",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "90a1d31587dabb01",
+      "title": "Supersequences and Superpermutations",
+      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T00:10:21+00:00",
+      "summary_zh": "文章介绍了“超序列”（supersequence）的概念，即一个包含其字母表所有排列作为子序列的字符串。作者通过一个包含所有10位数字排列的83字符短序列例子，探讨了其与“超排列”（superpermutation）的区别及相关数学研究。",
+      "tags": [
+        "programming",
+        "programming/algorithms",
+        "AI/LLM"
+      ]
+    },
+    {
+      "id": "f3b6a5ce82542050",
+      "title": "Inside PyPy: first contact with RPython",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss",
+      "author": "",
+      "feed_title": "bernsteinbear.com",
+      "category": "Blogs",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "summary_zh": "文章探讨了构建编程语言实现时对工具链的选择，重点介绍了RPython。作者对比了RPython、Truffle和Deegen等工具的不同方法，并分享了开始使用RPython进行语言实现的初步体验和思考。",
+      "tags": [
+        "programming",
+        "tools",
+        "open-source"
+      ]
+    },
+    {
+      "id": "02f125d9c6cc4401",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T23:59:20+00:00",
+      "summary_zh": "文章介绍了llm-gemini插件0.38版本的发布，该版本支持新的Gemini 4 Neon模型。作者同时批评了Google Gemini 4系列模型混乱的定价和产品线命名，认为这给开发者带来了困惑。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "tools"
+      ]
+    },
+    {
+      "id": "a9edce1f6fee841f",
+      "title": "Unburden yourself of the backlog",
+      "url": "https://entropicthoughts.com/unburden-yourself-of-the-backlog",
+      "author": "a@xkqr.org (kqr)",
+      "feed_title": "entropicthoughts.com",
+      "category": "Blogs",
+      "published_at": "2026-11-18T23:00:00+00:00",
+      "summary_zh": "文章借鉴前潜艇指挥官David Marquet的领导经验，探讨了透明化领导风格在团队管理中的优势。核心观点是，管理者应摆脱对“任务待办清单”（backlog）的过度依赖和微观管理，转而赋能团队，以释放更大效能。",
+      "tags": [
+        "business",
+        "culture",
+        "devops"
+      ]
+    },
+    {
+      "id": "4f6f205d7a43e845",
+      "title": "★ The 50-Yard Line",
+      "url": "https://daringfireball.net/2026/11/the_50-yard_line",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T20:42:23+00:00",
+      "summary_zh": "文章评论了英伟达CEO黄仁勋此前对特朗普的公开赞扬，并将其与近期黄仁勋卷入的政治丑闻联系起来。作者认为，黄仁勋早期的奉承言论在当下政治环境下显得尤为尴尬和不合时宜。",
+      "tags": [
+        "business",
+        "culture/sociology/politics",
+        "AI"
+      ]
+    },
+    {
+      "id": "bef7de4e40c7c443",
+      "title": "Email Dumpster Diving",
+      "url": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-11-18T19:00:00+00:00",
+      "summary_zh": "作者分享了自己定期查看垃圾邮件文件夹的习惯，并将其视为一种了解当前网络钓鱼和诈骗手段的“接种”方式。文章列举了常见的诈骗邮件类型，如云服务账单过期、信用卡更新等，以提高读者的安全意识。",
+      "tags": [
+        "security",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "5f73b59a3fca2b79",
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T17:09:59+00:00",
+      "summary_zh": "文章宣布了datasette-arrows插件0.1a0版本的发布，该插件为Datasette数据平台新增了Apache Arrow流式导出格式的支持。该功能基于Datasette新引入的流式输出渲染器插件钩子开发，能高效处理大规模数据导出。",
+      "tags": [
+        "programming",
+        "tools",
+        "database"
+      ]
+    },
+    {
+      "id": "27f7b51e3bf8f5a8",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T15:58:27+00:00",
+      "summary_zh": "文章引用了curl创始人Daniel Stenberg的评论，他指出在AI代理用三周时间将curl代码“移植”到Rust期间，原curl项目已合并了300多次提交并修复了200多个bug。Stenberg质疑这种自动重写代码的实用性和安全性。",
+      "tags": [
+        "programming",
+        "security",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "f8510781afc82e6a",
+      "title": "Jensen Huang Tweets",
+      "url": "https://x.com/JensenHuang/status/2122726005219737649",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T15:39:16+00:00",
+      "summary_zh": "文章评论了英伟达前CEO黄仁勋在社交媒体上公开表示愿意回归公司的言论，认为此举有失体面。作者同时批评了那些呼吁黄仁勋回归以解决对华芯片销售困局的言论，指出国家安全考量已占据上风。",
+      "tags": [
+        "business",
+        "culture/sociology/politics",
+        "hardware"
+      ]
+    },
+    {
+      "id": "9d62a1bd6c0ac793",
+      "title": "If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-18T15:00:00+00:00",
+      "summary_zh": "文章解释了Windows文档中关于文件系统操作支持列表的常见误解。指出列表中未提及的技术并不意味着不支持，而只是微软没有相关信息。如果明确不支持，文档会以“No”明确标注。",
+      "tags": [
+        "programming",
+        "programming/windows"
+      ]
+    },
+    {
+      "id": "d6b88907cbdaa308",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T14:44:48+00:00",
+      "summary_zh": "作者以Python软件基金会（PSF）董事会成员身份，呼吁为这个支持Python开发和社区的非营利组织进行年终募捐。PSF负责管理Python知识产权、运营PyPI、赞助核心开发者活动、支持社区活动（包括举办PyCon US）并雇佣团队维持运营。",
+      "tags": [
+        "open-source",
+        "programming"
+      ]
+    },
+    {
+      "id": "491f62b5f2b0e33f",
+      "title": "Once More Unto The Breach - Another Year In Review",
+      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-18T12:34:00+00:00",
+      "summary_zh": "这是作者自2010年以来的年度个人生活回顾博客文章。作者分享了自己辞职并进入“财务独立，提前退休”（FIRE）生活近两年后的状态和感悟。文章中还包含了一个隐藏的“评论俱乐部”彩蛋，邀请细心的读者互动。",
+      "tags": [
+        "culture",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "665acbf0212b3f56",
+      "title": "Push button telephones introduced November 18, 1963",
+      "url": "https://dfarq.homeip.net/push-button-telephones-introduced-november-18-1963/?utm_source=rss&utm_medium=rss&utm_campaign=push-button-telephones-introduced-november-18-1963",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T12:00:04+00:00",
+      "summary_zh": "文章纪念了按键式电话（或称双音多频电话）于1963年11月18日首次推出，距今已62年。在此之前，人们使用的是旋转拨号盘电话。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "0fec83a711f4a85b",
+      "title": "This Week in Source Control: 18 November 2026",
+      "url": "https://nesbitt.io/2026/11/18/this-week-in-source-control.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-18T10:00:00+00:00",
+      "summary_zh": "这是一份关于版本控制和代码托管平台的每周新闻摘要，内容来自相关工具的发布动态和社区讨论。本期重点介绍了Gerrit 3.15.0的发布，包括其将Git的reftable引用存储宣布为生产就绪、新的REST端点以及标记AI生成评论的功能。",
+      "tags": [
+        "tools",
+        "programming"
+      ]
+    },
+    {
+      "id": "c34e5e97e9af2ea3",
+      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-18T08:28:46+00:00",
+      "summary_zh": "文章探讨了“恶化”（Enshittification）现象如何为诈骗者铺平道路。当糟糕的商业实践与诈骗之间的界限变得模糊时，诈骗者的生存环境就变得更加容易。文章认为，平台或服务的持续质量下降让用户对异常情况变得麻木，从而更容易落入骗局。",
+      "tags": [
+        "business",
+        "culture/sociology/technology"
+      ]
+    }
+  ]
+}
