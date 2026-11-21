@@ -1,9 +1,215 @@
 {
-  "date": "2026-11-20",
-  "article_count": 30,
-  "tokens_used": 15824,
+  "date": "2026-11-21",
+  "article_count": 28,
+  "tokens_used": 14628,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "705d07544fd3cc56",
+      "title": "What is the Generalized Riemann Hypothesis?",
+      "url": "https://www.johndcook.com/blog/2026/11/20/grh/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T03:35:05+00:00",
+      "summary_zh": "文章介绍了广义黎曼假设（GRH）的概念，它是黎曼假设（RH）的推广，断言更广泛函数族的零点也位于复平面的中心线上。文中提到当天有两篇证明GRH的论文宣布，一篇由AI生成，另一篇由人类完成。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "5896797fd3159e6e",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T00:36:39+00:00",
+      "summary_zh": "一家名为RansomwareHelp的佛罗里达州公司首席技术官因电信欺诈被起诉。该公司声称使用先进密码学工具帮助勒索软件受害者恢复数据，但FBI调查发现其只是向攻击者支付赎金获取解密密钥，并向受害者收取高额费用。",
+      "tags": [
+        "security",
+        "security/ransomware",
+        "business/fraud"
+      ]
+    },
+    {
+      "id": "f5a9d9b71a4242b2",
+      "title": "Why output caching doesn't work",
+      "url": "https://seangoedecke.com/why-output-caching-doesnt-work/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T00:00:00+00:00",
+      "summary_zh": "文章探讨了在大型语言模型（LLM）推理中缓存输出的可行性。作者分析了为什么缓存输出看似合理（如重复引用代码片段或文档），但最终得出结论认为输出缓存并不可行。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "performance/caching"
+      ]
+    },
+    {
+      "id": "51fea9418bd79a3d",
+      "title": "The Talk Show: ‘A Whoopsie Treason’",
+      "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T23:28:51+00:00",
+      "summary_zh": "这是一期播客节目内容提要，讨论了多个科技和娱乐话题，包括英伟达的Jensen Huang事件、HomeView、新款iPad Mini、iPhone Duo的更多信息，以及罗伯特·帕丁森出演詹姆斯·邦德。",
+      "tags": [
+        "culture/media",
+        "mobile/ios",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "0ac69c98725c2780",
+      "title": "Why Johnny Can’t Patch",
+      "url": "https://dfarq.homeip.net/why-johnny-cant-patch-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-johnny-cant-patch-2",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T22:07:28+00:00",
+      "summary_zh": "作者打破常规节奏，简要讨论了计算机安全问题。文章提到十月末PHP出现了一个备受关注的高危漏洞，十一月的情况也很艰难，暗示了软件修补面临的普遍挑战。",
+      "tags": [
+        "security",
+        "security/vulnerability",
+        "programming/php"
+      ]
+    },
+    {
+      "id": "cf3b0c6c1cbc2369",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T19:21:49+00:00",
+      "summary_zh": "文章引用了Ravi Vakil关于Alessandro Masullo提出广义黎曼假设（GRH）证明的评论。该证明由人类完成（未使用AI），Brian Conrad已审查数月并提供反馈，目前看起来前景良好。",
+      "tags": [
+        "culture/history/technology",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "0b70a01ea1ae8156",
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T17:03:57+00:00",
+      "summary_zh": "文章回顾了经典游戏《暗黑破坏神II》，描述了其以撒旦意象为特色的游戏美学，并指出在游戏发布的90年代末至21世纪初，这种风格并未引发早些年可能出现的道德恐慌。文章还引用了对游戏简单直接、目标明确的玩法设计的评价。",
+      "tags": [
+        "culture/media",
+        "culture/history/technology",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "2d45e946f6351b84",
+      "title": "Premium: Bursting Bubbles",
+      "url": "https://www.wheresyoured.at/premium-bursting-bubbles/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-20T16:41:55+00:00",
+      "summary_zh": "文章批判了经济中的繁荣与萧条周期（泡沫），指出其具有危险性、破坏性，且主要使最富有和最脱离实际的人受益。作者分析了泡沫被媒体、金融家和投机者操纵的本质，以及社会对泡沫的普遍性犬儒主义态度。",
+      "tags": [
+        "business",
+        "business/economics",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "f27b1f34ce20932c",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T16:30:48+00:00",
+      "summary_zh": "文章引用了Levent Alpöge的声明，称其与Claude（AI模型）合作发现了黎曼假设（RH）乃至广义黎曼假设（GRH）的证明，并已将论证形式化。作者表达了对这一科学突破的惊叹，认为它预示着更伟大的科学黎明。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "608fd58e178a932e",
+      "title": "Another failed attempt to get the icon for the icon for the .. parent folder",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-20T15:00:00+00:00",
+      "summary_zh": "本文继续探讨了在Windows系统中使用`SHGetFileInfo`函数获取父目录（`..`）图标时遇到的问题。尝试将`..`连接到当前目录路径（如`C:\\dir\\..`）反而导致函数调用失败，文章解释了这与Shell命名空间的解析机制有关。",
+      "tags": [
+        "programming",
+        "programming/windows",
+        "tools"
+      ]
+    },
+    {
+      "id": "75849af9873330dd",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "author": "",
+      "feed_title": "borretti.me",
+      "category": "Blogs",
+      "published_at": "2026-11-20T13:00:00+00:00",
+      "summary_zh": "作者以居住在澳大利亚的视角，幽默地将清晨查看新闻比作抽卡游戏，并提到了当天关于黎曼假设被证明的Discord通知。文章重点引用了Levent Alpöge公告中的部分内容，其中表达了证明完成既是终点，也预示着更伟大科学黎明的复杂情感。",
+      "tags": [
+        "AI",
+        "AI/LLM/Agent",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "6300ad7d7bdc91ad",
+      "title": "Connect a USB Zigbee Device to HAOS",
+      "url": "https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-20T12:34:19+00:00",
+      "summary_zh": "文章提供了将USB Zigbee设备连接到Home Assistant OS（HAOS）的详细步骤指南。包括识别设备ID、创建XML配置文件、使用virsh命令将USB设备附加到HAOS虚拟机并完成添加。",
+      "tags": [
+        "hardware",
+        "tools",
+        "hardware/iot"
+      ]
+    },
+    {
+      "id": "b78488fdde40df92",
+      "title": "Max Headroom incident of Nov 22, 1987",
+      "url": "https://dfarq.homeip.net/max-headroom-incident-of-nov-22-1987-3/?utm_source=rss&utm_medium=rss&utm_campaign=max-headroom-incident-of-nov-22-1987-3",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T12:00:10+00:00",
+      "summary_zh": "文章回顾了1987年11月22日发生在芝加哥的著名未解电视信号劫持事件——Max Headroom事件。该事件发生在WGN电视台的常规新闻广播期间，是历史上最臭名昭著的非法电视广播之一。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "3cf9352d464bd28d",
+      "title": "Pluralistic: Lisa Hanawalt's \"I Can't Stop Thinking About Horses and Sex\" (20 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T10:44:20+00:00",
+      "summary_zh": "文章介绍了丽莎·哈纳瓦特的回忆录《我无法停止思考马和性》，该书探讨了心碎、马、欲望和肠易激综合征等主题。文章还包含了一系列其他文化内容的链接和评论。",
+      "tags": [
+        "culture",
+        "culture/media"
+      ]
+    },
     {
       "id": "478ea25aeed3c997",
       "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -12,7 +218,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-20T02:49:57+00:00",
-      "summary_zh": "ChatPRD创始人Claire Vo在视频中揭露其AI平台遭遇严重的“令牌欺诈”滥用，攻击者利用免费试用获取AI服务进行转售或商业活动。她描述了欺诈者如何通过特定提示词探测底层模型，并最终决定完全取消免费试用以应对此类滥用。",
+      "summary_zh": "ChatPRD创始人Claire Vo描述了其AI产品免费试用遭遇的严重令牌欺诈问题，欺诈者滥用服务进行套利或商业活动。面对这种滥用，她决定完全停止免费试用。",
       "tags": [
         "AI",
         "AI/LLM/Agent",
@@ -27,7 +233,7 @@
       "feed_title": "idiallo.com",
       "category": "Blogs",
       "published_at": "2026-11-19T23:27:30+00:00",
-      "summary_zh": "作者收到一家从未听说过的公司Premise Health的通知，称其包含社保号在内的个人数据因员工不当操作而泄露。文章批评了数据泄露后仅提供一年免费信用监控的常规处理方式，并指出缺乏严厉惩罚导致此类事件频繁发生。",
+      "summary_zh": "作者收到一家从未听说过的公司通知，称其包含社保号在内的个人数据因内部员工操作而泄露。作者质疑为何这些公司会持有其敏感信息，并批评仅提供一年信用监控的补救措施不足以遏制数据泄露的常态化。",
       "tags": [
         "security",
         "business"
@@ -41,11 +247,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-19T22:25:12+00:00",
-      "summary_zh": "苹果公司负责相机和照片应用的副总裁Jon McCormack于十月底退休。他在苹果工作八年多，领导了iPhone相机技术和照片应用的开发，包括去年iPhone 17系列的自拍相机 redesign。",
+      "summary_zh": "报道了苹果公司负责相机和照片应用的副总裁Jon McCormack于十月底退休。他在苹果任职八年多，主导了iPhone相机和照片技术的开发，包括iPhone 17的前置摄像头重新设计。",
       "tags": [
         "mobile",
         "mobile/ios",
-        "career"
+        "business"
       ]
     },
     {
@@ -56,10 +262,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-19T20:54:10+00:00",
-      "summary_zh": "谷歌将其Spark AI助手更名为“Tasks”并免费开放，该功能基于Gemini 4 Hydrogen模型，可协助制定计划、管理日历和分析邮件。文章同时批评了谷歌产品频繁更名且新名与现有待办应用“Google Tasks”冲突的混乱做法。",
+      "summary_zh": "谷歌将其Spark AI智能体更名为“Tasks”并免费开放，该功能由Gemini 4 Hydrogen模型驱动，可帮助用户制定计划、管理日历和分析邮件。文章同时批评了谷歌产品频繁且混乱的命名策略。",
       "tags": [
         "AI",
         "AI/LLM/Agent",
+        "tools",
         "tools/productivity"
       ]
     },
@@ -71,7 +278,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-19T20:43:57+00:00",
-      "summary_zh": "PostgreSQL 19 正式发布，虽然因处理AI报告的安全漏洞而推迟，但带来了重要新特性。其中最受关注的是`WAIT FOR LSN`命令，它为备用数据库提供了“读写一致性”支持，确保应用能读取到刚刚在主库上写入的数据。",
+      "summary_zh": "PostgreSQL 19版本发布，虽然因处理AI报告的安全漏洞问题而延迟，但带来了重要新特性。其中最受关注的是`WAIT FOR LSN`命令，它为备用服务器上的应用提供了“读写一致性”保证。",
       "tags": [
         "database",
         "open-source",
@@ -86,7 +293,7 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-19T20:30:10+00:00",
-      "summary_zh": "文章探讨了《侠盗猎车手6》(GTA 6) 在面临前作巨大成功和行业困境背景下的超高期待。Rockstar公司有充足时间开发续作，但一系列泄露和延期进一步推高了这款被视为独立文化现象的游戏的热度。",
+      "summary_zh": "文章探讨了《侠盗猎车手6》在《GTA V》取得巨大成功后所面临的超高期待和压力。在游戏行业整体挣扎的背景下，《GTA 6》因其前作的成功、多年的开发周期以及多次泄密和延期，已成为一个独特的文化现象。",
       "tags": [
         "culture",
         "culture/media"
@@ -100,7 +307,7 @@
       "feed_title": "tedium.co",
       "category": "Blogs",
       "published_at": "2026-11-19T18:38:35+00:00",
-      "summary_zh": "在Anthropic AI公司上市之际，文章哀悼了老牌新闻网站Salon的关闭，其原因是数字新闻的商业模式难以为继。作者回顾了Salon早期围绕新闻和评论区构建社区的历程，并强调了媒体掌握自身命运的重要性。",
+      "summary_zh": "文章以《Salon》网站的关闭为引，哀悼独立数字新闻模式的衰落，并反思媒体行业商业模式的不可持续性。作者强调，媒体机构必须掌控自己的命运，尤其是在AI技术主导市场的当下。",
       "tags": [
         "culture",
         "culture/media",
@@ -115,7 +322,7 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-19T16:33:16+00:00",
-      "summary_zh": "文章对Anthropic的IPO持怀疑态度，认为LLM技术并无永久护城河，当前的繁荣是由英伟达推动的泡沫。作者还质疑Anthropic公司内部的文化和管理层是否适合领导一家上市公司。",
+      "summary_zh": "文章对Anthropic的IPO（创下最大规模纪录）持怀疑态度。作者认为LLM技术没有永久护城河，当前繁荣由泡沫推动，并且质疑Anthropic团队领导一家上市公司的能力。",
       "tags": [
         "AI",
         "AI/LLM",
@@ -130,10 +337,25 @@
       "feed_title": "buttondown.com/hillelwayne",
       "category": "Blogs",
       "published_at": "2026-11-19T15:40:32+00:00",
-      "summary_zh": "作者阐述了对软件工程中教学示例的深刻见解，认为优秀示例应简单易懂、清晰展示主题、符合现实情况并能启发寻找同类问题。他将在演讲中重点讨论那些不符合这些标准的“最差示例”。",
+      "summary_zh": "作者阐述了对软件工程中教学示例的深刻见解，认为优秀示例应简单易懂、清晰展示主题、对应现实场景并能启发寻找同类案例。文章旨在探讨何为糟糕的示例及其负面影响。",
       "tags": [
         "programming",
+        "culture",
         "culture/technology"
+      ]
+    },
+    {
+      "id": "a9837b863cd45bb3",
+      "title": "Why do I get inconsistent results when I ask for the icon for the .. parent folder?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-19T15:00:00+00:00",
+      "summary_zh": "文章解释了程序在获取父文件夹“..”图标时出现不一致结果的原因。问题根源在于`SHGetFileInfo`函数的行为依赖于当前工作目录的深度，调试环境与用户环境的差异导致了图标（文件夹图标或驱动器图标）的不同。",
+      "tags": [
+        "programming",
+        "programming/windows"
       ]
     },
     {
@@ -144,7 +366,7 @@
       "feed_title": "pluralistic.net",
       "category": "Blogs",
       "published_at": "2026-11-19T14:10:14+00:00",
-      "summary_zh": "文章警告创作者，通过“贷款输出公司”处理版权事务可能会使其丧失“终止转让权”这一重要的版权劳动保护政策。该政策允许创作者在一定年限后收回版权，但复杂的公司结构可能使其失效。",
+      "summary_zh": "文章讨论了版权法中一项重要的劳动政策——“转让终止权”，并警告作者注意“借出公司”可能带来的风险。它指出，使用这类公司可能会使创作者丧失在未来某个时间点收回其作品版权的宝贵权利。",
       "tags": [
         "business",
         "culture/sociology/technology"
@@ -158,7 +380,7 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-19T12:34:32+00:00",
-      "summary_zh": "这是一篇关于新歌剧《FORT》的剧评。作者赞赏了两位女高音和手风琴演奏家的杰出才华，但认为曲谱过于基础且缺乏旋律，导致75分钟的单幕剧略显重复和拖沓，尽管剧情塞满了众多戏剧性元素。",
+      "summary_zh": "这是一篇关于新歌剧《FORT》的评论。评论认为，尽管演员才华横溢，现场伴奏出色，但作品旋律性不足，情节过于密集，导致观感有些重复和拖沓。",
       "tags": [
         "culture",
         "culture/media"
@@ -172,7 +394,7 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-19T12:00:02+00:00",
-      "summary_zh": "文章简要介绍了Tandy 1000型号电脑，指出它并非坦迪公司首款IBM PC兼容机，而是于1983年底开始筹备、面向家庭和教育市场的个人电脑。",
+      "summary_zh": "文章介绍了Tandy 1000型号的计算机，它是Tandy公司继Tandy 2000之后，面向家庭和教育市场推出的IBM PC兼容机。",
       "tags": [
         "hardware",
         "culture/history/technology"
@@ -186,258 +408,12 @@
       "feed_title": "idiallo.com",
       "category": "Blogs",
       "published_at": "2026-11-19T07:27:09+00:00",
-      "summary_zh": "文章对比了Stack Overflow的问答机制与大型语言模型（LLM）的异同。作者指出，LLM虽然能更积极地回答问题，但也存在因安全策略而拒绝回答或引导付费的情况。这引发了关于知识获取自由与限制的讨论。",
+      "summary_zh": "文章对比了Stack Overflow社区与大型语言模型在回答开发者问题时的不同。作者指出，LLM虽然能直接回答问题，但存在安全限制、答案被“把关”甚至账户被封的风险，其体验有时反而让人怀念Stack Overflow那种通过标记重复问题来引导用户的社区精神。",
       "tags": [
         "AI",
         "AI/LLM",
+        "programming",
         "culture/technology"
-      ]
-    },
-    {
-      "id": "4d6a91df126c9638",
-      "title": "How to install an app on your Commodore 64",
-      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
-      "author": "",
-      "feed_title": "anildash.com",
-      "category": "Blogs",
-      "published_at": "2026-11-19T03:52:10+00:00",
-      "summary_zh": "文章以幽默怀旧的口吻，描述了在1986年为Commodore 64电脑获取和安装程序的繁琐过程。作者详细讲述了需要骑自行车去商场书店寻找特定计算机杂志的步骤，生动再现了早期个人计算机时代的软件分发方式。",
-      "tags": [
-        "culture",
-        "culture/history/technology",
-        "hardware"
-      ]
-    },
-    {
-      "id": "1f045681c00cb575",
-      "title": "NYC’s venture capitalists need to love themselves",
-      "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/",
-      "author": "",
-      "feed_title": "anildash.com",
-      "category": "Blogs",
-      "published_at": "2026-11-19T03:52:10+00:00",
-      "summary_zh": "作者批评了纽约市的一些风险投资家缺乏自信，过度迎合硅谷的价值观和认可。文章呼吁本地投资者应更自信地支持纽约本地的优秀人才和创意，维护本地的社区精神和商业利益。",
-      "tags": [
-        "business",
-        "culture/sociology/technology"
-      ]
-    },
-    {
-      "id": "90a1d31587dabb01",
-      "title": "Supersequences and Superpermutations",
-      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-11-19T00:10:21+00:00",
-      "summary_zh": "文章介绍了“超序列”（supersequence）的概念，即一个包含其字母表所有排列作为子序列的字符串。作者通过一个包含所有10位数字排列的83字符短序列例子，探讨了其与“超排列”（superpermutation）的区别及相关数学研究。",
-      "tags": [
-        "programming",
-        "programming/algorithms",
-        "AI/LLM"
-      ]
-    },
-    {
-      "id": "f3b6a5ce82542050",
-      "title": "Inside PyPy: first contact with RPython",
-      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss",
-      "author": "",
-      "feed_title": "bernsteinbear.com",
-      "category": "Blogs",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "summary_zh": "文章探讨了构建编程语言实现时对工具链的选择，重点介绍了RPython。作者对比了RPython、Truffle和Deegen等工具的不同方法，并分享了开始使用RPython进行语言实现的初步体验和思考。",
-      "tags": [
-        "programming",
-        "tools",
-        "open-source"
-      ]
-    },
-    {
-      "id": "02f125d9c6cc4401",
-      "title": "llm-gemini 0.38",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T23:59:20+00:00",
-      "summary_zh": "文章介绍了llm-gemini插件0.38版本的发布，该版本支持新的Gemini 4 Neon模型。作者同时批评了Google Gemini 4系列模型混乱的定价和产品线命名，认为这给开发者带来了困惑。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "tools"
-      ]
-    },
-    {
-      "id": "a9edce1f6fee841f",
-      "title": "Unburden yourself of the backlog",
-      "url": "https://entropicthoughts.com/unburden-yourself-of-the-backlog",
-      "author": "a@xkqr.org (kqr)",
-      "feed_title": "entropicthoughts.com",
-      "category": "Blogs",
-      "published_at": "2026-11-18T23:00:00+00:00",
-      "summary_zh": "文章借鉴前潜艇指挥官David Marquet的领导经验，探讨了透明化领导风格在团队管理中的优势。核心观点是，管理者应摆脱对“任务待办清单”（backlog）的过度依赖和微观管理，转而赋能团队，以释放更大效能。",
-      "tags": [
-        "business",
-        "culture",
-        "devops"
-      ]
-    },
-    {
-      "id": "4f6f205d7a43e845",
-      "title": "★ The 50-Yard Line",
-      "url": "https://daringfireball.net/2026/11/the_50-yard_line",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T20:42:23+00:00",
-      "summary_zh": "文章评论了英伟达CEO黄仁勋此前对特朗普的公开赞扬，并将其与近期黄仁勋卷入的政治丑闻联系起来。作者认为，黄仁勋早期的奉承言论在当下政治环境下显得尤为尴尬和不合时宜。",
-      "tags": [
-        "business",
-        "culture/sociology/politics",
-        "AI"
-      ]
-    },
-    {
-      "id": "bef7de4e40c7c443",
-      "title": "Email Dumpster Diving",
-      "url": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
-      "author": "",
-      "feed_title": "blog.jim-nielsen.com",
-      "category": "Blogs",
-      "published_at": "2026-11-18T19:00:00+00:00",
-      "summary_zh": "作者分享了自己定期查看垃圾邮件文件夹的习惯，并将其视为一种了解当前网络钓鱼和诈骗手段的“接种”方式。文章列举了常见的诈骗邮件类型，如云服务账单过期、信用卡更新等，以提高读者的安全意识。",
-      "tags": [
-        "security",
-        "culture/technology"
-      ]
-    },
-    {
-      "id": "5f73b59a3fca2b79",
-      "title": "datasette-arrows 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T17:09:59+00:00",
-      "summary_zh": "文章宣布了datasette-arrows插件0.1a0版本的发布，该插件为Datasette数据平台新增了Apache Arrow流式导出格式的支持。该功能基于Datasette新引入的流式输出渲染器插件钩子开发，能高效处理大规模数据导出。",
-      "tags": [
-        "programming",
-        "tools",
-        "database"
-      ]
-    },
-    {
-      "id": "27f7b51e3bf8f5a8",
-      "title": "Quoting Daniel Stenberg",
-      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T15:58:27+00:00",
-      "summary_zh": "文章引用了curl创始人Daniel Stenberg的评论，他指出在AI代理用三周时间将curl代码“移植”到Rust期间，原curl项目已合并了300多次提交并修复了200多个bug。Stenberg质疑这种自动重写代码的实用性和安全性。",
-      "tags": [
-        "programming",
-        "security",
-        "AI/LLM/Agent"
-      ]
-    },
-    {
-      "id": "f8510781afc82e6a",
-      "title": "Jensen Huang Tweets",
-      "url": "https://x.com/JensenHuang/status/2122726005219737649",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T15:39:16+00:00",
-      "summary_zh": "文章评论了英伟达前CEO黄仁勋在社交媒体上公开表示愿意回归公司的言论，认为此举有失体面。作者同时批评了那些呼吁黄仁勋回归以解决对华芯片销售困局的言论，指出国家安全考量已占据上风。",
-      "tags": [
-        "business",
-        "culture/sociology/politics",
-        "hardware"
-      ]
-    },
-    {
-      "id": "9d62a1bd6c0ac793",
-      "title": "If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-11-18T15:00:00+00:00",
-      "summary_zh": "文章解释了Windows文档中关于文件系统操作支持列表的常见误解。指出列表中未提及的技术并不意味着不支持，而只是微软没有相关信息。如果明确不支持，文档会以“No”明确标注。",
-      "tags": [
-        "programming",
-        "programming/windows"
-      ]
-    },
-    {
-      "id": "d6b88907cbdaa308",
-      "title": "The PSF end-of-year fundraiser",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T14:44:48+00:00",
-      "summary_zh": "作者以Python软件基金会（PSF）董事会成员身份，呼吁为这个支持Python开发和社区的非营利组织进行年终募捐。PSF负责管理Python知识产权、运营PyPI、赞助核心开发者活动、支持社区活动（包括举办PyCon US）并雇佣团队维持运营。",
-      "tags": [
-        "open-source",
-        "programming"
-      ]
-    },
-    {
-      "id": "491f62b5f2b0e33f",
-      "title": "Once More Unto The Breach - Another Year In Review",
-      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-11-18T12:34:00+00:00",
-      "summary_zh": "这是作者自2010年以来的年度个人生活回顾博客文章。作者分享了自己辞职并进入“财务独立，提前退休”（FIRE）生活近两年后的状态和感悟。文章中还包含了一个隐藏的“评论俱乐部”彩蛋，邀请细心的读者互动。",
-      "tags": [
-        "culture",
-        "culture/technology"
-      ]
-    },
-    {
-      "id": "665acbf0212b3f56",
-      "title": "Push button telephones introduced November 18, 1963",
-      "url": "https://dfarq.homeip.net/push-button-telephones-introduced-november-18-1963/?utm_source=rss&utm_medium=rss&utm_campaign=push-button-telephones-introduced-november-18-1963",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T12:00:04+00:00",
-      "summary_zh": "文章纪念了按键式电话（或称双音多频电话）于1963年11月18日首次推出，距今已62年。在此之前，人们使用的是旋转拨号盘电话。",
-      "tags": [
-        "culture",
-        "culture/history/technology"
-      ]
-    },
-    {
-      "id": "0fec83a711f4a85b",
-      "title": "This Week in Source Control: 18 November 2026",
-      "url": "https://nesbitt.io/2026/11/18/this-week-in-source-control.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-11-18T10:00:00+00:00",
-      "summary_zh": "这是一份关于版本控制和代码托管平台的每周新闻摘要，内容来自相关工具的发布动态和社区讨论。本期重点介绍了Gerrit 3.15.0的发布，包括其将Git的reftable引用存储宣布为生产就绪、新的REST端点以及标记AI生成评论的功能。",
-      "tags": [
-        "tools",
-        "programming"
-      ]
-    },
-    {
-      "id": "c34e5e97e9af2ea3",
-      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
-      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-11-18T08:28:46+00:00",
-      "summary_zh": "文章探讨了“恶化”（Enshittification）现象如何为诈骗者铺平道路。当糟糕的商业实践与诈骗之间的界限变得模糊时，诈骗者的生存环境就变得更加容易。文章认为，平台或服务的持续质量下降让用户对异常情况变得麻木，从而更容易落入骗局。",
-      "tags": [
-        "business",
-        "culture/sociology/technology"
       ]
     }
   ]
