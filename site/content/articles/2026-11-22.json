@@ -1,0 +1,373 @@
+{
+  "date": "2026-11-22",
+  "article_count": 25,
+  "tokens_used": 13218,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "6004e4b94fe76cd9",
+      "title": "To code well, avoid blunders",
+      "url": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "summary_zh": "文章认为编写优秀代码的关键在于避免灾难性错误，而非追求精妙的洞察或抽象。作者通过国际象棋和网球等领域的类比，论证了在编程中避免重大失误比创造优势更为重要，因为一个失误就可能破坏整个代码库的优雅性。",
+      "tags": [
+        "programming",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "dc9b4a0c426ddc42",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T23:56:28+00:00",
+      "summary_zh": "文章介绍了Graham Dumpleton新开发的、由AI辅助的Rust服务器Muru。Muru旨在为ASGI和WSGI Python应用在开发和生产环境中提供最佳运行工具，是作者在mod_wsgi项目20年经验后的新成果。",
+      "tags": [
+        "programming",
+        "web",
+        "AI"
+      ]
+    },
+    {
+      "id": "e0e6f4639044a70b",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "author": "Eli Bendersky",
+      "feed_title": "eli.thegreenplace.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T22:26:00+00:00",
+      "summary_zh": "本文是离散傅里叶变换（DFT）的笔记，承接了之前关于离散时间傅里叶级数和变换的内容。文章将探讨在现实数字信号处理中，如何处理不仅是离散的，而且是有限长度的信号。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "078b94a7d4a109e6",
+      "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T20:09:57+00:00",
+      "summary_zh": "文章评价了macOS 27.3 Beta 2中新增的隐私控制功能，认为其设计是成功的。新功能允许用户为请求全磁盘访问的应用授予特定文件夹的访问权限，而非全部访问，这为用户提供了更清晰、更精细的控制权。",
+      "tags": [
+        "mobile/ios",
+        "security"
+      ]
+    },
+    {
+      "id": "28284b5830e62a97",
+      "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
+      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T18:28:22+00:00",
+      "summary_zh": "文章报道美国在特朗普和RFK Jr.执政期间失去了麻疹消除状态，这是一次重大的公共卫生失败。根据其他国家经验，恢复该状态可能需要长达五年时间，前提是联邦政府积极推动疫苗接种工作。",
+      "tags": [
+        "business",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "349636bb39c45742",
+      "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
+      "url": "https://support.apple.com/en-us/127901",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T18:02:51+00:00",
+      "summary_zh": "苹果公司文档说明了不同iCloud+付费层级对应的额外Apple Intelligence功能使用限制。从27.3版本开始，Siri AI、智能照片编辑、云端模型等功能将根据iCloud+套餐设定每日使用上限，用户达到限制后可选择等待重置或升级套餐。",
+      "tags": [
+        "AI",
+        "mobile/ios",
+        "business"
+      ]
+    },
+    {
+      "id": "9adb1d81ba3f6682",
+      "title": "Reading List 11/21/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11212026",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T13:04:03+00:00",
+      "summary_zh": "这是一份来自construction-physics.com的阅读列表，发布日期为2026年11月21日。内容包含带标题的图片容器和复杂的HTML结构，但提供的文本片段未揭示具体的文章主题或技术内容。",
+      "tags": [
+        "culture/media",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "9f4dea6e0bd9e0eb",
+      "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
+      "url": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-21T12:34:40+00:00",
+      "summary_zh": "文章探讨了如何通过网页元数据清晰表明博客文章的版权许可（如CC BY-SA）。作者介绍了使用HTML的`rel=\"license\"`属性和Schema.org结构化数据来同时向人类和机器声明版权信息的方法。",
+      "tags": [
+        "web",
+        "open-source",
+        "tools"
+      ]
+    },
+    {
+      "id": "e7e527abfc9eedbc",
+      "title": "What three-bolt mount means on a garbage disposal",
+      "url": "https://dfarq.homeip.net/what-three-bolt-mount-means-on-a-garbage-disposal/?utm_source=rss&utm_medium=rss&utm_campaign=what-three-bolt-mount-means-on-a-garbage-disposal",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T12:00:16+00:00",
+      "summary_zh": "文章简短地提出了一个关于垃圾处理器上“三螺栓安装”术语含义的问题。作者在商店品牌垃圾处理器上看到该术语，并对其具体含义和“易于改造”的声称表示好奇。",
+      "tags": [
+        "hardware",
+        "hardware/iot"
+      ]
+    },
+    {
+      "id": "3fe88e3f73d8744a",
+      "title": "This Week in Package Management: 21 November 2026",
+      "url": "https://nesbitt.io/2026/11/21/this-week-in-package-management.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-21T10:00:00+00:00",
+      "summary_zh": "本文是2026年11月21日的包管理周报，汇总了来自OPML订阅源、Mastodon等渠道的新闻。重点包括Gemstash 2.9.0安全版本修复了八个漏洞（其中一个为CVSS 10.0的RCE），以及Ruby正则表达式和字符串组件的多个漏洞修复。",
+      "tags": [
+        "programming",
+        "security/vulnerability",
+        "tools"
+      ]
+    },
+    {
+      "id": "705d07544fd3cc56",
+      "title": "What is the Generalized Riemann Hypothesis?",
+      "url": "https://www.johndcook.com/blog/2026/11/20/grh/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T03:35:05+00:00",
+      "summary_zh": "文章在当天宣布了AI生成和人类生成的两项广义黎曼假设（GRH）证明的背景下，解释了什么是广义黎曼假设。GRH是黎曼假设（RH）的推广，它断言更广泛的函数族（如L函数）的所有非平凡零点都位于复平面的临界线上。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "5896797fd3159e6e",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "author": "BrianKrebs",
+      "feed_title": "krebsonsecurity.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T00:36:39+00:00",
+      "summary_zh": "文章报道，声称能用“先进密码学工具”帮助受害者恢复被勒索软件加密数据的公司RansomwareHelp，其CTO因电信欺诈被起诉。FBI调查发现，该公司实际上只是向攻击者支付赎金获取解密密钥，然后向受害者收取高额费用，涉嫌欺诈。",
+      "tags": [
+        "security",
+        "security/ransomware",
+        "business/fraud"
+      ]
+    },
+    {
+      "id": "f5a9d9b71a4242b2",
+      "title": "Why output caching doesn't work",
+      "url": "https://seangoedecke.com/why-output-caching-doesnt-work/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T00:00:00+00:00",
+      "summary_zh": "文章探讨了在LLM推理中缓存模型输出的可行性。作者认为，虽然缓存输入以防止重复计算是必要的，但缓存输出通常不是一个好主意，并解释了其中的原因。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "performance/caching"
+      ]
+    },
+    {
+      "id": "90c8f6213b37da0b",
+      "title": "Linear scan register allocation in Datalog",
+      "url": "https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss",
+      "author": "",
+      "feed_title": "bernsteinbear.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T00:00:00+00:00",
+      "summary_zh": "文章描述了作者与专家合作，使用Datalog语言实现线性扫描寄存器分配器的过程。它展示了Datalog在处理某些任务（如基本块计算和活性分析）时的优雅性，同时也探讨了在Datalog中实现复杂算法（如线性扫描）的挑战。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "51fea9418bd79a3d",
+      "title": "The Talk Show: ‘A Whoopsie Treason’",
+      "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T23:28:51+00:00",
+      "summary_zh": "这是一期播客节目摘要，讨论了多个科技和文化话题，包括Nvidia的Jensen Huang事件、HomeView、新款iPad Mini、iPhone Duo的更多信息，以及Robert Pattinson出演詹姆斯·邦德。",
+      "tags": [
+        "culture/media",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "0ac69c98725c2780",
+      "title": "Why Johnny Can’t Patch",
+      "url": "https://dfarq.homeip.net/why-johnny-cant-patch-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-johnny-cant-patch-2",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T22:07:28+00:00",
+      "summary_zh": "作者以近期PHP高危漏洞等安全事件为引，讨论了计算机安全补丁应用面临的普遍困难和挑战。文章反思了为什么安全修补在实践中如此难以实施。",
+      "tags": [
+        "security",
+        "security/vulnerability",
+        "programming/php"
+      ]
+    },
+    {
+      "id": "cf3b0c6c1cbc2369",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T19:21:49+00:00",
+      "summary_zh": "文章引用了Ravi Vakil关于Alessandro Masullo可能证明广义黎曼假设（GRH）的声明。该证明由人类完成，未使用AI，目前正在接受同行评审和完善。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "0b70a01ea1ae8156",
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "author": "Jimmy Maher",
+      "feed_title": "filfre.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T17:03:57+00:00",
+      "summary_zh": "文章回顾了经典游戏《暗黑破坏神II》，分析了其游戏设计、文化影响以及其标志性的“撒旦式”意象在90年代末至21世纪初社会背景下的接受度。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "2d45e946f6351b84",
+      "title": "Premium: Bursting Bubbles",
+      "url": "https://www.wheresyoured.at/premium-bursting-bubbles/",
+      "author": "Ed Zitron",
+      "feed_title": "wheresyoured.at",
+      "category": "Blogs",
+      "published_at": "2026-11-20T16:41:55+00:00",
+      "summary_zh": "文章批判性地分析了经济泡沫的繁荣与破裂周期，指出其危险性、破坏性，并认为最终受益的往往是最富有和最脱节的群体。作者揭示了泡沫背后被操纵的叙事和社会性的犬儒主义。",
+      "tags": [
+        "business",
+        "business/economics",
+        "business/fraud"
+      ]
+    },
+    {
+      "id": "f27b1f34ce20932c",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T16:30:48+00:00",
+      "summary_zh": "文章引用了数学家Levent Alpöge的声明，称其与AI模型Claude合作发现并形式化证明了黎曼假设（RH）乃至广义黎曼假设（GRH）。作者惊叹于Claude在证明过程中的卓越表现，并视此为科学新黎明的开端。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "culture"
+      ]
+    },
+    {
+      "id": "608fd58e178a932e",
+      "title": "Another failed attempt to get the icon for the icon for the .. parent folder",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-20T15:00:00+00:00",
+      "summary_zh": "本文是《旧事新谈》博客的后续，深入分析了为什么在Windows Shell中尝试通过拼接路径“C:\\dir\\..”来获取父文件夹图标会失败。文章解释了Shell命名空间解析相对路径的机制以及此特定案例中解析失败的原因。",
+      "tags": [
+        "programming",
+        "programming/windows",
+        "tools"
+      ]
+    },
+    {
+      "id": "75849af9873330dd",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "author": "",
+      "feed_title": "borretti.me",
+      "category": "Blogs",
+      "published_at": "2026-11-20T13:00:00+00:00",
+      "summary_zh": "作者以轻松的口吻谈论了关于黎曼假设可能被证明的新闻，并特别关注了证明声明中关于“一个终结”和“科学更伟大事物黎明”的哲学性表述。文章反映了重大科学突破带来的复杂情感和深远影响。",
+      "tags": [
+        "culture",
+        "culture/sociology/technology",
+        "AI"
+      ]
+    },
+    {
+      "id": "6300ad7d7bdc91ad",
+      "title": "Connect a USB Zigbee Device to HAOS",
+      "url": "https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-20T12:34:19+00:00",
+      "summary_zh": "文章提供了一份详细的教程，指导用户如何将USB Zigbee适配器连接到Home Assistant操作系统（HAOS）上。步骤包括识别设备ID、创建XML配置文件、使用virsh命令挂载设备并最终在HAOS界面中添加该设备。",
+      "tags": [
+        "hardware",
+        "hardware/iot",
+        "tools"
+      ]
+    },
+    {
+      "id": "b78488fdde40df92",
+      "title": "Max Headroom incident of Nov 22, 1987",
+      "url": "https://dfarq.homeip.net/max-headroom-incident-of-nov-22-1987-3/?utm_source=rss&utm_medium=rss&utm_campaign=max-headroom-incident-of-nov-22-1987-3",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T12:00:10+00:00",
+      "summary_zh": "文章回顾了1987年11月22日发生在芝加哥的著名未解电视信号劫持事件——“Max Headroom”入侵事件。该事件发生在WGN电视台的新闻直播期间，是美国电视史上最臭名昭著的盗播案例之一。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "3cf9352d464bd28d",
+      "title": "Pluralistic: Lisa Hanawalt's \"I Can't Stop Thinking About Horses and Sex\" (20 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-20T10:44:20+00:00",
+      "summary_zh": "本文介绍了丽莎·哈纳瓦特的图文回忆录《我无法停止思考马和性》，该书以幽默笔触探讨了心碎、抑郁、欲望与肠易激综合征等个人经历。文章还包含作者的其他内容推荐和近期动态。",
+      "tags": [
+        "culture/media",
+        "culture/sociology/technology"
+      ]
+    }
+  ]
+}

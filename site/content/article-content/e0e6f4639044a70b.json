@@ -1,0 +1,6 @@
+{
+  "id": "e0e6f4639044a70b",
+  "title": "Notes on the discrete Fourier transform (DFT)",
+  "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+  "content": "<p>In the <a class=\"reference external\" href=\"https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/\">previous post on this\ntopic</a>,\nwe’ve seen how the Discrete-Time Fourier Series (DTFS) and transform\n(DTFT) are used to analyze infinite-duration periodic and non-periodic\ndiscrete signals. Now, it’s time to turn to realistic digital signal\nprocessing where signals are not only discrete, but also <em>finite in …</em></p>"
+}
