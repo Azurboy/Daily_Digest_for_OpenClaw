@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-23",
+  "article_count": 19,
+  "tokens_used": 9819,
+  "ai_model": "deepseek-ai/DeepSeek-V3.2",
+  "articles": [
+    {
+      "id": "ee829d17eb18fb54",
+      "title": "Zenith Data Systems, Part II",
+      "url": "https://www.abortretry.fail/p/zenith-data-systems-part-ii",
+      "author": "Bradford Morgan White",
+      "feed_title": "abortretry.fail",
+      "category": "Blogs",
+      "published_at": "2026-11-23T02:25:14+00:00",
+      "summary_zh": "本文是Zenith Data Systems系列文章的第二部分，内容未提供，但根据标题推断，可能继续探讨该公司的历史、技术或影响。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "e2fdc00fb2f11d49",
+      "title": "When in doubt, flail about",
+      "url": "https://seangoedecke.com/when-in-doubt-flail-about/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "summary_zh": "文章探讨了在情况不明时，与其谨慎等待，不如积极尝试多种方法（即“胡乱尝试”）来快速获取理解和变得有用的策略。作者也指出了这种做法的风险，并给出了如何有效“尝试”的建议。",
+      "tags": [
+        "career",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "ee21ab0fa7e264b9",
+      "title": "Ivy",
+      "url": "https://semantical.com/?utm_campaign=df-2026-12",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-22T23:04:30+00:00",
+      "summary_zh": "文章介绍了名为Ivy的待办事项应用，其核心是采用“Ivy Lee方法”，每天只创建一份简短的优先级任务列表，未完成项会回到“想法池”，旨在避免任务列表无限膨胀。该应用是原生开发的，集成了提醒和日历功能。",
+      "tags": [
+        "tools",
+        "tools/productivity",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "b0c1b6250591975f",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-22T19:45:06+00:00",
+      "summary_zh": "作者对HTML `<select>`元素在不同浏览器中的默认样式差异和美观度不满，因此利用AI工具创建了一个展示所有可能样式的页面。经过实验，作者分享了自己最喜欢的CSS样式代码。",
+      "tags": [
+        "web",
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "37c418a013e851b7",
+      "title": "slopcore",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html",
+      "author": "",
+      "feed_title": "geohot.github.io",
+      "category": "Blogs",
+      "published_at": "2026-11-22T16:00:00+00:00",
+      "summary_zh": "文章以诗意的、宣言式的语言，强烈反对限制AI发展的观点，认为AI（尤其是多元化的AI）将把文明推向新高度，并批评了AI末日论和试图控制AI发展的行为。",
+      "tags": [
+        "AI",
+        "culture",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "3aed7d29f0957ba3",
+      "title": "I don't enjoy being pampered",
+      "url": "https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-22T12:34:51+00:00",
+      "summary_zh": "作者分享了自己在理发店接受长达近一小时的深度护理服务（包括热敷、按摩、使用多种护肤品）的经历，并反思自己并不享受这种“ pampering”（宠爱/呵护），更多是容忍，进而探讨了自己对此类服务的态度。",
+      "tags": [
+        "culture",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "103d7db8ea443365",
+      "title": "Mouse for Tandy 1000",
+      "url": "https://dfarq.homeip.net/mouse-for-tandy-1000/?utm_source=rss&utm_medium=rss&utm_campaign=mouse-for-tandy-1000",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-22T12:00:05+00:00",
+      "summary_zh": "文章介绍了Tandy 1000电脑可用的鼠标选项，指出虽然TRS-80彩色鼠标是早期型号的“正统”选择，但并非唯一或最佳选择，并承诺会解释一些替代方案。",
+      "tags": [
+        "hardware",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "641c843ae8e473b7",
+      "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+      "url": "https://www.troyhunt.com/weekly-update-531/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-11-22T05:24:12+00:00",
+      "summary_zh": "文章讨论了第三方脚本依赖（以Optimizely为例）引发的安全事件问责问题。作者指出，企业无法将责任“外包”，最终问责权在于数据受托方，但披露决定却可能由受影响的客户做出，造成了奇怪的局面。",
+      "tags": [
+        "security",
+        "web"
+      ]
+    },
+    {
+      "id": "6004e4b94fe76cd9",
+      "title": "To code well, avoid blunders",
+      "url": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "summary_zh": "文章的核心观点是，写好代码的秘诀在于避免灾难性的错误，而非追求 brilliant insights（卓越的洞见）。作者以国际象棋和网球为例，说明在许多领域，避免重大失误比追求精彩表现更能确保胜利。",
+      "tags": [
+        "programming",
+        "career"
+      ]
+    },
+    {
+      "id": "f0e1718c2a731d5a",
+      "title": "mass destruction of weapons",
+      "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+      "author": "",
+      "feed_title": "computer.rip",
+      "category": "Blogs",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "summary_zh": "文章探讨了“大规模杀伤性武器”（WMD）这一术语的历史和范畴，重点比较了化学武器与核武器在流行文化、历史记忆和现实处置中的不同地位，指出化学武器在美国已基本被销毁和遗忘。",
+      "tags": [
+        "culture",
+        "culture/history/technology",
+        "security"
+      ]
+    },
+    {
+      "id": "dc9b4a0c426ddc42",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T23:56:28+00:00",
+      "summary_zh": "文章介绍了Graham Dumpleton新开发的、由AI辅助的Rust服务器Muru，旨在为运行ASGI和WSGI Python应用提供最佳工具。作者还列出了项目开始三周以来发布的详细开发日志。",
+      "tags": [
+        "programming",
+        "open-source",
+        "tools",
+        "AI"
+      ]
+    },
+    {
+      "id": "e0e6f4639044a70b",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "author": "Eli Bendersky",
+      "feed_title": "eli.thegreenplace.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T22:26:00+00:00",
+      "summary_zh": "本文是关于离散傅里叶变换（DFT）的笔记，承接上一篇讨论离散时间傅里叶级数和变换的文章，转向分析现实数字信号处理中有限长度的离散信号。",
+      "tags": [
+        "programming",
+        "tools"
+      ]
+    },
+    {
+      "id": "078b94a7d4a109e6",
+      "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T20:09:57+00:00",
+      "summary_zh": "文章作者体验了 macOS 27.3 Beta 2 中新增的隐私控制功能，特别是针对“完全磁盘访问”权限的改进。新功能允许用户为应用授予特定文件夹的访问权限，而非整个磁盘，作者认为这赋予了用户更清晰、更精细的控制权，是一次成功的改进。",
+      "tags": [
+        "design",
+        "security",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "28284b5830e62a97",
+      "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
+      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T18:28:22+00:00",
+      "summary_zh": "文章报道了美国因麻疹疫情卷土重来而失去了“麻疹消除状态”的公共卫生事件。作者将此归咎于特朗普和 RFK Jr. 的政策，并引用他人观点称这早在预料之中，恢复该状态可能需要长达五年或更长时间。",
+      "tags": [
+        "culture",
+        "culture/sociology/technology",
+        "business"
+      ]
+    },
+    {
+      "id": "349636bb39c45742",
+      "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
+      "url": "https://support.apple.com/en-us/127901",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T18:02:51+00:00",
+      "summary_zh": "苹果官方文档说明了从 27.3 系统开始，部分高级 Apple Intelligence 和 Siri AI 功能将设有每日使用限制。用户可以通过升级付费的 iCloud+ 套餐来获得更高的使用额度，文章附带了各套餐层级的限制详情表格。",
+      "tags": [
+        "AI",
+        "cloud",
+        "mobile/ios"
+      ]
+    },
+    {
+      "id": "9adb1d81ba3f6682",
+      "title": "Reading List 11/21/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11212026",
+      "author": "Brian Potter",
+      "feed_title": "construction-physics.com",
+      "category": "Blogs",
+      "published_at": "2026-11-21T13:04:03+00:00",
+      "summary_zh": "这是一篇发布于 2026年11月21日的“阅读清单”博客文章，内容包含一张图片链接，但提供的文本片段不完整，无法判断其具体讨论的技术主题或核心内容。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "web"
+      ]
+    },
+    {
+      "id": "9f4dea6e0bd9e0eb",
+      "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
+      "url": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-21T12:34:40+00:00",
+      "summary_zh": "文章探讨了如何通过网页元数据（如 rel=\"license\" 属性和 Schema.org 结构化数据）来明确声明博客文章的版权许可协议（如 CC BY-SA）。作者旨在让人类和机器都能清晰地识别内容的授权信息。",
+      "tags": [
+        "web",
+        "open-source",
+        "tools"
+      ]
+    },
+    {
+      "id": "e7e527abfc9eedbc",
+      "title": "What three-bolt mount means on a garbage disposal",
+      "url": "https://dfarq.homeip.net/what-three-bolt-mount-means-on-a-garbage-disposal/?utm_source=rss&utm_medium=rss&utm_campaign=what-three-bolt-mount-means-on-a-garbage-disposal",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-21T12:00:16+00:00",
+      "summary_zh": "文章简短地提出了一个关于厨余垃圾处理器“三螺栓安装”术语含义的问题。作者在商店看到该描述但不确定其具体指代什么，并询问其含义以及是否便于改装。",
+      "tags": [
+        "hardware",
+        "hardware/iot",
+        "design"
+      ]
+    },
+    {
+      "id": "3fe88e3f73d8744a",
+      "title": "This Week in Package Management: 21 November 2026",
+      "url": "https://nesbitt.io/2026/11/21/this-week-in-package-management.html",
+      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
+      "feed_title": "nesbitt.io",
+      "category": "Blogs",
+      "published_at": "2026-11-21T10:00:00+00:00",
+      "summary_zh": "本周的软件包管理新闻摘要，涵盖了安全更新、项目动态等多个方面。重点包括 Gemstash 2.9.0 修复了严重远程代码执行漏洞并宣布为最终功能版本，以及 Ruby 和 Rust 生态中的多个安全修复。",
+      "tags": [
+        "programming",
+        "tools",
+        "security/vulnerability",
+        "open-source"
+      ]
+    }
+  ]
+}
