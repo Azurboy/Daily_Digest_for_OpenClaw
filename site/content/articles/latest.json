@@ -1,9 +1,309 @@
 {
-  "date": "2026-11-23",
-  "article_count": 19,
-  "tokens_used": 9819,
+  "date": "2026-11-24",
+  "article_count": 31,
+  "tokens_used": 16385,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "38a9fe5fefe639cb",
+      "title": "Comments and emails",
+      "url": "https://herman.bearblog.dev/comments-and-emails/",
+      "author": "",
+      "feed_title": "herman.bearblog.dev",
+      "category": "Blogs",
+      "published_at": "2026-11-24T07:16:00+00:00",
+      "summary_zh": "文章解释了博客平台Bear为何不内置评论、留言板或联系表单。作者认为这些功能会引入垃圾信息、匿名攻击和身份冒充等问题，增加了管理负担。Bear的解决方案是提供一个包含博主邮箱的链接，利用现有邮件服务商成熟的垃圾过滤和身份验证机制。",
+      "tags": [
+        "web",
+        "web/blog",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "bfe39e5b176c7b57",
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-24T04:24:29+00:00",
+      "summary_zh": "Datasette图表插件发布了0.2a0版本，新增了与Datasette Agent的集成功能。现在用户可以通过聊天界面请求生成图表，Agent会利用相同的底层图表建议和生成工具来创建图表。文章还提供了一个演示视频，展示了在agent.datasette.io上使用该功能的过程。",
+      "tags": [
+        "open-source",
+        "open-source/datasette",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "cde2e4331c947b3b",
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-24T03:45:57+00:00",
+      "summary_zh": "Datasette Agent发布了0.7a1版本，主要改进了聊天会话中iframe侧边面板的导航功能。新版本优化了基于片段哈希的导航，以便更好地与其他通过哈希更新状态的Datasette插件进行深度集成。此次更新旨在修复datasette-charts 0.2a0版本中的一些bug。",
+      "tags": [
+        "open-source",
+        "open-source/datasette",
+        "AI/LLM/Agent"
+      ]
+    },
+    {
+      "id": "7fd8f88e502fa60f",
+      "title": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
+      "url": "https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026",
+      "author": "Daring Fireball Department of Commerce",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-24T00:03:56+00:00",
+      "summary_zh": "文章介绍了Finalist每日计划应用与新款iPhone Duo的完美结合。该应用可以根据iPhone Duo的不同形态（闭合、展开、支架模式）自定义显示界面，如日程、习惯、时间线和任务等。它支持Markdown笔记、计划泳道、日记、手绘草图等多种功能，并适配iPhone、iPad、Mac和Watch。",
+      "tags": [
+        "mobile",
+        "mobile/ios",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "862264eb6838c269",
+      "title": "Jensen Huang Returns to Work",
+      "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T23:53:25+00:00",
+      "summary_zh": "文章报道了英伟达CEO黄仁勋在风波后重返工作岗位的场景。员工们聚集在公司总部欢呼迎接，黄仁勋对此前事件表示歉意，并承诺将“成为一个更好的CEO”。报道还提及了他关于个人行为的新承诺。",
+      "tags": [
+        "business",
+        "business/leadership",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "76869e8a6e2a41fa",
+      "title": "Finite Projective Spaces",
+      "url": "https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T23:49:05+00:00",
+      "summary_zh": "文章探讨了有限射影空间的概念，介绍了其公理体系，并指出其与有限射影平面的一个关键公理差异。作者指出，在分类学意义上，高维有限射影空间比二维的射影平面更为简单，因为高维空间的分类由其点数唯一确定，而二维平面则存在多种同点数的不同构型。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "2f3ef0ead000ffc6",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T23:40:49+00:00",
+      "summary_zh": "文章介绍了中国AI实验室Z.ai发布的GLM-5.4模型，这是其首个采用循环Transformer架构的模型。该架构通过权重共享的层组进行多次迭代来精炼隐藏状态，能在不增加参数量的情况下实现更深的网络。文章还提到近期另一款模型Inkling 2 Mini也采用了类似架构，并指出GLM-5.4目前尚未开源权重。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "AI/architecture"
+      ]
+    },
+    {
+      "id": "e59fe8be067f4ab6",
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T21:46:35+00:00",
+      "summary_zh": "文章介绍了雄心勃勃的新浏览器项目Ladybird及其首个Alpha版本的发布。Ladybird从零实现了HTML解析、CSS引擎、布局、JavaScript和WebAssembly等核心组件，仅依赖少数外部库。作者试用后认为其速度快、界面轻量直观，且能良好兼容多数网站。",
+      "tags": [
+        "open-source",
+        "web/browser",
+        "programming/systems"
+      ]
+    },
+    {
+      "id": "1a965fa5cd865b8f",
+      "title": "Am I A Design Engineer?",
+      "url": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
+      "author": "",
+      "feed_title": "blog.jim-nielsen.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T19:00:00+00:00",
+      "summary_zh": "作者探讨了“设计工程师”这一角色的定义，认为当前该术语过于侧重视觉设计和动画，而忽视了实际工程工作。他批评了将设计工程等同于制作花哨交互或脱离实际的原型等流行观点，并尝试提出“产品设计工程师”这一新术语，但也意识到其定义模糊的缺点。",
+      "tags": [
+        "design",
+        "design/engineering",
+        "career/roles"
+      ]
+    },
+    {
+      "id": "b5a6111909e0384a",
+      "title": "Two generators suffice",
+      "url": "https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T17:28:34+00:00",
+      "summary_zh": "文章指出，每个有限单群最多由两个元素生成，这是有限单群分类定理的一个推论。对于非阿贝尔有限单群，随机选取两个元素生成该群的概率随着群规模的增大而趋近于1。这一结果在分类定理的证明完成之前就已发表。",
+      "tags": [
+        "culture",
+        "culture/history/technology"
+      ]
+    },
+    {
+      "id": "e85934373f236f86",
+      "title": "Donald Trump on Jensen Huang’s Reinstatement at Nvidia",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117666713950631493",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T17:22:03+00:00",
+      "summary_zh": "文章报道了美国前总统特朗普在其社交媒体上对黄仁勋重返英伟达CEO职位发表评论，并附上了一张AI生成的讽刺图片。此前，特朗普在接受CNBC采访时声称自己促成了让黄仁勋回归的“交易”。",
+      "tags": [
+        "business",
+        "business/leadership",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "46967948423cedbc",
+      "title": "Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’",
+      "url": "https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T16:00:29+00:00",
+      "summary_zh": "据Semafor报道，在黄仁勋被复职前数小时，美国总统特朗普曾致电英伟达董事会，为其回归进行游说。白宫通讯主任对此予以证实并赞扬此举。文章批评了这种政府干预企业决策的行为，并引用了董事会主席关于此决定符合公司各方最佳利益的声明。",
+      "tags": [
+        "business",
+        "business/leadership",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "de53e4a44e16b68f",
+      "title": "Government Regulation and Demand",
+      "url": "https://stratechery.com/2026/obituaries/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T15:31:50+00:00",
+      "summary_zh": "文章讨论了美国政府通过限制Nvidia芯片出口来影响中国AI发展的策略。核心观点是，仅靠政府供给端控制难以建立生态系统，真正的技术进步依赖于需求驱动的开发者与用户之间的反馈循环。作者以互联网为例，说明自上而下的替代方案往往失败。",
+      "tags": [
+        "AI",
+        "business/strategy",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "92fd78a16a639b5f",
+      "title": "Elon Musk Claims to Be Unfamiliar With MAGA",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T15:16:35+00:00",
+      "summary_zh": "文章报道了埃隆·马斯克否认自己熟悉“MAGA”立场的言论，并引用其过往穿戴MAGA帽子、在特朗普集会上演讲等行为进行反驳。文章旨在揭示其言论与行为之间的矛盾。",
+      "tags": [
+        "culture",
+        "culture/media",
+        "business"
+      ]
+    },
+    {
+      "id": "3b38f7127b86a94d",
+      "title": "Nvidia Board Reinstates Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T14:43:27+00:00",
+      "summary_zh": "文章报道了Nvidia董事会一致投票决定立即恢复黄仁勋的CEO和董事会成员职务。董事会表示在与黄仁勋及美国政府高层沟通后，对其坦诚度和领导能力感到满意，并认为其复职不构成国家安全风险。",
+      "tags": [
+        "AI",
+        "business",
+        "hardware"
+      ]
+    },
+    {
+      "id": "73db4390133548b2",
+      "title": "Pluralistic: The Debt Trap (23 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/23/grasshoppers-v-ants/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T13:18:44+00:00",
+      "summary_zh": "文章探讨了“技术债”等因果关系不明确的问题如何导致系统性风险。作者认为，忽视长期累积的隐性成本（如技术债、环境破坏）最终会引发灾难性后果，类似于雪崩。",
+      "tags": [
+        "culture",
+        "culture/technology",
+        "programming/technical-debt",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "468f7cd3ff90b5fe",
+      "title": "Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-23T12:34:29+00:00",
+      "summary_zh": "这是一篇关于Sonoff AirGuard TH Lite Zigbee温湿度传感器的评测。作者介绍了这款廉价传感器的外观、使用AAA电池供电、预计续航以及简单的开箱体验。",
+      "tags": [
+        "hardware",
+        "hardware/iot",
+        "tools"
+      ]
+    },
+    {
+      "id": "f8bd4e182d3df0f0",
+      "title": "Why the Atari Jaguar is so expensive",
+      "url": "https://dfarq.homeip.net/why-the-atari-jaguar-is-so-expensive/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-atari-jaguar-is-so-expensive",
+      "author": "Dave Farquhar",
+      "feed_title": "dfarq.homeip.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T12:00:10+00:00",
+      "summary_zh": "文章探讨了Atari最后一款20世纪游戏主机Jaguar在当今收藏市场上价格昂贵的原因。尽管该主机在1993-1996年间的市场表现不佳，但其稀有性和收藏价值推高了价格。",
+      "tags": [
+        "hardware",
+        "culture/history/technology",
+        "culture"
+      ]
+    },
+    {
+      "id": "b96467cf0f7b4e6c",
+      "title": "Gravity on an oblate planet",
+      "url": "https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T10:17:22+00:00",
+      "summary_zh": "文章讨论了在扁球体行星（如地球）上，重力计算不能简单使用质点模型。通过比较极点与赤道的重力，作者指出质点模型会严重高估重力差异，并引入了更精确的均匀密度模型进行说明。",
+      "tags": [
+        "culture",
+        "culture/technology",
+        "design"
+      ]
+    },
+    {
+      "id": "518c7440f89942de",
+      "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+      "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
+      "author": "Troy Hunt",
+      "feed_title": "troyhunt.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T07:58:47+00:00",
+      "summary_zh": "文章基于作者与数百家遭遇数据泄露公司的邮件往来，分析了数据泄露披露为何如此困难。AI撰写的分析揭示了公司常见的推诿、拖延、律师过度介入等行为，其核心是将公司利益置于受影响的客户之上。",
+      "tags": [
+        "security",
+        "security/vulnerability",
+        "business",
+        "AI/application"
+      ]
+    },
     {
       "id": "ee829d17eb18fb54",
       "title": "Zenith Data Systems, Part II",
@@ -12,10 +312,28 @@
       "feed_title": "abortretry.fail",
       "category": "Blogs",
       "published_at": "2026-11-23T02:25:14+00:00",
-      "summary_zh": "本文是Zenith Data Systems系列文章的第二部分，内容未提供，但根据标题推断，可能继续探讨该公司的历史、技术或影响。",
+      "summary_zh": "文章内容无法从提供的片段中获取。标题暗示这是关于Zenith Data Systems公司历史的系列文章第二部分。",
       "tags": [
-        "culture",
-        "culture/history/technology"
+        "hardware",
+        "culture/history/technology",
+        "business"
+      ]
+    },
+    {
+      "id": "d26bd4b314a87a65",
+      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T00:37:20+00:00",
+      "summary_zh": "文章宣布了datasette-charts插件0.1a0版本的发布。作者利用Claude Fable 5.2快速构建了原型，该插件能为Datasette数据提供自动图表生成和可视化建议功能。",
+      "tags": [
+        "programming",
+        "tools",
+        "database",
+        "AI/application",
+        "open-source"
       ]
     },
     {
@@ -26,10 +344,56 @@
       "feed_title": "seangoedecke.com",
       "category": "Blogs",
       "published_at": "2026-11-23T00:00:00+00:00",
-      "summary_zh": "文章探讨了在情况不明时，与其谨慎等待，不如积极尝试多种方法（即“胡乱尝试”）来快速获取理解和变得有用的策略。作者也指出了这种做法的风险，并给出了如何有效“尝试”的建议。",
+      "summary_zh": "文章提出在情况不明、缺乏明确指导时，“胡乱尝试”可能比谨慎等待更有效。作者承认这是危险的建议，但详细阐述了如何通过快速尝试多种方案、密切关注反馈来高效获取认知并变得有用。",
       "tags": [
         "career",
-        "tools/productivity"
+        "programming",
+        "culture",
+        "business/strategy"
+      ]
+    },
+    {
+      "id": "0f127b0cd48e22cc",
+      "title": "Notes on OpenAI's perplexity reveal",
+      "url": "https://seangoedecke.com/notes-on-openais-perplexity-reveal/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "summary_zh": "文章对OpenAI发布的历代模型困惑度演变图进行了分析。作者认为这提供了前所未有的前沿实验室内部训练指标可见度，并讨论了此举在安全透明度上的意义以及图中揭示的模型性能趋势。",
+      "tags": [
+        "AI",
+        "AI/LLM",
+        "open-source",
+        "performance"
+      ]
+    },
+    {
+      "id": "f79aa1569240176a",
+      "title": "Nerd Quiz #5",
+      "url": "https://susam.net/code/news/nq/5.0.0.html",
+      "author": "",
+      "feed_title": "susam.net",
+      "category": "Blogs",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "summary_zh": "文章介绍了Nerd Quiz第五版的发布，这是一个单页HTML应用，用于测试知识水平。本次更新新增了五个关于文学、生物学、计算和音乐等领域的新问题，并提供了社区讨论页面。",
+      "tags": [
+        "culture",
+        "culture/technology"
+      ]
+    },
+    {
+      "id": "0e57102f42d40a7c",
+      "title": "Two graphs",
+      "url": "https://martinalderson.com/posts/two-graphs/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "author": "martin@martinalderson.com (Martin Alderson)",
+      "feed_title": "martinalderson.com",
+      "category": "Blogs",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "summary_zh": "文章展示并分析了两个关于AI能力发展的图表。第一个是远程劳动指数与模型能力的关系图，第二个是对AI模型完成编码和研究任务能力的预测图，两者都表明AI能力正在快速接近并可能超越人类水平。",
+      "tags": [
+        "AI",
+        "AI/capabilities"
       ]
     },
     {
@@ -40,7 +404,7 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-22T23:04:30+00:00",
-      "summary_zh": "文章介绍了名为Ivy的待办事项应用，其核心是采用“Ivy Lee方法”，每天只创建一份简短的优先级任务列表，未完成项会回到“想法池”，旨在避免任务列表无限膨胀。该应用是原生开发的，集成了提醒和日历功能。",
+      "summary_zh": "文章介绍了一款名为Ivy的待办事项应用，其核心设计理念是每日清空任务列表，灵感来源于百年历史的Ivy Lee方法。该应用专注于iPhone平台，提供简洁的界面和与系统服务的深度集成，旨在通过限制每日任务数量来提高专注力。",
       "tags": [
         "tools",
         "tools/productivity",
@@ -55,11 +419,11 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-22T19:45:06+00:00",
-      "summary_zh": "作者对HTML `<select>`元素在不同浏览器中的默认样式差异和美观度不满，因此利用AI工具创建了一个展示所有可能样式的页面。经过实验，作者分享了自己最喜欢的CSS样式代码。",
+      "summary_zh": "作者因对HTML <select>元素在不同浏览器中的默认样式不满，利用AI工具创建了一个展示各种CSS样式方案的页面。文章分享了作者经过实验后最喜欢的CSS样式代码，旨在为前端开发者提供参考。",
       "tags": [
         "web",
-        "programming",
-        "tools"
+        "web/css",
+        "web/frontend"
       ]
     },
     {
@@ -70,10 +434,10 @@
       "feed_title": "geohot.github.io",
       "category": "Blogs",
       "published_at": "2026-11-22T16:00:00+00:00",
-      "summary_zh": "文章以诗意的、宣言式的语言，强烈反对限制AI发展的观点，认为AI（尤其是多元化的AI）将把文明推向新高度，并批评了AI末日论和试图控制AI发展的行为。",
+      "summary_zh": "文章以强烈的个人观点表达了对AI发展的乐观态度，反对对AI进行过度管制。作者认为AI的进步是自然且不可阻挡的，多元化的AI将推动文明达到新高度，并将试图阻止这一进程的力量比作法西斯主义。",
       "tags": [
         "AI",
-        "culture",
+        "AI/ethics",
         "culture/technology"
       ]
     },
@@ -85,7 +449,7 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-22T12:34:51+00:00",
-      "summary_zh": "作者分享了自己在理发店接受长达近一小时的深度护理服务（包括热敷、按摩、使用多种护肤品）的经历，并反思自己并不享受这种“ pampering”（宠爱/呵护），更多是容忍，进而探讨了自己对此类服务的态度。",
+      "summary_zh": "作者分享了在理发店接受长时间、精细化服务的个人体验与感受。尽管服务专业周到，但作者发现自己并不享受这种被“过度呵护”的过程，并由此反思了自己对于陌生人接触和个人享受的态度。",
       "tags": [
         "culture",
         "culture/sociology/technology"
@@ -99,189 +463,10 @@
       "feed_title": "dfarq.homeip.net",
       "category": "Blogs",
       "published_at": "2026-11-22T12:00:05+00:00",
-      "summary_zh": "文章介绍了Tandy 1000电脑可用的鼠标选项，指出虽然TRS-80彩色鼠标是早期型号的“正统”选择，但并非唯一或最佳选择，并承诺会解释一些替代方案。",
+      "summary_zh": "文章探讨了为早期Tandy 1000电脑选择鼠标的替代方案。作者指出，虽然TRS-80彩色鼠标是原装配件，但并非唯一或最佳选择，并将在文中详细解释其他可用的选项。",
       "tags": [
         "hardware",
-        "culture/history/technology"
-      ]
-    },
-    {
-      "id": "641c843ae8e473b7",
-      "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
-      "url": "https://www.troyhunt.com/weekly-update-531/",
-      "author": "Troy Hunt",
-      "feed_title": "troyhunt.com",
-      "category": "Blogs",
-      "published_at": "2026-11-22T05:24:12+00:00",
-      "summary_zh": "文章讨论了第三方脚本依赖（以Optimizely为例）引发的安全事件问责问题。作者指出，企业无法将责任“外包”，最终问责权在于数据受托方，但披露决定却可能由受影响的客户做出，造成了奇怪的局面。",
-      "tags": [
-        "security",
-        "web"
-      ]
-    },
-    {
-      "id": "6004e4b94fe76cd9",
-      "title": "To code well, avoid blunders",
-      "url": "https://seangoedecke.com/to-code-well-avoid-blunders/",
-      "author": "",
-      "feed_title": "seangoedecke.com",
-      "category": "Blogs",
-      "published_at": "2026-11-22T00:00:00+00:00",
-      "summary_zh": "文章的核心观点是，写好代码的秘诀在于避免灾难性的错误，而非追求 brilliant insights（卓越的洞见）。作者以国际象棋和网球为例，说明在许多领域，避免重大失误比追求精彩表现更能确保胜利。",
-      "tags": [
-        "programming",
-        "career"
-      ]
-    },
-    {
-      "id": "f0e1718c2a731d5a",
-      "title": "mass destruction of weapons",
-      "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
-      "author": "",
-      "feed_title": "computer.rip",
-      "category": "Blogs",
-      "published_at": "2026-11-22T00:00:00+00:00",
-      "summary_zh": "文章探讨了“大规模杀伤性武器”（WMD）这一术语的历史和范畴，重点比较了化学武器与核武器在流行文化、历史记忆和现实处置中的不同地位，指出化学武器在美国已基本被销毁和遗忘。",
-      "tags": [
-        "culture",
-        "culture/history/technology",
-        "security"
-      ]
-    },
-    {
-      "id": "dc9b4a0c426ddc42",
-      "title": "Muru",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T23:56:28+00:00",
-      "summary_zh": "文章介绍了Graham Dumpleton新开发的、由AI辅助的Rust服务器Muru，旨在为运行ASGI和WSGI Python应用提供最佳工具。作者还列出了项目开始三周以来发布的详细开发日志。",
-      "tags": [
-        "programming",
-        "open-source",
-        "tools",
-        "AI"
-      ]
-    },
-    {
-      "id": "e0e6f4639044a70b",
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "author": "Eli Bendersky",
-      "feed_title": "eli.thegreenplace.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T22:26:00+00:00",
-      "summary_zh": "本文是关于离散傅里叶变换（DFT）的笔记，承接上一篇讨论离散时间傅里叶级数和变换的文章，转向分析现实数字信号处理中有限长度的离散信号。",
-      "tags": [
-        "programming",
-        "tools"
-      ]
-    },
-    {
-      "id": "078b94a7d4a109e6",
-      "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
-      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T20:09:57+00:00",
-      "summary_zh": "文章作者体验了 macOS 27.3 Beta 2 中新增的隐私控制功能，特别是针对“完全磁盘访问”权限的改进。新功能允许用户为应用授予特定文件夹的访问权限，而非整个磁盘，作者认为这赋予了用户更清晰、更精细的控制权，是一次成功的改进。",
-      "tags": [
-        "design",
-        "security",
-        "mobile/ios"
-      ]
-    },
-    {
-      "id": "28284b5830e62a97",
-      "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
-      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T18:28:22+00:00",
-      "summary_zh": "文章报道了美国因麻疹疫情卷土重来而失去了“麻疹消除状态”的公共卫生事件。作者将此归咎于特朗普和 RFK Jr. 的政策，并引用他人观点称这早在预料之中，恢复该状态可能需要长达五年或更长时间。",
-      "tags": [
-        "culture",
-        "culture/sociology/technology",
-        "business"
-      ]
-    },
-    {
-      "id": "349636bb39c45742",
-      "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
-      "url": "https://support.apple.com/en-us/127901",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T18:02:51+00:00",
-      "summary_zh": "苹果官方文档说明了从 27.3 系统开始，部分高级 Apple Intelligence 和 Siri AI 功能将设有每日使用限制。用户可以通过升级付费的 iCloud+ 套餐来获得更高的使用额度，文章附带了各套餐层级的限制详情表格。",
-      "tags": [
-        "AI",
-        "cloud",
-        "mobile/ios"
-      ]
-    },
-    {
-      "id": "9adb1d81ba3f6682",
-      "title": "Reading List 11/21/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-11212026",
-      "author": "Brian Potter",
-      "feed_title": "construction-physics.com",
-      "category": "Blogs",
-      "published_at": "2026-11-21T13:04:03+00:00",
-      "summary_zh": "这是一篇发布于 2026年11月21日的“阅读清单”博客文章，内容包含一张图片链接，但提供的文本片段不完整，无法判断其具体讨论的技术主题或核心内容。",
-      "tags": [
-        "culture",
-        "culture/media",
-        "web"
-      ]
-    },
-    {
-      "id": "9f4dea6e0bd9e0eb",
-      "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
-      "url": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-11-21T12:34:40+00:00",
-      "summary_zh": "文章探讨了如何通过网页元数据（如 rel=\"license\" 属性和 Schema.org 结构化数据）来明确声明博客文章的版权许可协议（如 CC BY-SA）。作者旨在让人类和机器都能清晰地识别内容的授权信息。",
-      "tags": [
-        "web",
-        "open-source",
-        "tools"
-      ]
-    },
-    {
-      "id": "e7e527abfc9eedbc",
-      "title": "What three-bolt mount means on a garbage disposal",
-      "url": "https://dfarq.homeip.net/what-three-bolt-mount-means-on-a-garbage-disposal/?utm_source=rss&utm_medium=rss&utm_campaign=what-three-bolt-mount-means-on-a-garbage-disposal",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-21T12:00:16+00:00",
-      "summary_zh": "文章简短地提出了一个关于厨余垃圾处理器“三螺栓安装”术语含义的问题。作者在商店看到该描述但不确定其具体指代什么，并询问其含义以及是否便于改装。",
-      "tags": [
-        "hardware",
-        "hardware/iot",
-        "design"
-      ]
-    },
-    {
-      "id": "3fe88e3f73d8744a",
-      "title": "This Week in Package Management: 21 November 2026",
-      "url": "https://nesbitt.io/2026/11/21/this-week-in-package-management.html",
-      "author": "Andrew Nesbitt (andrew@ecosyste.ms)",
-      "feed_title": "nesbitt.io",
-      "category": "Blogs",
-      "published_at": "2026-11-21T10:00:00+00:00",
-      "summary_zh": "本周的软件包管理新闻摘要，涵盖了安全更新、项目动态等多个方面。重点包括 Gemstash 2.9.0 修复了严重远程代码执行漏洞并宣布为最终功能版本，以及 Ruby 和 Rust 生态中的多个安全修复。",
-      "tags": [
-        "programming",
-        "tools",
-        "security/vulnerability",
-        "open-source"
+        "hardware/retro"
       ]
     }
   ]
