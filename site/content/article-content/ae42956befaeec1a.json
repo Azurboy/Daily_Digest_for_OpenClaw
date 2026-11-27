@@ -1,0 +1,6 @@
+{
+  "id": "ae42956befaeec1a",
+  "title": "Remotely unplugging a USB device on my Mac, without touching it",
+  "url": "https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/",
+  "content": "<p>Tonight I was remote debugging a USB-C device with custom firmware, which was plugged into my Mac Studio at work. I was accessing it over a WireGuard VPN tunnel.</p>\n<figure class=\"insert-image\"><img alt=\"Front of M4 Max Mac Studio\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/m4-max-mac-studio-front.jpeg\" width=\"700\" />\n</figure>\n\n<p>Part of the debugging process involves flashing firmware to the device using <a href=\"https://www.sweetwater.com/sweetcare/articles/how-do-i-send-and-receive-sysex-on-pc-or-mac/\">MIDI SysEx messages</a>, and while handy, this technique can also be flaky, leaving the device in a partially-flashed state that needs a physical re-plug to recover from.</p>"
+}

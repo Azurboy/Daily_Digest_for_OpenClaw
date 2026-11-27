@@ -1,9 +1,124 @@
 {
-  "date": "2026-11-26",
-  "article_count": 44,
-  "tokens_used": 23609,
+  "date": "2026-11-27",
+  "article_count": 26,
+  "tokens_used": 14783,
   "ai_model": "deepseek-ai/DeepSeek-V3.2",
   "articles": [
+    {
+      "id": "ae42956befaeec1a",
+      "title": "Remotely unplugging a USB device on my Mac, without touching it",
+      "url": "https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/",
+      "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+      "feed_title": "jeffgeerling.com",
+      "category": "Blogs",
+      "published_at": "2026-11-27T05:18:00+00:00",
+      "summary_zh": "作者描述了通过WireGuard VPN远程调试连接在Mac Studio上的USB-C设备的过程。调试涉及使用MIDI SysEx消息刷写固件，但此方法不稳定，有时需要物理重新插拔设备才能恢复。",
+      "tags": [
+        "hardware",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "a8bf8f1f2654b6a1",
+      "title": "Who gets to decide if something is written by AI?",
+      "url": "https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
+      "author": "",
+      "feed_title": "seangoedecke.com",
+      "category": "Blogs",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "summary_zh": "文章探讨了当前关于内容是否由AI生成的争议，例如写作奖项和出版合同纠纷。核心问题是：谁有权判定内容是否为AI所写，并讨论了Pangram等AI检测工具的可靠性及其引发的广泛不满。",
+      "tags": [
+        "AI",
+        "AI/ethics",
+        "culture/media"
+      ]
+    },
+    {
+      "id": "3b47280789f03ebc",
+      "title": "★ Obvious Affordances Are Due for a Comeback",
+      "url": "https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback",
+      "author": "John Gruber",
+      "feed_title": "daringfireball.net",
+      "category": "Blogs",
+      "published_at": "2026-11-26T15:11:46+00:00",
+      "summary_zh": "文章讨论了Apple Notes等应用中“创建日期”和“修改日期”的显示问题。作者指出，在编辑视图中只显示修改日期，而创建日期仅在列表视图中可见，这可能导致用户困惑，并呼吁更直观的界面设计。",
+      "tags": [
+        "design",
+        "tools/productivity"
+      ]
+    },
+    {
+      "id": "fcbb41954277a0a1",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-26T15:09:31+00:00",
+      "summary_zh": "文章引用了一段关于AI导致内容“去个性化”现象的评论。作者指出，在视频、会议、邮件等各种场景中，都能感受到AI生成内容（如Claude）的同质化影响，削弱了个体独特性。",
+      "tags": [
+        "AI",
+        "AI/ethics",
+        "culture/sociology/technology"
+      ]
+    },
+    {
+      "id": "82957b23e46f1fc0",
+      "title": "What happens when you put a non-agile object in the CoreApplication Properties?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-26T15:00:00+00:00",
+      "summary_zh": "本文解释了在CoreApplication.Properties中存储非敏捷对象与敏捷对象的行为差异。关键在于，非敏捷对象只能被创建它的套间访问，因此当该套间关闭时对象即失效，而敏捷对象则需所有套间关闭才失效。",
+      "tags": [
+        "programming",
+        "programming/systems"
+      ]
+    },
+    {
+      "id": "a871db9fdc6d486a",
+      "title": "Las Vegas, Monte Carlo, and Integer Factorization",
+      "url": "https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/",
+      "author": "John",
+      "feed_title": "johndcook.com",
+      "category": "Blogs",
+      "published_at": "2026-11-26T13:14:07+00:00",
+      "summary_zh": "文章比较了蒙特卡洛算法（固定时间，可变错误率）和拉斯维加斯算法（可变时间，零错误率）的区别。重点介绍了一篇新的无条件整数分解论文，该算法属于拉斯维加斯类型，其分析不依赖于任何未经验证的假设。",
+      "tags": [
+        "programming",
+        "AI/application"
+      ]
+    },
+    {
+      "id": "5a58d6c89d87cba5",
+      "title": "OGP Image Format Support on Major Sites and Apps",
+      "url": "https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/",
+      "author": "Terence Eden",
+      "feed_title": "shkspr.mobi",
+      "category": "Blogs",
+      "published_at": "2026-11-26T12:34:04+00:00",
+      "summary_zh": "作者创建了一个工具来测试各大社交网站和应用程序对Open Graph Protocol（OGP）链接预览中不同图像格式（如AVIF、JPEG-XL）的支持情况。结果显示各平台支持度不一，缺乏统一标准。",
+      "tags": [
+        "web",
+        "web/frontend"
+      ]
+    },
+    {
+      "id": "a49a96de2e47c010",
+      "title": "Pluralistic: Charles Koch is a cult leader (26 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/26/science-of-liberty/",
+      "author": "Cory Doctorow",
+      "feed_title": "pluralistic.net",
+      "category": "Blogs",
+      "published_at": "2026-11-26T12:31:19+00:00",
+      "summary_zh": "文章将查尔斯·科赫及其宣扬的“自由科学”比作邪教领袖。作者批判了其商业哲学中的泰勒主义、市场原教旨主义等思想，认为它们像科学教一样缺乏科学性，是一种控制手段。",
+      "tags": [
+        "business",
+        "business/strategy",
+        "culture/sociology/technology"
+      ]
+    },
     {
       "id": "7de39f044da3622e",
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -12,11 +127,26 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-26T06:08:25+00:00",
-      "summary_zh": "文章介绍了SQLite 3.47.0中引入的实验性工具sqlite3_rsync，它允许通过SSH连接复制数据库快照到另一台机器，而无需在本地创建完整的副本。该工具类似于rsync，通过发送页面哈希值来同步差异，特别适用于磁盘空间有限的场景。",
+      "summary_zh": "介绍了SQLite 3.47.0中引入的实验性工具sqlite3_rsync。该工具可以通过SSH连接远程复制数据库快照，无需在本地创建完整副本，也支持类似rsync的差异同步，节省磁盘空间和网络带宽。",
       "tags": [
         "database",
-        "tools",
-        "open-source/datasette"
+        "open-source/datasette",
+        "tools"
+      ]
+    },
+    {
+      "id": "e7f1c23cf7eb3725",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "author": "",
+      "feed_title": "simonwillison.net",
+      "category": "Blogs",
+      "published_at": "2026-11-26T05:08:46+00:00",
+      "summary_zh": "针对《纽约时报》警告摄影师不要更新包含AI功能的Photoshop一事，作者分享了自己的经历。他指出，新闻摄影属于新闻纪实范畴，时报摄影师严格遵守只进行裁剪和色彩平衡、不做内容修改的职业准则。",
+      "tags": [
+        "AI",
+        "AI/ethics",
+        "culture/media"
       ]
     },
     {
@@ -27,10 +157,24 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-26T00:16:54+00:00",
-      "summary_zh": "文章推测特朗普声称在首个任期内“保护”了埃隆·马斯克，指的是2018年马斯克因“私有化资金已到位”推文被SEC起诉后，在特朗普任命的SEC主席任内迅速达成和解的事件。文章暗示这是特朗普公开的腐败行为之一。",
+      "summary_zh": "文章推测特朗普所谓“保护”马斯克的事件，指的是2018年马斯克发推文称“资金已到位”将特斯拉私有化后引发的SEC诉讼。该诉讼在特朗普任命的SEC主席任内迅速以相对宽松的条件和解，使马斯克得以保留特斯拉CEO职位。",
       "tags": [
         "business",
         "culture/media"
+      ]
+    },
+    {
+      "id": "97586f40cd93cb1e",
+      "title": "Underrated reasons to be thankful VI",
+      "url": "https://dynomight.net/thanks-6/",
+      "author": "dynomight",
+      "feed_title": "dynomight.net",
+      "category": "Blogs",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "summary_zh": "文章列举了一系列被低估的、值得感恩的现代生活细节，例如日间人身安全的高度保障、闻异丙醇缓解恶心的偏方、裤子无需频繁清洗的生理学原因，以及地球生态系统中闪电与微生物维持的微妙氧气平衡等。",
+      "tags": [
+        "culture",
+        "culture/sociology/technology"
       ]
     },
     {
@@ -41,7 +185,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-25T23:26:32+00:00",
-      "summary_zh": "文章引用了Scott Aaronson的观点，他认为以LLM为代表的AI技术正在为我们揭示一个全新的、以前只能模糊窥见的数学真理大陆，其意义堪比列文虎克首次使用显微镜或伽利略首次使用望远镜。这标志着我们对复杂性理论和更广泛数学宇宙的理解分辨率得到了巨大提升。",
+      "summary_zh": "文章引用了Scott Aaronson的观点，他认为以LLMs为代表的技术正在为我们揭示一个全新的、曾被迷雾笼罩的数学真理大陆。这类似于显微镜或望远镜的发明，极大地提升了我们对复杂性理论乃至更广阔数学真理宇宙的解析能力。",
       "tags": [
         "AI",
         "AI/LLM",
@@ -56,11 +200,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-25T22:52:37+00:00",
-      "summary_zh": "文章报道了1Password后端系统遭到入侵，攻击者获取了部分客户的账户元数据（如姓名和邮箱），但受端到端加密保护的保险库数据和密钥并未泄露。文章赞扬了1Password的设计和处理方式，并提醒用户警惕钓鱼邮件。",
+      "summary_zh": "1Password披露其部分后端系统遭入侵，攻击者获取了部分客户的账户元数据（如姓名和邮箱）。但得益于端到端加密设计，用户存储的密码库数据和密钥等敏感信息并未受影响。文章认为1Password的应对方式堪称完美，并强调了端到端加密的重要性。",
       "tags": [
         "security",
-        "security/vulnerability",
-        "tools/productivity"
+        "security/vulnerability"
       ]
     },
     {
@@ -71,11 +214,11 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-25T22:31:10+00:00",
-      "summary_zh": "文章报道了特朗普重新任命黄仁勋后，即使在国会共和党盟友中也引发了强烈反对和国家安全担忧。批评者认为此举可能因黄仁勋与潜在中国情报人员的关系而危及美国国家安全，并标志着对自由市场原则的背离。",
+      "summary_zh": "文章讨论了特朗普总统重新任命英伟达CEO黄仁勋后引发的争议。尽管特朗普对此表示支持，但其国会盟友却普遍对此表示反对，担忧黄仁勋与中国的关系可能危及美国国家安全。这反映了共和党内部在国家安全和产业政策上的分歧。",
       "tags": [
         "business",
         "business/strategy",
-        "culture/technology"
+        "culture/sociology/technology"
       ]
     },
     {
@@ -86,7 +229,7 @@
       "feed_title": "jeffgeerling.com",
       "category": "Blogs",
       "published_at": "2026-11-25T21:43:00+00:00",
-      "summary_zh": "文章描述了在将服务器升级到Ubuntu 26后，当sudo需要密码时，Ansible自动化任务会因等待权限提升提示而超时失败。作者指出这是由于Ubuntu 26.04默认使用的、用Rust重写的sudo-rs与旧版sudo存在兼容性问题。",
+      "summary_zh": "作者在将服务器升级到Ubuntu 26时，发现Ansible自动化工具在需要sudo密码提升权限时会失败。原因是Ubuntu 26.04使用了用Rust重写的`sudo-rs`版本，与旧版`sudo`存在兼容性问题，导致Ansible无法正确等待权限提升提示。",
       "tags": [
         "devops",
         "tools",
@@ -101,12 +244,12 @@
       "feed_title": "blog.jim-nielsen.com",
       "category": "Blogs",
       "published_at": "2026-11-25T19:00:00+00:00",
-      "summary_zh": "文章表达了作者对当前技术趋势的担忧，即开发者优先考虑让AI代理（Agent）能够访问软件，而非确保软件对人类用户的可访问性。作者担心这会导致软件越来越适合机器，却对人类不友好，并讽刺了“反正人类都用代理”的潜在心态。",
+      "summary_zh": "作者表达了对当前技术趋势的担忧：开发者正花费大量精力让软件对AI代理（Agent）更易访问，却可能忽视了人类用户的直接使用体验。他担心这种“为机器而非为人设计”的倾向，最终可能导致软件对人类越来越不友好。",
       "tags": [
         "AI",
         "AI/LLM/Agent",
-        "culture/sociology/technology",
-        "design/engineering"
+        "design",
+        "culture/technology"
       ]
     },
     {
@@ -117,7 +260,7 @@
       "feed_title": "simonwillison.net",
       "category": "Blogs",
       "published_at": "2026-11-25T18:16:50+00:00",
-      "summary_zh": "文章宣布了datasette-charts插件0.3a0版本的发布，主要新增了图表注释功能。用户现在可以在图表中添加线条、阴影区域和标签等注释，以增强数据可视化效果，并提供了一个包含注释的示例图表截图和演示链接。",
+      "summary_zh": "datasette-charts插件发布了0.3a0版本，新增了图表标注功能。用户现在可以在图表中添加线条、阴影区域、标签等多种形式的注释，以增强数据可视化的表达力。文章展示了一个带注释的条形图示例，并提供了在线演示链接。",
       "tags": [
         "open-source",
         "open-source/datasette",
@@ -132,10 +275,10 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-25T17:04:06+00:00",
-      "summary_zh": "文章介绍并评价了设计师Pablo Stanley创建的一个关于构建复杂“Composer”UI组件的交互式体验。作者起初欣赏其生动展示设计细节的复杂性，但随后认为其过于冗长和神经质，最终跳过了大部分内容。",
+      "summary_zh": "文章介绍了一个名为“The Life of a Composer”的交互式体验，它生动展示了设计一个看似简单的“Composer”（复杂输入框）背后需要考虑的海量细节。作者最初觉得有趣，但后来认为其过于冗长和神经质，最终选择跳过了大部分内容。",
       "tags": [
         "design",
-        "culture/technology",
+        "culture/media",
         "web/frontend"
       ]
     },
@@ -147,10 +290,24 @@
       "feed_title": "daringfireball.net",
       "category": "Blogs",
       "published_at": "2026-11-25T16:22:27+00:00",
-      "summary_zh": "文章引用了特朗普在CNBC采访中声称自己“保护”了埃隆·马斯克的言论，并推测随着特朗普认知能力下降，此类爆料会越来越多。文章认为这可能只是特朗普惯用的夸大其词，但公开谈论对政治盟友的“保护”仍显得非常怪异。",
+      "summary_zh": "文章报道了特朗普在采访中声称自己在第一任期“保护了”埃隆·马斯克，但未透露具体细节。作者认为，随着特朗普认知能力的衰退，他可能会越来越多地爆出此类令人费解的言论，这可能只是他惯用的自我吹嘘，也可能暗示着不为人知的秘密。",
       "tags": [
         "business",
         "culture/media"
+      ]
+    },
+    {
+      "id": "ef1f231c5a7150c9",
+      "title": "Why did it seem that the entries in the CoreApplication Properties expired when the source application shut down?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/",
+      "author": "Raymond Chen",
+      "feed_title": "devblogs.microsoft.com/oldnewthing",
+      "category": "Blogs",
+      "published_at": "2026-11-25T15:00:00+00:00",
+      "summary_zh": "文章解释了为什么`CoreApplication.Properties`中的条目在源应用关闭后看起来会“过期”。原因在于，如果存入的对象不是“敏捷”的，系统会为其创建敏捷包装器；当源线程（或单元）关闭时，包装器内的原始对象变得不可用，从而导致条目失效。",
+      "tags": [
+        "programming",
+        "programming/systems"
       ]
     },
     {
@@ -161,9 +318,9 @@
       "feed_title": "johndcook.com",
       "category": "Blogs",
       "published_at": "2026-11-25T14:51:58+00:00",
-      "summary_zh": "文章探讨了Hadwiger覆盖猜想：在三维空间中，任何具有非空内部的凸体K，都可以用8个更小的自身副本覆盖。文章从用更小的立方体覆盖立方体、用球体覆盖球体等具体例子出发，引出了这一尚未被证明的几何学猜想。",
+      "summary_zh": "文章探讨了Hadwiger覆盖猜想：在三维空间中，任何具有非空内部的凸体K，都可以用八个更小的自身副本覆盖。文章以立方体和球体为例，展示了具体的覆盖方法，并指出该猜想认为八是所需副本数的最小上界。",
       "tags": [
-        "culture/technology",
+        "culture",
         "culture/history/technology"
       ]
     },
@@ -175,9 +332,9 @@
       "feed_title": "johndcook.com",
       "category": "Blogs",
       "published_at": "2026-11-25T13:44:21+00:00",
-      "summary_zh": "文章探讨了扁球体行星（如地球）表面重力变化与勒让德多项式的关系。扁率（以J2系数表示）通过第二勒让德多项式影响重力势，这对卫星轨道有显著影响，并以科幻小说中极端扁平的Mesklin行星为例进行了说明。",
+      "summary_zh": "文章讨论了扁球体行星（如地球）表面重力变化的数学描述。引力势能与极角θ的函数关系可以用勒让德多项式展开来表示，其中系数J2对应的二阶项（J2效应）对卫星轨道有显著影响。文章以科幻小说中的极端扁球行星为例进行了说明。",
       "tags": [
-        "culture/technology",
+        "culture",
         "culture/history/technology"
       ]
     },
@@ -189,12 +346,11 @@
       "feed_title": "pluralistic.net",
       "category": "Blogs",
       "published_at": "2026-11-25T13:42:12+00:00",
-      "summary_zh": "文章讨论了纽约州针对汽车行业“恶化”现象（如特斯拉的DRM和反规避措施）的立法行动，提出了一种修复国会立法失误的蓝图。内容涉及技术垄断、消费者权利和州级法律干预。",
+      "summary_zh": "文章讨论了纽约州针对汽车“自动恶化”（auto-enshittification）现象（如特斯拉的DRM限制）可能采取的法律行动。这为各州在国会立法缺失的情况下，如何通过州级法律对抗科技公司利用反规避条款损害消费者权利提供了一个蓝图。",
       "tags": [
         "business",
-        "business/strategy",
         "culture/sociology/technology",
-        "hardware/iot"
+        "security"
       ]
     },
     {
@@ -205,26 +361,10 @@
       "feed_title": "shkspr.mobi",
       "category": "Blogs",
       "published_at": "2026-11-25T12:34:34+00:00",
-      "summary_zh": "这是一篇对克莱尔·诺斯所著科幻小说《慢神》的书评。评论称赞该书成功融合了太空歌剧、外交、战斗和鬼故事等多种类型元素，并打破了科幻世界构建的某些传统规则。",
+      "summary_zh": "本文是对克莱尔·诺斯所著科幻小说《慢神》的书评。文章称赞该书是一部宏大的太空歌剧，巧妙融合了太空外交、战斗、情感、政治乃至鬼故事等多种类型元素，并打破了科幻小说中关于世界构建的某些传统规则。",
       "tags": [
-        "culture",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "469873456c638de7",
-      "title": "How the Tandy 2000 doomed Tandy computers",
-      "url": "https://dfarq.homeip.net/how-the-tandy-2000-doomed-tandy-computers/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-tandy-2000-doomed-tandy-computers",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-25T12:00:25+00:00",
-      "summary_zh": "文章分析了Tandy 2000电脑的商业失败如何导致了Tandy电脑业务的衰落。尽管该机型在技术上优于Tandy 1000，但其市场表现不佳，并对公司未来产生了决定性影响。",
-      "tags": [
-        "hardware",
-        "hardware/retro",
-        "business",
-        "culture/history/technology"
+        "culture/media",
+        "web/blog"
       ]
     },
     {
@@ -235,437 +375,11 @@
       "feed_title": "nesbitt.io",
       "category": "Blogs",
       "published_at": "2026-11-25T10:00:00+00:00",
-      "summary_zh": "本周源代码控制综述涵盖了版本控制和代码托管平台的最新动态。重点介绍了Enroute Git服务器如何通过超越Multi-Raft的新设计实现水平扩展，以支持数十万个仓库的高并发写入。",
+      "summary_zh": "本文汇总了2026年11月25日当周的版本控制与代码托管平台相关新闻。重点介绍了Enroute Git服务器如何通过超越Multi-Raft、采用类似Vertical Paxos的单一根日志设计来解决横向扩展问题，从而显著提升性能。",
       "tags": [
-        "devops",
         "tools",
-        "architecture",
-        "programming/systems"
-      ]
-    },
-    {
-      "id": "d0bba22962f74113",
-      "title": "Abolish Lock Poisoning",
-      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
-      "author": "Armin Ronacher",
-      "feed_title": "lucumr.pocoo.org",
-      "category": "Blogs",
-      "published_at": "2026-11-25T00:00:00+00:00",
-      "summary_zh": "作者主张废除Rust语言中的互斥锁“中毒”特性。他认为该特性在实践中弊大于利，导致了许多错误处理问题，并呼吁在下一个版本中默认使用非中毒锁或完全移除该功能。",
-      "tags": [
-        "programming",
         "programming/systems",
-        "tools"
-      ]
-    },
-    {
-      "id": "56f933b14d39472a",
-      "title": "Has Jevons paradox broken down?",
-      "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "author": "martin@martinalderson.com (Martin Alderson)",
-      "feed_title": "martinalderson.com",
-      "category": "Blogs",
-      "published_at": "2026-11-25T00:00:00+00:00",
-      "summary_zh": "文章探讨了杰文斯悖论在AI token消费领域是否已经失效。基于Ramp公司的支出数据和个人观察，作者分析了AI token消费增长停滞的可能原因，包括应用场景有限和组织效率问题。",
-      "tags": [
-        "AI",
-        "AI/application",
-        "business",
-        "culture/technology"
-      ]
-    },
-    {
-      "id": "ab73b44624905beb",
-      "title": "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
-      "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T23:41:23+00:00",
-      "summary_zh": "Engadget独家报道称，iPhone 18e可能会采用一个方形相机凸起平台，而非当前iPhone 17e的镜头微凸设计。这标志着该系列设计可能回归更明显的相机模块。",
-      "tags": [
-        "mobile",
-        "mobile/ios",
-        "design",
-        "hardware"
-      ]
-    },
-    {
-      "id": "d9d1341cac103b26",
-      "title": "Trump Made Up to $15M on Nvidia Stock After Huang’s Return",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T23:07:02+00:00",
-      "summary_zh": "报道披露，美国前总统特朗普在英伟达CEO黄仁勋回归后，从其持有的公司股票中获利高达1500万美元。文章批评此举涉及严重的利益冲突和国家安全问题，体现了“国家资本主义”的腐败。",
-      "tags": [
-        "business",
-        "culture/sociology/technology",
-        "security"
-      ]
-    },
-    {
-      "id": "0b260d07579db847",
-      "title": "Three LLM inflection points in twelve months",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T23:02:07+00:00",
-      "summary_zh": "作者回顾了过去12个月内LLM和编码代理领域的三个关键转折点，重点分析了Claude Opus 4.5的发布如何显著提升了编码代理的实用性和可靠性，标志着AI编程能力的实质性飞跃。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "AI/LLM/Agent",
-        "programming"
-      ]
-    },
-    {
-      "id": "c4ab072f282a88ff",
-      "title": "Nvidia and Trump’s State Capitalism",
-      "url": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T22:15:54+00:00",
-      "summary_zh": "文章评论了特朗普政府对英伟达的干预，批评其将国家安全和法治置于政治意愿之下，是一种“国家资本主义”行为。华尔街日报社论认为这损害了法律规则和国家安全。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture/sociology/technology",
-        "security"
-      ]
-    },
-    {
-      "id": "c1b0bb59af6aac7a",
-      "title": "Patriotism, Trump-Style",
-      "url": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T22:06:56+00:00",
-      "summary_zh": "文章引用特朗普关于英伟达CEO黄仁勋的争议性言论，批评其以血统论定义的“爱国主义”世界观充满矛盾且有害，同时揭示了其言论中隐含的种族主义和对台湾地位的模糊表述。",
-      "tags": [
-        "culture",
-        "culture/sociology/technology",
-        "business"
-      ]
-    },
-    {
-      "id": "ca7cbb4b4799603a",
-      "title": "Responding to objections to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/rsiobjections",
-      "author": "Dwarkesh Patel",
-      "feed_title": "dwarkesh.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T21:45:30+00:00",
-      "summary_zh": "作者针对其关于“递归自我改进将导致2030年前出现超智能”的激进预测所收到的 objections 进行回应和讨论。内容涉及对AI发展现状的实践观察以及对未来技术奇点可能性的辩论。",
-      "tags": [
-        "AI",
-        "AI/capabilities",
-        "AI/ethics",
-        "culture/technology"
-      ]
-    },
-    {
-      "id": "494708eeae7635e4",
-      "title": "Blogger broke the lightbox",
-      "url": "https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html",
-      "author": "ClassicHasClass (noreply@blogger.com)",
-      "feed_title": "oldvcr.blogspot.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T21:27:04+00:00",
-      "summary_zh": "作者报告了Blogger平台的图片灯箱功能出现故障，经测试发现是平台全局性的JavaScript错误所致，推测是部署失误且测试不足。文章提供了临时解决方案，并指出问题已向Google报告且似乎已被修复。",
-      "tags": [
-        "web",
-        "web/blog",
-        "tools/productivity"
-      ]
-    },
-    {
-      "id": "4f8d3b005dc9248e",
-      "title": "Advent of Microarchitecture 2026",
-      "url": "http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss",
-      "author": "",
-      "feed_title": "xania.org",
-      "category": "Blogs",
-      "published_at": "2026-11-24T20:00:00+00:00",
-      "summary_zh": "作者宣布将启动“2026年微架构降临日历”项目，以替代此前耗时巨大的“编译器优化降临日历”。新项目将采用即兴录制、轻量后期制作的方式，内容聚焦于微架构主题。",
-      "tags": [
-        "programming",
-        "culture/technology",
-        "career"
-      ]
-    },
-    {
-      "id": "1c994e81cbbd9ce9",
-      "title": "‘The Economy Is a Hostage Situation’",
-      "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T19:16:24+00:00",
-      "summary_zh": "文章评论了黄仁勋（Jensen Huang）对AI经济的重要性被过度神化，指出其个人行为问题（如涉嫌违反出口管制）被硅谷和政界以“美国AI领导力”为由豁免，揭示了科技与政治利益交织下的荒谬逻辑。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "AI/ethics",
-        "culture/sociology/technology"
-      ]
-    },
-    {
-      "id": "550ff78b45826ad7",
-      "title": "I Told You to Bet the Over",
-      "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T19:12:09+00:00",
-      "summary_zh": "文章描述了白宫高层紧急介入并推动英伟达董事会让黄仁勋复职的过程，以及黄在董事会会议上承认了更多婚外情。作者批评整个市场和美国经济过度依赖对黄个人的信心，认为这是一个终将破裂的泡沫。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture/sociology/technology"
-      ]
-    },
-    {
-      "id": "9a7c1144401c7bdc",
-      "title": "Defective Accelerationism",
-      "url": "https://www.wheresyoured.at/defective-accelerationism/",
-      "author": "Ed Zitron",
-      "feed_title": "wheresyoured.at",
-      "category": "Blogs",
-      "published_at": "2026-11-24T18:08:05+00:00",
-      "summary_zh": "作者在休息期间为其付费通讯进行促销，列举了通讯中包含的深度内容，例如OpenAI如何冲击Oracle、内存价格被巨头推高、AI债务泡沫分析以及英伟达如何成为AI领域的“GE Capital”等。",
-      "tags": [
-        "business",
-        "AI",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "14549bfd6985786b",
-      "title": "Restoring a 1982 ‘Star Wars’ Poster From Japan",
-      "url": "https://www.instagram.com/p/DcUk0WjBwVI/",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T17:29:01+00:00",
-      "summary_zh": "文章是一则简短的链接推荐，指向一个修复1982年日本版《星球大战》海报的视频，朋友评论该视频内容非常符合作者（Gruber）的个人品味。",
-      "tags": [
-        "culture",
-        "culture/media",
-        "design"
-      ]
-    },
-    {
-      "id": "d8d34ab6d9830a59",
-      "title": "Everything I know about writing",
-      "url": "https://www.experimental-history.com/p/everything-i-know-about-writing",
-      "author": "Adam Mastroianni",
-      "feed_title": "experimental-history.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T17:18:25+00:00",
-      "summary_zh": "文章标题为“我所知道的关于写作的一切”，但提供的片段主要是网页代码和图片容器，未展示具体的写作建议或核心内容。",
-      "tags": [
-        "culture",
-        "culture/media",
-        "career"
-      ]
-    },
-    {
-      "id": "f88b9c642e646fac",
-      "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001",
-      "url": "https://www.threads.com/@meidastouch/post/DgGKhbTAka5",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T17:00:41+00:00",
-      "summary_zh": "文章将英伟达员工欢迎黄仁勋复职的场景与2001年安然员工为重返CEO职位的肯尼斯·雷起立鼓掌进行类比，指出两者相似，但后者视频质量较差，并提供了安然事件的背景链接。",
-      "tags": [
-        "business",
-        "culture/history/technology",
-        "business/leadership"
-      ]
-    },
-    {
-      "id": "2d9b2b8de4028adf",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-      "author": "",
-      "feed_title": "simonwillison.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T16:53:59+00:00",
-      "summary_zh": "文章介绍了一个案例研究：GPT-6.2 Astra在极短时间内自主研究并成功鉴定出耶鲁大学一本匿名素描册的作者，发现了对历史学者有重大意义的新资料。作者探讨了AI工具对历史研究领域的潜在冲击。",
-      "tags": [
-        "AI",
-        "AI/LLM",
-        "AI/application",
-        "culture/history/technology"
-      ]
-    },
-    {
-      "id": "a47621270d47edb0",
-      "title": "David Sacks’s Pool Boy Is Cocky",
-      "url": "https://www.threads.com/@karaswisher/post/DgGBe_XI147",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T16:30:58+00:00",
-      "summary_zh": "文章批评Jason Calacanis在电视节目中荒谬地主张人类命运系于黄仁勋领导英伟达，并引用他人言论称其为谄媚者。同时赞扬了同场嘉宾Nilay Patel对其观点进行了有力的驳斥。",
-      "tags": [
-        "business",
-        "culture/media",
-        "AI/ethics"
-      ]
-    },
-    {
-      "id": "1095d823e8d3c303",
-      "title": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
-      "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
-      "author": "John Gruber",
-      "feed_title": "daringfireball.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T15:43:21+00:00",
-      "summary_zh": "文章介绍了《纽约客》对特朗普政府财政部长斯科特·贝森特的专访，描绘其成为政府内极具影响力且相对讨喜的人物，甚至被讨论为2028年大选潜在候选人，并提及他与马斯克的冲突。",
-      "tags": [
-        "business",
-        "business/leadership",
-        "culture/media"
-      ]
-    },
-    {
-      "id": "74d0466fb8c4e591",
-      "title": "Taking a password joke seriously",
-      "url": "https://www.johndcook.com/blog/2026/11/24/password-joke/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T15:16:48+00:00",
-      "summary_zh": "作者对一个关于密码需包含多种语言字符的玩笑进行了严肃的技术分析，计算了符合该规则的密码熵值（约76.5位），并探讨了其安全性和转换为可输入形式的可行性。",
-      "tags": [
-        "security",
-        "programming",
-        "tools/productivity"
-      ]
-    },
-    {
-      "id": "366932795ae88109",
-      "title": "What happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/",
-      "author": "Raymond Chen",
-      "feed_title": "devblogs.microsoft.com/oldnewthing",
-      "category": "Blogs",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "summary_zh": "文章探讨了Windows CoreApplication Properties在源单元（apartment）关闭后的行为。作者通过文档和代码演示指出，这些属性条目不会被自动清理，会继续保留在COM静态存储中。该API的Properties属性对所有应用程序（包括非UWP应用）都可用。",
-      "tags": [
-        "programming",
-        "programming/systems"
-      ]
-    },
-    {
-      "id": "c662aa1547f64bfc",
-      "title": "Memorable 12-digit primes",
-      "url": "https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/",
-      "author": "John",
-      "feed_title": "johndcook.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T14:13:51+00:00",
-      "summary_zh": "文章讨论了如何寻找并记忆12位素数。作者提供了一个易于记忆的素数（999999999989），并介绍了使用随机生成和“主要记忆系统”来创建助记符的方法。文章旨在帮助需要频繁输入素数的人摆脱对脚本的依赖。",
-      "tags": [
-        "programming",
-        "tools/productivity"
-      ]
-    },
-    {
-      "id": "4d6a91df126c9638",
-      "title": "How to install an app on your Commodore 64",
-      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
-      "author": "",
-      "feed_title": "anildash.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T14:13:05+00:00",
-      "summary_zh": "文章以怀旧的口吻，幽默地描述了在1986年为Commodore 64“安装程序”（当时还不叫“应用”）的繁琐过程。核心内容是需要骑车去商场书店寻找特定的计算机杂志，并手动输入其中的代码。这反映了早期个人计算机用户获取软件的独特体验。",
-      "tags": [
-        "culture",
-        "culture/history/technology",
-        "hardware/retro"
-      ]
-    },
-    {
-      "id": "1f045681c00cb575",
-      "title": "NYC’s venture capitalists need to love themselves",
-      "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/",
-      "author": "",
-      "feed_title": "anildash.com",
-      "category": "Blogs",
-      "published_at": "2026-11-24T14:13:05+00:00",
-      "summary_zh": "作者批评了纽约市部分风险投资家缺乏自信，过度迎合硅谷投资者价值观的现象。文章呼吁本地投资者应更加自豪地支持本地的优秀人才和创意，而不是在贬低纽约社区的外来者面前卑躬屈膝，因为这不利于本地科技生态的健康发展。",
-      "tags": [
-        "business",
-        "business/strategy",
-        "culture"
-      ]
-    },
-    {
-      "id": "2c8ca4b94aee133b",
-      "title": "Virgin Media Hub 5 API",
-      "url": "https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/",
-      "author": "Terence Eden",
-      "feed_title": "shkspr.mobi",
-      "category": "Blogs",
-      "published_at": "2026-11-24T12:34:52+00:00",
-      "summary_zh": "文章整理了Virgin Media Hub 5（基于Sagemcom F3896LG）路由器的一系列未公开API端点。作者列出了如何获取调制解调器状态、服务流、事件日志等信息的请求方法，为技术用户提供了监控和诊断设备状态的实用指南。",
-      "tags": [
-        "hardware",
-        "networking",
-        "tools"
-      ]
-    },
-    {
-      "id": "372c7292f604e4a3",
-      "title": "Pluralistic: Free lunches (24 Nov 2026)",
-      "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/",
-      "author": "Cory Doctorow",
-      "feed_title": "pluralistic.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T12:15:29+00:00",
-      "summary_zh": "这是每日链接合集“Pluralistic”的一期，主题为“免费午餐”。其核心观点是科技公司的利润边际是其他人的机会。内容还包括其他多个链接，涉及经济学、商业、互联网历史、技术与社会等广泛话题的评论与趣闻。",
-      "tags": [
-        "business",
-        "culture/technology",
-        "culture/sociology/technology"
-      ]
-    },
-    {
-      "id": "6025b864c9f8064f",
-      "title": "Why AOL bought Netscape",
-      "url": "https://dfarq.homeip.net/why-aol-bought-netscape/?utm_source=rss&utm_medium=rss&utm_campaign=why-aol-bought-netscape",
-      "author": "Dave Farquhar",
-      "feed_title": "dfarq.homeip.net",
-      "category": "Blogs",
-      "published_at": "2026-11-24T12:00:15+00:00",
-      "summary_zh": "文章回顾并分析了1998年11月24日美国在线（AOL）以42亿美元收购网景（Netscape）这一历史事件。作者试图探究这笔在当时看来有些奇怪的交易背后的原因和战略考量。",
-      "tags": [
-        "business",
-        "culture/history/technology",
-        "web"
-      ]
-    },
-    {
-      "id": "38a9fe5fefe639cb",
-      "title": "Comments and emails",
-      "url": "https://herman.bearblog.dev/comments-and-emails/",
-      "author": "",
-      "feed_title": "herman.bearblog.dev",
-      "category": "Blogs",
-      "published_at": "2026-11-24T07:16:00+00:00",
-      "summary_zh": "文章解释了Bear博客平台为何不内置评论、留言板或联系表单。作者认为这些功能会引入垃圾信息和匿名恶意攻击，增加管理负担。平台的设计哲学是使用邮件链接，利用现有邮件服务商成熟的垃圾过滤和身份验证机制来保证交流质量。",
-      "tags": [
-        "web",
-        "web/blog",
-        "tools/productivity"
+        "devops"
       ]
     }
   ]
