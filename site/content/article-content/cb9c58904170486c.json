@@ -1,0 +1,6 @@
+{
+  "id": "cb9c58904170486c",
+  "title": "datasette-mcp 0.4",
+  "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+  "content": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.4\">datasette-mcp 0.4</a></p>\n        <p>Fixed for compatibility with <a href=\"https://docs.datasette.io/en/latest/changelog.html#a44-2026-11-22\">Datasette 1.0a44</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/model-context-protocol\">model-context-protocol</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>"
+}

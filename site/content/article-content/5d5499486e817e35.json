@@ -1,0 +1,6 @@
+{
+  "id": "5d5499486e817e35",
+  "title": "Protect Your Web Forms Against Spam Bots",
+  "url": "https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots",
+  "content": "<p>The comments form that appears at the bottom of every article in this blog is under constant abuse by spam bots. I added a <a href=\"https://en.wikipedia.org/wiki/CAPTCHA\">CAPTCHA</a> to it a few years ago and at the time it seemed to help some, but spammers have now figured out how to bypass them. As a result, my comments inbox has been getting out of control lately.</p>\n<p>In this article I'm going to share a solution that I built to help me reduce spam on this blog from 30-40 messages per day to just about 2-3 per month. It is based on the \"<a href=\"https://en.wikipedia.org/wiki/Proof_of_work\">proof of work</a>\" concept, and unlike CAPTCHAs, it does not rely on third-party services. It is also better for users, because it does not require them to solve silly puzzles or even know that they are being verified. I have implemented the solution in Python and Flask, because that is what this blog runs on, but once you understand how it works you should have no trouble porting it to other languages or frameworks.</p>"
+}
